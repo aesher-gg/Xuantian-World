@@ -21,238 +21,284 @@ Spirit Beast di Xuantian World diklasifikasikan ke dalam 9 Tier yang setara deng
 
 ---
 
-## 2. Formula Sistem Loot, Drop Rate, & Ekstraksi Bahan
+## 2. Formula & Penentuan Sistem Drop Loot
 
-Ketika Spirit Beast dikalahkan atau diburu di pertempuran, AI GM menghitung drop item berdasarkan formula berikut:
+Drop item dievaluasi oleh AI GM **setelah** pertempuran selesai. Perhitungan peluang mendapatkan item loot mengikuti formula standar Xuantian World di bawah ini:
 
-$$\text{Peluang Loot Inti Beast (Core Drop Rate)} = \text{Base Rate (60\%)} + (\text{Tier Beast} \times 5\%) - (\text{Tingkat Kerusakan Dantian/Jasad} \times 10\%)$$
+$$\text{PeluangDrop(Item)} = \text{BaseRate(Rarity)} \times \text{TierModifier(TierBeast)} - (\text{KerusakanJasad} \times 10\%)$$
 
-### Tabel Hasil Ekstraksi Bahan Beast (Standardized Loot Formula)
-1. **Inti Spirit Beast (Monster Core / 兽核):**
-   - **Fungsi:** Bahan utama peracikan Pill Breakthrough, pasokan energi Kapal Terbang, dan penempaan senjata elemen.
-   - **Nilai Jual:** Tier 1 (10 Tael Perak) s/d Tier 9 (100.000 Batu Spirit High-Grade).
-2. **Bulu / Sisik / Kulit (Hide / Scale / Feather):**
-   - **Fungsi:** Bahan dasar penempaan Zirah Spirit (*Armor Forging*) dan Kertas Jimat Spirit (*Talisman Paper*).
-3. **Taring / Cakar / Horn (Fang / Claw / Horn):**
-   - **Fungsi:** Bahan penempaan Pedang, Tombak, dan Dagger Spirit (*Weapon Forging*).
-4. **Darah & Organ Spirit (Spirit Blood & Organs):**
-   - **Fungsi:** Bahan pencampuran Tinta Inskripsi Rune dan pakan suplemen Spirit Beast.
+### Tabel Rarity & Base Drop Rate Item
 
----
+| Rarity Item | Base Drop Rate | Contoh Jenis Item |
+|---|---|---|
+| **Umum (Common)** | 70% – 90% | Daging spirit, bulu, kulit, taring biasa, cangkang |
+| **Jarang (Rare)** | 30% – 50% | Inti Spirit Beast (Tier 1–3), empedu, kelenjar racun |
+| **Langka (Epic)** | 10% – 25% | Sisik naga, darah murni spirit, Inti Beast (Tier 4–6) |
+| **Legendaris (Mythic)** | 1% – 5% | Inti Beast Purba (Tier 7–9), Kristal Ruang Purba, Mutiara Hunyuan |
 
-## 3. Katalog Spirit Beast 10 Wilayah Utama (Maksimal 20 Jenis Per Wilayah)
-
----
-
-### 3.1 🌿 Shenmu Zhou (Kayu & Hutan Purba)
-1. **Kelinci Spirit Daun Hijau (Tier 1):** *Loot:* Bulu Kelinci Spirit (80%), Daging Spirit (100%).
-2. **Unggas Hutan Shenmu (Tier 1):** *Loot:* Bulu Unggas Spirit (80%), Telur Spirit (50%).
-3. **Bangau Bulu Zamrud (Tier 2):** *Loot:* Bulu Zamrud (70%), Inti Beast Kayu Tier 2 (65%).
-4. **Ular Hijau Sulur Kayu (Tier 2):** *Loot:* Bisa Kayu Ringan (75%), Kulit Ular Kayu (80%).
-5. **Serigala Angin Shenmu (Tier 2):** *Loot:* Taring Serigala Spirit (75%), Inti Beast Tier 2 (65%).
-6. **Beruang Spirit Elemen Kayu (Tier 3):** *Loot:* Empedu Beruang Spirit (80%), Inti Kayu Tier 3 (70%), Kulit Tebal (85%).
-7. **Rusa Tanduk Kristal Spirit (Tier 3):** *Loot:* Tanduk Kristal Spirit (75%), Darah Spirit Murni (80%).
-8. **Kera Pembawa Benih Obat (Tier 3):** *Loot:* Benih Obat Spirit Random (90%), Inti Tier 3 (70%).
-9. **Kura-kura Tempurung Lumut Purba (Tier 4):** *Loot:* Tempurung Batu Kayu (85%), Inti Kayu Tier 4 (75%).
-10. **Laba-laba Sulur Pelumpuh (Tier 4):** *Loot:* Sutra Pelumpuh Spirit (80%), Bisa Laba-laba (75%).
-11. **Elang Hijau Pelindung Kanopi (Tier 4):** *Loot:* Bulu Sayap Angin (80%), Inti Tier 4 (75%).
-12. **Harimau Dahan Shenmu (Tier 5):** *Loot:* Taring Harimau Spirit (85%), Inti Kayu Tier 5 (80%).
-13. **Ular Sulur Sembilan Daun (Tier 5):** *Loot:* Sisik Sembilan Daun (80%), Bisa Racun Shenmu (85%).
-14. **Gajah Akar Kayu Purba (Tier 6):** *Loot:* Gading Kayu Purba (90%), Inti Tier 6 (85%).
-15. **Kelinci Bulan Shenmu (Tier 6):** *Loot:* Bulu Bulan Spirit (85%), Darah Suci Kayu (90%).
-16. **Merak Bulu Pelangi Spirit (Tier 7):** *Loot:* Bulu Pelangi Shenmu (90%), Inti Tier 7 (85%).
-17. **Trenggiling Pelindung Akar (Tier 7):** *Loot:* Sisik Pelindung Akar (90%), Inti Tier 7 (85%).
-18. **Naga Kayu Hijau Purba (Tier 8):** *Loot:* Sisik Naga Kayu (95%), Inti Naga Tier 8 (90%).
-19. **Feniks Kayu Penyeimbang Alam (Tier 8):** *Loot:* Bulu Abadi Feniks (95%), Darah Feniks Kayu (90%).
-20. **Qilin Kayu Shenmu Purba (Tier 9):** *Loot:* Tanduk Qilin Purba (100%), Inti Qilin Tier 9 (95%), Darah Hunyuan (100%).
+### Tabel Modifier Tier Beast
+* **Tier 1 – 3:** $\text{TierModifier} = 1.0$ (Sangat stabil)
+* **Tier 4 – 6:** $\text{TierModifier} = 0.85$ (Bahan lebih langka & terkonsentrasi)
+* **Tier 7 – 9:** $\text{TierModifier} = 0.70$ (Item kelas Mythical, sangat langka)
 
 ---
 
-### 3.2 🏰 Zhonghua Zhou (Dataran Tengah & Kekaisaran)
-1. **Burung Merpati Pos Spirit (Tier 1):** *Loot:* Bulu Merpati Spirit (80%).
-2. **Anjing Penjaga Halaman Spirit (Tier 1):** *Loot:* Kulit Anjing Spirit (75%).
-3. **Kuda Spirit Langkah Cepat (Tier 2):** *Loot:* Kulit Kuda Spirit (80%), Daging Spirit (90%).
-4. **Babi Hutan Taring Besi (Tier 2):** *Loot:* Taring Besi (85%), Daging Spirit (100%).
-5. **Roh Prajurit Gugur (Tier 2):** *Loot:* Sisa Senjata Karatan (70%), Kristal Jiwa Tier 2 (60%).
-6. **Macan Besi Pegunungan (Tier 3):** *Loot:* Kulit Macan Besi (80%), Inti Tier 3 (70%).
-7. **Elang Pengawal Bukit (Tier 3):** *Loot:* Bulu Elang Spirit (80%), Inti Tier 3 (70%).
-8. **Serigala Karang Sungai (Tier 3):** *Loot:* Taring Serigala Sungai (80%), Kulit (75%).
-9. **Naga Sungai Longjiang (Tier 4):** *Loot:* Sisik Naga Sungai (85%), Inti Air Tier 4 (75%).
-10. **Banteng Tanduk Perunggu (Tier 4):** *Loot:* Tanduk Perunggu Spirit (85%), Inti Tier 4 (75%).
-11. **Beruang Pelindung Lembah (Tier 4):** *Loot:* Empedu Beruang (80%), Inti Tier 4 (75%).
-12. **Singa Bintang Kekaisaran (Tier 5):** *Loot:* Surai Singa Bintang (85%), Inti Tier 5 (80%).
-13. **Ular Emas Pelindung Makam (Tier 5):** *Loot:* Sisik Emas Purba (85%), Inti Tier 5 (80%).
-14. **Kuda Sembrani Langit (Tier 6):** *Loot:* Sayap Sembrani Spirit (90%), Inti Tier 6 (85%).
-15. **Bao-Penguasa Bukit Bintang (Tier 6):** *Loot:* Kulit Totem Bao (90%), Inti Tier 6 (85%).
-16. **Naga Emas Pelindung Dinasti (Tier 7):** *Loot:* Sisik Naga Emas (95%), Inti Tier 7 (90%).
-17. **Burung Hong Kekaisaran (Tier 7):** *Loot:* Bulu Hong Suci (95%), Darah Spirit Hong (90%).
-18. **Kura-kura Bintang Sembilan Naga (Tier 8):** *Loot:* Tempurung Bintang Purba (95%), Inti Tier 8 (90%).
-19. **Qilin Mas Kekaisaran (Tier 8):** *Loot:* Tanduk Qilin Emas (95%), Inti Tier 8 (90%).
-20. **Naga Bintang Hunyuan Kekaisaran (Tier 9):** *Loot:* Inti Naga Bintang Tier 9 (100%), Sisik Bintang Hunyuan (100%).
+## 3. Spirit Beast Lintas Wilayah (Cross-Region Beasts)
+
+Beast lintas wilayah adalah entitas spiritual yang dapat ditemukan mengembara di perbatasan, jalur perdagangan kapal terbang, maupun di seluruh 10 Wilayah Utama.
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Burung Merpati Pos Spirit | Unggas Udara | Tier 1 | Bulu Merpati Spirit<br>Daging Spirit | 85% (Umum)<br>75% (Umum) |
+| Kuda Spirit Langkah Cepat | Mamalia Darat | Tier 2 | Kulit Kuda Spirit<br>Inti Qi Muda | 80% (Umum)<br>35% (Jarang) |
+| Rajawali Badai Langit | Unggas Udara | Tier 3 | Sayap Besi Spirit<br>Inti Beast Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Paus Udara Melayang | Aquatic / Aerial | Tier 4 | Kulit Paus Udara<br>Inti Air-Ruang Tier 4 | 70% (Umum)<br>20% (Langka) |
+| Serpent Raksasa Retakan Ruang | Anomali Purba | Tier 6 | Kristal Ruang Purba<br>Darah Beast Purba<br>Inti Ruang Tier 6 | 60% (Umum)<br>15% (Langka)<br>5% (Legendaris) |
+| Rajawali Purba Hunyuan | Beast Mythical | Tier 9 | Bulu Suci Langit<br>Inti Rajawali Hunyuan | 50% (Umum)<br>2% (Legendaris) |
 
 ---
 
-### 3.3 🐉 Canglong Zhou (Pegunungan Pedang & Wind/Metal Qi)
-1. **Tupai Angin Puncak (Tier 1):** *Loot:* Bulu Tupai Spirit (80%).
-2. **Kambing Tebing Taring Besi (Tier 1):** *Loot:* Tanduk Kambing Besi (80%).
-3. **Elang Angin Taring Besi (Tier 2):** *Loot:* Bulu Besi Spirit (80%), Inti Angin Tier 2 (65%).
-4. **Monyet Pedang Tebing (Tier 2):** *Loot:* Cakar Monyet Tebing (75%), Inti Tier 2 (65%).
-5. **Macan Tutul Petir Pegunungan (Tier 3):** *Loot:* Kulit Macan Tutul Petir (80%), Inti Tier 3 (70%).
-6. **Serigala Taring Logam (Tier 3):** *Loot:* Taring Logam Spirit (80%), Inti Tier 3 (70%).
-7. **Naga Spirit Sisik Perak (Tier 4):** *Loot:* Sisik Perak Spirit (85%), Inti Naga Tier 4 (75%).
-8. **Gryphon Angin Puncak (Tier 4):** *Loot:* Sayap Gryphon Spirit (85%), Inti Tier 4 (75%).
-9. **Ular Taring Pedang (Tier 4):** *Loot:* Taring Pedang Spirit (85%), Bisa Ular (80%).
-10. **Elang Badai Logam (Tier 5):** *Loot:* Bulu Badai Besi (85%), Inti Tier 5 (80%).
-11. **Singa Taring Pedang Canglong (Tier 5):** *Loot:* Surai Taring Pedang (85%), Inti Tier 5 (80%).
-12. **Beruang Besi Pembelah Batu (Tier 6):** *Loot:* Cakar Besi Beruang (90%), Inti Tier 6 (85%).
-13. **Naga Angin Canglong Purba (Tier 6):** *Loot:* Sisik Naga Angin (90%), Inti Tier 6 (85%).
-14. **Rajawali Pedang Bintang (Tier 7):** *Loot:* Bulu Pedang Bintang (95%), Inti Tier 7 (90%).
-15. **Harimau Taring Naga Perak (Tier 7):** *Loot:* Taring Naga Perak (95%), Inti Tier 7 (90%).
-16. **Naga Terbang Pedang Canglong (Tier 8):** *Loot:* Sayap Naga Pedang (95%), Inti Tier 8 (90%).
-17. **Burung Feniks Angin Perak (Tier 8):** *Loot:* Bulu Feniks Perak (95%), Inti Tier 8 (90%).
-18. **Naga Purba Canglong Sword-Intent (Tier 9):** *Loot:* Inti Naga Canglong Tier 9 (100%), Kristal Sword-Intent Purba (100%).
+## 4. Katalog Spirit Beast 10 Wilayah Utama
 
 ---
 
-### 3.4 🌋 Chiyan Zhou (Api & Lava)
-1. **Tikus Api Kawah (Tier 1):** *Loot:* Bulu Tahan Api (80%).
-2. **Kadal Batu Panas (Tier 1):** *Loot:* Sisik Batu Panas (80%).
-3. **Kadal Lava Berlapis Besi (Tier 2):** *Loot:* Kulit Tahan Api (85%), Inti Api Tier 2 (65%).
-4. **Ular Api Merah (Tier 2):** *Loot:* Bisa Api (75%), Kulit Ular Api (80%).
-5. **Kalajengking Abu Vulkanik (Tier 3):** *Loot:* Sengat Kalajengking Abu (80%), Inti Tier 3 (70%).
-6. **Serigala Api Neraka (Tier 3):** *Loot:* Bulu Api Neraka (80%), Inti Tier 3 (70%).
-7. **Salamander Api Purba (Tier 4):** *Loot:* Kulit Salamander Api (85%), Inti Tier 4 (75%).
-8. **Banteng Lava Taring Merah (Tier 4):** *Loot:* Tanduk Lava Spirit (85%), Inti Tier 4 (75%).
-9. **Burung Feniks Api Chiyan (Tier 5):** *Loot:* Bulu Feniks Chiyan (90%), Inti Api Tier 5 (80%).
-10. **Kera Api Kawah Shendu (Tier 5):** *Loot:* Taring Kera Api (85%), Inti Tier 5 (80%).
-11. **Naga Lava Sisik Merah (Tier 6):** *Loot:* Sisik Naga Lava (90%), Inti Tier 6 (85%).
-12. **Golem Lava Kawah (Tier 6):** *Loot:* Kristal Inti Lava (90%), Batu Meteorit Api (95%).
-13. **Singa Api Chiyan Purba (Tier 7):** *Loot:* Surai Api Chiyan (95%), Inti Tier 7 (90%).
-14. **Ular Berkepala Tiga Api Lava (Tier 7):** *Loot:* Sisik Api Tiga Warna (95%), Inti Tier 7 (90%).
-15. **Naga Api Bintang Chiyan (Tier 8):** *Loot:* Sisik Naga Bintang Api (95%), Inti Tier 8 (90%).
-16. **Feniks Api Abadi Lava (Tier 8):** *Loot:* Bulu Abadi Chiyan (95%), Darah Feniks Api (90%).
-17. **Naga Purba Jantung Bintang Api (Tier 9):** *Loot:* Inti Bintang Api Tier 9 (100%), Kristal Api Purba Hunyuan (100%).
+### 4.1 🌿 Shenmu Zhou (Kayu & Hutan Purba)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Kelinci Spirit Daun Hijau | Mamalia Kecil | Tier 1 | Bulu Kelinci Spirit<br>Daging Spirit | 85% (Umum)<br>75% (Umum) |
+| Unggas Hutan Shenmu | Unggas Hutan | Tier 1 | Bulu Unggas Spirit<br>Telur Spirit | 80% (Umum)<br>40% (Jarang) |
+| Bangau Bulu Zamrud | Unggas Udara | Tier 2 | Bulu Zamrud<br>Inti Kayu Tier 2 | 80% (Umum)<br>35% (Jarang) |
+| Ular Hijau Sulur Kayu | Reptil Kayu | Tier 2 | Kulit Ular Kayu<br>Bisa Kayu Ringan | 75% (Umum)<br>35% (Jarang) |
+| Serigala Angin Shenmu | Predator Darat | Tier 2 | Taring Serigala Spirit<br>Inti Tier 2 | 75% (Umum)<br>30% (Jarang) |
+| Beruang Spirit Elemen Kayu | Spirit Beast / Tank | Tier 3 | Kulit Tebal<br>Empedu Beruang Spirit<br>Inti Kayu Tier 3 | 75% (Umum)<br>35% (Jarang)<br>30% (Jarang) |
+| Rusa Tanduk Kristal Spirit | Herbivora Spirit | Tier 3 | Tanduk Kristal Spirit<br>Darah Spirit Murni | 70% (Umum)<br>30% (Jarang) |
+| Kera Pembawa Benih Obat | Primata Spirit | Tier 3 | Benih Obat Spirit Random<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Kura-kura Tempurung Lumut Purba | Reptil Air/Darat | Tier 4 | Tempurung Batu Kayu<br>Inti Kayu Tier 4 | 70% (Umum)<br>20% (Langka) |
+| Laba-laba Sulur Pelumpuh | Serangga Spirit | Tier 4 | Sutra Pelumpuh Spirit<br>Bisa Laba-laba | 65% (Umum)<br>20% (Langka) |
+| Elang Hijau Pelindung Kanopi | Unggas Udara | Tier 4 | Bulu Sayap Angin<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Harimau Dahan Shenmu | Predator Elit | Tier 5 | Taring Harimau Spirit<br>Inti Kayu Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Ular Sulur Sembilan Daun | Reptil Purba | Tier 5 | Sisik Sembilan Daun<br>Bisa Racun Shenmu | 60% (Umum)<br>12% (Langka) |
+| Gajah Akar Kayu Purba | Beast Raksasa | Tier 6 | Gading Kayu Purba<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Kelinci Bulan Shenmu | Beast Spirit Suci | Tier 6 | Bulu Bulan Spirit<br>Darah Suci Kayu | 55% (Umum)<br>8% (Langka) |
+| Merak Bulu Pelangi Spirit | Unggas Spirit | Tier 7 | Bulu Pelangi Shenmu<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Trenggiling Pelindung Akar | Beast Pertahanan | Tier 7 | Sisik Pelindung Akar<br>Inti Tier 7 | 50% (Umum)<br>3% (Legendaris) |
+| Naga Kayu Hijau Purba | Naga Purba | Tier 8 | Sisik Naga Kayu<br>Inti Naga Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Feniks Kayu Penyeimbang Alam | Feniks Spirit | Tier 8 | Bulu Abadi Feniks<br>Darah Feniks Kayu | 40% (Umum)<br>2% (Legendaris) |
+| Qilin Kayu Shenmu Purba | Mythical Guardian | Tier 9 | Tanduk Qilin Purba<br>Darah Hunyuan<br>Inti Qilin Tier 9 | 40% (Umum)<br>1% (Legendaris)<br>1% (Legendaris) |
 
 ---
 
-### 3.5 🌊 Canghai Zhou (Lautan & Kepulauan)
-1. **Ikan Terbang Spirit (Tier 1):** *Loot:* Sisik Ikan Spirit (80%).
-2. **Kepiting Cangkang Batu (Tier 1):** *Loot:* Cangkang Batu Spirit (80%).
-3. **Siput Mutiara Spirit (Tier 2):** *Loot:* Mutiara Spirit Low-Grade (85%), Cangkang Siput (80%).
-4. **Ular Laut Sisik Hijau (Tier 2):** *Loot:* Bisa Ular Laut (75%), Sisik Hijau (80%).
-5. **Hiu Bersisik Perak (Tier 3):** *Loot:* Taring Hiu Spirit (85%), Sisik Perak (80%), Inti Tier 3 (70%).
-6. **Gurita Gurita Rawa Laut (Tier 3):** *Loot:* Tentakel Gurita Spirit (85%), Tinta Hitam Laut (80%).
-7. **Naga Laut Bersisik Giok (Tier 4):** *Loot:* Sisik Giok Laut (85%), Inti Naga Air Tier 4 (75%).
-8. **Paus Spirit Samudra (Tier 4):** *Loot:* Minyak Paus Spirit (85%), Inti Tier 4 (75%).
-9. **Kepulauan Kraken Muda (Tier 5):** *Loot:* Tentakel Kraken Spirit (90%), Inti Tier 5 (80%).
-10. **Pari Elektrik Samudra (Tier 5):** *Loot:* Kulit Elektrik Spirit (85%), Inti Tier 5 (80%).
-11. **Naga Air Gelombang Samudra (Tier 6):** *Loot:* Sisik Naga Air (90%), Inti Tier 6 (85%).
-12. **Kura-kura Island-Back Purba (Tier 6):** *Loot:* Tempurung Pulau Purba (90%), Inti Tier 6 (85%).
-13. **Kraken Raksasa Samudra (Tier 7):** *Loot:* Inti Kraken Samudra Tier 7 (95%), Tinta Kraken Purba (90%).
-14. **Naga Laut Sisik Emas (Tier 7):** *Loot:* Sisik Naga Emas Laut (95%), Inti Tier 7 (90%).
-15. **Ular Laut Sembilan Kepala (Tier 8):** *Loot:* Sisik Sembilan Kepala (95%), Inti Tier 8 (90%).
-16. **Paus Purba Samudra Canghai (Tier 8):** *Loot:* Kristal Samudra Purba (95%), Inti Tier 8 (90%).
-17. **Naga Purba Canghai Mutiara Suci (Tier 9):** *Loot:* Mutiara Purba Canghai Tier 9 (100%), Inti Naga Samudra (100%).
+### 4.2 🏰 Zhonghua Zhou (Dataran Tengah & Kekaisaran)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Anjing Penjaga Halaman Spirit | Mamalia Kecil | Tier 1 | Kulit Anjing Spirit | 85% (Umum) |
+| Babi Hutan Taring Besi | Mamalia Darat | Tier 2 | Taring Besi<br>Daging Spirit | 80% (Umum)<br>75% (Umum) |
+| Roh Prajurit Gugur | Undead / Spirit | Tier 2 | Serpihan Baju Zirah Kuno<br>Kristal Jiwa Tier 2 | 75% (Umum)<br>35% (Jarang) |
+| Macan Besi Pegunungan | Predator Darat | Tier 3 | Kulit Macan Besi<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Elang Pengawal Bukit | Unggas Udara | Tier 3 | Bulu Elang Spirit<br>Inti Tier 3 | 70% (Umum)<br>30% (Jarang) |
+| Serigala Karang Sungai | Predator Air/Darat | Tier 3 | Taring Serigala Sungai<br>Kulit Serigala | 70% (Umum)<br>35% (Jarang) |
+| Naga Sungai Longjiang | Aquatic Dragon | Tier 4 | Sisik Naga Sungai<br>Inti Air Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Banteng Tanduk Perunggu | Beast Raga Besi | Tier 4 | Tanduk Perunggu Spirit<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Beruang Pelindung Lembah | Tank / Elit | Tier 4 | Empedu Beruang<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Singa Bintang Kekaisaran | Spirit Beast Elit | Tier 5 | Surai Singa Bintang<br>Inti Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Ular Emas Pelindung Makam | Reptil Purba | Tier 5 | Sisik Emas Purba<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Kuda Sembrani Langit | Beast Terbang | Tier 6 | Sayap Sembrani Spirit<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Bao-Penguasa Bukit Bintang | Predator Mitos | Tier 6 | Kulit Totem Bao<br>Inti Tier 6 | 55% (Umum)<br>8% (Langka) |
+| Naga Emas Pelindung Dinasti | Imperial Dragon | Tier 7 | Sisik Naga Emas<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Burung Hong Kekaisaran | Unggas Suci | Tier 7 | Bulu Hong Suci<br>Darah Spirit Hong | 50% (Umum)<br>3% (Legendaris) |
+| Kura-kura Bintang Sembilan Naga | Guardian Purba | Tier 8 | Tempurung Bintang Purba<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Qilin Mas Kekaisaran | Mythical Beast | Tier 8 | Tanduk Qilin Emas<br>Inti Tier 8 | 40% (Umum)<br>2% (Legendaris) |
+| Naga Bintang Hunyuan Kekaisaran | Primordial Dragon | Tier 9 | Sisik Bintang Hunyuan<br>Inti Naga Bintang Tier 9 | 40% (Umum)<br>1% (Legendaris) |
 
 ---
 
-### 3.6 🏜️ Xixuan Zhou (Gurun Pasir Suci)
-1. **Kadal Pasir Emas (Tier 1):** *Loot:* Sisik Pasir (80%).
-2. **Kumbang Pasir Besi (Tier 1):** *Loot:* Cangkang Kumbang (80%).
-3. **Cacing Pasir Besi (Tier 2):** *Loot:* Kulit Cacing Besi (85%), Inti Tier 2 (65%).
-4. **Ular Pasir Taring Merah (Tier 2):** *Loot:* Bisa Pasir (75%), Kulit Ular (80%).
-5. **Kalajengking Emas Pasir (Tier 3):** *Loot:* Sengat Emas Spirit (85%), Inti Tier 3 (70%).
-6. **Elang Badai Gurun (Tier 3):** *Loot:* Bulu Elang Badai (80%), Inti Tier 3 (70%).
-7. **Serigala Pasir Gurun (Tier 4):** *Loot:* Taring Serigala Pasir (85%), Inti Tier 4 (75%).
-8. **Cacing Pasir Raksasa (Tier 4):** *Loot:* Kulit Cacing Raksasa (85%), Inti Tier 4 (75%).
-9. **Elang Pasir Iblis (Tier 5):** *Loot:* Bulu Iblis Gurun (90%), Inti Tier 5 (80%).
-10. **Banteng Batu Gurun Emas (Tier 5):** *Loot:* Tanduk Emas Gurun (85%), Inti Tier 5 (80%).
-11. **Skorpion Emas Legendaris (Tier 6):** *Loot:* Sengat Skorpion Emas Purba (90%), Inti Tier 6 (85%).
-12. **Naga Pasir Emas Gurun (Tier 6):** *Loot:* Sisik Naga Pasir (90%), Inti Tier 6 (85%).
-13. **Gryphon Pasir Suci (Tier 7):** *Loot:* Bulu Gryphon Gurun (95%), Inti Tier 7 (90%).
-14. **Cacing Ruang Pasir Purba (Tier 7):** *Loot:* Inti Cacing Ruang (95%), Kulit Pasir Purba (90%).
-15. **Naga Gurun Pasir Emas Purba (Tier 8):** *Loot:* Sisik Naga Gurun (95%), Inti Tier 8 (90%).
-16. **Sphinx Batu Segel Purba (Tier 8):** *Loot:* Kristal Batu Segel (95%), Inti Tier 8 (90%).
-17. **Qilin Pasir Suci Hunyuan (Tier 9):** *Loot:* Inti Qilin Pasir Tier 9 (100%), Tanduk Qilin Gurun (100%).
+### 4.3 🐉 Canglong Zhou (Pegunungan Pedang & Wind/Metal Qi)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Tupai Angin Puncak | Mamalia Kecil | Tier 1 | Bulu Tupai Spirit | 85% (Umum) |
+| Kambing Tebing Taring Besi | Herbivora Tebing | Tier 1 | Tanduk Kambing Besi | 80% (Umum) |
+| Elang Angin Taring Besi | Unggas Udara | Tier 2 | Bulu Besi Spirit<br>Inti Angin Tier 2 | 80% (Umum)<br>35% (Jarang) |
+| Monyet Pedang Tebing | Primata Tebing | Tier 2 | Cakar Monyet Tebing<br>Inti Tier 2 | 75% (Umum)<br>35% (Jarang) |
+| Macan Tutul Petir Pegunungan | Predator Kilat | Tier 3 | Kulit Macan Tutul Petir<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Serigala Taring Logam | Predator Besi | Tier 3 | Taring Logam Spirit<br>Inti Tier 3 | 70% (Umum)<br>30% (Jarang) |
+| Naga Spirit Sisik Perak | Naga Pegunungan | Tier 4 | Sisik Perak Spirit<br>Inti Naga Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Gryphon Angin Puncak | Flying Beast | Tier 4 | Sayap Gryphon Spirit<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Ular Taring Pedang | Reptil Tajam | Tier 4 | Taring Pedang Spirit<br>Bisa Ular | 65% (Umum)<br>18% (Langka) |
+| Elang Badai Logam | Unggas Badai | Tier 5 | Bulu Badai Besi<br>Inti Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Singa Taring Pedang Canglong | Predator Elit | Tier 5 | Surai Taring Pedang<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Beruang Besi Pembelah Batu | Tank Beast | Tier 6 | Cakar Besi Beruang<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Naga Angin Canglong Purba | Naga Wind-Qi | Tier 6 | Sisik Naga Angin<br>Inti Tier 6 | 55% (Umum)<br>8% (Langka) |
+| Rajawali Pedang Bintang | Unggas Pedang | Tier 7 | Bulu Pedang Bintang<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Harimau Taring Naga Perak | Beast Elit Perak | Tier 7 | Taring Naga Perak<br>Inti Tier 7 | 50% (Umum)<br>3% (Legendaris) |
+| Naga Terbang Pedang Canglong | Naga Udara | Tier 8 | Sayap Naga Pedang<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Burung Feniks Angin Perak | Feniks Angin | Tier 8 | Bulu Feniks Perak<br>Inti Tier 8 | 40% (Umum)<br>2% (Legendaris) |
+| Naga Purba Canglong Sword-Intent | Ancient Sword Dragon | Tier 9 | Kristal Sword-Intent Purba<br>Inti Naga Canglong Tier 9 | 40% (Umum)<br>1% (Legendaris) |
 
 ---
 
-### 3.7 ❄️ Beihan Zhou (Padang Es Abadi)
-1. **Kelinci Es Salju (Tier 1):** *Loot:* Bulu Kelinci Es (80%).
-2. **Unggas Es Salju (Tier 1):** *Loot:* Bulu Unggas Es (80%).
-3. **Rubah Es Berekor Dua (Tier 2):** *Loot:* Bulu Rubah Es (85%), Inti Es Tier 2 (65%).
-4. **Ular Es Salju (Tier 2):** *Loot:* Bisa Es Salju (75%), Kulit Ular Es (80%).
-5. **Serigala Salju Pemburu (Tier 3):** *Loot:* Taring Serigala Salju (85%), Inti Tier 3 (70%).
-6. **Burung Hantu Kristal Es (Tier 3):** *Loot:* Bulu Kristal Es (80%), Inti Tier 3 (70%).
-7. **Beruang Es Kristal Purba (Tier 4):** *Loot:* Empedu Beruang Es (85%), Inti Es Tier 4 (75%).
-8. **Rubah Salju Berekor Sembilan (Tier 4):** *Loot:* Bulu Rubah Sembilan Ekor (85%), Inti Tier 4 (75%).
-9. **Serigala Es Abadi Guardian (Tier 5):** *Loot:* Taring Serigala Abadi (90%), Inti Tier 5 (80%).
-10. **Naga Es Kristal Salju (Tier 5):** *Loot:* Sisik Naga Es (85%), Inti Tier 5 (80%).
-11. **Goliath Es Padang Salju (Tier 6):** *Loot:* Kristal Es Padang Salju (90%), Inti Tier 6 (85%).
-12. **Burung Feniks Salju Abadi (Tier 6):** *Loot:* Bulu Feniks Salju (90%), Inti Tier 6 (85%).
-13. **Naga Padang Es Abadi (Tier 7):** *Loot:* Sisik Naga Es Abadi (95%), Inti Tier 7 (90%).
-14. **Beruang Es Purba Hunyuan (Tier 7):** *Loot:* Cakar Beruang Es Purba (95%), Inti Tier 7 (90%).
-15. **Feniks Es Salju Purba (Tier 8):** *Loot:* Bulu Feniks Es Purba (95%), Inti Tier 8 (90%).
-16. **Naga Es Kristal Bintang (Tier 8):** *Loot:* Sisik Naga Bintang Es (95%), Inti Tier 8 (90%).
-17. **Naga Purba Beihan Es Abadi (Tier 9):** *Loot:* Inti Es Abadi Beihan Tier 9 (100%), Kristal Es Suci Hunyuan (100%).
+### 4.4 🌋 Chiyan Zhou (Api & Lava)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Tikus Api Kawah | Mamalia Kecil | Tier 1 | Bulu Tahan Api | 85% (Umum) |
+| Kadal Batu Panas | Reptil Panas | Tier 1 | Sisik Batu Panas | 80% (Umum) |
+| Kadal Lava Berlapis Besi | Reptil Lava | Tier 2 | Kulit Tahan Api<br>Inti Api Tier 2 | 80% (Umum)<br>35% (Jarang) |
+| Ular Api Merah | Reptil Beracun | Tier 2 | Bisa Api<br>Kulit Ular Api | 75% (Umum)<br>35% (Jarang) |
+| Kalajengking Abu Vulkanik | Serangga Abu | Tier 3 | Sengat Kalajengking Abu<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Serigala Api Neraka | Predator Api | Tier 3 | Bulu Api Neraka<br>Inti Tier 3 | 70% (Umum)<br>30% (Jarang) |
+| Salamander Api Purba | Amfibi Lava | Tier 4 | Kulit Salamander Api<br>Inti Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Banteng Lava Taring Merah | Beast Lava | Tier 4 | Tanduk Lava Spirit<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Burung Feniks Api Chiyan | Feniks Api | Tier 5 | Bulu Feniks Chiyan<br>Inti Api Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Kera Api Kawah Shendu | Primata Api | Tier 5 | Taring Kera Api<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Naga Lava Sisik Merah | Naga Lava | Tier 6 | Sisik Naga Lava<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Golem Lava Kawah | Elemental Lava | Tier 6 | Batu Meteorit Api<br>Kristal Inti Lava | 55% (Umum)<br>8% (Langka) |
+| Singa Api Chiyan Purba | Beast Api Purba | Tier 7 | Surai Api Chiyan<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Ular Berkepala Tiga Api Lava | Reptil Tiga Warna | Tier 7 | Sisik Api Tiga Warna<br>Inti Tier 7 | 50% (Umum)<br>3% (Legendaris) |
+| Naga Api Bintang Chiyan | Naga Bintang Api | Tier 8 | Sisik Naga Bintang Api<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Feniks Api Abadi Lava | Feniks Lava Purba | Tier 8 | Bulu Abadi Chiyan<br>Darah Feniks Api | 40% (Umum)<br>2% (Legendaris) |
+| Naga Purba Jantung Bintang Api | Primordial Fire Dragon | Tier 9 | Kristal Api Purba Hunyuan<br>Inti Bintang Api Tier 9 | 40% (Umum)<br>1% (Legendaris) |
 
 ---
 
-### 3.8 🖤 Youming Zhou (Bayangan & Racun)
-1. **Kelelawar Bayangan Malam (Tier 1):** *Loot:* Sayap Kelelawar Spirit (80%).
-2. **Katak Rawa Beracun (Tier 1):** *Loot:* Bisa Katak Rawa (80%).
-3. **Ular Rawa Taring Hitam (Tier 2):** *Loot:* Bisa Taring Hitam (85%), Inti Tier 2 (65%).
-4. **Laba-laba Bayangan Malam (Tier 2):** *Loot:* Sutra Bayangan (80%), Bisa Laba-laba (75%).
-5. **Kutu Iblis Pemakan Qi (Tier 3):** *Loot:* Cangkang Kutu Iblis (85%), Inti Tier 3 (70%).
-6. **Serigala Api Hitam (Tier 3):** *Loot:* Bulu Api Hitam (80%), Inti Tier 3 (70%).
-7. **Kalajengking Bayangan Purba (Tier 4):** *Loot:* Sengat Bayangan Purba (85%), Inti Tier 4 (75%).
-8. **Mayat Hidup Rawa Jiwa (Tier 4):** *Loot:* Kristal Jiwa Kelam (85%), Sisa Zirah Lapuk (70%).
-9. **Naga Bayangan Api Hitam (Tier 5):** *Loot:* Sisik Naga Bayangan (90%), Inti Tier 5 (80%).
-10. **Ular Rawa Sembilan Kepala Racun (Tier 5):** *Loot:* Bisa Sembilan Racun (85%), Inti Tier 5 (80%).
-11. **Serigala Bayangan Youming (Tier 6):** *Loot:* Kulit Serigala Bayangan (90%), Inti Tier 6 (85%).
-12. **Golem Bayangan Rawa Kelam (Tier 6):** *Loot:* Kristal Bayangan Kelam (90%), Inti Tier 6 (85%).
-13. **Naga Api Hitam Youming Purba (Tier 7):** *Loot:* Sisik Naga Api Hitam (95%), Inti Tier 7 (90%).
-14. **Hydra Racun Rawa Youming (Tier 7):** *Loot:* Darah Hydra Racun (95%), Inti Tier 7 (90%).
-15. **Naga Bayangan Sembilan Jiwa (Tier 8):** *Loot:* Sisik Naga Sembilan Jiwa (95%), Inti Tier 8 (90%).
-16. **Iblis Bayangan Purba Youming (Tier 8):** *Loot:* Kristal Iblis Purba (95%), Inti Tier 8 (90%).
-17. **Naga Purba Youming Api Hitam Hunyuan (Tier 9):** *Loot:* Inti Youming Api Hitam Tier 9 (100%), Kristal Bayangan Suci (100%).
+### 4.5 🌊 Canghai Zhou (Lautan & Kepulauan)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Ikan Terbang Spirit | Ikan Terbang | Tier 1 | Sisik Ikan Spirit | 85% (Umum) |
+| Kepiting Cangkang Batu | Krustasea | Tier 1 | Cangkang Batu Spirit | 80% (Umum) |
+| Siput Mutiara Spirit | Moluska Laut | Tier 2 | Cangkang Siput<br>Mutiara Spirit Low-Grade | 80% (Umum)<br>35% (Jarang) |
+| Ular Laut Sisik Hijau | Reptil Laut | Tier 2 | Sisik Hijau<br>Bisa Ular Laut | 75% (Umum)<br>35% (Jarang) |
+| Hiu Bersisik Perak | Predator Laut | Tier 3 | Taring Hiu Spirit<br>Sisik Perak<br>Inti Tier 3 | 75% (Umum)<br>35% (Jarang)<br>30% (Jarang) |
+| Gurita Gurita Rawa Laut | Moluska Tentakel | Tier 3 | Tentakel Gurita Spirit<br>Tinta Hitam Laut | 70% (Umum)<br>30% (Jarang) |
+| Naga Laut Bersisik Giok | Naga Laut | Tier 4 | Sisik Giok Laut<br>Inti Naga Air Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Paus Spirit Samudra | Beast Raksasa Laut | Tier 4 | Minyak Paus Spirit<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Kepulauan Kraken Muda | Kraken Laut | Tier 5 | Tentakel Kraken Spirit<br>Inti Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Pari Elektrik Samudra | Ikan Elektrik | Tier 5 | Kulit Elektrik Spirit<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Naga Air Gelombang Samudra | Naga Gelombang | Tier 6 | Sisik Naga Air<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Kura-kura Island-Back Purba | Kura-kura Raksasa | Tier 6 | Tempurung Pulau Purba<br>Inti Tier 6 | 55% (Umum)<br>8% (Langka) |
+| Kraken Raksasa Samudra | Mythical Kraken | Tier 7 | Tinta Kraken Purba<br>Inti Kraken Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Naga Laut Sisik Emas | Naga Laut Emas | Tier 7 | Sisik Naga Emas Laut<br>Inti Tier 7 | 50% (Umum)<br>3% (Legendaris) |
+| Ular Laut Sembilan Kepala | Reptil Samudra | Tier 8 | Sisik Sembilan Kepala<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Paus Purba Samudra Canghai | Beast Samudra | Tier 8 | Kristal Samudra Purba<br>Inti Tier 8 | 40% (Umum)<br>2% (Legendaris) |
+| Naga Purba Canghai Mutiara Suci | Primordial Sea Dragon | Tier 9 | Inti Naga Samudra<br>Mutiara Purba Canghai | 40% (Umum)<br>1% (Legendaris) |
 
 ---
 
-### 3.9 🛸 Tiangong Zhou (Penerbangan Udara & Langit)
-1. **Burung Pipit Angin Udara (Tier 1):** *Loot:* Bulu Pipit Spirit (80%).
-2. **Kelelawar Angin Langit (Tier 1):** *Loot:* Sayap Kelelawar Spirit (80%).
-3. **Burung Angin Taring Besi (Tier 2):** *Loot:* Bulu Angin Besi (85%), Inti Tier 2 (65%).
-4. **Elang Udara Awan Tipis (Tier 2):** *Loot:* Bulu Elang Awan (80%), Inti Tier 2 (65%).
-5. **Rajawali Badai Langit (Tier 3):** *Loot:* Sayap Besi Spirit (85%), Inti Tier 3 (70%).
-6. **Burung Hantu Angin Malam (Tier 3):** *Loot:* Bulu Angin Malam (80%), Inti Tier 3 (70%).
-7. **Gryphon Udara Tiangong (Tier 4):** *Loot:* Bulu Gryphon Langit (85%), Inti Tier 4 (75%).
-8. **Paus Udara Melayang (Tier 4):** *Loot:* Kulit Paus Udara (85%), Inti Tier 4 (75%).
-9. **Naga Angin Langit Tiangong (Tier 5):** *Loot:* Sisik Naga Angin (90%), Inti Tier 5 (80%).
-10. **Rajawali Petir Awan Hitam (Tier 5):** *Loot:* Bulu Petir Awan (85%), Inti Tier 5 (80%).
-11. **Naga Terbang Langit Tiangong (Tier 6):** *Loot:* Sayap Naga Terbang (90%), Inti Tier 6 (85%).
-12. **Paus Langit Melayang Purba (Tier 6):** *Loot:* Kristal Paus Langit (90%), Inti Tier 6 (85%).
-13. **Gryphon Badai Petir Tiangong (Tier 7):** *Loot:* Bulu Gryphon Petir (95%), Inti Tier 7 (90%).
-14. **Naga Langit Ruang Tiangong (Tier 7):** *Loot:* Sisik Naga Ruang (95%), Inti Tier 7 (90%).
-15. **Rajawali Purba Langit Tiangong (Tier 8):** *Loot:* Bulu Rajawali Purba (95%), Inti Tier 8 (90%).
-16. **Naga Angin Bintang Tiangong (Tier 8):** *Loot:* Sisik Naga Bintang (95%), Inti Tier 8 (90%).
-17. **Rajawali Purba Hunyuan Tiangong (Tier 9):** *Loot:* Inti Rajawali Hunyuan Tier 9 (100%), Bulu Suci Langit (100%).
+### 4.6 🏜️ Xixuan Zhou (Gurun Pasir Suci)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Kadal Pasir Emas | Reptil Gurun | Tier 1 | Sisik Pasir | 85% (Umum) |
+| Kumbang Pasir Besi | Serangga Gurun | Tier 1 | Cangkang Kumbang | 80% (Umum) |
+| Cacing Pasir Besi | Cacing Gurun | Tier 2 | Kulit Cacing Besi<br>Inti Tier 2 | 80% (Umum)<br>35% (Jarang) |
+| Ular Pasir Taring Merah | Reptil Beracun | Tier 2 | Bisa Pasir<br>Kulit Ular | 75% (Umum)<br>35% (Jarang) |
+| Kalajengking Emas Pasir | Serangga Emas | Tier 3 | Sengat Emas Spirit<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Elang Badai Gurun | Unggas Udara | Tier 3 | Bulu Elang Badai<br>Inti Tier 3 | 70% (Umum)<br>30% (Jarang) |
+| Serigala Pasir Gurun | Predator Gurun | Tier 4 | Taring Serigala Pasir<br>Inti Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Cacing Pasir Raksasa | Cacing Raksasa | Tier 4 | Kulit Cacing Raksasa<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Elang Pasir Iblis | Unggas Iblis | Tier 5 | Bulu Iblis Gurun<br>Inti Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Banteng Batu Gurun Emas | Beast Batu Pasir | Tier 5 | Tanduk Emas Gurun<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Skorpion Emas Legendaris | Ancient Guardian | Tier 6 | Sengat Skorpion Emas<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Naga Pasir Emas Gurun | Naga Pasir | Tier 6 | Sisik Naga Pasir<br>Inti Tier 6 | 55% (Umum)<br>8% (Langka) |
+| Gryphon Pasir Suci | Flying Beast | Tier 7 | Bulu Gryphon Gurun<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Cacing Ruang Pasir Purba | Cacing Anomali | Tier 7 | Kulit Pasir Purba<br>Inti Cacing Ruang | 50% (Umum)<br>3% (Legendaris) |
+| Naga Gurun Pasir Emas Purba | Naga Gurun Purba | Tier 8 | Sisik Naga Gurun<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Sphinx Batu Segel Purba | Guardian Reruntuhan | Tier 8 | Kristal Batu Segel<br>Inti Tier 8 | 40% (Umum)<br>2% (Legendaris) |
+| Qilin Pasir Suci Hunyuan | Mythical Guardian | Tier 9 | Tanduk Qilin Gurun<br>Inti Qilin Pasir Tier 9 | 40% (Umum)<br>1% (Legendaris) |
 
 ---
 
-### 3.10 ☠️ Juejing Zhou (Zona Terlarang & Anomali Ruang)
-1. **Tikus Anomali Ruang (Tier 1):** *Loot:* Bulu Anomali (80%).
-2. **Kadal Petir Tanah Purba (Tier 1):** *Loot:* Sisik Petir Tanah (80%).
-3. **Serigala Taring Ruang (Tier 3):** *Loot:* Taring Serigala Ruang (85%), Inti Tier 3 (70%).
-4. **Kera Anomali Petir (Tier 3):** *Loot:* Kulit Kera Petir (80%), Inti Tier 3 (70%).
-5. **Chimera Batu Purba (Tier 4):** *Loot:* Tanduk Chimera Purba (85%), Inti Tier 4 (75%).
-6. **Ular Retakan Ruang (Tier 4):** *Loot:* Sisik Retakan Ruang (85%), Inti Tier 4 (75%).
-7. **Beast Kuno Juejing (Tier 5):** *Loot:* Taring Beast Kuno (90%), Inti Tier 5 (80%).
-8. **Serigala Anomali Ruang Purba (Tier 5):** *Loot:* Kulit Ruang Purba (85%), Inti Tier 5 (80%).
-9. **Serpent Raksasa Retakan Ruang (Tier 6):** *Loot:* Kristal Ruang Purba (95%), Darah Beast Purba (90%), Inti Tier 6 (85%).
-10. **Golem Anomali Ruang Juejing (Tier 6):** *Loot:* Kristal Golem Ruang (90%), Inti Tier 6 (85%).
-11. **Chimera Retakan Ruang Purba (Tier 7):** *Loot:* Tanduk Chimera Ruang (95%), Inti Tier 7 (90%).
-12. **Beast Ruang Purba Juejing (Tier 7):** *Loot:* Kulit Beast Ruang (95%), Inti Tier 7 (90%).
-13. **Naga Retakan Ruang Purba (Tier 8):** *Loot:* Sisik Naga Ruang Purba (95%), Inti Tier 8 (90%).
-14. **Iblis Anomali Ruang Juejing (Tier 8):** *Loot:* Kristal Iblis Ruang (95%), Inti Tier 8 (90%).
-15. **Naga Purba Retakan Ruang Hunyuan (Tier 9):** *Loot:* Inti Retakan Ruang Tier 9 (100%), Kristal Ruang Purba Hunyuan (100%).
+### 4.7 ❄️ Beihan Zhou (Padang Es Abadi)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Kelinci Es Salju | Mamalia Kecil | Tier 1 | Bulu Kelinci Es | 85% (Umum) |
+| Unggas Es Salju | Unggas Salju | Tier 1 | Bulu Unggas Es | 80% (Umum) |
+| Rubah Es Berekor Dua | Mamalia Es | Tier 2 | Bulu Rubah Es<br>Inti Es Tier 2 | 80% (Umum)<br>35% (Jarang) |
+| Ular Es Salju | Reptil Salju | Tier 2 | Bisa Es Salju<br>Kulit Ular Es | 75% (Umum)<br>35% (Jarang) |
+| Serigala Salju Pemburu | Predator Salju | Tier 3 | Taring Serigala Salju<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Burung Hantu Kristal Es | Unggas Malam | Tier 3 | Bulu Kristal Es<br>Inti Tier 3 | 70% (Umum)<br>30% (Jarang) |
+| Beruang Es Kristal Purba | Tank Es | Tier 4 | Empedu Beruang Es<br>Inti Es Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Rubah Salju Berekor Sembilan | Spirit Fox | Tier 4 | Bulu Rubah Sembilan Ekor<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Serigala Es Abadi Guardian | Ancient Guardian | Tier 5 | Taring Serigala Abadi<br>Inti Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Naga Es Kristal Salju | Naga Es | Tier 5 | Sisik Naga Es<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Goliath Es Padang Salju | Golem Es | Tier 6 | Kristal Es Padang Salju<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Burung Feniks Salju Abadi | Feniks Es | Tier 6 | Bulu Feniks Salju<br>Inti Tier 6 | 55% (Umum)<br>8% (Langka) |
+| Naga Padang Es Abadi | Naga Abadi | Tier 7 | Sisik Naga Es Abadi<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Beruang Es Purba Hunyuan | Beast Purba | Tier 7 | Cakar Beruang Es Purba<br>Inti Tier 7 | 50% (Umum)<br>3% (Legendaris) |
+| Feniks Es Salju Purba | Feniks Purba | Tier 8 | Bulu Feniks Es Purba<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Naga Es Kristal Bintang | Naga Bintang Es | Tier 8 | Sisik Naga Bintang Es<br>Inti Tier 8 | 40% (Umum)<br>2% (Legendaris) |
+| Naga Purba Beihan Es Abadi | Primordial Frost Dragon | Tier 9 | Kristal Es Suci Hunyuan<br>Inti Es Abadi Beihan Tier 9 | 40% (Umum)<br>1% (Legendaris) |
+
+---
+
+### 4.8 🖤 Youming Zhou (Bayangan & Racun)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Kelelawar Bayangan Malam | Unggas Malam | Tier 1 | Sayap Kelelawar Spirit | 85% (Umum) |
+| Katak Rawa Beracun | Amfibi Toksik | Tier 1 | Bisa Katak Rawa | 80% (Umum) |
+| Ular Rawa Taring Hitam | Reptil Beracun | Tier 2 | Bisa Taring Hitam<br>Inti Tier 2 | 80% (Umum)<br>35% (Jarang) |
+| Laba-laba Bayangan Malam | Serangga Bayangan | Tier 2 | Sutra Bayangan<br>Bisa Laba-laba | 75% (Umum)<br>35% (Jarang) |
+| Kutu Iblis Pemakan Qi | Serangga Iblis | Tier 3 | Cangkang Kutu Iblis<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Serigala Api Hitam | Predator Api Hitam | Tier 3 | Bulu Api Hitam<br>Inti Tier 3 | 70% (Umum)<br>30% (Jarang) |
+| Kalajengking Bayangan Purba | Serangga Purba | Tier 4 | Sengat Bayangan Purba<br>Inti Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Mayat Hidup Rawa Jiwa | Undead Rawa | Tier 4 | Sisa Zirah Lapuk<br>Kristal Jiwa Kelam | 65% (Umum)<br>18% (Langka) |
+| Naga Bayangan Api Hitam | Naga Bayangan | Tier 5 | Sisik Naga Bayangan<br>Inti Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Ular Rawa Sembilan Kepala Racun | Reptil Sembilan Kepala | Tier 5 | Bisa Sembilan Racun<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Serigala Bayangan Youming | Predator Bayangan | Tier 6 | Kulit Serigala Bayangan<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Golem Bayangan Rawa Kelam | Golem Bayangan | Tier 6 | Kristal Bayangan Kelam<br>Inti Tier 6 | 55% (Umum)<br>8% (Langka) |
+| Naga Api Hitam Youming Purba | Naga Purba | Tier 7 | Sisik Naga Api Hitam<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Hydra Racun Rawa Youming | Mythical Hydra | Tier 7 | Darah Hydra Racun<br>Inti Tier 7 | 50% (Umum)<br>3% (Legendaris) |
+| Naga Bayangan Sembilan Jiwa | Naga Sembilan Jiwa | Tier 8 | Sisik Naga Sembilan Jiwa<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Iblis Bayangan Purba Youming | Demon Purba | Tier 8 | Kristal Iblis Purba<br>Inti Tier 8 | 40% (Umum)<br>2% (Legendaris) |
+| Naga Purba Youming Api Hitam Hunyuan | Primordial Shadow Dragon | Tier 9 | Kristal Bayangan Suci<br>Inti Youming Api Hitam Tier 9 | 40% (Umum)<br>1% (Legendaris) |
+
+---
+
+### 4.9 🛸 Tiangong Zhou (Penerbangan Udara & Langit)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Burung Pipit Angin Udara | Unggas Udara | Tier 1 | Bulu Pipit Spirit | 85% (Umum) |
+| Kelelawar Angin Langit | Mamalia Udara | Tier 1 | Sayap Kelelawar Spirit | 80% (Umum) |
+| Burung Angin Taring Besi | Unggas Besi | Tier 2 | Bulu Angin Besi<br>Inti Tier 2 | 80% (Umum)<br>35% (Jarang) |
+| Elang Udara Awan Tipis | Unggas Awan | Tier 2 | Bulu Elang Awan<br>Inti Tier 2 | 75% (Umum)<br>35% (Jarang) |
+| Rajawali Badai Langit | Unggas Badai | Tier 3 | Sayap Besi Spirit<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Burung Hantu Angin Malam | Unggas Malam | Tier 3 | Bulu Angin Malam<br>Inti Tier 3 | 70% (Umum)<br>30% (Jarang) |
+| Gryphon Udara Tiangong | Flying Beast | Tier 4 | Bulu Gryphon Langit<br>Inti Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Paus Udara Melayang | Beast Raksasa | Tier 4 | Kulit Paus Udara<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Naga Angin Langit Tiangong | Naga Langit | Tier 5 | Sisik Naga Angin<br>Inti Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Rajawali Petir Awan Hitam | Unggas Petir | Tier 5 | Bulu Petir Awan<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Naga Terbang Langit Tiangong | Naga Airship Guard | Tier 6 | Sayap Naga Terbang<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka) |
+| Paus Langit Melayang Purba | Beast Langit Purba | Tier 6 | Kristal Paus Langit<br>Inti Tier 6 | 55% (Umum)<br>8% (Langka) |
+| Gryphon Badai Petir Tiangong | Flying Gryphon Elit | Tier 7 | Bulu Gryphon Petir<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Naga Langit Ruang Tiangong | Naga Ruang | Tier 7 | Sisik Naga Ruang<br>Inti Tier 7 | 50% (Umum)<br>3% (Legendaris) |
+| Rajawali Purba Langit Tiangong | Unggas Purba | Tier 8 | Bulu Rajawali Purba<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Naga Angin Bintang Tiangong | Naga Bintang | Tier 8 | Sisik Naga Bintang<br>Inti Tier 8 | 40% (Umum)<br>2% (Legendaris) |
+| Rajawali Purba Hunyuan Tiangong | Primordial Sky Eagle | Tier 9 | Bulu Suci Langit<br>Inti Rajawali Hunyuan Tier 9 | 40% (Umum)<br>1% (Legendaris) |
+
+---
+
+### 4.10 ☠️ Juejing Zhou (Zona Terlarang & Anomali Ruang)
+
+| Nama Beast | Jenis / Kategori | Tier | Loot | Persentase Loot |
+|---|---|---|---|---|
+| Tikus Anomali Ruang | Mamalia Kecil | Tier 1 | Bulu Anomali | 85% (Umum) |
+| Kadal Petir Tanah Purba | Reptil Petir | Tier 1 | Sisik Petir Tanah | 80% (Umum) |
+| Serigala Taring Ruang | Predator Ruang | Tier 3 | Taring Serigala Ruang<br>Inti Tier 3 | 75% (Umum)<br>30% (Jarang) |
+| Kera Anomali Petir | Primata Anomali | Tier 3 | Kulit Kera Petir<br>Inti Tier 3 | 70% (Umum)<br>30% (Jarang) |
+| Chimera Batu Purba | Beast Purba | Tier 4 | Tanduk Chimera Purba<br>Inti Tier 4 | 65% (Umum)<br>20% (Langka) |
+| Ular Retakan Ruang | Reptil Ruang | Tier 4 | Sisik Retakan Ruang<br>Inti Tier 4 | 65% (Umum)<br>18% (Langka) |
+| Beast Kuno Juejing | Beast Kuno | Tier 5 | Taring Beast Kuno<br>Inti Tier 5 | 60% (Umum)<br>15% (Langka) |
+| Serigala Anomali Ruang Purba | Predator Purba | Tier 5 | Kulit Ruang Purba<br>Inti Tier 5 | 60% (Umum)<br>12% (Langka) |
+| Serpent Raksasa Retakan Ruang | Serpent Ruang | Tier 6 | Darah Beast Purba<br>Kristal Ruang Purba<br>Inti Tier 6 | 55% (Umum)<br>10% (Langka)<br>5% (Legendaris) |
+| Golem Anomali Ruang Juejing | Golem Anomali | Tier 6 | Kristal Golem Ruang<br>Inti Tier 6 | 55% (Umum)<br>8% (Langka) |
+| Chimera Retakan Ruang Purba | Chimera Ruang | Tier 7 | Tanduk Chimera Ruang<br>Inti Tier 7 | 50% (Umum)<br>4% (Legendaris) |
+| Beast Ruang Purba Juejing | Beast Anomali Elit | Tier 7 | Kulit Beast Ruang<br>Inti Tier 7 | 50% (Umum)<br>3% (Legendaris) |
+| Naga Retakan Ruang Purba | Naga Ruang Purba | Tier 8 | Sisik Naga Ruang Purba<br>Inti Tier 8 | 45% (Umum)<br>2% (Legendaris) |
+| Iblis Anomali Ruang Juejing | Demon Ruang | Tier 8 | Kristal Iblis Ruang<br>Inti Tier 8 | 40% (Umum)<br>2% (Legendaris) |
+| Naga Purba Retakan Ruang Hunyuan | Primordial Rift Dragon | Tier 9 | Kristal Ruang Purba Hunyuan<br>Inti Retakan Ruang Tier 9 | 40% (Umum)<br>1% (Legendaris) |
