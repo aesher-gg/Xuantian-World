@@ -21,14 +21,14 @@
 Pusat politik dan ekonomi seluruh Xuantian World. Lihat `01_WORLD_OVERVIEW_AND_CAPITAL.md` untuk detail lengkap.
 
 ### 2.2 Kota Luoyang (洛阳城)
-* **Deskripsi:** Kota kuno yang terkenal dengan pasar barang antik, bahan penempaan, dan perguruan hukum netral. Tempat berkumpulnya para pedagang antar-wilayah.
+* **Deskripsi:** Kota kuno yang terkenal dengan pasar barang antik, bahan penempaan, dan sekte/serikat hukum netral. Tempat berkumpulnya para pedagang antar-wilayah.
 
 ### 2.3 Desa Jiangnan (江南村)
 * **Deskripsi:** Desa indah di tepi Sungai Longjiang. Populer sebagai tempat singgah para pengembara dan Alkemis pengembara.
 
 ---
 
-## 3. Sekte & Perguruan Spesialis di Zhonghua Zhou
+## 3. Sekte & Serikat Utama di Zhonghua Zhou
 
-1. **Sekte Pedang Kekaisaran (Tianjing Sword Sect)** [`23_TIANJING_SWORD_SECT.md`]: Sekte pelindung dinasti dengan teknik pedang lurus dan disiplin tinggi.
-2. **Perguruan Pedagang & Logistik Jiuzhou (Jiuzhou Merchant Perguruan)** [`24_JIUZHOU_MERCHANT_PERGURUAN.md`]: Perguruan yang melatih ahli taksiran barang, negosiator, dan pengawal kargo kapal terbang.
+1. **Sekte Pedang Kekaisaran (Tianjing Sword Sect)** [`34_TIANJING_SWORD_SECT.md`]: Sekte pelindung dinasti dengan teknik pedang lurus dan disiplin tinggi.
+2. **Serikat Dagang Jiuzhou (Jiuzhou Merchant Guild)** [`32_JIUZHOU_MERCHANT_GUILD.md`]: Serikat dagang berstruktur sekte yang melatih ahli taksiran barang, negosiator, dan pengawal kargo kapal terbang.

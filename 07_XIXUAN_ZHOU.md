@@ -21,11 +21,11 @@
 Kota benteng batu pasir di tengah oasis terbesar. Tempat peristirahatan kafilah pedagang gurun dan pemburu harta reruntuhan.
 
 ### 2.2 Reruntuhan Kuil Moko (摩诃古刹遗址)
-Situs purba yang kaya akaninskripsi mantra kuno, kertas talisman purba, dan artefak batu spirit.
+Situs purba yang kaya akan inskripsi mantra kuno, kertas talisman purba, dan artefak batu spirit.
 
 ---
 
-## 3. Sekte & Perguruan Spesialis di Xixuan Zhou
+## 3. Sekte Utama di Xixuan Zhou
 
-1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery)** [`31_GOLDEN_BELL_MONASTERY.md`]: Kuil pembudidaya tubuh tahan fisik dan Hukum Pertahanan Emas.
-2. **Perguruan Jimat & Segel Huangsha (Huangsha Talisman Perguruan)** [`32_HUANGSHA_TALISMAN_PERGURUAN.md`]: Perguruan spesialis pembuatan kertas spirit jimat, tinta darah beast, dan inskripsi rune.
+1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`37_GOLDEN_BELL_MONASTERY.md`]: Kuil pembudidaya tubuh tahan fisik dan Hukum Pertahanan Emas.
+2. **Sekte Jimat Gurun Huangsha (Huangsha Talisman Sect / 黄沙符箓宗)** [`25_HUANGSHA_TALISMAN_SECT.md`]: Sekte spesialis pembuatan kertas spirit jimat, tinta darah beast, dan inskripsi rune.

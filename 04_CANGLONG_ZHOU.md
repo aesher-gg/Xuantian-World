@@ -25,7 +25,7 @@ Puncak tertinggi yang diselimuti petir spirit dan angin kencang. Tempat bertapa 
 
 ---
 
-## 3. Sekte & Perguruan Spesialis di Canglong Zhou
+## 3. Sekte Utama di Canglong Zhou
 
-1. **Sekte Paviliun Pedang Canglong (苍龙剑阁 - Canglong Sword Pavilion)** [`25_CANGLONG_SWORD_PAVILION.md`]: Sekte pedang nomor satu di Xuantian World.
-2. **Perguruan Niat Pedang Qingfeng (青风剑意学堂 - Qingfeng Sword Intent Perguruan)** [`26_QINGFENG_SWORD_PERGURUAN.md`]: Perguruan fokus pemahaman Niat Pedang (Sword Intent).
+1. **Sekte Paviliun Pedang Canglong (苍龙剑阁 - Canglong Sword Pavilion)** [`23_CANGLONG_SWORD_PAVILION.md`]: Sekte pedang nomor satu di Xuantian World.
+2. **Akademi Pedang Qingfeng (青风剑意阁 - Qingfeng Sword Academy)** [`28_QINGFENG_SWORD_ACADEMY.md`]: Sekte pedang independen fokus pemahaman Niat Pedang (Sword Intent).

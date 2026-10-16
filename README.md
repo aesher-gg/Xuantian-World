@@ -38,7 +38,7 @@ Tempelkan link `INDEX.md` disertai blok **Profil Karakter** terakhir dari percak
 * **`16_VITALITY_HUNGER_SYSTEM.md`**: HP, Stamina, Kelaparan, dan Racun Pill.
 * **`17_COMBAT_SYSTEM.md`**: Sistem Pertempuran Turn-based & Aksi Profesi.
 * **`18_BESTIARY.md`**: Daftar Spirit Beast per Wilayah.
-* **`19_...` s/d `40_...`**: File Sekte Utama & Perguruan Spesialis (Perguruan Berkebun, Perguruan Beast, Perguruan Formasi, Perguruan Penempa, dll).
+* **`19_...` s/d `40_...`**: File Sekte Utama, Paviliun, Istana, Balai Penempa, Lembaga Suci, dan Guild Spesialis.
 * **`41_CUSTOM_EVENTS.md` s/d `44_CUSTOM_TECHNIQUES.md`**: Modul Kustom Admin.
 * **`INDEX.md`**: Hub Navigasi Tunggal & Auto-fetch AI GM.
 * **`players.md` & folder `players/`**: Katalog & Folder Template Karakter Awal.

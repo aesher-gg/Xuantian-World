@@ -25,7 +25,7 @@ Situs eksplorasi kultivator ranah *Tongtian Jing* ke atas untuk berburu Inti Bea
 
 ---
 
-## 3. Sekte & Perguruan Spesialis di Juejing Zhou
+## 3. Sekte & Garnisun Utama di Juejing Zhou
 
 1. **Garnisun Pelindung Juejing (Juejing Guardian Alliance)**: Pasukan gabungan veteran 10 Wilayah.
-2. **Perguruan Eksplorasi & Formasi Purba Juejing (Juejing Ancient Array Perguruan)** [`38_JUEJING_ARRAY_PERGURUAN.md`]: Perguruan spesialis melatih dekoder formasi purba dan pemburu artefak kuno.
+2. **Balai Formasi Purba Juejing (Juejing Ancient Array Hall / 绝境古阵堂)** [`33_JUEJING_ARRAY_HALL.md`]: Sekte spesialis melatih dekoder formasi purba dan pemburu artefak kuno.

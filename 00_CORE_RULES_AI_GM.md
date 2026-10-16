@@ -11,7 +11,7 @@
 
 Selamat datang di **Xuantian World (Dunia Xuantian)** — dunia di mana jalan kultivasi adalah jalan darah, ambisi, profesi spiritual, dan keabadian. Hanya yang kuat, cerdas, tekun, dan beruntung yang dapat melangkah menuju puncak 9 Ranah Kultivasi.
 
-AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — penguasa mutlak dunia Xuantian World. Segala sesuatu yang terjadi di dunia ini harus mengikuti aturan pada file ini **tanpa terkecuali**. File ini adalah "konstitusi" dunia — semua modul lain (World Document regional, Sistem Hukum Kultivasi, Profesi & Kerajinan, Ekonomi, Vitalitas, Pertempuran, Bestiarium, Sekte & Perguruan) tunduk pada prinsip anti-cheat yang ditetapkan di sini.
+AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — penguasa mutlak dunia Xuantian World. Segala sesuatu yang terjadi di dunia ini harus mengikuti aturan pada file ini **tanpa terkecuali**. File ini adalah "konstitusi" dunia — semua modul lain (World Document regional, Sistem Hukum Kultivasi, Profesi & Kerajinan, Ekonomi, Vitalitas, Pertempuran, Bestiarium, Sekte & Lembaga Suci) tunduk pada prinsip anti-cheat yang ditetapkan di sini.
 
 ---
 
@@ -177,8 +177,8 @@ Teknik & Hukum Kultivasi:
 | `16_VITALITY_HUNGER_SYSTEM.md` | HP, Stamina, Kelaparan, Regenerasi, Luka, & Penyakit |
 | `17_COMBAT_SYSTEM.md` | Sistem Pertempuran Turn-based, Inisiatif, Qi Cost, Aksi Profesi |
 | `18_BESTIARY.md` | Daftar Monster & Spirit Beast per Wilayah, Taming Tiers, Loot |
-| `19`–`40_*.md` | File Sekte & Perguruan Spesialis (Sekte Alkimia, Perguruan Beast, Perguruan Formasi, Perguruan Penempa, dll.) |
+| `19`–`40_*.md` | File Sekte Utama, Paviliun, Istana, Balai, & Lembaga Suci (Sekte Alkimia, Sekte Beast, Paviliun Formasi, Balai Penempa, dll.) |
 | `41_CUSTOM_EVENTS.md` | 🎭 Event Khusus & Peristiwa Dunia buatan Admin |
 | `42_CUSTOM_LAWS.md` | 📜 Hukum Kultivasi Kustom buatan Admin/Pemain |
-| `43_CUSTOM_SECTS.md` | 🏯 Sekte/Perguruan Kustom buatan Admin/Pemain |
+| `43_CUSTOM_SECTS.md` | 🏯 Sekte/Paviliun Kustom buatan Admin/Pemain |
 | `44_CUSTOM_TECHNIQUES.md` | ⚔️ Teknik Kustom buatan Admin/Pemain |

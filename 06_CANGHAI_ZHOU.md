@@ -25,7 +25,7 @@ Gugusan pulau tempat ditemukannya mutiara spirit, sisik naga laut, dan benih tan
 
 ---
 
-## 3. Sekte & Perguruan Spesialis di Canghai Zhou
+## 3. Sekte Utama di Canghai Zhou
 
-1. **Istana Kemurnian Giok Laut (Jade Ocean Palace)** [`29_JADE_OCEAN_PALACE.md`]: Sekte pelindung lautan dengan teknik manipulasi gelombang dan es.
-2. **Perguruan Navigasi & Kapal Canghai (Canghai Maritime Perguruan)** [`30_CANGHAI_MARITIME_PERGURUAN.md`]: Perguruan spesialis kemudi kapal terbang laut, peta angin, dan pertempuran udara-laut.
+1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`36_JADE_OCEAN_PALACE.md`]: Sekte pelindung lautan dengan teknik manipulasi gelombang dan es.
+2. **Balai Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)** [`31_CANGHAI_MARITIME_HALL.md`]: Sekte spesialis kemudi kapal terbang laut, peta angin, dan pertempuran udara-laut.

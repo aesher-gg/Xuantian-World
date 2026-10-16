@@ -25,7 +25,7 @@ Habitat tanaman racun mematikan dan reptil berkulit keras tempat bahan obat racu
 
 ---
 
-## 3. Sekte & Perguruan Spesialis di Youming Zhou
+## 3. Sekte Utama di Youming Zhou
 
-1. **Sekte Api Iblis Youming (Youming Demonic Palace)** [`35_YOUMING_DEMONIC_PALACE.md`]: Sekte iblis penguasa Hukum Bayangan dan Api Hitam.
-2. **Perguruan Racun & Assasin Bayangan (Shadow Poison Perguruan)** [`36_SHADOW_POISON_PERGURUAN.md`]: Perguruan spesialis ekstraksi racun pill, jarum racun, dan formasi halusinasi.
+1. **Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)** [`39_YOUMING_DEMONIC_PALACE.md`]: Sekte iblis penguasa Hukum Bayangan dan Api Hitam.
+2. **Sekte Racun Bayangan Youming (Shadow Poison Sect / 幽冥毒影宗)** [`30_SHADOW_POISON_SECT.md`]: Sekte racun spesialis ekstraksi racun pill, jarum racun, dan formasi halusinasi.

@@ -25,7 +25,7 @@ Lembah beku tempat tumbuhnya herbal langka tipe es dan habitat Serigala Es Pembu
 
 ---
 
-## 3. Sekte & Perguruan Spesialis di Beihan Zhou
+## 3. Sekte Utama di Beihan Zhou
 
-1. **Sekte Istana Salju Abadi (Hanbing Snow Palace)** [`33_HANBING_SNOW_PALACE.md`]: Sekte pemurni jiwa dengan Hukum Es Purba.
-2. **Perguruan Alkimia & Obat Es Beihan (Beihan Frost Herb Perguruan)** [`34_BEIHAN_FROST_HERB_PERGURUAN.md`]: Perguruan spesialis ekstraksi herbal es dan racikan pemurni meridien.
+1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`38_HANBING_SNOW_PALACE.md`]: Sekte pemurni jiwa dengan Hukum Es Purba.
+2. **Lembah Es Beihan (Beihan Frost Valley / 北寒冰药谷)** [`29_BEIHAN_FROST_VALLEY.md`]: Sekte alkimia es spesialis ekstraksi herbal es dan racikan pemurni meridien.

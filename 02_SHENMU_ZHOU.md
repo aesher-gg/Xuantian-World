@@ -47,11 +47,11 @@ Shenmu Zhou adalah wilayah paling hijau dan hidup di Xuantian World. Menurut leg
 
 ---
 
-## 4. Sekte & Perguruan Spesialis di Shenmu Zhou
+## 4. Sekte Utama di Shenmu Zhou
 
 1. **Sekte Induk Shenmu (神木宗 - Shenmu Spirit Sect)** [`19_SHENMU_SECT.md`]: Sekte terbesar penguasa Hukum Kayu Abadi dan penyembuhan.
-2. **Perguruan Berkebun Biyang (碧阳农艺学院 - Biyang Herbal Academy)** [`20_BIYANG_HERBAL_PERGURUAN.md`]: Perguruan spesialis ilmu tanah spirit, pupuk Qi, dan teknik percepatan panen benih.
-3. **Perguruan Penjinak Beast Qingling (青灵驭兽学院)** [`21_QINGLING_BEAST_PERGURUAN.md`]: Perguruan yang berfokus pada penjinakan Spirit Beast tipe Kayu dan Unggas Hutan.
+2. **Lembah Suci Herbal Biyang (碧阳药圣谷 - Biyang Herbal Sanctuary)** [`20_BIYANG_HERBAL_SANCTUARY.md`]: Sekte suci alkimia, tanah spirit, pupuk Qi, dan teknik percepatan panen benih.
+3. **Paviliun Penjinak Beast Qingling (青灵驭兽阁 - Qingling Beast Taming Pavilion)** [`21_QINGLING_BEAST_PAVILION.md`]: Sekte yang berfokus pada penjinakan Spirit Beast tipe Kayu dan Unggas Hutan.
 
 ---
 

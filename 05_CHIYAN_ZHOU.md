@@ -25,7 +25,8 @@ Lokasi perburuan Api Spirit Alami (Spiritual Flame) untuk para Alkemis dan Maste
 
 ---
 
-## 3. Sekte & Perguruan Spesialis di Chiyan Zhou
+## 3. Sekte Utama di Chiyan Zhou
 
-1. **Istana Api Api Iblis/Dewa (Chiyan Palace)** [`27_CHIYAN_PALACE.md`]: Sekte besar pengguna Hukum Api dan Pengendali Api Spirit.
-2. **Perguruan Penempa Besi Shendu (神都锻造学院 - Shendu Forging Perguruan)** [`28_SHENDU_FORGING_PERGURUAN.md`]: Perguruan spesialis peleburan logam spirit, pembuatan armor, dan zirah pelindung.
+1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`35_CHIYAN_PALACE.md`]: Sekte besar penguasa Hukum Api dan Pengendali Api Spirit.
+2. **Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)** [`22_DANHUANG_ALCHEMIST_SECT.md`]: Sekte Alkimia terkemuka penguasa resep Pill Breakthrough.
+3. **Balai Penempa Besi Shendu (Shendu Forging Hall / 神都锻造堂)** [`24_SHENDU_FORGING_HALL.md`]: Sekte penempaan spesialis peleburan logam spirit, pembuatan armor, dan zirah pelindung.

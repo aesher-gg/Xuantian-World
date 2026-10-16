@@ -40,8 +40,8 @@ Galangan kapal terbang terbesar tempat perakitan dan kustomisasi Kapal Terbang S
 
 ---
 
-## 4. Sekte & Perguruan Spesialis di Tiangong Zhou
+## 4. Sekte & Guild Utama di Tiangong Zhou
 
 1. **Serikat Airship Tiangong (Tiangong Airship Union)** [`12_CROSS_REGION_ORGANIZATIONS.md`]: Organisasi penerbangan lintas wilayah terbesar.
-2. **Perguruan Formasi Ruang Tiangong (Tiangong Array Perguruan)** [`26_TIANGONG_ARRAY_PERGURUAN.md`]: Perguruan spesialis piringan formasi portabel dan barrier ruang.
-3. **Perguruan Kemudi Udara Tiangong (Tiangong Pilot Perguruan)** [`27_TIANGONG_PILOT_PERGURUAN.md`]: Perguruan melatih pilot profesional kapal terbang.
+2. **Paviliun Formasi Tiangong (天宫阵法阁 - Tiangong Array Pavilion)** [`26_TIANGONG_ARRAY_PAVILION.md`]: Sekte spesialis piringan formasi portabel dan barrier ruang.
+3. **Serikat Kemudi Udara Tiangong (天宫飞航阁 - Tiangong Feihang Guild)** [`27_TIANGONG_FEIHANG_GUILD.md`]: Sekte / Guild elit melatih pilot profesional kapal terbang.
