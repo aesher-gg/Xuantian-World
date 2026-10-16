@@ -4,7 +4,7 @@
 > **Kategori:** Perguruan Spesialis Eksplorasi & Dekoder Formasi Purba
 > **Afiliasi Induk:** Bermitra dengan Garnisun Pelindung Juejing (`11_JUEJING_ZHOU.md`)
 > **Lokasi:** Pos Depan Juejing, Juejing Zhou (`11_JUEJING_ZHOU.md`)
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `11_JUEJING_ZHOU.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `11_JUEJING_ZHOU.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 

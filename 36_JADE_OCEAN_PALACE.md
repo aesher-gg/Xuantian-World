@@ -3,13 +3,13 @@
 > **Modul:** 36 — Jade Ocean Palace
 > **Kategori:** Sekte Utama Penguasa Lautan & Es Samudra
 > **Lokasi:** Kota Pelabuhan Haibin, Canghai Zhou (`06_CANGHAI_ZHOU.md`)
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 
 ## 1. Profil & Spesialisasi Sekte
 
-Istana Kemurnian Giok Laut adalah sekte utama penguasa laut dan kepulauan di Canghai Zhou. Sekte ini mengajarkan *Hukum Giok Samudra Purba*, yang memadukan kelembutan arus Qi Air dengan kekerasan pembekuan Es Samudra untuk mengendalikan medan pertempuran laut dan udara.
+Istana Kemurnian Giok Laut adalah sekte utama penguasa laut dan kepulauan di Canghai Zhou. Sekte ini mengajarkan *Akar Spiritual Giok Samudra Purba*, yang memadukan kelembutan arus Qi Air dengan kekerasan pembekuan Es Samudra untuk mengendalikan medan pertempuran laut dan udara.
 
 ---
 
@@ -23,11 +23,11 @@ Istana Kemurnian Giok Laut adalah sekte utama penguasa laut dan kepulauan di Can
 
 ---
 
-## 3. Kurikulum Teknik & Hukum Sekte
+## 3. Kurikulum Teknik & Akar Spiritual Sekte
 
 1. **Teknik Dasar:** *Cambuk Air Spirit Samudra* — Mengayunkan cambuk air penyerap stamina musuh.
 2. **Teknik Menengah:** *Pembekuan Kristal Giok Laut* — Membekukan musuh selama 1 turn (-50% Movement Speed).
-3. **Teknik Utama:** *Hukum Giok Samudra Purba (Jade Ocean Law)* — Meningkatkan Mana/Qi Recovery +20% dan Bonus Damage Elemen Air/Es +30%.
+3. **Teknik Utama:** *Akar Spiritual Giok Samudra Purba (Jade Ocean Law)* — Meningkatkan Mana/Qi Recovery +20% dan Bonus Damage Elemen Air/Es +30%.
 
 ---
 

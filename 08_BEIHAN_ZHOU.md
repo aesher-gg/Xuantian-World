@@ -13,7 +13,7 @@
 | **Luas Wilayah** | ± 6,2 juta li² |
 | **Populasi Total** | ± 32 juta jiwa (Mortal Suku Es, Kultivator Istana Salju, Alkemis Ramuan Es, Pemburu Bulu Es) |
 | **Total Kekayaan** | ± 390 juta Tael Perak |
-| **Kerapatan Qi (Qi Density)** | **Frost & Ice Qi Modifier ×1.30** (+25% Purity Alkimia Elemen Es, +20% Bonus Damage Hukum Es Purba) |
+| **Kerapatan Qi (Qi Density)** | **Frost & Ice Qi Modifier ×1.30** (+25% Purity Alkimia Elemen Es, +20% Bonus Damage Akar Spiritual Es Purba) |
 | **Jarak Antar-Kota** | 250–700 li (Dapat ditempuh lewat Kereta Sled Serigala Es, Kapal Terbang Salju, dan Jalur Gua Kristal Es) |
 | **Monster Khas Wilayah** | Rubah Es Berekor Dua (Tier 2), Serigala Salju Pemburu (Tier 3), Beruang Es Kristal Purba (Tier 4), Naga Purba Beihan (Tier 9) |
 
@@ -73,5 +73,5 @@ Puncak tertinggi di Beihan Zhou setinggi 8.000 meter. Tempat mekarnya Lotus Es 1
 
 ## 3. Sekte & Perguruan di Beihan Zhou
 
-1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`38_HANBING_SNOW_PALACE.md`]: Sekte Utama pemurni jiwa dengan spesialisasi Hukum Es Purba, Pembekuan Area, dan Seni Pedang Es.
+1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`38_HANBING_SNOW_PALACE.md`]: Sekte Utama pemurni jiwa dengan spesialisasi Akar Spiritual Es Purba, Pembekuan Area, dan Seni Pedang Es.
 2. **Perguruan Alkimia Es Beihan (Beihan Frost Alchemist Academy / 北寒冰药谷)** [`29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`]: Perguruan Spesialis alkimia es, ekstraksi herbal salju, dan pemurnian ramuan pemulih dantian.

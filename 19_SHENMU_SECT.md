@@ -9,7 +9,7 @@
 
 ## 1. Lore, Sejarah & Pendiri Sekte
 
-Sekte Induk Shenmu didirikan 10.000 tahun lalu oleh **Laozi Shenmu**, seorang pembudidaya pertapa yang pertama kali mencapai ranah *Shenhuang Jing* dengan memahami Hukum Kayu Abadi di bawah dahan Pohon Induk Shenmu.
+Sekte Induk Shenmu didirikan 10.000 tahun lalu oleh **Laozi Shenmu**, seorang pembudidaya pertapa yang pertama kali mencapai ranah *Shenhuang Jing* dengan memahami Akar Spiritual Kayu Abadi di bawah dahan Pohon Induk Shenmu.
 
 Sekte ini memiliki ajaran utama: *"Menjaga Keseimbangan Alam adalah Menjaga Fondasi Keabadian"*. Sekte Induk Shenmu bertindak sebagai pelindung Hutan Purba Wansen dan penyedia obat-obatan penyembuh bagi para kultivator yang terluka akibat pertempuran atau kemunduran dantian.
 
@@ -26,11 +26,11 @@ Sekte ini memiliki ajaran utama: *"Menjaga Keseimbangan Alam adalah Menjaga Fond
 
 ---
 
-## 3. Kurikulum Teknik & Hukum Sekte
+## 3. Kurikulum Teknik & Akar Spiritual Sekte
 
 1. **Teknik Dasar:** *Sembuhan Sulur Hijau (Green Vine Heal)* — Memulihkan 20% HP & Menghilangkan status racun ringan.
 2. **Teknik Menengah:** *Ikatan Root Purba (Root Bind)* — Mengunci pergerakan musuh selama 2 turn (-30% Hit Chance musuh).
-3. **Teknik Utama:** *Hukum Kayu Abadi Shenmu (Shenmu Immortal Law)* — Meningkatkan Max HP +30%, Regenerasi Qi +10% per turn, dan imunitas terhadap racun alam Grade 1–3.
+3. **Teknik Utama:** *Akar Spiritual Kayu Abadi Shenmu (Shenmu Immortal Law)* — Meningkatkan Max HP +30%, Regenerasi Qi +10% per turn, dan imunitas terhadap racun alam Grade 1–3.
 
 ---
 

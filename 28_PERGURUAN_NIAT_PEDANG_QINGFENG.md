@@ -4,7 +4,7 @@
 > **Kategori:** Perguruan Spesialis Keheningan Pikiran & Sword Intent
 > **Afiliasi Induk:** Bermitra dengan Paviliun Pedang Canglong (`23_CANGLONG_SWORD_PAVILION.md`)
 > **Lokasi:** Desa Qingfeng, Canglong Zhou (`04_CANGLONG_ZHOU.md`)
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 

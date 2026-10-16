@@ -3,13 +3,13 @@
 > **Modul:** 35 — Chiyan Palace
 > **Kategori:** Sekte Utama Penguasa Api & Lava
 > **Lokasi:** Kawah Lava Shendu, Chiyan Zhou (`05_CHIYAN_ZHOU.md`)
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 
 ## 1. Profil & Spesialisasi Sekte
 
-Istana Api Chiyan adalah sekte utama penguasa energi elemen api dan manipulasi lava di Xuantian World. Didirikan di atas Kawah Lava Shendu, para kultivator sekte ini menguasai *Hukum Api Purba Chiyan*, mampu mengubah Qi Api menjadi ledakan dahsyat dan ombak lava pembakar zirah.
+Istana Api Chiyan adalah sekte utama penguasa energi elemen api dan manipulasi lava di Xuantian World. Didirikan di atas Kawah Lava Shendu, para kultivator sekte ini menguasai *Akar Spiritual Api Purba Chiyan*, mampu mengubah Qi Api menjadi ledakan dahsyat dan ombak lava pembakar zirah.
 
 ---
 
@@ -23,11 +23,11 @@ Istana Api Chiyan adalah sekte utama penguasa energi elemen api dan manipulasi l
 
 ---
 
-## 3. Kurikulum Teknik & Hukum Sekte
+## 3. Kurikulum Teknik & Akar Spiritual Sekte
 
 1. **Teknik Dasar:** *Sentuhan Api Merah* — Melapisi senjata dengan kobaran api untuk tambahan Fire Damage.
 2. **Teknik Menengah:** *Ombak Lava Pembakar Zirah* — Serangan area pembakar zirah musuh.
-3. **Teknik Utama:** *Hukum Api Purba Chiyan (Chiyan Ancient Fire Law)* — Meningkatkan Damage Api +40% dan memberikan Imunitas terhadap serangan elemen api Grade 1–4.
+3. **Teknik Utama:** *Akar Spiritual Api Purba Chiyan (Chiyan Ancient Fire Law)* — Meningkatkan Damage Api +40% dan memberikan Imunitas terhadap serangan elemen api Grade 1–4.
 
 ---
 

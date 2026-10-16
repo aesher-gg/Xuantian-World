@@ -2,7 +2,7 @@
 
 > **Modul:** 11 — Juejing Zhou
 > **Tema:** Forbidden Zone / High-Risk High-Reward / Spirit Beast Kuno Purba / Anomali Ruang & Formasi Purba Liar
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `18_BESTIARY.md`, `33_PERGURUAN_EKSPLORASI_JUEJING.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `18_BESTIARY.md`, `33_PERGURUAN_EKSPLORASI_JUEJING.md`, `INDEX.md`
 
 ---
 

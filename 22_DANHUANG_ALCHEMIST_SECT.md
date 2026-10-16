@@ -22,7 +22,7 @@ Sekte Alkimia terkemuka penguasa resep Pill Breakthrough Ningyuan, Lingyi, dan X
 
 ---
 
-## 3. Kurikulum Teknik & Hukum Sekte
+## 3. Kurikulum Teknik & Akar Spiritual Sekte
 
 1. **Teknik Dasar:** *Ekstraksi Saripati Herbal* — Memurnikan tanaman obat dengan efisiensi +20%.
 2. **Teknik Menengah:** *Pengendalian Api Danhuang* — Menstabilkan suhu kuali untuk mencegah ledakan obat.

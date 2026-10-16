@@ -32,7 +32,7 @@ Tempelkan link `INDEX.md` disertai blok **Profil Karakter** terakhir dari percak
 * **`01_WORLD_OVERVIEW_AND_CAPITAL.md`**: Geografi 10 Wilayah & Ibu Kota Tianjing.
 * **`02_SHENMU_ZHOU.md` s/d `11_JUEJING_ZHOU.md`**: 10 File Wilayah Utama (Pinyin Tionghoa) termasuk Wilayah Kayu/Alam Shenmu Zhou, Wilayah Api Chiyan Zhou, Wilayah Transportasi Tiangong Zhou, dll.
 * **`12_CROSS_REGION_ORGANIZATIONS.md`**: Guild Alkemis, Serikat Kapal Terbang, Guild Penjinak Beast, Guild Formasi/Jimat, dan Serikat Penempa.
-* **`13_CULTIVATION_LAW_SYSTEM.md`**: 9 Ranah Kultivasi Unik (Lingquan hingga Hunyuan), Breakthrough, & Tribulasi Petir.
+* **`13_SPIRITUAL_ROOT_SYSTEM.md`**: 9 Ranah Kultivasi Unik (Lingquan hingga Hunyuan), Breakthrough, & Tribulasi Petir.
 * **`14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`**: Sistem Mekanik Berkebun Obat, Menjinakkan Spirit Beast, Alkemis, Kapal Terbang, Formasi, Penempa, dan Jimat.
 * **`15_ECONOMY_SYSTEM.md`**: Ekonomi, Batu Spirit, Tiket Kapal Terbang, dan Harga Bahan.
 * **`16_VITALITY_HUNGER_SYSTEM.md`**: HP, Stamina, Kelaparan, dan Racun Pill.

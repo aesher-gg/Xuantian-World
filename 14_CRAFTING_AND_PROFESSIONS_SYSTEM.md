@@ -2,7 +2,7 @@
 
 > **Modul:** 14 — Crafting & Professions Systems
 > **Genre:** Xianxia Hardcore Realism
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `INDEX.md`
 
 ---
 
@@ -11,15 +11,15 @@
 Sistem berkebun memungkinkan kultivator menanam benih herbal spirit untuk digunakan sendiri dalam Alkimia atau dijual ke pasar obat.
 
 ### 1.1 Grade Tanah Spirit & Formula Waktu Tumbuh (Growth Time Calculation)
-Waktu tumbuh tanaman obat spirit dihitung berdasarkan waktu standar benih dikurangi bonus grade tanah, pupuk Qi, dan Hukum Kayu Abadi:
+Waktu tumbuh tanaman obat spirit dihitung berdasarkan waktu standar benih dikurangi bonus grade tanah, pupuk Qi, dan Akar Spiritual Kayu Abadi:
 
 `BaseGrowthDays = SeedStandardGrowthDays`
 `SoilMultiplier = Grade 1 (1.0) | Grade 2 (0.75) | Grade 3 (0.50) | Grade 4 (0.25)`
 `FertilizerDiscount = 0.30 (jika menggunakan Pupuk Qi Kayu) | 0.00 (tanpa pupuk)`
-`WoodLawBonus = 0.30 (jika kultivator memiliki Hukum Kayu) | 0.00`
-`ActualGrowthDays = Max(1, BaseGrowthDays × SoilMultiplier × (1.0 - FertilizerDiscount - WoodLawBonus))`
+`WoodRootBonus = 0.30 (jika kultivator memiliki Akar Spiritual Kayu) | 0.00`
+`ActualGrowthDays = Max(1, BaseGrowthDays × SoilMultiplier × (1.0 - FertilizerDiscount - WoodRootBonus))`
 
-*Contoh:* Benih Lotus Es Abadi (Base: 14 hari) ditanam di Tanah Spirit Grade 3 (0.50) dengan Pupuk Qi (0.30) oleh pemegang Hukum Kayu (0.30):
+*Contoh:* Benih Lotus Es Abadi (Base: 14 hari) ditanam di Tanah Spirit Grade 3 (0.50) dengan Pupuk Qi (0.30) oleh pemegang Akar Spiritual Kayu (0.30):
 `ActualGrowthDays = 14 × 0.50 × (1.0 - 0.30 - 0.30) = 7 × 0.40 = 2.8 Hari (dibulatkan 3 Hari).`
 
 ### 1.2 Formula Hasil Panen (Crop Yield Formula)

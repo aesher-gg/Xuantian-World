@@ -1,15 +1,15 @@
 # 🔔 Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)
 
 > **Modul:** 37 — Golden Bell Monastery
-> **Kategori:** Sekte Utama Kultivasi Fisik & Hukum Pertahanan Emas
+> **Kategori:** Sekte Utama Kultivasi Fisik & Akar Spiritual Pertahanan Emas
 > **Lokasi:** Kota Huangsha, Xixuan Zhou (`07_XIXUAN_ZHOU.md`)
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 
 ## 1. Profil & Spesialisasi Sekte
 
-Kuil Lonceng Emas Gurun adalah sekte pertapaan terkemuka yang berpusat di Xixuan Zhou. Sekte ini berfokus pada penataan kekuatan raga murni (*Body Tempering*) dan penguasaan *Hukum Lonceng Emas Purba*, menciptakan perisai pertahanan mutlak yang tidak dapat ditembus oleh serangan fisik maupun sihir biasa.
+Kuil Lonceng Emas Gurun adalah sekte pertapaan terkemuka yang berpusat di Xixuan Zhou. Sekte ini berfokus pada penataan kekuatan raga murni (*Body Tempering*) dan penguasaan *Akar Spiritual Lonceng Emas Purba*, menciptakan perisai pertahanan mutlak yang tidak dapat ditembus oleh serangan fisik maupun sihir biasa.
 
 ---
 
@@ -23,11 +23,11 @@ Kuil Lonceng Emas Gurun adalah sekte pertapaan terkemuka yang berpusat di Xixuan
 
 ---
 
-## 3. Kurikulum Teknik & Hukum Sekte
+## 3. Kurikulum Teknik & Akar Spiritual Sekte
 
 1. **Teknik Dasar:** *Telapak Vajra Pelindung* — Pukulan jarak dekat bertenaga fisik murni.
 2. **Teknik Menengah:** *Perisai Lonceng Emas Suci* — Menciptakan kubah pertahanan menyerap 40% damage.
-3. **Teknik Utama:** *Hukum Lonceng Emas Purba (Golden Bell Law)* — Meningkatkan Defense Fisik +50%, Max HP +30%, dan imunitas status Stun/Knockback.
+3. **Teknik Utama:** *Akar Spiritual Lonceng Emas Purba (Golden Bell Law)* — Meningkatkan Defense Fisik +50%, Max HP +30%, dan imunitas status Stun/Knockback.
 
 ---
 

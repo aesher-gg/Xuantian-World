@@ -2,7 +2,7 @@
 
 > **Modul:** 04 — Canglong Zhou
 > **Tema:** Qi Angin & Logam / Pegunungan Tajam / Seni Pedang & Pedang Intent / Penjinakan Beast Pegunungan
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `23_CANGLONG_SWORD_PAVILION.md`, `28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `23_CANGLONG_SWORD_PAVILION.md`, `28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`, `INDEX.md`
 
 ---
 

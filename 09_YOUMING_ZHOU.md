@@ -73,5 +73,5 @@ Lembah terisolasi yang dipenuhi sarang *Laba-laba Bayangan Malam (Tier 2)* dan t
 
 ## 3. Sekte & Perguruan di Youming Zhou
 
-1. **Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)** [`39_YOUMING_DEMONIC_PALACE.md`]: Sekte Utama penguasa Hukum Bayangan, Api Hitam, dan Seni Pertempuran Gelap.
+1. **Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)** [`39_YOUMING_DEMONIC_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Bayangan, Api Hitam, dan Seni Pertempuran Gelap.
 2. **Perguruan Racun Youming (Youming Poison Academy / 幽冥毒影宗)** [`30_PERGURUAN_RACUN_YOUMING.md`]: Perguruan Spesialis alkimia toksik, formulasi racun pelumpuh Qi, jarum rahasia, dan formasi bayangan.
