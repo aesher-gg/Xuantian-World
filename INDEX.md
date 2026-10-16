@@ -27,7 +27,7 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
    - **Juejing Zhou (Zona Terlarang):** `11_JUEJING_ZHOU.md` (Pos Depan Juejing, Lembah Retakan Ruang, Jurus Anomali Petir Tanah, Reruntuhan Medan Perang Purba)
 
 3. **Sesuai Aktivitas & Profesi:**
-   - **Penerobosan Ranah / Tribulasi:** `13_CULTIVATION_LAW_SYSTEM.md`
+   - **Penerobosan Ranah / Tribulasi:** `13_SPIRITUAL_ROOT_SYSTEM.md`
    - **Berkebun / Penjinakan Beast / Alkimia / Airship / Formasi / Penempa / Jimat:** `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`
    - **Transaksi / Harga / Tiket Airship:** `15_ECONOMY_SYSTEM.md`
    - **Pencekeran Vitalitas / HP / Kelaparan:** `16_VITALITY_HUNGER_SYSTEM.md`
@@ -53,7 +53,7 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 | 10 | `10_TIANGONG_ZHOU.md` | Pusat Airship Lintas Wilayah & Kota Melayang | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/10_TIANGONG_ZHOU.md |
 | 11 | `11_JUEJING_ZHOU.md` | Zona Terlarang & Anomali Ruang | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/11_JUEJING_ZHOU.md |
 | 12 | `12_CROSS_REGION_ORGANIZATIONS.md` | Guild Airship, Alkemis, Beast Tamer, Lelang Wanbao | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/12_CROSS_REGION_ORGANIZATIONS.md |
-| 13 | `13_CULTIVATION_LAW_SYSTEM.md` | 9 Ranah Kultivasi Unik & 5 Hukum Elemen | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/13_CULTIVATION_LAW_SYSTEM.md |
+| 13 | `13_SPIRITUAL_ROOT_SYSTEM.md` | 9 Ranah Kultivasi Unik & 5 Hukum Elemen | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/13_SPIRITUAL_ROOT_SYSTEM.md |
 | 14 | `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` | Formula Berkebun, Beast, Alkimia, Airship, Formasi, Forging, Talisman | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/14_CRAFTING_AND_PROFESSIONS_SYSTEM.md |
 | 15 | `15_ECONOMY_SYSTEM.md` | Dynamic Price Formula & Conversion Rates | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/15_ECONOMY_SYSTEM.md |
 | 16 | `16_VITALITY_HUNGER_SYSTEM.md` | Max HP Formula, Fasting, Pill Toxins | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/16_VITALITY_HUNGER_SYSTEM.md |
@@ -82,7 +82,7 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 | 39 | `39_YOUMING_DEMONIC_PALACE.md` | 🏔️ Sekte Api Iblis Youming | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/39_YOUMING_DEMONIC_PALACE.md |
 | 40 | `40_WANDERING_PHYSICIAN_ASSOCIATION.md` | 🌐 Perhimpunan Tabib Pengembara Lintas Wilayah | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/40_WANDERING_PHYSICIAN_ASSOCIATION.md |
 | 41 | `41_CUSTOM_EVENTS.md` | 🎭 Peristiwa Khusus & Event Dunia | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/41_CUSTOM_EVENTS.md |
-| 42 | `42_CUSTOM_LAWS.md` | 📜 Hukum Kultivasi Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/42_CUSTOM_LAWS.md |
+| 42 | `42_CUSTOM_SPIRITUAL_ROOTS.md` | 📜 Akar Spiritual Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/42_CUSTOM_SPIRITUAL_ROOTS.md |
 | 43 | `43_CUSTOM_SECTS.md` | 🏯 Sekte & Perguruan Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/43_CUSTOM_SECTS.md |
 | 44 | `44_CUSTOM_TECHNIQUES.md` | ⚔️ Teknik & Jurus Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/44_CUSTOM_TECHNIQUES.md |
 | Hub | `players.md` | 📇 Katalog Read-Only Karakter Awal | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players.md |

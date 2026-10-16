@@ -3,13 +3,13 @@
 > **Modul:** 34 — Tianjing Sword Sect
 > **Kategori:** Sekte Utama Kekaisaran
 > **Lokasi:** Kota Tianjing, Zhonghua Zhou (`01_WORLD_OVERVIEW_AND_CAPITAL.md`, `03_ZHONGHUA_ZHOU.md`)
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 
 ## 1. Profil & Spesialisasi Sekte
 
-Sekte Pedang Kekaisaran Tianjing adalah sekte elit pelindung dinasti Kekaisaran Xuantian yang berpusat di Kota Tianjing. Sekte ini mendidik prajurit pedang pengawal istana dengan disiplin militer ketat dan seni pedang lurus kerajaan (*Imperial Straight Sword Technique*) yang menggabungkan Qi Bintang dan Kekuatan Hukum Kekaisaran.
+Sekte Pedang Kekaisaran Tianjing adalah sekte elit pelindung dinasti Kekaisaran Xuantian yang berpusat di Kota Tianjing. Sekte ini mendidik prajurit pedang pengawal istana dengan disiplin militer ketat dan seni pedang lurus kerajaan (*Imperial Straight Sword Technique*) yang menggabungkan Qi Bintang dan Kekuatan Akar Spiritual Kekaisaran.
 
 ---
 
@@ -23,11 +23,11 @@ Sekte Pedang Kekaisaran Tianjing adalah sekte elit pelindung dinasti Kekaisaran 
 
 ---
 
-## 3. Kurikulum Teknik & Hukum Sekte
+## 3. Kurikulum Teknik & Akar Spiritual Sekte
 
 1. **Teknik Dasar:** *Tebasan Pedang Lurus Kekaisaran* — Tebasan cepat berdaya tembus armor.
 2. **Teknik Menengah:** *Formasi Pedang Sembilan Naga* — Mengunci pergerakan musuh dan menurunkan Hit Chance musuh -25%.
-3. **Teknik Utama:** *Hukum Pedang Bintang Kekaisaran (Imperial Star Sword Law)* — Meningkatkan Defense +30% dan Critical Damage +25%.
+3. **Teknik Utama:** *Akar Spiritual Pedang Bintang Kekaisaran (Imperial Star Sword Law)* — Meningkatkan Defense +30% dan Critical Damage +25%.
 
 ---
 

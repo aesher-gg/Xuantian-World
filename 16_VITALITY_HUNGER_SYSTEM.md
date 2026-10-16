@@ -1,34 +1,34 @@
 # 🩸 Sistem Vitalitas, HP, Kelaparan & Formula Matematika Xuantian World
 
 > **Modul:** 16 — Vitality & Hunger System
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 
 ## 1. Formula Matematika Max HP, Stamina & Regenerasi Alami
 
-Status ketahanan fisik kultivator ditentukan oleh Ranah Kultivasi, Stage, serta Hukum Elemen yang dipelajari:
+Status ketahanan fisik kultivator ditentukan oleh Ranah Kultivasi, Stage, serta Akar Spiritual yang dimiliki:
 
 ### 1.1 Formula HP Maksimal (Max HP Formula)
 `BaseQiCap = RealmBaseQiCap(realm) × StageMultiplier(stage)`
-`MaxHP = BaseQiCap × 0.40 × LawHPMultiplier × (1 + BodyFortificationBonus)`
+`MaxHP = BaseQiCap × 0.40 × SpiritualRootHPMultiplier × (1 + BodyFortificationBonus)`
 
-*Tabel LawHPMultiplier:*
-* **Hukum Kayu Abadi (Wood Law):** `× 1.50`
-* **Hukum Batu & Segel (Earth Law):** `× 1.40`
-* **Hukum Air & Es (Water/Ice Law):** `× 1.20`
-* **Hukum Angin & Pedang (Wind/Metal Law):** `× 1.00`
-* **Hukum Api Purba (Fire Law):** `× 0.90`
+*Tabel SpiritualRootHPMultiplier:*
+* **Akar Spiritual Kayu Abadi (Wood Root):** `× 1.50`
+* **Akar Spiritual Tanah & Segel (Earth Root):** `× 1.40`
+* **Akar Spiritual Air & Es (Water/Ice Root):** `× 1.20`
+* **Akar Spiritual Angin & Logam (Wind/Metal Root):** `× 1.00`
+* **Akar Spiritual Api Purba (Fire Root):** `× 0.90`
 
-*Contoh Calculation:* Kultivator Ranah *Kaimai Jing* Stage Tengah (750 Base Qi) dengan Hukum Kayu Abadi (1.50):
+*Contoh Calculation:* Kultivator Ranah *Kaimai Jing* Stage Tengah (750 Base Qi) dengan Akar Spiritual Kayu Abadi (1.50):
 `MaxHP = 750 × 0.40 × 1.50 = 450 HP.`
 
 ### 1.2 Formula Max Stamina
 `MaxStamina = 100 + (RealmIndex × 20) + (BodyIntegrationStage × 10)`
 
 ### 1.3 Formula Regenerasi HP Alami (Natural HP Regeneration)
-`HPRegenPerHour = MaxHP × 0.05 × LawRegenMultiplier × EnvironmentQiMultiplier`
-*(Hukum Kayu memberikan LawRegenMultiplier 1.5x, lingkungan Shenmu Zhou memberikan EnvironmentQiMultiplier 1.3x).*
+`HPRegenPerHour = MaxHP × 0.05 × RootRegenMultiplier × EnvironmentQiMultiplier`
+*(Akar Spiritual Kayu memberikan RootRegenMultiplier 1.5x, lingkungan Shenmu Zhou memberikan EnvironmentQiMultiplier 1.3x).*
 
 ---
 

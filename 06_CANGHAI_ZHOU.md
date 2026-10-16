@@ -83,5 +83,5 @@ Benteng es raksasa hasil pembekuan tsunami purba 5.000 tahun lalu. Tembok es ini
 
 ## 3. Sekte & Perguruan di Canghai Zhou
 
-1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`36_JADE_OCEAN_PALACE.md`]: Sekte Utama pelindung lautan dengan spesialisasi Hukum Air Purba, Manipulasi Gelombang, dan Es Samudra.
+1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`36_JADE_OCEAN_PALACE.md`]: Sekte Utama pelindung lautan dengan spesialisasi Akar Spiritual Air Purba, Manipulasi Gelombang, dan Es Samudra.
 2. **Balai Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)** [`31_PERGURUAN_PELAYARAN_CANGHAI.md`]: Perguruan / Sekte Spesialis kemudi kapal terbang laut, pemetaan arus angin, dan teknik pertempuran laut-udara.

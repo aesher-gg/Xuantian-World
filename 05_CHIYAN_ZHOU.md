@@ -83,6 +83,6 @@ Jaringan gua di bawah Kawah Shendu yang berisikan sungai lava pekat. Tempat pela
 
 ## 3. Sekte & Perguruan di Chiyan Zhou
 
-1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`35_CHIYAN_PALACE.md`]: Sekte Utama penguasa Hukum Api Purba dan teknik pengontrolan Lava.
+1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`35_CHIYAN_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Api Purba dan teknik pengontrolan Lava.
 2. **Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)** [`22_DANHUANG_ALCHEMIST_SECT.md`]: Sekte Utama Alkimia terkemuka penguasa resep Pill Breakthrough.
 3. **Perguruan Penempa Besi Shendu (Shendu Forging Academy / 神都锻造学院)** [`24_PERGURUAN_PENEMPA_SHENDU.md`]: Perguruan Spesialis yang melatih seni peleburan logam spirit, meteorit api, dan penempaan jiwa.

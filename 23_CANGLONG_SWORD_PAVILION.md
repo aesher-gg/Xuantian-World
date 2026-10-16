@@ -3,7 +3,7 @@
 > **Modul:** 23 — Canglong Sword Pavilion
 > **Kategori:** Sekte Utama Seni Pedang
 > **Lokasi:** Puncak Canglong, Canglong Zhou (`04_CANGLONG_ZHOU.md`)
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 
@@ -23,11 +23,11 @@ Paviliun Pedang Canglong didirikan 4.000 tahun lalu oleh **Grandmaster Qinglong*
 
 ---
 
-## 3. Kurikulum Teknik & Hukum Sekte
+## 3. Kurikulum Teknik & Akar Spiritual Sekte
 
 1. **Teknik Dasar:** *Tebasan Angin Taring Besi* — Serangan pedang cepat menembus 15% zirah musuh.
 2. **Teknik Menengah:** *Seni Pedang Terbang Canglong* — Mengendalikan 3 pedang terbang bersamaan.
-3. **Teknik Utama:** *Hukum Niat Pedang Canglong (Canglong Sword Intent Law)* — Meningkatkan ATK Pedang +35% dan efektivitas Critical Hit +20%.
+3. **Teknik Utama:** *Akar Spiritual Niat Pedang Canglong (Canglong Sword Intent Law)* — Meningkatkan ATK Pedang +35% dan efektivitas Critical Hit +20%.
 
 ---
 

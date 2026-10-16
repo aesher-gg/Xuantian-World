@@ -73,5 +73,5 @@ Ngarai batu pasir berliku seluas 1.000 li yang dipenuhi jebakan formasi segel ta
 
 ## 3. Sekte & Perguruan di Xixuan Zhou
 
-1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`37_GOLDEN_BELL_MONASTERY.md`]: Sekte Utama pembudidaya fisik/tubuh tahan pukulan dengan Hukum Pertahanan Lonceng Emas.
+1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`37_GOLDEN_BELL_MONASTERY.md`]: Sekte Utama pembudidaya fisik/tubuh tahan pukulan dengan Akar Spiritual Pertahanan Lonceng Emas.
 2. **Sekte Jimat Gurun Huangsha (Huangsha Talisman Sect / 黄沙符箓宗)** [`25_PERGURUAN_JIMAT_HUANGSHA.md`]: Sekte / Perguruan Spesialis pembuatan kertas jimat spirit, tinta darah beast, dan inskripsi rune pertahanan.

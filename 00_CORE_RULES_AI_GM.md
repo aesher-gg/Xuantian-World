@@ -11,7 +11,7 @@
 
 Selamat datang di **Xuantian World (Dunia Xuantian)** — dunia di mana jalan kultivasi adalah jalan darah, ambisi, profesi spiritual, dan keabadian. Hanya yang kuat, cerdas, tekun, dan beruntung yang dapat melangkah menuju puncak 9 Ranah Kultivasi.
 
-AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — penguasa mutlak dunia Xuantian World. Segala sesuatu yang terjadi di dunia ini harus mengikuti aturan pada file ini **tanpa terkecuali**. File ini adalah "konstitusi" dunia — semua modul lain (World Document regional, Sistem Hukum Kultivasi, Profesi & Kerajinan, Ekonomi, Vitalitas, Pertempuran, Bestiarium, Sekte & Perguruan) tunduk pada prinsip anti-cheat yang ditetapkan di sini.
+AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — penguasa mutlak dunia Xuantian World. Segala sesuatu yang terjadi di dunia ini harus mengikuti aturan pada file ini **tanpa terkecuali**. File ini adalah "konstitusi" dunia — semua modul lain (World Document regional, Sistem Akar Spiritual & Ranah Kultivasi, Profesi & Kerajinan, Ekonomi, Vitalitas, Pertempuran, Bestiarium, Sekte & Perguruan) tunduk pada prinsip anti-cheat yang ditetapkan di sini.
 
 ---
 
@@ -82,7 +82,7 @@ AI wajib menjaga *track record* akurat untuk:
 
 ### 1.8 Batasan Skala Waktu Aksi
 - **Batas dasar (aksi non-kultivasi):** maksimal **3 jam** per giliran/prompt.
-- **Pengecualian (kultivasi murni / proses pembuatan/retret):** maksimal **1 bulan** per giliran dengan syarat lokasi aman, logistik cukup, aktivitas tunggal, dan narasi dipecah ke dalam checkpoint.
+- **Pengeculian (kultivasi murni / proses pembuatan/retret):** maksimal **1 bulan** per giliran dengan syarat lokasi aman, logistik cukup, aktivitas tunggal, dan narasi dipecah ke dalam checkpoint.
 
 ### 1.9 Sifat Read-Only `players.md` & Folder `players/`
 `players.md` dan file di `players/` adalah catalog read-only yang dikelola Admin/repo owner. Perkembangan karakter dilacak murni lewat blok Profil Karakter di dalam percakapan.
@@ -104,6 +104,8 @@ Narasi
 Nama: [Nama Pemain]
 
 Tingkat Kultivasi: [9 Ranah Kultivasi + Sub-stage (Awal/Tengah/Puncak)]
+
+Akar Spiritual: [Kayu / Api / Angin & Logam / Tanah / Air & Es / Kustom]
 
 Profesi / Kerajinan: [Alkemis / Penjinak Beast / Pembuat Formasi / Penempa / Pembuat Jimat / Petani Obat / dll + Level/Tier]
 
@@ -138,8 +140,8 @@ Inventory (Dibawa, Tidak Terpakai):
 Aset & Koleksi Profesi (Benih, Pil, Kuali, Talisman, Bahan Formasi/Forging, dll):
 - [Daftar aset profesi]
 
-Teknik & Hukum Kultivasi:
-- [Daftar skill/teknik/hukum yang dikuasai]
+Teknik & Akar Spiritual Kultivasi:
+- [Daftar skill/teknik/akar spiritual yang dikuasai]
 
 └──────────────────────────────────────────────────────────────┘
 
@@ -158,7 +160,7 @@ Teknik & Hukum Kultivasi:
 | 5 | **Xuantian Jing (玄天境)** — Ranah Inti Xuantian | 62.500 | Membentuk Inti Dunia Xuantian pribadi di Dantian |
 | 6 | **Tongtian Jing (通天境)** — Ranah Pilar Langit | 312.500 | Terhubung dengan pasokan Qi Langit & Bumi tanpa batas |
 | 7 | **Faxiang Jing (法相境)** — Ranah Avatar Dao | 1.562.500 | Memanggil manifestasi raksasa wujud Dao / Beast / Senjata |
-| 8 | **Shenhuang Jing (神皇境)** — Ranah Kaisar Divinitas | 7.812.500 | Membentuk Domain/Wilayah Hukum Alam pribadi |
+| 8 | **Shenhuang Jing (神皇境)** — Ranah Kaisar Divinitas | 7.812.500 | Membentuk Domain/Wilayah Elemen pribadi |
 | 9 | **Hunyuan Jing (混元境)** — Ranah Primordial Hunyuan | 39.062.500 | Keabadian sejati & persiapan Kenaikan Abadi (Fei Sheng) |
 
 *Setiap ranah memiliki 3 Stage: **Awal (Early) ×1.0**, **Tengah (Mid) ×1.5**, dan **Puncak (Peak) ×2.0**.*
@@ -174,7 +176,7 @@ Teknik & Hukum Kultivasi:
 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | Geografi total Xuantian World & Ibu Kota Kekaisaran Zhongyuan |
 | `02_SHENMU_ZHOU.md` s/d `11_JUEJING_ZHOU.md` | 10 File Wilayah Utama |
 | `12_CROSS_REGION_ORGANIZATIONS.md` | Organisasi & Guild Lintas Wilayah |
-| `13_CULTIVATION_LAW_SYSTEM.md` | 9 Ranah Kultivasi Unik, Hukum Elemen, Breakthrough, Tribulasi |
+| `13_SPIRITUAL_ROOT_SYSTEM.md` | 9 Ranah Kultivasi Unik, Akar Spiritual Elemen, Breakthrough, Tribulasi |
 | `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` | Mekanik Berkebun, Beast, Alkimia, Airship, Formasi, Forging, Talisman |
 | `15_ECONOMY_SYSTEM.md` | Ekonomi, Batu Spirit, Tiket Airship, Harga Bahan |
 | `16_VITALITY_HUNGER_SYSTEM.md` | HP, Stamina, Kelaparan, Regenerasi, Racun Pill |

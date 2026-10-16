@@ -1,15 +1,15 @@
 # ❄️ Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)
 
 > **Modul:** 38 — Hanbing Snow Palace
-> **Kategori:** Sekte Utama Pemurni Jiwa & Hukum Es Purba
+> **Kategori:** Sekte Utama Pemurni Jiwa & Akar Spiritual Es Purba
 > **Lokasi:** Kota Hanbing, Beihan Zhou (`08_BEIHAN_ZHOU.md`)
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 
 ---
 
 ## 1. Profil & Spesialisasi Sekte
 
-Sekte Istana Salju Abadi Hanbing adalah sekte utama penguasa Puncak Es Abadi di Beihan Zhou. Sekte ini mengajarkan *Hukum Es Purba Hanbing*, melatih ketenangan jiwa bak es dan tebasan pedang pembeku darah yang mampu menghentikan regenerasi Qi dan pergerakan musuh secara instan.
+Sekte Istana Salju Abadi Hanbing adalah sekte utama penguasa Puncak Es Abadi di Beihan Zhou. Sekte ini mengajarkan *Akar Spiritual Es Purba Hanbing*, melatih ketenangan jiwa bak es dan tebasan pedang pembeku darah yang mampu menghentikan regenerasi Qi dan pergerakan musuh secara instan.
 
 ---
 
@@ -23,11 +23,11 @@ Sekte Istana Salju Abadi Hanbing adalah sekte utama penguasa Puncak Es Abadi di 
 
 ---
 
-## 3. Kurikulum Teknik & Hukum Sekte
+## 3. Kurikulum Teknik & Akar Spiritual Sekte
 
 1. **Teknik Dasar:** *Tebasan Jarum Es Salju* — Serangan tusukan es menusuk titik meridian musuh.
 2. **Teknik Menengah:** *Pembekuan Meridien Frost* — Mengunci skill dan regenerasi Qi musuh selama 1 turn.
-3. **Teknik Utama:** *Hukum Es Purba Hanbing (Hanbing Ancient Frost Law)* — Meningkatkan Damage Es +35%, Evasion +20%, dan imunitas terhadap status Burn.
+3. **Teknik Utama:** *Akar Spiritual Es Purba Hanbing (Hanbing Ancient Frost Law)* — Meningkatkan Damage Es +35%, Evasion +20%, dan imunitas terhadap status Burn.
 
 ---
 

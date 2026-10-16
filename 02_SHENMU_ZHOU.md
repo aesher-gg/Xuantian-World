@@ -87,6 +87,6 @@ Dataran luas bekas Bencana Bunga Bangkai Purba. Tanah berpigmen abu hijau ini me
 
 ## 3. Sekte & Perguruan di Shenmu Zhou
 
-1. **Sekte Induk Shenmu (Shenmu Spirit Sect / 神木宗)** [`19_SHENMU_SECT.md`]: Sekte Utama pelindung Pohon Shenmu dan penguasa Hukum Kayu Abadi.
+1. **Sekte Induk Shenmu (Shenmu Spirit Sect / 神木宗)** [`19_SHENMU_SECT.md`]: Sekte Utama pelindung Pohon Shenmu dan penguasa Akar Spiritual Kayu Abadi.
 2. **Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)** [`20_PERGURUAN_BERKEBUN_BIYANG.md`]: Perguruan Spesialis teknik analisis tanah, benih obat, dan pupuk Qi Kayu.
 3. **Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)** [`21_PERGURUAN_BEAST_QINGLING.md`]: Perguruan Spesialis komunikasi empati, kontrak kesetaraan, dan taktik Spirit Beast.

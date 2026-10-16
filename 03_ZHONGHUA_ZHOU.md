@@ -13,7 +13,7 @@
 | **Luas Wilayah** | ± 8,0 juta li² |
 | **Populasi Total** | ± 110 juta jiwa (Wilayah Paling Padat & Pusat Pemerintahan Kekaisaran) |
 | **Total Kekayaan** | ± 1,2 Miliar Tael Perak |
-| **Kerapatan Qi (Qi Density)** | **Netral Seimbang ×1.0** (Cocok untuk semua Hukum Kultivasi tanpa penalti maupun bonus) |
+| **Kerapatan Qi (Qi Density)** | **Netral Seimbang ×1.0** (Cocok untuk semua Akar Spiritual Kultivasi tanpa penalti maupun bonus) |
 | **Jarak Antar-Kota** | 100–400 li (Sangat terhubung lewat Jalan Raya Kekaisaran & Dermaga Kapal Terbang) |
 | **Monster Khas Wilayah** | Roh Prajurit Gugur (Tier 2), Naga Sungai Longjiang (Tier 4), Macan Besi Pegunungan (Tier 3), Naga Bintang Hunyuan (Tier 9) |
 
@@ -21,7 +21,7 @@
 
 ## 1. Lore, Sejarah Purba & Mitos Regional Lengkap
 
-Zhonghua Zhou adalah jantung peradaban Xuantian World. Di sinilah berdiri **Kota Tianjing**, ibu kota Kekaisaran Xuantian yang ditenagai oleh Formasi Purba *Bintang Sembilan Naga*. Menurut inskripsi sejarah kekaisaran, dinasti Kekaisaran didirikan 50.000 tahun lalu oleh **Kaisar Primordial Xuantian I** yang berhasil menyatukan suku-suku fana dan merancang Hukum Perdamaian Fana-Kultivator.
+Zhonghua Zhou adalah jantung peradaban Xuantian World. Di sinilah berdiri **Kota Tianjing**, ibu kota Kekaisaran Xuantian yang ditenagai oleh Formasi Purba *Bintang Sembilan Naga*. Menurut inskripsi sejarah kekaisaran, dinasti Kekaisaran didirikan 50.000 tahun lalu oleh **Kaisar Primordial Xuantian I** yang berhasil menyatukan suku-suku fana dan merancang Akar Spiritual Perdamaian Fana-Kultivator.
 
 ### Bencana Pemberontakan Sembilan Pangeran (Nine Princes Rebellion)
 12.000 tahun lalu, sembilan pangeran kekaisaran memperebutkan Tahta Bintang Sembilan Naga dengan mengerahkan tentara kultivator sesat dan Formasi Bencana Api. Pertempuran sengit ini menghancurkan Kota Luoyang Lama dan menciptakan **Lembah Medan Perang Kuno (Ancient Battlefield Valley)** di mana jutaan roh prajurit gugur masih mengembara hingga hari ini. Pemberontakan ini akhirnya dipadamkan setelah Aliansi Sekte Utama interven untuk menegakkan ketertiban dinasti Kekaisaran.
