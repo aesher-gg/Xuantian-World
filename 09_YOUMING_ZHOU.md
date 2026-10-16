@@ -15,13 +15,16 @@
 | **Total Kekayaan** | ± 450 juta Tael Perak (Pasar Gelap & Komoditas Racun) |
 | **Kerapatan Qi (Qi Density)** | **Shadow & Poison Qi Modifier ×1.25** (+25% Potensi Kerusakan Racun Alkimia, +20% Kerahasiaan Formasi Bayangan) |
 | **Jarak Antar-Kota** | 200–650 li (Dapat ditempuh lewat Jalur Kereta Bayangan, Perahu Rawa Spirit, dan Gua Rawa Gelap) |
-| **Monster Khas Wilayah** | Ular Rawa Taring Hitam (Tier 2), Kutu Iblis Pemakan Qi (Tier 3), Kalajengking Bayangan Purba (Tier 4) |
+| **Monster Khas Wilayah** | Ular Rawa Taring Hitam (Tier 2), Kutu Iblis Pemakan Qi (Tier 3), Kalajengking Bayangan Purba (Tier 4), Naga Purba Youming (Tier 9) |
 
 ---
 
-## 1. Lore, Sejarah Purba & Mitos Regional
+## 1. Lore, Sejarah Purba & Mitos Regional Lengkap
 
-Youming Zhou adalah wilayah terisolasi di bawah naungan kabut hitam membendung sinar matahari di selatan-barat Xuantian World. Menurut legenda purba, tanah wilayah ini tercemar oleh **Darah Iblis Purba** yang tumpah saat Bencana Retakan Ruang, mengubah tanaman dan rawa menjadi habitat tanaman racun mematikan dan energi Qi Bayangan yang pekat.
+Youming Zhou adalah wilayah terisolasi di bawah naungan kabut hitam membendung sinar matahari di selatan-barat Xuantian World. Menurut legenda purba, tanah wilayah ini tercemar oleh **Darah Iblis Purba** yang tumpah saat Bencana Retakan Ruang 100.000 tahun lalu, mengubah tanaman dan rawa menjadi habitat tanaman racun mematikan dan energi Qi Bayangan yang pekat.
+
+### Bencana Wabah Kabut Racun Hitam (Black Mist Poison Calamity)
+4.500 tahun lalu, retakan rawa tua di Rawa Racun Duwu meletus dan menyemburkan kabut racun *Black-Mist Poison* yang menewaskan ribuan mortal dan mencemari aliran air. Istana Api Iblis Youming dan Perguruan Racun bersatu meracik **Pill Netralisir Racun Hitam Massal**, menyuling kabut beracun tersebut menjadi bahan baku pembuatan racun jarum rahasia.
 
 ### Mitos Sang Ratu Racun (Legend of the Poison Queen)
 2.900 tahun lalu, **Grandmaster Racun Youming** meracik **Racun Tujuh Langkah Pembunuh Jiwa** pertama di Rawa Racun Duwu. Dengan racun tersebut, ia berhasil menaklukkan serangan pasukan musuh tanpa harus mengayunkan satu senjata pun. Peristiwa ini memicu berdirinya **Perguruan Racun Youming** dan menjadikan Youming Zhou sebagai pusat perdagangan racun, jarum rahasia, dan inskripsi jimat bayangan.
@@ -47,6 +50,24 @@ Rawa seluas ribuan li yang diselimuti kabut hijau beracun. Habitat utama bagi *B
 | NPC / Buronan | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Pencuri Kaki Hantu** | Buronan Lintas Wilayah | 39 | *Lingyi Jing*, Puncak | **25.000** | *Jurus Tangan Bayangan Pencuri* — Mencuri barang dari kantong penyimpan musuh | Cerdik, licik, lihai melarikan diri di tengah medan rawa beracun |
+
+---
+
+### 2.3 Bukit Tengkorak Hitam (黑骷髅山 - Black Skull Ridge)
+Bukit batu hitam berbentuk tengkorak raksasa bekas situs pertempuran kuno. Di bukit ini terdapat banyak gua bayangan dan tempat latihan pembunuhan sunyi.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Instruktor Shadow-Blade Gui** | Instruktur Pembunuh Istana Youming | 65 | *Xuantian Jing*, Puncak | **125.000** | *Tebasan Bayangan Tanpa Wujud* — Serangan berkecepatan tinggi dari posisi tersembunyi | Pendiam, disiplin ketat melatih ketangkasan bergerak di malam hari |
+
+---
+
+### 2.4 Lembah Kabut Kelam ( 幽雾谷 - Dark-Mist Valley)
+Lembah terisolasi yang dipenuhi sarang *Laba-laba Bayangan Malam (Tier 2)* dan tempat pengambilan *Sutra Bayangan Spirit*.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Guru Serpent-Tooth Mo** | Guru Ekstraksi Racun Perguruan Youming | 88 | *Xuantian Jing*, Menengah | **93.750** | *Ekstraksi Bisul Ular Rawa* — Memurnikan racun hewani tanpa risiko keracunan diri | Cold, licik, sangat ahli menakar dosis racun mematikan |
 
 ---
 

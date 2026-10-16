@@ -15,16 +15,19 @@
 | **Total Kekayaan** | ± 520 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Metal & Wind Qi Modifier ×1.20** (+25% Kecepatan Latihan Sword Intent, +20% Bonus Damage Seni Pedang) |
 | **Jarak Antar-Kota** | 250–750 li (Dapat ditempuh lewat jalur terbang pedang, kapal terbang spirit, dan jalan setapak tebing) |
-| **Monster Khas Wilayah** | Elang Angin Taring Besi (Tier 2), Macan Tutul Petir Pegunungan (Tier 3), Naga Spirit Sisik Perak (Tier 4) |
+| **Monster Khas Wilayah** | Elang Angin Taring Besi (Tier 2), Macan Tutul Petir Pegunungan (Tier 3), Naga Spirit Sisik Perak (Tier 4), Naga Purba Canglong (Tier 9) |
 
 ---
 
-## 1. Lore, Sejarah Purba & Mitos Regional
+## 1. Lore, Sejarah Purba & Mitos Regional Lengkap
 
-Canglong Zhou adalah tanah suci bagi setiap pembudidaya pedang di Xuantian World. Menurut legenda kuno, ribuan puncak gunung di Canglong Zhou terbentuk ketika **Naga Purba Canglong** dijatuhkan dari alam langit saat Bencana Retakan Ruang. Tubuh naga purba tersebut membatu menjadi rantai pegunungan terjal, sementara napas pedang terakhirnya meresap ke dalam batuan gunung, menciptakan energi Sword Intent alami yang melimpah.
+Canglong Zhou adalah tanah suci bagi setiap pembudidaya pedang di Xuantian World. Menurut legenda kuno, ribuan puncak gunung di Canglong Zhou terbentuk ketika **Naga Purba Canglong** dijatuhkan dari alam langit saat Bencana Retakan Ruang 100.000 tahun lalu. Tubuh naga purba tersebut membatu menjadi rantai pegunungan terjal, sementara napas pedang terakhirnya meresap ke dalam batuan gunung, menciptakan energi Sword Intent alami yang melimpah.
+
+### Bencana Serangan Kawanan Elang Badai Besi (Storm-Eagle Plague)
+2.500 tahun lalu, kawanan Elang Badai Besi Tier 5 bermigrasi dari utara dan bersarang di Puncak Wanshou, mengancam seluruh desa di kaki pegunungan. Paviliun Pedang Canglong menurunkan 1.000 pendekar pedang terbang yang bertarung selama 30 hari 30 malam. Tebasan pedang kombinasi mereka berhasil mengusir kawanan elang dan mengukir jurus pedang purba di tebing batu **Puncak Tebasan Naga (Dragon-Slash Peak)**.
 
 ### Mitos Tebasan Membelah Awan (Cloud-Sliver Legend)
-4.000 tahun lalu, Pendiri Paviliun Pedang Canglong, **Grandmaster Qinglong**, bertapa di Puncak Wanshou selama 100 tahun. Saat mencapai ketenangan sempurna, ia mengayunkan pedangnya dan membelah awan setinggi ribuan li. Bekas tebasan pedangnya menciptakan **Lembah Pedang Berbisik (Whispering Sword Valley)**, di mana para pendekar pedang muda hingga kini berkumpul untuk mempelajari kehendak Niat Pedang (Sword Intent).
+4.000 tahun lalu, Pendiri Paviliun Pedang Canglong, **Grandmaster Qinglong**, bertapa di Puncak Wanshou selama 100 tahun. Saat mencapai ketenangan sempurna, ia mengayunkan pedangnya dan membelah awan setinggi ribuan li. Bekas tebasan pedangnya menciptakan **Lembah Pedang Berbisik (Whispering Sword Valley)**, di mana para pendekar pedang muda hingga kini berkumpul untuk mempelajari kehendak Niat Pedang (*Sword Intent*).
 
 ---
 
@@ -58,6 +61,24 @@ Lembah terlarang yang dipenuhi aura Sword Intent liar dan makam ratusan pedang p
 | NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Pertapa Pedang Tua** | Penjaga Makam Pedang Purba | 210 | *Shenhuang Jing*, Awal | **7.812.500** | *Niat Pedang Sunyi Membunuh Jiwa* — Mengabaikan zirah fisik dan menyerang Jiwa | Eksentrik, jarang bicara, hanya muncul bila ada orang berniat merusak makam pedang |
+
+---
+
+### 2.4 Puncak Tebasan Naga (龙斩峰 - Dragon-Slash Peak)
+Puncak gunung karang tajam setinggi 5.000 meter. Di tebing batu puncak ini terukir ratusan inskripsi tebasan pedang purba dari para pendekar ranah *Faxiang Jing*.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Tetua Feng Jian** | Tetua Pedang Terbang Paviliun Canglong | 110 | *Faxiang Jing*, Awal | **1.562.500** | *1.000 Pedang Terbang Badai* — Serangan hujan pedang jarak jauh | Tegas, lincah, ahli taktik pertempuran udara & pertahanan puncak |
+
+---
+
+### 2.5 Ngarai Bambu Pedang (剑竹峡 - Sword-Bamboo Gorge)
+Ngarai terisolasi di mana bambu-bambu batu tumbuh sekeras pedang besi. Ngarai ini adalah habitat utama *Monyet Pedang Tebing (Tier 2)* dan tempat pengambilan bahan pembuatan sarung pedang spirit.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Penebang Bambu Old Zhang** | Pengumpul Bambu Besi Spirit | 68 | *Ningyuan Jing*, Awal | **2.500** | *Tebasan Kapak Bambu Qi* — Memotong bambu besi dalam sekali ayunan | Pekerja keras, ramah, tahu lokasi koloni monyet pedang di ngarai |
 
 ---
 

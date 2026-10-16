@@ -15,13 +15,16 @@
 | **Total Kekayaan** | ± 680 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Fire Qi Modifier ×1.30** (+25% Kecepatan Alkimia Suhu Tinggi, +20% Success Rate Penempaan Senjata Spirit) |
 | **Jarak Antar-Kota** | 200–600 li (Dapat ditempuh lewat jalur transportasi kereta besi spirit & kapal terbang pelindung panas) |
-| **Monster Khas Wilayah** | Kadal Lava Berlapis Besi (Tier 2), Kalajengking Abu Vulkanik (Tier 3), Salamander Api Purba (Tier 4) |
+| **Monster Khas Wilayah** | Kadal Lava Berlapis Besi (Tier 2), Kalajengking Abu Vulkanik (Tier 3), Salamander Api Purba (Tier 4), Naga Purba Bintang Api (Tier 9) |
 
 ---
 
-## 1. Lore, Sejarah Purba & Mitos Regional
+## 1. Lore, Sejarah Purba & Mitos Regional Lengkap
 
 Chiyan Zhou adalah pusat energi panas dan penempaan terbesar di Xuantian World. Menurut mitologi kuno, wilayah ini lahir ketika **Jantung Bintang Api Purba** jatuh menghantam benua ribuan dekade lalu, memicu kebangkitan ratusan gunung berapi aktif dan mengalirkan sungai lava berisikan Qi Api murni.
+
+### Bencana Letusan Kawah Shendu (Shendu Volcanic Eruption Calamity)
+4.200 tahun lalu, Kawah Shendu mengalami erupsi besar yang menyemburkan gelombang lava hitam setinggi ribuan meter. Gelombang lava ini merusak belasan benteng permukiman. Istana Api Chiyan dan para penempa Shendu bersatu mengukir **Formasi Segel Lava Purba Grade 8** di sekeliling dinding kawah, menjinakkan luapan api dan mengubah energi kawah menjadi sumber tenaga penempaan abadi.
 
 ### Mitos Penempaan Bintang Api (Firestar Forging Legend)
 3.500 tahun lalu, **Grandmaster Penempa Shendu** menemukan **Urat Api Bintang Lava** di kedalaman Kawah Shendu. Dengan memanfaatkan nyala Api Spirit Alami kawah tersebut, ia berhasil menempa *Pedang Pembelah Lava Grade 8* pertama tanpa memerlukan bantuan kuali lebur biasa. Peristiwa ini melahirkan reputasi Chiyan Zhou sebagai kiblat penempaan zirah dan senjata paling tahan panas di seluruh 10 Wilayah.
@@ -57,6 +60,24 @@ Gunung berapi dormant berudara sejuk di bagian utara Chiyan Zhou. Tempat berdiri
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Master Danhuang** | Pemimpin Sekte Alkimia Danhuang | 195 | *Shenhuang Jing*, Awal | **7.812.500** | *Manipulasi Api Danhuang Tiga Warna* — Memurnikan Pill Grade 8 dengan Purity 99% | Calm, intelektual tinggi, hanya bersedia meracik obat bagi pembudidaya berbudi mulia |
+
+---
+
+### 2.4 Lembah Meteorit Merah (赤陨谷 - Red Meteorite Valley)
+Lembah kawah bekas tumpahan sisa pecahan Bintang Api Purba. Lembah ini kaya akan bijih *Besi Meteorit Spirit* dan habitat *Salamander Api Purba (Tier 4)*.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Penambang Old Lie** | Ahli Ekstraksi Bijih Meteorit | 65 | *Xuantian Jing*, Awal | **62.500** | *Palu Pemecah Batu Meteorit* — Menyarikan logam spirit tanpa merusak seratnya | Kasar, jujur, menguasai struktur geologi gua meteorit Chiyan |
+
+---
+
+### 2.5 Gua Lava Hitam (黑熔洞 - Black Lava Caverns)
+Jaringan gua di bawah Kawah Shendu yang berisikan sungai lava pekat. Tempat pelatihan raga ketahanan panas ekstrem bagi para penempa senior.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pertapa Api Lie** | Pertapa Penempa Raga Lava | 140 | *Faxiang Jing*, Menengah | **2.343.750** | *Raga Besi Lava Mendidih* — Imunitas total dari kerusakan elemen api | Eksentrik, bertubuh merah kekar, hanya bicara pada penempa berbakat |
 
 ---
 
