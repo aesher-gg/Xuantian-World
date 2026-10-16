@@ -15,13 +15,16 @@
 | **Total Kekayaan** | ± 950 juta Tael Perak (Monopoli Penerbangan & Galangan Kapal) |
 | **Kerapatan Qi (Qi Density)** | **Wind & Space Qi Modifier ×1.35** (+30% Kecepatan Penerbangan Kapal Terbang, -25% Konsumsi Batu Spirit Navigasi) |
 | **Jarak Antar-Kota** | 100–500 li (Dapat ditempuh lewat Jalur Airship Ekspres, Piringan Formasi Melayang, dan Terbang Pedang) |
-| **Monster Khas Wilayah** | Burung Angin Taring Besi (Tier 2), Rajawali Badai Langit (Tier 3), Naga Terbang Langit Tiangong (Tier 6) |
+| **Monster Khas Wilayah** | Burung Angin Taring Besi (Tier 2), Rajawali Badai Langit (Tier 3), Naga Terbang Langit Tiangong (Tier 6), Rajawali Purba Hunyuan (Tier 9) |
 
 ---
 
-## 1. Lore, Sejarah Purba & Mitos Regional
+## 1. Lore, Sejarah Purba & Mitos Regional Lengkap
 
-Tiangong Zhou dahulunya adalah rantai gunung tertinggi di pusat benua. Saat Bencana Retakan Ruang Purba, para Master Formasi Purba memotong puncak-puncak gunung tersebut dan menanamkan **Kristal Ruang Purba (Ancient Space Crystal)** di akarnya, membuat puncak-puncak tersebut terangkat dan melayang abadi di angkasa.
+Tiangong Zhou dahulunya adalah rantai gunung tertinggi di pusat benua. Saat Bencana Retakan Ruang Purba 100.000 tahun lalu, para Master Formasi Purba memotong puncak-puncak gunung tersebut dan menanamkan **Kristal Ruang Purba (Ancient Space Crystal)** di akarnya, membuat puncak-puncak tersebut terangkat dan melayang abadi di angkasa.
+
+### Bencana Badai Guntur Udara (Sky-Thunder Storm Calamity)
+3.000 tahun lalu, badai guntur udara raksasa menghantam jalur penerbangan Tiangong Zhou dan merusak 20 Kapal Terbang Merchant Galleon. Serikat Airship Tiangong merancang **Barrier Formasi Angin Pelindung Feichuan** pertama, melengkapi seluruh kapal penerbangan dengan penangkal petir udara.
 
 ### Mitos Sang Pilot Pertama (Legend of the First Pilot)
 3.800 tahun lalu, Master Mekanik **Tiangong Zi** merancang **Feichuan Spirit Tier 1** pertama. Dengan memanfaatkan Piringan Formasi Angin dan Batu Spirit, ia berhasil menerbangkan kapal kayu menembus lapisan awan dari Tiangong Zhou menuju Kota Tianjing di Zhonghua Zhou. Penemuan ini mengubah sejarah komersial Xuantian World dan mendirikan **Serikat Kapal Terbang Tiangong**.
@@ -35,7 +38,7 @@ Ibu kota melayang raksasa yang ditenagai oleh Formasi Ruang Purba Grade 9. Di pu
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| **Grandmaster Tiangong Zi** | Pendiri Perguruan Formasi Tiangong & Ketua Serikat Airship | 190 | *Shenhuang Jing*, Menengah | **11.718.750** | *Formasi Segel Ruang Langit Tujuh Bintang* — Menghentikan pergerakan kapal & musuh di udara | Sangat jenius, bijaksana, selalu terobsesi dengan inovasi formasi penerbangan baru |
+| **Grandmaster Tiangong Zi** | Pendiri Perguruan Formasi Tiangong & Ketua Serikat Airship | 190 | *Shenhuang Jing*, Menengah | **11.718.750** | *Formasi Segel Ruang Langit Tujuh Bintang* — Menghentikan pergerakan kapal & musuh di udara | Jenius, bijaksana, selalu terobsesi dengan inovasi formasi penerbangan baru |
 | **Kapten Senior Feiyun** | Kepala Instruktor Perguruan Kemudi Tiangong | 62 | *Faxiang Jing*, Awal | **1.562.500** | *Kemudi Udara Pembelah Badai Kilat* — Manuver ekstrim menghindari hantaman petir udara | Disiplin ketat, tenang saat menghadapi badai udara, tegas menguji calon pilot |
 | **Mekanik Master Lu Ban** | Kepala Galangan Kapal Shenhang | 88 | *Xuantian Jing*, Puncak | **125.000** | *Palu Restorasi Lambung Kapal* — Memperbaiki kerusakan mekanis kapal spirit dalam hitungan menit | Eksentrik, cerewet, sangat menyukai desain kapal terbang yang efisien dan kokoh |
 
@@ -47,6 +50,24 @@ Galangan kapal melayang terbesar di mana ratusan mekanik dan pembuat formasi mer
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Penyelia Gao** | Penanggung Jawab Penjualan & Kustomisasi Feichuan | 45 | *Lingyi Jing*, Menengah | **18.750** | *Mata Taksir Lambung Kayu Spirit* — Mengetahui kapasitas muatan & ketahanan Feichuan | Ramah, pandai bernegosiasi, jujur memberikan rekomendasi jenis kapal |
+
+---
+
+### 2.3 Dermaga Levitasi Awan (浮云码头 - Floating Cloud Docks)
+Dermaga tempat berlabuhnya ribuan Kapal Terbang Spirit ekspres dari seluruh 10 Wilayah Utama.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Guru Wind-Rider Lei** | Instruktur Manuver Perguruan Kemudi | 48 | *Xuantian Jing*, Awal | **62.500** | *Tebasan Kemudi Angin Tajam* — Membelah kepungan burung monster di udara | Pemberani, agresif, ahli manuver memutar kapal penerbangan |
+
+---
+
+### 2.4 Menara Navigasi Bintang Langit (星天航行塔 - Star Navigation Tower)
+Menara kristal melayang setinggi 200 meter tempat pemetaan arus angin, rasi bintang malam, dan penentuan lisensi pilot penerbangan Tier 1–5.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Guru Xing Chen** | Guru Navigasi Rasi Bintang | 75 | *Xuantian Jing*, Menengah | **93.750** | *Mata Navigasi Bintang Malam* — Membaca arus angin dan rasi bintang tanpa kompas | Sabar, teliti, sangat berpengalaman dalam pelayaran malam hari |
 
 ---
 

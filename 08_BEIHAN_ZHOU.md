@@ -15,16 +15,19 @@
 | **Total Kekayaan** | ± 390 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Frost & Ice Qi Modifier ×1.30** (+25% Purity Alkimia Elemen Es, +20% Bonus Damage Hukum Es Purba) |
 | **Jarak Antar-Kota** | 250–700 li (Dapat ditempuh lewat Kereta Sled Serigala Es, Kapal Terbang Salju, dan Jalur Gua Kristal Es) |
-| **Monster Khas Wilayah** | Rubah Es Berekor Dua (Tier 2), Serigala Salju Pemburu (Tier 3), Beruang Es Kristal Purba (Tier 4) |
+| **Monster Khas Wilayah** | Rubah Es Berekor Dua (Tier 2), Serigala Salju Pemburu (Tier 3), Beruang Es Kristal Purba (Tier 4), Naga Purba Beihan (Tier 9) |
 
 ---
 
-## 1. Lore, Sejarah Purba & Mitos Regional
+## 1. Lore, Sejarah Purba & Mitos Regional Lengkap
 
 Beihan Zhou adalah domain padang salju dan puncak es abadi yang terletak di bagian utara Xuantian World. Menurut legenda kuno, wilayah ini membeku abadi setelah **Tetesan Air Mata Es Dewa Primordial** jatuh menyentuh tanah di Zaman Purba, membekukan seluruh ekosistem dan menciptakan **Gua Kristal Es Abadi (Eternal Ice Crystal Cave)**.
 
+### Bencana Pembekuan Jiwa Purba (Soul-Freezing Frost Calamity)
+6.000 tahun lalu, gelombang badai es purba berisikan aura *Frost-Yin Qi* liar berhembus dari kutub utara, mengancam membekukan seluruh dantian pembudidaya di Beihan Zhou. Pendiri Istana Salju Hanbing, **Dewi Es Hanbing**, mengorbankan separuh kultivasinya untuk mendirikan **Formasi Penghangat Spirit Grade 8** di Kota Hanbing, menciptakan zona hangat bagi puluhan ribu mortal dan pembudidaya.
+
 ### Mitos Lotus Es Ribuan Tahun (Legend of the Thousand-Year Ice Lotus)
-3.100 tahun lalu, Pendiri Istana Salju Hanbing, **Dewi Es Hanbing**, menemukan Lotus Es 1.000 Tahun pertama di Puncak Es Abadi. Dengan mengekstraksi embun es teratai tersebut, ia menciptakan **Pill Ramuan Es Pemurni Meridien**, obat legendaris yang mampu memulihkan dantian yang rusak akibat luka bakar atau penyimpangan Qi (Qi Deviation). Penemuan ini mendirikan tradisi alkimia es di Beihan Zhou.
+3.100 tahun lalu, Dewi Es Hanbing menemukan Lotus Es 1.000 Tahun pertama di Puncak Es Abadi. Dengan mengekstraksi embun es teratai tersebut, ia menciptakan **Pill Ramuan Es Pemurni Meridien**, obat legendaris yang mampu memulihkan dantian yang rusak akibat luka bakar atau penyimpangan Qi (*Qi Deviation*). Penemuan ini mendirikan tradisi alkimia es di Beihan Zhou.
 
 ---
 
@@ -47,6 +50,24 @@ Lembah beku yang diselimuti kabut salju tipis. Tempat tumbuhnya herbal langka ti
 | NPC / Suku | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Tetua Suku Salju Xue Ba** | Kepala Suku Pemburu Padang Salju | 72 | *Lingyi Jing*, Puncak | **25.000** | *Panah Taring Serigala Es* — Memanah tepat titik kelemahan beast dari jarak 300 li | Ramah pada tamu yang menghormati tradisi suku, sangat ahli membaca jejak kaki di atas salju |
+
+---
+
+### 2.3 Gua Kristal Es Abadi (万年冰晶洞 - Eternal Ice Crystal Caverns)
+Jaringan gua kristal di bawah Puncak Es Abadi yang bersuhu minus 50 derajat. Tempat pertapaan pemurnian jiwa dan pengambilan *Kristal Es Purba Grade 7*.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Tetua Han Yue** | Tetua Kristal Es Istana Salju Hanbing | 135 | *Faxiang Jing*, Menengah | **2.343.750** | *Badai Kristal Es Pemurni Jiwa* — Membekukan serangan sihir musuh | Calm, tenang, sangat ahli memimpin ritual penyejuk jiwa murid |
+
+---
+
+### 2.4 Puncak Es Abadi (永冻冰峰 - Eternal Frost Peak)
+Puncak tertinggi di Beihan Zhou setinggi 8.000 meter. Tempat mekarnya Lotus Es 1.000 Tahun dan lokasi pengujian keheningan meditasi para alkemis es senior.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Instruktor Frost-Blade Lin** | Instruktur Pedang Es Istana Salju | 52 | *Xuantian Jing*, Puncak | **125.000** | *Tebasan Pedang Es Pembeku Meridien* — Menghentikan aliran Qi musuh | Disiplin, rapi, sangat ketat dalam menguji keheningan pikiran murid |
 
 ---
 

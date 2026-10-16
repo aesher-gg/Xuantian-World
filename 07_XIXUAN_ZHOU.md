@@ -15,13 +15,16 @@
 | **Total Kekayaan** | ± 410 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Earth & Sand Qi Modifier ×1.20** (+25% Ketahanan Pertahanan Formasi Segel, +20% Success Rate Pembuatan Jimat/Talisman) |
 | **Jarak Antar-Kota** | 300–800 li (Dapat ditempuh lewat Unta Spirit Gurun, Kapal Terbang Pasir, dan Penyeberangan Oasis) |
-| **Monster Khas Wilayah** | Cacing Pasir Besi (Tier 2), Kalajengking Emas Pasir (Tier 3), Elang Badai Gurun (Tier 3) |
+| **Monster Khas Wilayah** | Cacing Pasir Besi (Tier 2), Kalajengking Emas Pasir (Tier 3), Elang Badai Gurun (Tier 3), Qilin Pasir Suci (Tier 9) |
 
 ---
 
-## 1. Lore, Sejarah Purba & Mitos Regional
+## 1. Lore, Sejarah Purba & Mitos Regional Lengkap
 
 Xixuan Zhou adalah wilayah gurun pasir emas luas yang menyimpan sisa-sisa peradaban purba terkemuka. Menurut inskripsi kuno di Reruntuhan Kuil Moko, gurun ini dahulunya adalah dataran hijau yang berubah menjadi pasir emas akibat benturan **Telapak Segel Tanah Purba** yang diluncurkan oleh Dewa Primordial Hunyuan saat menyejukkan binatang raksasa purba.
+
+### Bencana Badai Pasir Gila Emas (Golden Crazy Sand-Storm Calamity)
+3.800 tahun lalu, badai pasir gila berisikan energi Qi Tanah liar berkecamuk selama 100 hari tanpa henti, mengubur belasan oasis permukiman. Kuil Lonceng Emas Gurun mengerahkan 500 pertapa raga besi yang membentuk **Formasi Lonceng Emas Raksasa Pelindung Oasis**, menahan laju badai pasir dan menyelamatkan ribuan nyawa mortal.
 
 ### Mitos Kitab Jimat Emas (Legend of the Golden Talisman)
 3.200 tahun lalu, Master Jimat Pertama **Huangsha Master** bertapa di tengah badai pasir gila selama 49 hari. Ia berhasil menangkap kehendak pola badai pasir dan mengukirnya ke atas kertas spirit sutra, menciptakan **Jimat Pelindung Badai Emas** pertama. Penemuan ini menjadi cikal bakal lahirnya **Sekte Jimat Gurun Huangsha** dan tradisi pembuatan jimat pelindung gurun.
@@ -47,6 +50,24 @@ Kompleks kuil batu kuno yang tertimbun pasir gila. Di sinilah para pencari keber
 | NPC / Penjaga | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Biara Tua Yuan Jing** | Pertapa Penjaga Perpustakaan Inskripsi | 130 | *Tongtian Jing*, Puncak | **625.000** | *Sutra Segel Tanah Purba* — Menyegel pergerakan musuh di area 30 meter | Ramah, eksentrik, suka memberikan petunjuk inskripsi jimat pada pembudidaya yang tulus |
+
+---
+
+### 2.3 Oasis Ganlu (甘露绿洲 - Ganlu Oasis)
+Oasis terbesar di Xuantian Zhou yang dikelilingi oleh ribuan pohon kurma spirit. Tempat beristirahatnya ribuan kafilah pedagang gurun dan pasar malam kertas jimat.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pengelola Oasis Nyonya Sha** | Penguasa Pasar Air Spirit Ganlu | 42 | *Xuantian Jing*, Menengah | **93.750** | *Pesona Kipas Pasir Emas* — Menenangkan kelelahan dan meredakan perselisihan | Cerdas, tegas, tidak mengizinkan pertumpahan darah di area oasis |
+
+---
+
+### 2.4 Labirin Batu Pasir Purba (古砂岩迷宫 - Ancient Sandstone Labyrinth)
+Ngarai batu pasir berliku seluas 1.000 li yang dipenuhi jebakan formasi segel tanah alami dan habitat *Cacing Pasir Raksasa (Tier 4)*.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pemburu Harta Old Fu** | Pemandu Reruntuhan Labirin | 58 | *Xuantian Jing*, Awal | **62.500** | *Peta Kompas Pasir Spirit* — Mendeteksi posisi jebakan segel tanah alami | Licik, berpengalaman, menagih biaya komisi batu spirit pada setiap pemanduan |
 
 ---
 

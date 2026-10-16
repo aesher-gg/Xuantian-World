@@ -15,13 +15,16 @@
 | **Total Kekayaan** | ± 580 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Water & Ice Qi Modifier ×1.25** (+25% Kecepatan Navigasi Laut, +20% Success Rate Penjinakan Aquatic Beast) |
 | **Jarak Antar-Kota** | 300–900 li (Dapat ditempuh lewat Kapal Terbang Laut, Perahu Spirit Vena Air, dan Penumpangan Naga Laut) |
-| **Monster Khas Wilayah** | Hiu Bersisik Perak (Tier 3), Siput Mutiara Spirit (Tier 3), Naga Laut Bersisik Giok (Tier 4) |
+| **Monster Khas Wilayah** | Hiu Bersisik Perak (Tier 3), Siput Mutiara Spirit (Tier 2), Naga Laut Bersisik Giok (Tier 4), Naga Purba Canghai (Tier 9) |
 
 ---
 
-## 1. Lore, Sejarah Purba & Mitos Regional
+## 1. Lore, Sejarah Purba & Mitos Regional Lengkap
 
 Canghai Zhou adalah domain samudra biru berkilau yang membentang tak bertepi di bagian timur Xuantian World. Menurut mitos purba, lautan ini tercipta dari tumpahan **Mutiara Purba Canghai** yang dijatuhkan oleh Dewa Primordial Hunyuan untuk meredakan amukan api bencana alam di zaman kuno.
+
+### Bencana Pasang Tsunami Hitam (Black Tsunami Calamity)
+5.000 tahun lalu, Kraken Raksasa Samudra Tier 7 terbangun dari tidur pulasnya di palung laut dalam dan memicu gelombang tsunami setinggi 200 meter. Gelombang ini mengancam melahap ribuan pulau permukiman. Istana Kemurnian Giok Laut dan seluruh armada pelaut Canghai bersatu mengerahkan **Formasi Pembeku Es Samudra**, membekukan gelombang tsunami menjadi tembok es raksasa yang dikenal sebagai **Tembok Es Samudra (Ocean Ice Rampart)**.
 
 ### Mitos Sang Nahkoda Canghai (Legend of the Ocean Navigator)
 2.800 tahun lalu, **Kapten Canghai** memimpin armada perahu spirit pertama menembus **Pusaran Air Maut Lingxiao** yang berjarak 2.000 li dari pantai. Di balik pusaran tersebut, ia menemukan **Kepulauan Mutiara Purba** dan memetakan arus Qi Air pertama. Penemuan ini memicu berdirinya **Balai Pelayaran Canghai** dan membuka era keemasan perdagangan mutiara spirit serta penjinakan binatang laut.
@@ -42,12 +45,39 @@ Pelabuhan raksasa dengan dermaga bertingkat yang menampung ribuan kapal laut spi
 ---
 
 ### 2.2 Kepulauan Xingluo (星罗群岛 - Starfall Isles)
-Gugusan ribuan pulau kecil bercahaya di tengah laut. Tempat tinggal suku nelayan spirit dan lokasi favorit bagi pembudidaya muda untuk berburu **Siput Mutiara Spirit (Tier 3)**.
+Gugusan ribuan pulau kecil bercahaya di tengah laut. Tempat tinggal suku nelayan spirit dan lokasi favorit bagi pembudidaya muda untuk berburu **Siput Mutiara Spirit (Tier 2)**.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Tetua Gu** | Kepala Desa Suku Pelaut Xingluo | 80 | *Ningyuan Jing*, Puncak | **5.000** | *Jala Air Pemicu Arus* — Menangkap beast laut tanpa merusak organ spiritnya | Bijaksana, ramah, pelindung terumbu karang spirit kepulauan |
 | **Penyelam Ah Hai** | Pemuda Penyelam Mutiara Spirit | 19 | *Kaimai Jing*, Puncak | **1.000** | *Tusukan Tombak Taring Hiu* — Serangan tusuk cepat di dalam air | Berani, lincah di air, penuh semangat ingin menjadi kapten kapal terbang |
+
+---
+
+### 2.3 Palung Laut Bintang Giok (玉星海沟 - Jade-Star Trench)
+Palung laut dalam berkedalaman 8.000 meter di mana tanaman *Karang Spirit Bintang* tumbuh dan habitat *Hiu Bersisik Perak (Tier 3)* serta *Naga Laut Bersisik Giok (Tier 4)*.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Penyelam Tua Yu** | Pengumpul Karang Spirit Palung | 72 | *Xuantian Jing*, Menengah | **93.750** | *Pernapasan Insang Air Spirit* — Menahan tekanan air palung laut dalam | Pendiam, bertubuh kebal dingin, tahu lokasi sarang naga laut |
+
+---
+
+### 2.4 Kepulauan Mutiara Purba (古珠群岛 - Ancient Pearl Atolls)
+Gugusan atoll batu karang putih yang dilingkupi terumbu karang bercahaya. Tempat tumbuh utama tanaman obat *Rumput Laut Es Spirit* dan Mutiara Hunyuan Laut.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Tetua Yu Qing** | Tetua Es Samudra Istana Giok Laut | 125 | *Faxiang Jing*, Menengah | **2.343.750** | *Pembekuan Kristal Giok Laut* — Membekukan permukaan laut & musuh | Cold, tenang, ahli taktik pertahanan wilayah kepulauan |
+
+---
+
+### 2.5 Tembok Es Samudra (海冰长城 - Ocean Ice Rampart)
+Benteng es raksasa hasil pembekuan tsunami purba 5.000 tahun lalu. Tembok es ini berdiri kokoh di tengah laut sebagai menara pengawas invasi monster laut dalam.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Komandan Wave-Breaker Zhang** | Kepala Garnisun Tembok Es | 50 | *Xuantian Jing*, Puncak | **125.000** | *Tebasan Meriam Air Spirit* — Mengarahkan tembakan energi air pertahanan | Disiplin, pemberani, ahli taktik pertempuran jarak jauh di laut |
 
 ---
 
