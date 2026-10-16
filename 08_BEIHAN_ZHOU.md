@@ -1,31 +1,56 @@
 # ❄️ Beihan Zhou (北寒州) — Wilayah Es Abadi Utara & Ramuan Salju
 
 > **Modul:** 08 — Beihan Zhou
-> **Tema:** Qi Es & Salju / Padang Es Abadi / Alkimia Ramuan Es / Beast Padang Salju
-> **Rujukan:** `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `INDEX.md`
+> **Tema:** Qi Es & Salju / Padang Es Abadi / Alkimia Ramuan Es / Beast Padang Salju & Pembekuan Meridien
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`, `38_HANBING_SNOW_PALACE.md`, `INDEX.md`
 
 ---
 
-## 1. Profil Wilayah Beihan Zhou
+## Fakta Cepat Wilayah
 
-* **Luas Wilayah:** ± 6,2 juta li²
-* **Kerapatan Qi:** Qi Es (Frost Qi) Sangat Tinggi (Bonus +25% Ketahanan Efek Panas & +20% Purity Alkimia Elemen Es)
-* **Pusat Utama:** Kota Hanbing (寒冰城 - Frost City)
-* **Lingkungan:** Gunung es abadi, padang salju membeku, gua kristal es, dan aurora malam yang bersinar.
+| Parameter | Nilai / Spesifikasi |
+|---|---|
+| **Luas Wilayah** | ± 6,2 juta li² |
+| **Populasi Total** | ± 32 juta jiwa (Mortal Suku Es, Kultivator Istana Salju, Alkemis Ramuan Es, Pemburu Bulu Es) |
+| **Total Kekayaan** | ± 390 juta Tael Perak |
+| **Kerapatan Qi (Qi Density)** | **Frost & Ice Qi Modifier ×1.30** (+25% Purity Alkimia Elemen Es, +20% Bonus Damage Hukum Es Purba) |
+| **Jarak Antar-Kota** | 250–700 li (Dapat ditempuh lewat Kereta Sled Serigala Es, Kapal Terbang Salju, dan Jalur Gua Kristal Es) |
+| **Monster Khas Wilayah** | Rubah Es Berekor Dua (Tier 2), Serigala Salju Pemburu (Tier 3), Beruang Es Kristal Purba (Tier 4) |
 
 ---
 
-## 2. Lokasi Kunci & Permukiman
+## 1. Lore, Sejarah Purba & Mitos Regional
 
-### 2.1 Kota Hanbing (寒冰城)
-Kota berpindingkan es murni yang ditenagai oleh Formasi Penghangat Spirit. Pusat perdagangan Lotus Es 1.000 Tahun dan Bulu Serigala Salju.
+Beihan Zhou adalah domain padang salju dan puncak es abadi yang terletak di bagian utara Xuantian World. Menurut legenda kuno, wilayah ini membeku abadi setelah **Tetesan Air Mata Es Dewa Primordial** jatuh menyentuh tanah di Zaman Purba, membekukan seluruh ekosistem dan menciptakan **Gua Kristal Es Abadi (Eternal Ice Crystal Cave)**.
+
+### Mitos Lotus Es Ribuan Tahun (Legend of the Thousand-Year Ice Lotus)
+3.100 tahun lalu, Pendiri Istana Salju Hanbing, **Dewi Es Hanbing**, menemukan Lotus Es 1.000 Tahun pertama di Puncak Es Abadi. Dengan mengekstraksi embun es teratai tersebut, ia menciptakan **Pill Ramuan Es Pemurni Meridien**, obat legendaris yang mampu memulihkan dantian yang rusak akibat luka bakar atau penyimpangan Qi (Qi Deviation). Penemuan ini mendirikan tradisi alkimia es di Beihan Zhou.
+
+---
+
+## 2. Lokasi Kunci, Permukiman & Roster NPC Detail
+
+### 2.1 Kota Hanbing (寒冰城 - Frost City)
+Kota berpindingkan blok es murni yang ditenagai oleh Formasi Penghangat Spirit Grade 6. Di pusat kota terdapat Pasar Kristal Es, tempat lelang Lotus Es, Bulu Serigala Salju, dan Daging Beast Es.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Dewi Salju Leng Wushuang** | Pemimpin Istana Salju Hanbing & Penguasa Kota | 165 | *Faxiang Jing*, Puncak | **3.125.000** | *Tebasan Pedang Es Abadi Membawa Xue* — Pembekuan instan area 100 meter | Dingin, sangat anggun, bersikap tegas pada siapapun yang berniat merusak hutan es |
+| **Master Xue Dan** | Kepala Perguruan Alkimia Es Beihan | 105 | *Faxiang Jing*, Awal | **1.562.500** | *Ekstraksi Embun Es Purba* — Meracik Ramuan Es Purity 98% tanpa risiko pembakaran kuali | Teliti, tenang, menyukai murid yang memiliki kejelian dan kesabaran tinggi |
+| **Kapten Han Feng** | Komandan Pengawal Benteng Gerbang Es | 48 | *Xuantian Jing*, Menengah | **93.750** | *Perisai Kristal Es Pembendung Wind* — Menahan serangan fisik dan badai | Disiplin, jujur, berpengalaman menahan gempuran serigala salju di musim dingin |
+
+---
 
 ### 2.2 Lembah Xueyuan (雪原谷 - Snowfield Valley)
-Lembah beku tempat tumbuhnya herbal langka tipe es dan habitat Serigala Es Pemburu.
+Lembah beku yang diselimuti kabut salju tipis. Tempat tumbuhnya herbal langka tipe es seperti *Akar Es Biru* dan *Bunga Snowdrop Spirit*, serta habitat utama Serigala Salju Pemburu.
+
+| NPC / Suku | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Tetua Suku Salju Xue Ba** | Kepala Suku Pemburu Padang Salju | 72 | *Lingyi Jing*, Puncak | **25.000** | *Panah Taring Serigala Es* — Memanah tepat titik kelemahan beast dari jarak 300 li | Ramah pada tamu yang menghormati tradisi suku, sangat ahli membaca jejak kaki di atas salju |
 
 ---
 
-## 3. Sekte Utama di Beihan Zhou
+## 3. Sekte & Perguruan di Beihan Zhou
 
-1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`38_HANBING_SNOW_PALACE.md`]: Sekte pemurni jiwa dengan Hukum Es Purba.
-2. **Lembah Es Beihan (Beihan Frost Valley / 北寒冰药谷)** [`29_BEIHAN_FROST_VALLEY.md`]: Sekte alkimia es spesialis ekstraksi herbal es dan racikan pemurni meridien.
+1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`38_HANBING_SNOW_PALACE.md`]: Sekte Utama pemurni jiwa dengan spesialisasi Hukum Es Purba, Pembekuan Area, dan Seni Pedang Es.
+2. **Perguruan Alkimia Es Beihan (Beihan Frost Alchemist Academy / 北寒冰药谷)** [`29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`]: Perguruan Spesialis alkimia es, ekstraksi herbal salju, dan pemurnian ramuan pemulih dantian.

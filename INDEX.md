@@ -1,6 +1,6 @@
 # 🧭 INDEX.md — Hub Navigasi Utama Xuantian World
 
-> **Versi:** 3.0 (Edisi Xuantian World Modular)
+> **Versi:** 3.1 (Edisi Xuantian World Modular & Enriched)
 > **Repo Base RAW Link:** `https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/`
 
 ---
@@ -15,16 +15,16 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 
 2. **Sesuai Lokasi Karakter Saat Ini:**
    - **Ibu Kota / General:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`
-   - **Shenmu Zhou (Kayu/Alam/Berkebun):** `02_SHENMU_ZHOU.md`
-   - **Zhonghua Zhou (Dataran Tengah):** `03_ZHONGHUA_ZHOU.md`
-   - **Canglong Zhou (Pegunungan Pedang):** `04_CANGLONG_ZHOU.md`
-   - **Chiyan Zhou (Gunung Berapi/Forging):** `05_CHIYAN_ZHOU.md`
-   - **Canghai Zhou (Kepulauan/Laut):** `06_CANGHAI_ZHOU.md`
-   - **Xixuan Zhou (Gurun/Talisman):** `07_XIXUAN_ZHOU.md`
-   - **Beihan Zhou (Padang Es/Alkimia Es):** `08_BEIHAN_ZHOU.md`
-   - **Youming Zhou (Iblis/Racun):** `09_YOUMING_ZHOU.md`
-   - **Tiangong Zhou (Airship/Kota Melayang):** `10_TIANGONG_ZHOU.md`
-   - **Juejing Zhou (Zona Terlarang):** `11_JUEJING_ZHOU.md`
+   - **Shenmu Zhou (Kayu/Alam/Berkebun):** `02_SHENMU_ZHOU.md` (Kota Shenmu, Desa Qingling, Lembah Biyang)
+   - **Zhonghua Zhou (Dataran Tengah):** `03_ZHONGHUA_ZHOU.md` (Kota Tianjing, Kota Luoyang)
+   - **Canglong Zhou (Pegunungan Pedang):** `04_CANGLONG_ZHOU.md` (Kota Canglong, Desa Qingfeng, Lembah Pedang Berbisik)
+   - **Chiyan Zhou (Gunung Berapi/Forging):** `05_CHIYAN_ZHOU.md` (Kota Shendu, Desa Chishui, Puncak Danhuang)
+   - **Canghai Zhou (Kepulauan/Laut):** `06_CANGHAI_ZHOU.md` (Kota Pelabuhan Haibin, Kepulauan Xingluo)
+   - **Xixuan Zhou (Gurun/Talisman):** `07_XIXUAN_ZHOU.md` (Kota Huangsha, Reruntuhan Kuil Moko)
+   - **Beihan Zhou (Padang Es/Alkimia Es):** `08_BEIHAN_ZHOU.md` (Kota Hanbing, Lembah Xueyuan)
+   - **Youming Zhou (Iblis/Racun):** `09_YOUMING_ZHOU.md` (Kota Heian, Rawa Racun Duwu)
+   - **Tiangong Zhou (Airship/Kota Melayang):** `10_TIANGONG_ZHOU.md` (Benteng Melayang Tiangong, Galangan Shenhang)
+   - **Juejing Zhou (Zona Terlarang):** `11_JUEJING_ZHOU.md` (Pos Depan Juejing, Lembah Retakan Ruang)
 
 3. **Sesuai Aktivitas & Profesi:**
    - **Penerobosan Ranah / Tribulasi:** `13_CULTIVATION_LAW_SYSTEM.md`

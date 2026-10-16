@@ -1,8 +1,8 @@
-# 🐉 Canglong Zhou (苍龙州) — Pegunungan Azure Dragon & Sekte Pedang
+# 🐉 Canglong Zhou (苍龙州) — Pegunungan Pedang & Lembah Naga Spirit
 
 > **Modul:** 04 — Canglong Zhou
-> **Tema:** Pegunungan Tinggi / Qi Angin & Logam / Sekte Pedang / Pertapaan puncak gunung
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `INDEX.md`
+> **Tema:** Qi Angin & Logam / Pegunungan Tajam / Seni Pedang & Pedang Intent / Penjinakan Beast Pegunungan
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `23_CANGLONG_SWORD_PAVILION.md`, `28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`, `INDEX.md`
 
 ---
 
@@ -10,35 +10,58 @@
 
 | Parameter | Nilai / Spesifikasi |
 |---|---|
-| **Luas Wilayah** | ± 6,5 juta li² |
-| **Populasi Total** | ± 48 juta jiwa (Kultivator Pedang, Pertapa, Suku Gunung) |
-| **Total Kekayaan** | ± 600 juta Tael Perak |
-| **Kerapatan Qi (Qi Density)** | **Metal & Wind Qi Modifier ×1.20** (+20% Damage Pedang/Tajam, +15% Kelincahan) |
-| **Jarak Antar-Kota** | 250–700 li (Jalur terjal menembus awan, ideal untuk Terbang Mengendarai Pedang) |
-| **Monster Khas Wilayah** | Elang Badai Sayap Besi (Tier 3), Serigala Angin Puncak (Tier 2) |
+| **Luas Wilayah** | ± 8,2 juta li² |
+| **Populasi Total** | ± 55 juta jiwa (Mortal, Kultivator Pedang, Suku Pegunungan, Ahli Tempa Pedang) |
+| **Total Kekayaan** | ± 520 juta Tael Perak |
+| **Kerapatan Qi (Qi Density)** | **Metal & Wind Qi Modifier ×1.20** (+25% Kecepatan Latihan Sword Intent, +20% Bonus Damage Seni Pedang) |
+| **Jarak Antar-Kota** | 250–750 li (Dapat ditempuh lewat jalur terbang pedang, kapal terbang spirit, dan jalan setapak tebing) |
+| **Monster Khas Wilayah** | Elang Angin Taring Besi (Tier 2), Macan Tutul Petir Pegunungan (Tier 3), Naga Spirit Sisik Perak (Tier 4) |
 
 ---
 
-## 1. Lore & Sejarah Wilayah
+## 1. Lore, Sejarah Purba & Mitos Regional
 
-Canglong Zhou adalah wilayah pegunungan tinggi yang puncaknya menembus awan. Menurut legenda, jasad Naga Azure Purba jatuh melintang di wilayah ini, membentuk deretan puncak terjal yang kini menjadi tempat bertapa ribuan kultivator pedang.
+Canglong Zhou adalah tanah suci bagi setiap pembudidaya pedang di Xuantian World. Menurut legenda kuno, ribuan puncak gunung di Canglong Zhou terbentuk ketika **Naga Purba Canglong** dijatuhkan dari alam langit saat Bencana Retakan Ruang. Tubuh naga purba tersebut membatu menjadi rantai pegunungan terjal, sementara napas pedang terakhirnya meresap ke dalam batuan gunung, menciptakan energi Sword Intent alami yang melimpah.
+
+### Mitos Tebasan Membelah Awan (Cloud-Sliver Legend)
+4.000 tahun lalu, Pendiri Paviliun Pedang Canglong, **Grandmaster Qinglong**, bertapa di Puncak Wanshou selama 100 tahun. Saat mencapai ketenangan sempurna, ia mengayunkan pedangnya dan membelah awan setinggi ribuan li. Bekas tebasan pedangnya menciptakan **Lembah Pedang Berbisik (Whispering Sword Valley)**, di mana para pendekar pedang muda hingga kini berkumpul untuk mempelajari kehendak Niat Pedang (Sword Intent).
 
 ---
 
-## 2. Lokasi Kunci & Roster NPC Detail
+## 2. Lokasi Kunci, Permukiman & Roster NPC Detail
 
-### 2.1 Kota Longming (龙鸣城 - Dragon Cry City)
-Kota benteng di kaki Pegunungan Canglong. Pusat pendaftaran murid sekte pedang dan perdagangan senjata tajam.
+### 2.1 Kota Canglong (苍龙城 - Canglong City)
+Kota megah yang dibangun di atas dataran tinggi tebing curam. Kota ini terkenal dengan Pasar Pedang Spirit, bengkel penempaan logam meteorit, dan arena duel pedang tahunan.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| **Sect Master Yijian** | Pemimpin Paviliun Pedang Canglong | 130 | *Shenhuang Jing*, Awal | **7.812.500** | *Tebasan Naga Canglong* — Membelah gunung dengan niat pedang | Kaku, penuh kehormatan, sangat disiplin, tegas pada ketidakadilan |
-| **Guru Qingfeng** | Kepala Perguruan Niat Pedang Qingfeng | 70 | *Faxiang Jing*, Awal | **1.562.500** | *Niat Pedang Angin Tipis* — Menembus 20% Passive Defense musuh | Tenang, filosofis, mengajar murid dengan sabar dan ujian batin |
-| **Pedagang Senjata Tie** | Pemilik Toko Pedang Longming | 50 | *Lingyi Jing*, Menengah | **18.750** | *Uji Ketajaman Besi Spirit* — Memeriksa kualitas bilah pedang | Blak-blakan, jujur, mengagumi ilmu pedang sejati |
+| **Master Long Xiaotian** | Master Paviliun Pedang Canglong & Penguasa Kota | 185 | *Faxiang Jing*, Puncak | **3.125.000** | *Tebasan Naga Canglong Membelah Awan* — Menghancurkan formasi dan zirah fisik | Pendiam, sangat berwibawa, menghormati pendekar pedang yang memiliki disiplin tinggi |
+| **Penempa Iron-Hand Yan** | Ahli Penempa Pedang Spirit Grade 6 | 64 | *Xuantian Jing*, Puncak | **125.000** | *Palung Api Udara Perak* — Menempa pedang spirit tahan luntur | Agak kasar, cerewet soal kualitas bijih besi, tidak menjual pedang pada pemalas |
+| **Komandan Lin Feng** | Kepala Pengawal Gerbang Puncak Canglong | 49 | *Xuantian Jing*, Awal | **62.500** | *Pedang Badai Taring Besi* — Serangan pedang beruntun bercepatan tinggi | Tegas, taat aturan hukum kota, sangat teliti memeriksa senjata pendatang |
+
+---
+
+### 2.2 Desa Qingfeng (青风村 - Qingfeng Village)
+Desa damai di kaki Lembah Pedang Berbisik. Tempat berdirinya **Perguruan Niat Pedang Qingfeng**, di mana para murid belajar dasar-dasar mengalirkan Qi ke dalam mata pedang.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Guru Qingfeng** | Kepala Perguruan Niat Pedang Qingfeng | 82 | *Lingyi Jing*, Puncak | **25.000** | *Sentuhan Niat Pedang Angin* — Mengendalikan 10 pedang terbang melayang simultan | Ramah, tenang, gemar menguji fokus pikiran dan ketenangan jiwa murid baru |
+| **Murid Senior Mu Chen** | Instruktur Latihan Pedang Dasar | 22 | *Ningyuan Jing*, Menengah | **3.750** | *Tebasan Daun Bambu Melayang* — Tebasan pedang ringan berkecepatan angin | Sombong namun bertanggung jawab, sangat disiplin saat memimpin sesi latihan pagi |
+| **Bibi Song** | Pemilik Kedai Teh Bambu Hijau | 51 | *Lingquan Jing*, Puncak | **200** | Tidak bertarung — Menyajikan teh herbal penenang Qi | Penyabar, ramah, suka mendengarkan cerita perjalanan para pendekar mengembara |
+
+---
+
+### 2.3 Lembah Pedang Berbisik (Whispering Sword Valley / 听剑谷)
+Lembah terlarang yang dipenuhi aura Sword Intent liar dan makam ratusan pedang purba. Tempat berlatih favorit bagi kultivator ranah *Ningyuan Jing* ke atas.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pertapa Pedang Tua** | Penjaga Makam Pedang Purba | 210 | *Shenhuang Jing*, Awal | **7.812.500** | *Niat Pedang Sunyi Membunuh Jiwa* — Mengabaikan zirah fisik dan menyerang Jiwa | Eksentrik, jarang bicara, hanya muncul bila ada orang berniat merusak makam pedang |
 
 ---
 
 ## 3. Sekte & Perguruan di Canglong Zhou
 
-1. **Sekte Paviliun Pedang Canglong (Canglong Sword Pavilion)** [`23_CANGLONG_SWORD_PAVILION.md`]: Sekte Utama pedang nomor satu di Xuantian World.
-2. **Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy)** [`28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`]: Perguruan Spesialis yang melatih pemahaman Niat Pedang (Sword Intent) secara mendalam.
+1. **Paviliun Pedang Canglong (Canglong Sword Pavilion / 苍龙剑阁)** [`23_CANGLONG_SWORD_PAVILION.md`]: Sekte Utama penguasa Puncak Canglong dengan spesialisasi Seni Pedang Naga dan Pedang Terbang.
+2. **Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy / 青风剑意学院)** [`28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`]: Perguruan Spesialis yang melatih keheningan pikiran, manipulasi Qi Angin, dan integrasi Niat Pedang (*Sword Intent*).
