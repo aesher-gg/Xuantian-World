@@ -11,7 +11,29 @@
 
 Selamat datang di **Xuantian World (Dunia Xuantian)** — dunia di mana jalan kultivasi adalah jalan darah, ambisi, profesi spiritual, dan keabadian. Hanya yang kuat, cerdas, tekun, dan beruntung yang dapat melangkah menuju puncak 9 Ranah Kultivasi.
 
-AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — penguasa mutlak dunia Xuantian World. Segala sesuatu yang terjadi di dunia ini harus mengikuti aturan pada file ini **tanpa terkecuali**. File ini adalah "konstitusi" dunia — semua modul lain (World Document regional, Sistem Hukum Kultivasi, Profesi & Kerajinan, Ekonomi, Vitalitas, Pertempuran, Bestiarium, Sekte & Lembaga Suci) tunduk pada prinsip anti-cheat yang ditetapkan di sini.
+AI yang menjalankan roleplay ini bertindak sebagai **AI Game Master (GM)** — penguasa mutlak dunia Xuantian World. Segala sesuatu yang terjadi di dunia ini harus mengikuti aturan pada file ini **tanpa terkecuali**. File ini adalah "konstitusi" dunia — semua modul lain (World Document regional, Sistem Hukum Kultivasi, Profesi & Kerajinan, Ekonomi, Vitalitas, Pertempuran, Bestiarium, Sekte & Perguruan) tunduk pada prinsip anti-cheat yang ditetapkan di sini.
+
+---
+
+## 0.1 Konsep Membedakan 🏔️ Sekte vs 🏯 Perguruan di Xuantian World
+
+Di Xuantian World, **Sekte (Sect)** dan **Perguruan (Academy/School)** adalah dua entitas yang berbeda namun saling melengkapi:
+
+| Aspek | 🏔️ **Sekte (Sect)** | 🏯 **Perguruan (Academy / School)** |
+|---|---|---|
+| **Fokus Utama** | Organisasi besar, wilayah, & kekuatan politik/kekaisaran | Ilmu, teknik, & aliran spesialisasi |
+| **Identitas** | Faksi politik, pemilik gunung spirit, tambang, & kebun | Tempat mempelajari seni spesifik (Pedang, Alkimia, Beast, Formasi, dll) |
+| **Struktur** | Kompleks (Sect Master, Grand Elder, Hall Master, Disciples) | Sederhana (Grandmaster / Guru Kepala → Guru → Murid) |
+| **Penyatu / Hubungan** | **Sekte Induk** dapat memaungi beberapa **Perguruan Internal**, atau **Perguruan Independen** berdiri sendiri di kota/wilayah. |
+
+### Contoh Hirarki Hubungan Sekte & Perguruan:
+```
+[Sekte Induk Shenmu (神木宗)]
+ ├── [Perguruan Berkebun Obat Biyang (Pusat Ilmu Tanah & Benih)]
+ ├── [Perguruan Penjinak Beast Qingling (Pusat Komunikasi Spirit Beast)]
+ ├── [Aula Alkimia Shenmu]
+ └── [Aula Penegak Hukum & Disiplin]
+```
 
 ---
 
@@ -85,6 +107,8 @@ Tingkat Kultivasi: [9 Ranah Kultivasi + Sub-stage (Awal/Tengah/Puncak)]
 
 Profesi / Kerajinan: [Alkemis / Penjinak Beast / Pembuat Formasi / Penempa / Pembuat Jimat / Petani Obat / dll + Level/Tier]
 
+Afiliasi Organisasi: [Nama Sekte Induk] / [Nama Perguruan Spesialis]
+
 HP: [angka] / [maksimal]
 
 Qi: [angka] / [maksimal]
@@ -139,18 +163,6 @@ Teknik & Hukum Kultivasi:
 
 *Setiap ranah memiliki 3 Stage: **Awal (Early) ×1.0**, **Tengah (Mid) ×1.5**, dan **Puncak (Peak) ×2.0**.*
 
-### 3.2 Ringkasan Formula Inti
-- **QiCap**: `QiCap(realm, stage) = RealmBase(realm) × StageMultiplier(stage)`
-- **Max HP**: `HP = QiCap × 0.4 × LawHPMultiplier`
-- **Attack Power**: `AttackPower = QiCap × 0.15 × LawAttackMultiplier`
-- **Passive Defense**: `Defense = QiCap × 0.05`
-- **Mata Uang**:
-  - 1 Tael Perak = 100 Tael Tembaga
-  - 1 Tael Emas = 100 Tael Perak
-  - 1 Batu Spirit Kualitas Rendah (Low Spirit Stone) = 10 Tael Emas
-  - 1 Batu Spirit Kualitas Sedang (Mid Spirit Stone) = 100 Low Spirit Stones
-  - 1 Batu Spirit Kualitas Tinggi (High Spirit Stone) = 100 Mid Spirit Stones
-
 ---
 
 ## 4. Peta Modul Dunia Xuantian World
@@ -160,25 +172,13 @@ Teknik & Hukum Kultivasi:
 | `INDEX.md` | 🧭 Hub navigasi utama & aturan auto-fetch |
 | `players.md` | 📇 Katalog data awal karakter (read-only) |
 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | Geografi total Xuantian World & Ibu Kota Kekaisaran Zhongyuan |
-| `02_SHENMU_ZHOU.md` | Wilayah Utama Kayu/Alam 🌿 (Qi Kayu melimpah, Hutan Purba, Pusat Herb/Berkebun) |
-| `03_ZHONGHUA_ZHOU.md` | Dataran Tengah & Pusat Kekaisaran |
-| `04_CANGLONG_ZHOU.md` | Pegunungan Azure Dragon (Sekte Pedang & Pegunungan Tinggi) |
-| `05_CHIYAN_ZHOU.md` | Wilayah Gunung Berapi & Api (Pusat Penempaan & Alkimia Api) |
-| `06_CANGHAI_ZHOU.md` | Wilayah Kepulauan & Lautan Timur (Kapal Terbang Laut & Spirit Beast Laut) |
-| `07_XIXUAN_ZHOU.md` | Gurun Pasir Suci Barat (Kuil & Reruntuhan Purba) |
-| `08_BEIHAN_ZHOU.md` | Wilayah Es Abadi Utara (Bahan Alkimia Es & Beast Salju) |
-| `09_YOUMING_ZHOU.md` | Wilayah Iblis & Bayangan (Sekte Iblis, Racun, Necromancy) |
-| `10_TIANGONG_ZHOU.md` | Pusat Transportasi Lintas Wilayah, Guild Kapal Terbang, & Kota Melayang |
-| `11_JUEJING_ZHOU.md` | Zona Terlarang & Anomali Ruang (Beast Kuno & Formasi Purba) |
-| `12_CROSS_REGION_ORGANIZATIONS.md` | Serikat Kapal Terbang, Rumah Lelang, Guild Alkemis, Guild Beast Tamer, dll. |
-| `13_CULTIVATION_LAW_SYSTEM.md` | 9 Ranah Kultivasi Unik, Hukum Elemen, Breakthrough, Tribulasi, Karma |
-| `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` | Mekanik Berkebun, Menjinakkan Beast, Alkemis, Kapal Terbang, Formasi, Penempa, Jimat |
-| `15_ECONOMY_SYSTEM.md` | Ekonomi, Harga Bahan, Jasa Transportasi, Tiket Kapal Terbang |
-| `16_VITALITY_HUNGER_SYSTEM.md` | HP, Stamina, Kelaparan, Regenerasi, Luka, & Penyakit |
-| `17_COMBAT_SYSTEM.md` | Sistem Pertempuran Turn-based, Inisiatif, Qi Cost, Aksi Profesi |
-| `18_BESTIARY.md` | Daftar Monster & Spirit Beast per Wilayah, Taming Tiers, Loot |
-| `19`–`40_*.md` | File Sekte Utama, Paviliun, Istana, Balai, & Lembaga Suci (Sekte Alkimia, Sekte Beast, Paviliun Formasi, Balai Penempa, dll.) |
-| `41_CUSTOM_EVENTS.md` | 🎭 Event Khusus & Peristiwa Dunia buatan Admin |
-| `42_CUSTOM_LAWS.md` | 📜 Hukum Kultivasi Kustom buatan Admin/Pemain |
-| `43_CUSTOM_SECTS.md` | 🏯 Sekte/Paviliun Kustom buatan Admin/Pemain |
-| `44_CUSTOM_TECHNIQUES.md` | ⚔️ Teknik Kustom buatan Admin/Pemain |
+| `02_SHENMU_ZHOU.md` s/d `11_JUEJING_ZHOU.md` | 10 File Wilayah Utama |
+| `12_CROSS_REGION_ORGANIZATIONS.md` | Organisasi & Guild Lintas Wilayah |
+| `13_CULTIVATION_LAW_SYSTEM.md` | 9 Ranah Kultivasi Unik, Hukum Elemen, Breakthrough, Tribulasi |
+| `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` | Mekanik Berkebun, Beast, Alkimia, Airship, Formasi, Forging, Talisman |
+| `15_ECONOMY_SYSTEM.md` | Ekonomi, Batu Spirit, Tiket Airship, Harga Bahan |
+| `16_VITALITY_HUNGER_SYSTEM.md` | HP, Stamina, Kelaparan, Regenerasi, Racun Pill |
+| `17_COMBAT_SYSTEM.md` | Sistem Pertempuran Turn-based & Formula Combat |
+| `18_BESTIARY.md` | Daftar Monster & Spirit Beast per Wilayah |
+| `19`–`40_*.md` | File Sekte Utama (Faksi) & Perguruan Spesialis (Institusi Ilmu) |
+| `41_CUSTOM_EVENTS.md` s/d `44_...` | Modul Kustom Admin |
