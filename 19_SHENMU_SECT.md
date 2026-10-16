@@ -3,6 +3,7 @@
 > **Modul:** 19 — Shenmu Sect
 > **Kategori:** Sekte Utama Wilayah Shenmu Zhou
 > **Lokasi:** Pohon Induk Shenmu, Kota Shenmu (`02_SHENMU_ZHOU.md`)
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `INDEX.md`
 
 ---
 
@@ -16,13 +17,12 @@ Sekte ini memiliki ajaran utama: *"Menjaga Keseimbangan Alam adalah Menjaga Fond
 
 ## 2. Struktur Hierarki & Tokoh Kunci
 
-* **Tetua Agung (Ancestral Elder):** Tetua Shenlong (Ranah *Shenhuang Jing* Stage Puncak) — Pemimpin tertinggi yang memegang Artefak Purba *Tongkat Kayu Shenmu*.
-* **Ketua Sekte (Sect Master):** Master Mu Qingfeng (Ranah *Faxiang Jing*) — Penanggung jawab operasional sekte dan hubungan diplomasi dengan Kekaisaran Tianjing.
-* **4 Aula Utama:**
-  1. **Aula Obat Spirit (Spiritual Medicine Hall):** Mengelola kebun obat dan ekstraksi herbal.
-  2. **Aula Penjinak Beast (Beast Taming Hall):** Bekerja sama dengan Perguruan Qingling untuk menjaga binatang spirit hutan.
-  3. **Aula Pengawal Kayu (Wood Guardian Hall):** Pasukan tempur sekte yang menguasai jurus pedang sulur dan cambuk kayu.
-  4. **Aula Kitab & Hukum (Law Scripture Hall):** Tempat penyimpanan *Kitab Hukum Kayu Abadi*.
+| Jabatan | NPC | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|
+| **Tetua Agung** | Tetua Shenlong | *Shenhuang Jing*, Puncak | **15.625.000** | *Sentuhan Tongkat Purba Shenmu* — Memulihkan 100% HP & Qi sekutu | Bijaksana, sangat tenang, meditator puncak di atas dahan Shenmu |
+| **Ketua Sekte** | Master Mu Qingfeng | *Faxiang Jing*, Puncak | **3.125.000** | *Niat Pedang Sulur Kayu Abadi* — Mengunci 5 target & menyerap 20% Qi target | Berwibawa, adil, mengutamakan diplomasi sebelum kekuatan fisik |
+| **Kepala Aula Obat** | Tetua Biyang | *Faxiang Jing*, Menengah | **2.343.750** | *Mantra Penyembuh Air Spirit Shenmu* — Pemulihan massal & penawar racun | Ramah, sangat mencintai ilmu tanaman obat spirit |
+| **Kepala Aula Pengawal** | Komandan Mu Tie | *Xuantian Jing*, Puncak | **125.000** | *Perisai Kayu Shenmu Kokoh* — Menahan 50% serangan fisik & elemen | Disiplin, jujur, tak pernah kompromi dengan perusak hutan |
 
 ---
 
@@ -31,3 +31,9 @@ Sekte ini memiliki ajaran utama: *"Menjaga Keseimbangan Alam adalah Menjaga Fond
 1. **Teknik Dasar:** *Sembuhan Sulur Hijau (Green Vine Heal)* — Memulihkan 20% HP & Menghilangkan status racun ringan.
 2. **Teknik Menengah:** *Ikatan Root Purba (Root Bind)* — Mengunci pergerakan musuh selama 2 turn (-30% Hit Chance musuh).
 3. **Teknik Utama:** *Hukum Kayu Abadi Shenmu (Shenmu Immortal Law)* — Meningkatkan Max HP +30%, Regenerasi Qi +10% per turn, dan imunitas terhadap racun alam Grade 1–3.
+
+---
+
+## 4. Fasilitas Unik Sekte
+* **Kebun Obat Spirit Purba:** Tempat penanaman Ginseng Spirit 1.000 Tahun dengan bonus pertumbuhan +50%.
+* **Kuali Alkimia Shenmu:** Kuali kayu spirit raksasa Grade 7 untuk meracik Pill Penyembuh Massal.
