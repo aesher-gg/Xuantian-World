@@ -7,7 +7,7 @@
 
 ## 1. 9 Ranah Kultivasi Unik Xuantian World (Xuantian 9 Realms)
 
-Di Xuantian World, jalur kultivasi tidak menggunakan sebutan konvensional, melainkan 9 Ranah Keagungan berikut:
+Di Xuantian World, jalur kultivasi menggunakan 9 Ranah Keagungan berikut:
 
 ```
 [01. Lingquan Jing] -> [02. Kaimai Jing] -> [03. Ningyuan Jing]
@@ -17,7 +17,13 @@ Di Xuantian World, jalur kultivasi tidak menggunakan sebutan konvensional, melai
 [07. Faxiang Jing]  -> [08. Shenhuang Jing] -> [09. Hunyuan Jing (Fei Sheng)]
 ```
 
-### Tabel Parameter 9 Ranah Kultivasi & Sub-Stage
+### 1.1 Formula Qi Capacity (QiCap Formula)
+`CharacterQiCap = RealmBaseQiCap(realm) × StageMultiplier(stage)`
+
+*StageMultiplier:*
+* **Awal (Early Stage):** `× 1.0`
+* **Tengah (Mid Stage):** `× 1.5`
+* **Puncak (Peak Stage):** `× 2.0`
 
 | Index | Nama Ranah (Realm) | Character Base QiCap | Stage Awal (Early) ×1.0 | Stage Tengah (Mid) ×1.5 | Stage Puncak (Peak) ×2.0 |
 |---|---|---|---|---|---|
@@ -31,27 +37,30 @@ Di Xuantian World, jalur kultivasi tidak menggunakan sebutan konvensional, melai
 | 8 | **Shenhuang Jing (神皇境)** — Kaisar Divinitas | 7.812.500 | 7.812.500 Qi | 11.718.750 Qi | 15.625.000 Qi |
 | 9 | **Hunyuan Jing (混元境)** — Primordial Hunyuan | 39.062.500 | 39.062.500 Qi | 58.593.750 Qi | 78.125.000 Qi |
 
+### 1.2 Formula Regenerasi Qi Alami (Natural Qi Recovery)
+`QiRegenPerHour = CharacterQiCap × 0.10 × EnvironmentQiMultiplier`
+
 ---
 
 ## 2. Mekanik Breakthrough & Tribulasi Langit (Heavenly Tribulation)
 
-### 2.1 Syarat Penerobosan (Breakthrough)
-1. **Qi Dalam Kondisi Puncak (Full Qi Capacity)** pada sub-stage Puncak.
-2. **Pill Breakthrough / Pemicu Elemen:** Misal *Ningyuan Breakthrough Pill* atau meditasi di wilayah ber-Qi tinggi (*Shenmu Zhou* untuk Hukum Kayu, *Chiyan Zhou* untuk Hukum Api).
-3. **Ujian Tribulasi Langit (Petir / Kesadaran Mental):**
-   - **Lingquan hingga Ningyuan:** Tanpa petir langit (uji stabilitas dantian).
-   - **Lingyi hingga Tongtian:** Tribulasi Petir 3 Gelombang.
-   - **Faxiang hingga Shenhuang:** Tribulasi Petir 6 Gelombang & Ujian Jiwa/Illusion Demon.
-   - **Hunyuan Jing:** Tribulasi Petir 9 Sembilan Warna Purba (Fei Sheng Tribulation).
+### 2.1 Formula Keberhasilan Breakthrough (Breakthrough Chance Formula)
+`BaseChance = 50%`
+`PillBonus = LowPurity (10%) | MidPurity (20%) | HighPurity (35%)`
+`EnvironmentQiBonus = 10% (di wilayah ber-Qi tinggi yang cocok)`
+`MeritBonus = MeritPoints × 0.1%`
+`KarmaPenalty = SinPoints × 0.2%`
+`PillToxinPenalty = CurrentToxinPercent × 0.3%`
+`FinalBreakthroughChance = Clamp(BaseChance + PillBonus + EnvironmentQiBonus + MeritBonus - KarmaPenalty - PillToxinPenalty, 5%, 95%)`
 
-### 2.2 Formula Keberhasilan Breakthrough
-`BreakthroughChance = BaseChance (50%) + (PillQualityBonus) + (EnvironmentQiBonus) - (TribulationPenalty)`
+### 2.2 Formula Damage Tribulasi Petir (Petir Langit Realm 4+)
+Jika Roll Breakthrough gagal di Realm 4 ke atas, Tribulasi Petir memicu serangan balasan:
+
+`LightningDamage = MaxHP × (0.30 + RealmIndex × 0.05) × (1 + SinPoints × 0.01) × (1 - MeritPoints × 0.005)`
 
 ---
 
 ## 3. 5 Hukum Elemen Utama & Multiplier Status
-
- Setiab kultivator memilih Hukum Utama yang membentuk spesialisasi status:
 
 | Nama Hukum Elemen | HPMultiplier | AttackMultiplier | DefenseMultiplier | Efek Profesi Spesial |
 |---|---|---|---|---|
@@ -65,5 +74,5 @@ Di Xuantian World, jalur kultivasi tidak menggunakan sebutan konvensional, melai
 
 ## 4. Sistem Karma (Merit & Sin)
 
-* **Merit (Pahala/Kebaikan):** Diriperoleh dari menolong fana, membasmi beast ganas, dan membela keadilan. Memberikan bonus ketahanan terhadap Tribulasi Langit (-15% Damage Petir Tribulasi).
+* **Merit (Pahala/Kebaikan):** Diperoleh dari menolong fana, membasmi beast ganas, dan membela keadilan. Memberikan bonus ketahanan terhadap Tribulasi Langit (-15% Damage Petir Tribulasi).
 * **Sin (Dosa/Karma Buruk):** Diperoleh dari membantai fana, perampokan, dan teknik iblis terlarang. Meningkatkan keganasan Petir Tribulasi (+30% Damage Petir Tribulasi & Pemicu Heart Demon).

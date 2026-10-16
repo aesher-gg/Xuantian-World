@@ -1,36 +1,51 @@
-# ⚔️ Sistem Pertempuran Turn-Based Xuantian World
+# ⚔️ Sistem Pertempuran Turn-Based & Formula Matematika Xuantian World
 
 > **Modul:** 17 — Combat System
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_CULTIVATION_LAW_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `INDEX.md`
 
 ---
 
-## 1. Alur Pertempuran & Inisiatif (Turn Initiative)
+## 1. Alur Pertempuran & Formula Inisiatif (Turn Initiative)
 
 Pertempuran di Xuantian World berlangsung secara turn-based dengan urutan inisiatif:
 
-1. **Lemparan Inisiatif:** `Initiative = SpeedStat + RealmIndex + 1d20`
-   *(Hukum Angin/Pedang memberikan bonus Inisiatif +5).*
-2. **Aksi per Giliran (Turn Actions):**
-   - **1 Aksi Utama (Main Action):** Menggunakan Teknik Senjata, Mantra Elemen, Melempar Talisman Combat, Memasang Formasi Portabel, atau Memerintahkan Spirit Beast.
-   - **1 Aksi Kecil (Bonus Action):** Mengonsumsi Pill Penyembuh, Memasang/Mengganti Equipment, Mengaktifkan Barrier Formasi.
-   - **1 Aksi Gerak (Movement):** Mendekat, Menjauh, atau Terbang.
+### 1.1 Formula Inisiatif (Initiative Formula)
+`BaseAgility = RealmIndex × 5`
+`LawSpeedBonus = Wind/Metal Law (+5) | Other Laws (+0)`
+`EquipmentSpeedBonus = Boots / Trinket Speed Bonus`
+`InitiativeScore = BaseAgility + LawSpeedBonus + EquipmentSpeedBonus + (1d20 Roll)`
+
+*Karakter/Musuh dengan `InitiativeScore` tertinggi bertindak lebih dahulu.*
+
+### 1.2 Struktur Aksi per Giliran (Turn Action Allocation)
+* **1 Aksi Utama (Main Action):** Menggunakan Teknik Senjata, Serangan Mantra Elemen, Melempar Talisman Combat, Memasang Formasi Portabel, atau Memerintahkan Spirit Beast.
+* **1 Aksi Kecil (Bonus Action):** Mengonsumsi Pill Penyembuh, Memasang/Mengganti Equipment (1 item), Mengaktifkan Barrier Formasi.
+* **1 Aksi Gerak (Movement Action):** Mendekat/Menjauh (Jarak Maksimal = 20 li / Turn).
 
 ---
 
-## 2. Formula Perhitungan Pertempuran (Damage & Defense)
+## 2. Formula Matematika Damage, Defense & Hit Chance
 
-### 2.1 Power Serangan Dasar (Attack Power)
-`AttackPower = CharacterBaseQiCap × 0.15 × LawAttackMultiplier × WeaponTierMultiplier`
+### 2.1 Formula Attack Power (AP)
+`AttackPower = CharacterQiCap × 0.15 × LawAttackMultiplier × WeaponMultiplier × (1 + WeaponSoulBindingBonus)`
 
-### 2.2 Pertahanan Pasif (Passive Defense)
-`PassiveDefense = CharacterBaseQiCap × 0.05 × LawDefenseMultiplier + ArmorDefense`
+* **WeaponMultiplier:** Tier 1 (1.1x) | Tier 2 (1.25x) | Tier 3 (1.40x) | Tier 4 (1.60x) | Tier 5+ (2.0x+)
+* **WeaponSoulBindingBonus:** +0.20 jika senjata telah menyatu dengan jiwa pengguna.
 
-### 2.3 Peluang Kena (Hit Chance)
-`HitChance = Clamp(70% + (RealmIndex_Penyerang - RealmIndex_Bertahan)×5% + SkillAccuracyBonus, 10%, 95%)`
+### 2.2 Formula Passive Defense (PD)
+`PassiveDefense = CharacterQiCap × 0.05 × LawDefenseMultiplier + ArmorDefenseRating`
 
-### 2.4 Kerusakan Akhir (Final Damage Received)
-`FinalDamage = Max(1, (AttackPower × SkillDamageMultiplier) - PassiveDefense)`
+### 2.3 Formula Hit Chance & Dodge
+`BaseHit = 70%`
+`RealmAdvantage = (AttackerRealmIndex - DefenderRealmIndex) × 5%`
+`DodgePenalty = DefenderAgility × 0.5%`
+`FinalHitChance = Clamp(BaseHit + RealmAdvantage - DodgePenalty + AccuracyBonus, 10%, 95%)`
+
+### 2.4 Formula Critical Hit & Final Damage
+`CritChance = 5% + (AttackerDexterity × 0.5%) + WindMetalLawBonus (5%)`
+`CritDamageMultiplier = 1.50 (Standard) | 2.00 (High-Tier Weapon)`
+`IsCrit = 1.50 jika Roll Crit Berhasil, sebaliknya 1.00`
+`FinalDamage = Max(1, ((AttackPower × SkillMultiplier) - PassiveDefense) × IsCrit)`
 
 ---
 
@@ -38,7 +53,11 @@ Pertempuran di Xuantian World berlangsung secara turn-based dengan urutan inisia
 
 Karakter dengan spesialisasi profesi dapat menggunakan aksi khusus saat bertarung:
 
-* **Alkemis:** Melempar *Pill Bom Api* (Area Damage) atau *Pill Gas Racun* (Status Poison per giliran).
-* **Penjinak Beast:** Memanggil Spirit Beast Pendamping ke arena (Beast bertindak dengan Inisiatif sendiri).
-* **Pembuat Formasi:** Mengaktifkan *Piringan Formasi (Array Disc)* untuk membuat Barrier HP di sekitar diri sendiri dan sekutu.
-* **Pembuat Jimat:** Melempar *Jimat Kilat Petir (Lightning Talisman)* tanpa memakan Qi karakter.
+* **Alkemis (Pill Bom & Poison Gas):**
+  `PillBombDamage = AlchemistLevel × 20 + FireFlameBonus (30)` (Ignore 30% Passive Defense).
+* **Penjinak Beast (Spirit Beast Companion):**
+  Spirit Beast bertindak dengan Inisiatif sendiri dan memiliki `AttackPower = BeastBaseQiCap × 0.12`.
+* **Pembuat Formasi (Array Disc Barrier):**
+  `BarrierHP = ArrayDiscBaseHP × (1 + ArrayMasterLevel × 0.15)`.
+* **Pembuat Jimat (Combat Talisman):**
+  `TalismanElementalDamage = TalismanTier × 50` (Konsumsi Qi = 0).
