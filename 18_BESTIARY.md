@@ -1,7 +1,20 @@
-# 🦁 Bestiarium & Spirit Beast 10 Wilayah Xuantian World
+# 🦁 Xuantian World — Bestiarium & Spirit Beast 10 Wilayah
 
 > **Modul:** 18 — Bestiary
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `INDEX.md`
+> **Prinsip:** Anti-Cheat Enforced — Ecosystem Danger Scaling — Verified Loot Logging
+> **Rujukan:** `00_CORE_RULES_AI_GM.md` (aturan GM), `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` (profesi & bahan), `15_ECONOMY_SYSTEM.md` (harga & origin log), `17_COMBAT_SYSTEM.md` (combat stats), `INDEX.md`
+
+---
+
+## 0. Filosofi Sistem Bestiarium
+
+Spirit Beast dan monster di Xuantian World bukan sekadar target buruan pasif — mereka adalah entitas hidup yang mengisi ekosistem 10 Wilayah Utama. Kemunculan monster di perjalanan (*Ambush / Encounter*) dihitung otomatis oleh AI GM berdasarkan tingkat bahaya wilayah dan waktu perjalanan in-game.
+
+### Aturan Emas Anti-Cheat Bestiarium
+- Kemunculan monster dan serangan mendadak (*Ambush*) TIDAK PERNAH dideklarasikan sepihak oleh player — dihitung AI GM berdasarkan Danger Modifier wilayah dan waktu perjalanan.
+- Player **TIDAK BISA** menentukan sendiri jenis loot yang didapatkan dari monster — AI GM melempar peluang drop item berdasarkan formula resmi *setelah* monster benar-benar dikalahkan.
+- Setiap loot bernilai yang didapatkan dari pemburuan Spirit Beast WAJIB dicatat di **Item Origin Log** (`15_ECONOMY_SYSTEM.md`) sebelum dapat dijual, ditempa, atau digunakan untuk breakthrough.
+- Monster bertindak sesuai Karakteristik, Taktik, dan Insting wilayahnya — AI GM bertindak sebagai pengendali monster secara realistis dan adil.
 
 ---
 

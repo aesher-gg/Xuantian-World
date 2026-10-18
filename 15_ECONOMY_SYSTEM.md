@@ -1,7 +1,22 @@
-# 💰 Sistem Ekonomi & Perdagangan Xuantian World
+# 💰 Xuantian World — Sistem Ekonomi & Perdagangan
 
 > **Modul:** 15 — Economy System
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `INDEX.md`
+> **Prinsip:** Anti-Cheat Enforced — Supply-Demand Driven — Verified Item Origin Logging
+> **Rujukan:** `00_CORE_RULES_AI_GM.md` (aturan GM), `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` (profesi & kerajinan), `INDEX.md`
+
+---
+
+## 0. Filosofi Sistem Ekonomi
+
+Sama seperti Qi tunduk pada `QiCap` formula, setiap harga di dunia ini — barang, jasa, aset — tunduk pada satu **Formula Harga Dasar** yang sama, supaya tidak ada barang yang harganya "dikarang" sepihak oleh player maupun NPC secara sembarangan. AI GM WAJIB menghitung harga lewat formula di bawah ini, bukan menerima klaim harga dari player ("aku jual pil ini seharga 10 Giok" tanpa dasar perhitungan = DITOLAK).
+
+### Aturan Emas Anti-Cheat Ekonomi
+- Harga TIDAK BOLEH dideklarasikan sepihak oleh player — semua harga dihitung AI GM lewat formula, bukan permintaan naratif.
+- Setiap barang bernilai (Tier 3+ atau Grade High ke atas) WAJIB punya **Item Origin Log** — asal-usul tervalidasi. Tanpa origin, barang tidak bisa dijual/ditukar/dipakai breakthrough.
+- Tidak ada retroactive price edit — semua transaksi bertimestamp, tidak bisa diubah mundur setelah disepakati.
+- Stok toko/NPC terbatas sesuai kapasitas produksi wilayah — tidak bisa membeli borongan barang Tier tinggi tanpa alasan naratif kuat.
+- Tawar-menawar dibatasi ±15% dari harga hasil formula, tidak bisa lebih meski roleplay meyakinkan.
+- Fluktuasi harga akibat supply-demand dibatasi hard cap 0,2×–5,0× dari Grade Value dasar.
 
 ---
 
@@ -27,21 +42,29 @@ Di Xuantian World, transaksi fana dan kultivator dipisahkan secara tegas:
 ### 2.1 Formula Harga Pasar Dinamis (Dynamic Market Price)
 Harga barang di toko, pasar, dan lelang dipengaruhi oleh reputasi karakter, hubungan faksi, serta tingkat kelangkaan wilayah:
 
-`BasePrice = ItemStandardValue`
-`DiscountModifier = 1.0 - (MerchantReputationTier × 0.05) - (FactionAffinityBonus × 0.10)`
-`RegionScarcityMultiplier = RegionalAvailabilityIndex (0.8 hingga 2.5)`
-`FinalBuyPrice = BasePrice × DiscountModifier × RegionScarcityMultiplier`
+```
+BasePrice = ItemStandardValue
+DiscountModifier = 1.0 - (MerchantReputationTier × 0.05) - (FactionAffinityBonus × 0.10)
+RegionScarcityMultiplier = RegionalAvailabilityIndex (0.8 hingga 2.5)
+FinalBuyPrice = BasePrice × DiscountModifier × RegionScarcityMultiplier
+```
 
 *Contoh:* Lotus Es Abadi (Base: 20 LSS) dibeli di *Shenmu Zhou* (Scarcity 1.5x) oleh karakter dengan Faction Affinity +10% (0.10):
 `FinalBuyPrice = 20 × (1.0 - 0.10) × 1.5 = 20 × 0.90 × 1.5 = 27 LSS.`
 
 ### 2.2 Formula Penjualan Barang Bekas / Loot
-`PlayerSellValue = BasePrice × 0.50 × (1 + BarterSkillLevel × 0.05)`
+
+```
+PlayerSellValue = BasePrice × 0.50 × (1 + BarterSkillLevel × 0.05)
+```
 *(Maksimal harga jual player = 80% dari BasePrice).*
 
 ### 2.3 Formula Pajak Lelang Wanbao (Auction House Fee)
-`AuctionCommission = FinalBidAmount × (0.10 - (VIPTier × 0.02))`
-`SellerPayout = FinalBidAmount - AuctionCommission`
+
+```
+AuctionCommission = FinalBidAmount × (0.10 - (VIPTier × 0.02))
+SellerPayout = FinalBidAmount - AuctionCommission
+```
 
 ---
 
