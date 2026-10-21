@@ -1,24 +1,27 @@
-# 🛠️ Xuantian World — Sistem Kerajinan, Profesi & Formula Matematika
+# 🛠️ Xuantian World — Sistem Kerajinan, Profesi & Kerajinan Spiritual
 
-> **Modul:** 14 — Crafting & Professions Systems
-> **Prinsip:** Anti-Cheat Enforced — Material-Matching Tier Scaling — Verified Origin Logging
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib), `13_SPIRITUAL_ROOT_SYSTEM.md` (Akar Spiritual & QiCap), `15_ECONOMY_SYSTEM.md` (harga & origin log), `INDEX.md`
+> **Modul:** 14 — Crafting & Professions System
+> **Prinsip:** Anti-Cheat Enforced — Material-Matching Tier Scaling — Verified Item Origin Logging
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib GM), `13_SPIRITUAL_ROOT_SYSTEM.md` (Akar Spiritual & QiCap), `15_ECONOMY_SYSTEM.md` (harga bahan & Item Origin Log), `16_VITALITY_HUNGER_SYSTEM.md` (Pill Toxin), `18_BESTIARY.md` (bahan beast), file regional `02`–`11` (kebun obat & sumber daya)
 
 ---
 
-## 0. Filosofi Sistem
+## 0. Filosofi Sistem Profesi & Kerajinan
 
-Sama seperti Qi tunduk pada `QiCap` dan harga tunduk pada `FinalPrice`, seluruh aktivitas kerajinan dan profesi (berkebun, menjinakkan beast, alkimia, kemudi airship, formasi, penempaan, dan jimat) tunduk pada formula matematis tetap. AI GM WAJIB menghitung keberhasilan pembuatan item lewat formula resmi di bawah ini.
+Di Xuantian World, jalan profesi (Alkemis, Penjinak Beast, Petani Obat Spirit, Master Formasi, Penempa Besi Spirit, Master Jimat, dan Pilot Kapal Terbang) bukan sekadar pendukung narasi, melainkan **fondasi ekonomi dan pilar kultivasi**. Sama seperti Qi tunduk pada `QiCap` dan harga tunduk pada `FinalBuyPrice`, seluruh produk profesi dan keberhasilan proses pembuatan item **tunduk pada formula matematis tetap**.
+
+**AI GM WAJIB menghitung hasil pembuatan item secara adil lewat formula di bawah ini — DILARANG menerima klaim keberhasilan sepihak dari player tanpa proses perhitungan dan konsumsi bahan yang sah.**
 
 ### Aturan Emas Anti-Cheat Profesi & Kerajinan
-- Kualitas dan efek item buatan TIDAK BOLEH dideklarasikan sepihak oleh player — dihitung AI GM berdasarkan skill level, grade kuali/alat, dan formula kemurnian.
-- Setiap barang bernilai (Tier 3+ atau Grade High ke atas) buatan player/NPC WAJIB mencatat **Item Origin Log** (siapa pemuatnya, bahan yang dipakai, dan purity level).
-- Player **TIDAK BISA** memproduksi item yang tier-nya melampaui level profesi/ranah kultivasi saat ini tanpa resep dan bahan ber-grade sepadan.
-- Waktu proses pembuatan/retret wajib dihitung sesuai skala waktu in-game (`00_CORE_RULES_AI_GM.md` §1.8).
+- **Hasil Tidak Boleh Dideklarasikan Sepihak:** Player **TIDAK BISA** menyatakan "aku berhasil membuat Pill Danwen 100%" atau "senjata tempaanku langsung Grade 8" tanpa roll probabilitas AI GM dan pemenuhan syarat resep/bahan.
+- **Wajib Item Origin Log:** Setiap barang bernilai profesi (Tier 3+ atau Pill Purity 70%+) WAJIB mencatat **Item Origin Log** (pembuat, lokasi pembuatan, bahan yang dipakai, timestamp). Barang tanpa origin log tidak sah digunakan untuk breakthrough atau dijual di Rumah Lelang Wanbao.
+- **Prinsip Keselarasan Tier (Tier Matching):** Pembuatan item Tier X memerlukan bahan baku minimal Tier X-1 hingga Tier X. Bahan berkualitas rendah tidak bisa dipaksa untuk menghasilkan item ber-grade tinggi.
+- **Risiko Kegagalan Realistis:** Kegagalan proses alkimia, penempaan, atau penjinakan beast berisiko menghancurkan bahan baku, memicu ledakan kuali (damage HP), atau serangan balik dari Spirit Beast.
+- **Skala Waktu Proses In-Game:** Pembuatan item atau proses retret profesi memakan waktu in-game nyata (`00_CORE_RULES_AI_GM.md` §1.8), bukan selesai dalam hitungan sekejap tanpa jeda waktu.
 
 ---
 
-## 1. Sistem Berkebun / Tanaman Obat Spirit (Spiritual Herb Farming)
+## 🌾 1. Sistem Pertanian & Berkebun Obat Spirit (Spiritual Herb Farming)
 
 Sistem berkebun memungkinkan kultivator menanam benih herbal spirit untuk digunakan sendiri dalam Alkimia atau dijual ke pasar obat.
 
@@ -29,23 +32,31 @@ Waktu tumbuh tanaman obat spirit dihitung berdasarkan waktu standar benih dikura
 BaseGrowthDays = SeedStandardGrowthDays
 SoilMultiplier = Grade 1 (1.0) | Grade 2 (0.75) | Grade 3 (0.50) | Grade 4 (0.25)
 FertilizerDiscount = 0.30 (jika menggunakan Pupuk Qi Kayu) | 0.00 (tanpa pupuk)
-WoodRootBonus = 0.30 (jika kultivator memiliki Akar Spiritual Kayu) | 0.00
+WoodRootBonus = 0.30 (jika kultivator memiliki Akar Spiritual Kayu Abadi) | 0.00
 ActualGrowthDays = Max(1, BaseGrowthDays × SoilMultiplier × (1.0 - FertilizerDiscount - WoodRootBonus))
 ```
 
-*Contoh:* Benih Lotus Es Abadi (Base: 14 hari) ditanam di Tanah Spirit Grade 3 (0.50) dengan Pupuk Qi (0.30) oleh pemegang Akar Spiritual Kayu (0.30):
-`ActualGrowthDays = 14 × 0.50 × (1.0 - 0.30 - 0.30) = 7 × 0.40 = 2.8 Hari (dibulatkan 3 Hari).`
+*Contoh Perhitungan:* Benih Lotus Es Abadi (Base: 14 hari) ditanam di Tanah Spirit Grade 3 (`SoilMultiplier = 0.50`) dengan Pupuk Qi (`0.30`) oleh kultivator ber-Akar Spiritual Kayu (`0.30`):
+$$\text{ActualGrowthDays} = 14 \times 0.50 \times (1.0 - 0.30 - 0.30) = 7 \times 0.40 = 2.8 \text{ Hari (dibulatkan 3 Hari)}.$$
 
-### 1.2 Formula Hasil Panen (Crop Yield Formula)
+### 1.2 Formula Hasil Panen & Kualitas Herbal (Crop Yield & Quality)
 
 ```
 HarvestYield = BaseYield (2–5 buah) × SoilYieldMultiplier × (1 + HerbalistSkillLevel × 0.10)
 ```
-*(Grade 4 Soil menggandakan BaseYield).*
+
+- **SoilYieldMultiplier:** Grade 1 (`1.0x`), Grade 2 (`1.3x`), Grade 3 (`1.6x`), Grade 4 (`2.0x`).
+- **Peluang Panen Grade High (Perfect Herb):** `10% + (HerbalistSkillLevel × 5%)`.
+
+### 1.3 Perguruan & Lokasi Utama Berkebun
+- **Perguruan Berkebun Obat Biyang** (`20_PERGURUAN_BERKEBUN_BIYANG.md`): Pusat pelatihan analisis tanah spirit dan pupuk Qi.
+- **Shenmu Zhou** (`02_SHENMU_ZHOU.md`): Wilayah utama kebun obat dengan bonus Wood Qi Modifier 1.25x.
 
 ---
 
-## 2. Sistem Menjinakkan Beast (Beast Taming System)
+## 🐾 2. Sistem Penjinakan & Pelatihan Beast (Beast Taming System)
+
+Penjinak Beast (*Beast Tamer*) bertugas melatih, memasang jimat penjinak, dan mengikat kontrak kesetaraan dengan Spirit Beast.
 
 ### 2.1 Formula Keberhasilan Penjinakan (Taming Chance Formula)
 
@@ -59,19 +70,33 @@ WildnessPenalty = BeastTier × 5%
 TamingSuccessChance = Clamp(BaseChance + RealmDiffBonus + HPDepletionBonus + SealTierBonus + BaitBonus - WildnessPenalty, 5%, 95%)
 ```
 
-### 2.2 Formula Degradasi & Peningkatan Kesetiaan (Loyalty System)
+*Contoh Perhitungan:* Kultivator Ranah *Xuantian Jing* (Realm 5) mencoba menjinakkan Beruang Spirit Kayu (Tier 3, HP tersisa 20%) menggunakan Jimat Penjinak Tier 3 (`SealTier = 3`) dan Pakan Kesukaan:
+$$\text{RealmDiffBonus} = (5 - 3) \times 10\% = +20\%$$
+$$\text{HPDepletionBonus} = (100\% - 20\%) \times 0.40 = +32\%$$
+$$\text{TamingSuccessChance} = 30\% + 20\% + 32\% + 30\% + 15\% - 15\% = 112\% \rightarrow \text{Hardcap } 95\%.$$
+
+### 2.2 Formula Kesetiaan & Peningkatan Status Beast (Loyalty System)
 
 ```
 LoyaltyGainPerFeeding = 5 + (AlchemistPillQuality × 2)
 LoyaltyLossInBattleDefeat = 15 Points
 ```
 
-* Jika `Loyalty > 70`: Beast mendapat bonus Stats +10%.
-* Jika `Loyalty < 30`: Beast berisiko membangkang (20% Chance membatalkan perintah) atau kabur.
+| Tingkat Loyalty | Status Kesetiaan | Efek Statistik Spirit Beast |
+|---|---|---|
+| **71 – 100** | Sangat Setia | Bonus Attack & Defense Beast **+10%** |
+| **31 – 70** | Setia / Normal | Statistik Normal |
+| **0 – 30** | Membangkang | 20% peluang menolak perintah bertarung / berisiko kabur |
+
+### 2.3 Perguruan & Serikat Penjinak Beast
+- **Perguruan Penjinak Beast Qingling** (`21_PERGURUAN_BEAST_QINGLING.md`): Pusat latihan komunikasi batin dan kontrak kesetaraan.
+- **Serikat Penjinak Beast Xuantian** (`12_CROSS_REGION_ORGANIZATIONS.md`): Pengelola pendaftaran dan arena sertifikasi beast.
 
 ---
 
-## 3. Sistem Alkemis (Alchemy System)
+## 🧪 3. Sistem Alkemis & Pemurnian Pill (Alchemy System)
+
+Alkemis meracik tanaman obat spirit dan organ beast menjadi Pill Penyembuh, Pill Pemurni, dan Pill Breakthrough.
 
 ### 3.1 Formula Kemurnian Pill (Alchemy Purity Formula)
 
@@ -85,17 +110,26 @@ FinalPurity = Clamp(BasePurity + FlameQualityBonus + CauldronGradeBonus + Alchem
 ```
 
 ### 3.2 Tabel Efek Kemurnian & Toxin Dantian
+
 | Purity Range | Category | Multiplier Efek Pill | Akumulasi Pill Toxin Dantian |
 |---|---|---|---|
-| **10% – 49%** | Failed / Defective | 30% Efek | **+20% Toxin** |
+| **10% – 49%** | Failed / Defective | 30% Efek | **+20% Toxin** (Memicu Dantian Membeku) |
 | **50% – 69%** | Low Purity | 70% Efek | **+10% Toxin** |
 | **70% – 89%** | Mid Purity | 100% Efek | **+3% Toxin** |
-| **90% – 99%** | High Purity | 130% Efek | **0% Toxin (Bersih)** |
-| **100%** | Perfect Pill (Danwen) | **160% Efek + Permanent Stat** | **0% Toxin (Murni)** |
+| **90% – 99%** | High Purity | 130% Efek | **0% Toxin (Sangat Bersih)** |
+| **100%** | Perfect Pill (Danwen) | **160% Efek + Permanent Stat** | **0% Toxin (Murni Sempurna)** |
+
+*Risiko Ledakan Kuali (Cauldron Explosion):* Jika `FinalPurity < 20%`, kuali berisiko meledak memberikan Kerusakan Api `PillTier × 50 HP` pada Alkemis.
+
+### 3.3 Sekte & Perguruan Alkimia Utama
+- **Sekte Alkimia Danhuang** (`22_DANHUANG_ALCHEMIST_SECT.md`): Penguasa resep Pill Breakthrough di Chiyan Zhou.
+- **Perguruan Alkimia Es Beihan** (`29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`): Spesialis ramuan es pemulih dantian retak.
 
 ---
 
-## 4. Sistem Kapal Terbang Lintas Wilayah (Tiankong Feichuan Airship)
+## 🛸 4. Sistem Kapal Terbang Lintas Wilayah (Tiankong Feichuan Airship)
+
+Master Kemudi dan Mekanik mengoperasikan armada penerbangan melayang untuk transportasi antar-wilayah.
 
 ### 4.1 Formula Kecepatan Kapal Terbang (Airship Speed)
 
@@ -106,21 +140,26 @@ Realm3QiDriveBonus = 100% (jika Pilot/Penumpang Realm 3+ menyuntikkan Qi Yuan)
 FinalAirshipSpeed = BaseSpeed × (1.0 + PilotSkillBonus + Realm3QiDriveBonus)
 ```
 
-### 4.2 Consumable Fuel Formula
+### 4.2 Formula Konsumsi Batu Spirit (Fuel Consumption)
 
 ```
 SpiritStoneCostPerHour = (AirshipTier × 2 LSS) / (1.0 + Realm3QiDriveEfficiencyBonus)
 ```
 
+### 4.3 Perguruan & Serikat Airship Utama
+- **Serikat Airship Tiangong** (`12_CROSS_REGION_ORGANIZATIONS.md`): Monopoli lisensi penerbangan & galangan kapal.
+- **Perguruan Kemudi Udara Tiangong** (`27_PERGURUAN_KEMUDI_TIANGONG.md`): Lembaga sertifikasi pilot dan navigasi badai.
+
 ---
 
-## 5. Sistem Formasi, Penempa & Jimat
+## 🔮 5. Sistem Formasi, Penempaan Besi Spirit & Jimat
 
 ### 5.1 Formula Barrier HP Formasi (Array Barrier Formula)
 
 ```
 BarrierHP = ArrayDiscBaseHP × (1 + ArrayMasterLevel × 0.15) × EnvironmentQiMultiplier
 ```
+* **Perguruan Formasi Tiangong** (`26_PERGURUAN_FORMASI_TIANGONG.md`): Pusat pembuatan piringan formasi portabel.
 
 ### 5.2 Formula Durability & Damage Senjata Penempa (Forging Formula)
 
@@ -128,9 +167,11 @@ BarrierHP = ArrayDiscBaseHP × (1 + ArrayMasterLevel × 0.15) × EnvironmentQiMu
 WeaponDamage = BaseWeaponDamage × (1 + BlacksmithLevel × 0.08) × (1 + MetalTier × 0.10)
 SoulBindingBonus = +20% Damage saat digunakan pemilik sah.
 ```
+* **Perguruan Penempa Besi Shendu** (`24_PERGURUAN_PENEMPA_SHENDU.md`): Pusat penempaan zirah dan senjata meteorit lava.
 
 ### 5.3 Formula Success Rate Inskripsi Jimat (Talisman Crafting)
 
 ```
 TalismanSuccessChance = Clamp(60% + (TalismanMasterLevel - TalismanTier) × 10% + PaperQualityBonus, 10%, 95%)
 ```
+* **Sekte Jimat Gurun Huangsha** (`25_PERGURUAN_JIMAT_HUANGSHA.md`): Pusat pembuatan jimat pelindung dan tinta darah beast.
