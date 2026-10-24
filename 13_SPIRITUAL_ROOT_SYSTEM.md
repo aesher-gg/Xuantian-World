@@ -89,18 +89,29 @@ Untuk tempat khusus yang memiliki Dunia Kecil Mandiri (*Pocket World*), seperti 
 
 ## 🌟 4. Mekanik & Formula Keberhasilan Penerobosan (Breakthrough System)
 
-Terobosan (*Breakthrough*) adalah proses menaikkan stage (Awal $\rightarrow$ Tengah $\rightarrow$ Puncak) atau menembus ranah kultivasi baru (Realm 1 $\rightarrow$ Realm 9).
+Terobosan (*Breakthrough*) adalah proses menaikkan stage (Awal $\rightarrow$ Tengah $\rightarrow$ Puncak) atau menembus ranah kultivasi baru (Realm 1 $\rightarrow$ Realm 9). Di Xuantian World, **semakin tinggi Ranah Kultivasi, semakin ekstrem tingkat kesulitan dan risiko kegagalannya**.
 
-### 4.1 Formula Persentase Keberhasilan Terobosan (Breakthrough Success Chance)
+### 4.1 Skala Kesulitan Terobosan Berjenjang (Progressive Breakthrough Scaling)
+
+Tingkat keberhasilan dasar (*Base Success Rate*) menurun secara signifikan seiring tingginya Ranah, sementara syarat waktu meditasi stasioner dan durasi pemulihan Dantian meningkat secara eksponensial:
+
+| Realm # | Nama Ranah Kultivasi | Base Rate Sub-Stage (Awal $\rightarrow$ Tengah $\rightarrow$ Puncak) | Base Rate Major Realm (Penembusan Ranah Baru) | Waktu Meditasi Minimum | Risiko Qi Deviation (Jika Gagal) |
+|---|---|---|---|---|---|
+| 1 | **Lingquan Jing (灵泉境)** | **85%** | **70%** (Tembus Realm 2) | 3 Jam | Minor (Kerusakan 10% HP) |
+| 2 | **Kaimai Jing (开脉境)** | **75%** | **60%** (Tembus Realm 3) | 12 Jam | Ringan (Kerusakan 20% HP) |
+| 3 | **Ningyuan Jing (凝元境)** | **65%** | **50%** (Tembus Realm 4) | 3 Hari | Sedang (Kerusakan 30% HP, Dantian Lelah 2 Hari) |
+| 4 | **Lingyi Jing (灵意境)** | **55%** | **40%** (Tembus Realm 5) | 7 Hari | Berat (Kerusakan 40% HP, Dantian Retak Ringan) |
+| 5 | **Xuantian Jing (玄天境)** | **45%** | **30%** (Tembus Realm 6) | 14 Hari | Sangat Berat (Kerusakan 50% HP, Dantian Retak) |
+| 6 | **Tongtian Jing (通天境)** | **35%** | **20%** (Tembus Realm 7) | 1 Bulan | Parah (Kerusakan 60% HP, Toxin +30%) |
+| 7 | **Faxiang Jing (法相境)** | **25%** | **15%** (Tembus Realm 8) + Tribulasi 3 Petir | 3 Bulan | Kritis (Kerusakan 75% HP, Penurunan 1 Sub-stage) |
+| 8 | **Shenhuang Jing (神皇境)** | **15%** | **10%** (Tembus Realm 9) + Tribulasi 6 Petir | 6 Bulan | Ektrem (Kerusakan 90% HP, Dantian Hancur) |
+| 9 | **Hunyuan Jing (混元境)** | **10%** | **5%** (Fei Sheng / Kenaikan Abadi) + Tribulasi 9 Petir | 1 Tahun | Maut / Permadeath (Dantian Meledak Fatal) |
+
+### 4.2 Formula Persentase Keberhasilan Terobosan (Breakthrough Success Chance)
 
 ```
-BreakthroughChance = BaseRate + PillQualityBonus + InsightBonus + EnvironmentBonus - ToxinPenalty - DeviationPenalty
+BreakthroughChance = Clamp(BaseRate(Realm, Stage) + PillQualityBonus + InsightBonus + EnvironmentBonus - ToxinPenalty - DeviationPenalty, 5%, 95%)
 ```
-
-- **Base Rate Terobosan:**
-  - **Sub-Stage (Awal $\rightarrow$ Tengah $\rightarrow$ Puncak):** `70%`
-  - **Major Realm (Ranah 1 $\rightarrow$ Ranah 6):** `40%`
-  - **High Realm (Ranah 7 $\rightarrow$ Ranah 9):** `20%`
 - **Pill Quality Bonus:**
   - *No Pill / Failed Pill:* `+0%`
   - *Low Purity Pill (50-69%):* `+10%`
