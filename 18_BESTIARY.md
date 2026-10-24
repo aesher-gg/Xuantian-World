@@ -80,19 +80,32 @@ Beast lintas wilayah adalah entitas spiritual yang dapat ditemukan mengembara di
 | Nama Beast | Jenis / Kategori | Tier | Loot |
 |---|---|---|---|
 | Kelinci Spirit Daun Hijau | Mamalia Kecil | Tier 1 | Bulu Kelinci Spirit (85% (Umum))<br>Daging Spirit (75% (Umum)) |
+| Kelinci Giok Roh | Mamalia Spirit | Tier 1 | Bulu Kelinci Giok (85% (Umum))<br>Daging Spirit (75% (Umum)) |
 | Unggas Hutan Shenmu | Unggas Hutan | Tier 1 | Bulu Unggas Spirit (80% (Umum))<br>Telur Spirit (40% (Jarang)) |
 | Bangau Bulu Zamrud | Unggas Udara | Tier 2 | Bulu Zamrud (80% (Umum))<br>Inti Kayu Tier 2 (35% (Jarang)) |
 | Ular Hijau Sulur Kayu | Reptil Kayu | Tier 2 | Kulit Ular Kayu (75% (Umum))<br>Bisa Kayu Ringan (35% (Jarang)) |
+| Ular Bambu Bercorak | Reptil Bambu | Tier 2 | Bisa Ular Bambu (75% (Umum))<br>Kantung Racun Bambu (35% (Jarang))<br>Kulit Ular (35% (Jarang)) |
+| Kera Batu Hijau | Primata Hutan | Tier 2 | Batu Mineral Giok (75% (Umum))<br>Inti Tier 2 (35% (Jarang)) |
+| Babi Hutan Taring Bambu | Mamalia Darat | Tier 2 | Taring Bambu (80% (Umum))<br>Daging Spirit (75% (Umum)) |
 | Serigala Angin Shenmu | Predator Darat | Tier 2 | Taring Serigala Spirit (75% (Umum))<br>Inti Tier 2 (30% (Jarang)) |
 | Beruang Spirit Elemen Kayu | Spirit Beast / Tank | Tier 3 | Kulit Tebal (75% (Umum))<br>Empedu Beruang Spirit (35% (Jarang))<br>Inti Kayu Tier 3 (30% (Jarang)) |
 | Rusa Tanduk Kristal Spirit | Herbivora Spirit | Tier 3 | Tanduk Kristal Spirit (70% (Umum))<br>Darah Spirit Murni (30% (Jarang)) |
+| Rusa Kabut Giok | Herbivora Spirit | Tier 3 | Tanduk Obat Giok (70% (Umum))<br>Darah Spirit Murni (30% (Jarang)) |
 | Kera Pembawa Benih Obat | Primata Spirit | Tier 3 | Benih Obat Spirit Random (75% (Umum))<br>Inti Tier 3 (30% (Jarang)) |
+| Serigala Giok Berkabut | Predator Kabut | Tier 3 | Bulu Serigala Giok (75% (Umum))<br>Inti Kayu Tier 3 (30% (Jarang)) |
+| Belalang Pedang Bambu | Serangga Penyerang | Tier 3 | Sayap Bilah Bambu (75% (Umum))<br>Cakar Pedang (35% (Jarang)) |
 | Kura-kura Tempurung Lumut Purba | Reptil Air/Darat | Tier 4 | Tempurung Batu Kayu (70% (Umum))<br>Inti Kayu Tier 4 (20% (Langka)) |
 | Laba-laba Sulur Pelumpuh | Serangga Spirit | Tier 4 | Sutra Pelumpuh Spirit (65% (Umum))<br>Bisa Laba-laba (20% (Langka)) |
+| Laba-laba Urat Giok | Serangga Lorong | Tier 4 | Sutra Urat Giok (65% (Umum))<br>Inti Kayu Tier 4 (20% (Langka)) |
+| Beruang Roh Bambu Hitam | Tank / Beast Elit | Tier 4 | Kulit Bambu Hitam (70% (Umum))<br>Empedu Beruang (20% (Langka))<br>Inti Tier 4 (18% (Langka)) |
 | Elang Hijau Pelindung Kanopi | Unggas Udara | Tier 4 | Bulu Sayap Angin (65% (Umum))<br>Inti Tier 4 (18% (Langka)) |
 | Harimau Dahan Shenmu | Predator Elit | Tier 5 | Taring Harimau Spirit (60% (Umum))<br>Inti Kayu Tier 5 (15% (Langka)) |
 | Ular Sulur Sembilan Daun | Reptil Purba | Tier 5 | Sisik Sembilan Daun (60% (Umum))<br>Bisa Racun Shenmu (12% (Langka)) |
+| Roh Bambu Tanpa Nama | Entitas Spiritual | Tier 5 | Esensi Jiwa Bambu (60% (Umum))<br>Inti Tier 5 (15% (Langka)) |
+| Penjaga Leluhur Berakar | Boss Elit / Guardian | Tier 5 | Kayu Akar Purba (60% (Umum))<br>Inti Tier 5 (12% (Langka)) |
 | Gajah Akar Kayu Purba | Beast Raksasa | Tier 6 | Gading Kayu Purba (55% (Umum))<br>Inti Tier 6 (10% (Langka)) |
+| Ular Naga Giok Purba | Beast Penguasa | Tier 6 | Sisik Naga Giok (55% (Umum))<br>Inti Naga Kayu Tier 6 (10% (Langka)) |
+| Kura-kura Segel Gunung | Penjaga Kuno | Tier 6 | Tempurung Segel Giok (55% (Umum))<br>Inti Tier 6 (8% (Langka)) |
 | Kelinci Bulan Shenmu | Beast Spirit Suci | Tier 6 | Bulu Bulan Spirit (55% (Umum))<br>Darah Suci Kayu (8% (Langka)) |
 | Merak Bulu Pelangi Spirit | Unggas Spirit | Tier 7 | Bulu Pelangi Shenmu (50% (Umum))<br>Inti Tier 7 (4% (Legendaris)) |
 | Trenggiling Pelindung Akar | Beast Pertahanan | Tier 7 | Sisik Pelindung Akar (50% (Umum))<br>Inti Tier 7 (3% (Legendaris)) |
@@ -107,16 +120,23 @@ Beast lintas wilayah adalah entitas spiritual yang dapat ditemukan mengembara di
 | Nama Beast | Jenis / Kategori | Tier | Loot |
 |---|---|---|---|
 | Anjing Penjaga Halaman Spirit | Mamalia Kecil | Tier 1 | Kulit Anjing Spirit (85% (Umum)) |
+| Gagak Batu | Unggas Spiritual | Tier 1 | Bulu Gagak Batu (85% (Umum))<br>Cakar Spirit (75% (Umum)) |
 | Babi Hutan Taring Besi | Mamalia Darat | Tier 2 | Taring Besi (80% (Umum))<br>Daging Spirit (75% (Umum)) |
 | Roh Prajurit Gugur | Undead / Spirit | Tier 2 | Serpihan Baju Zirah Kuno (75% (Umum))<br>Kristal Jiwa Tier 2 (35% (Jarang)) |
+| Boneka Penjaga Rusak | Konstruksi Spiritual | Tier 2 | Pecahan Inti Konstruksi (75% (Umum))<br>Komponen Mekanis (35% (Jarang)) |
 | Macan Besi Pegunungan | Predator Darat | Tier 3 | Kulit Macan Besi (75% (Umum))<br>Inti Tier 3 (30% (Jarang)) |
+| Ular Danau Leluhur | Reptil Danau | Tier 3 | Sisik Ular Danau (75% (Umum))<br>Empedu Ular (35% (Jarang)) |
 | Elang Pengawal Bukit | Unggas Udara | Tier 3 | Bulu Elang Spirit (70% (Umum))<br>Inti Tier 3 (30% (Jarang)) |
 | Serigala Karang Sungai | Predator Air/Darat | Tier 3 | Taring Serigala Sungai (70% (Umum))<br>Kulit Serigala (35% (Jarang)) |
 | Naga Sungai Longjiang | Aquatic Dragon | Tier 4 | Sisik Naga Sungai (65% (Umum))<br>Inti Air Tier 4 (20% (Langka)) |
+| Prajurit Boneka Kekaisaran | Konstruksi Spiritual | Tier 4 | Inti Konstruksi Tier 4 (65% (Umum))<br>Pecahan Zirah Batu (18% (Langka)) |
+| Pengawal Batu | Konstruksi Spiritual | Tier 4 | Batu Formasi Makam (65% (Umum))<br>Komponen Mekanis (18% (Langka)) |
 | Banteng Tanduk Perunggu | Beast Raga Besi | Tier 4 | Tanduk Perunggu Spirit (65% (Umum))<br>Inti Tier 4 (18% (Langka)) |
 | Beruang Pelindung Lembah | Tank / Elit | Tier 4 | Empedu Beruang (65% (Umum))<br>Inti Tier 4 (18% (Langka)) |
 | Singa Bintang Kekaisaran | Spirit Beast Elit | Tier 5 | Surai Singa Bintang (60% (Umum))<br>Inti Tier 5 (15% (Langka)) |
 | Ular Emas Pelindung Makam | Reptil Purba | Tier 5 | Sisik Emas Purba (60% (Umum))<br>Inti Tier 5 (12% (Langka)) |
+| Roh Pelayan Makam | Roh Spiritual | Tier 5 | Fragmen Memori Kuno (60% (Umum))<br>Kristal Jiwa Tier 5 (15% (Langka)) |
+| Penjaga Segel Tanpa Nama | Entitas Penjaga | Tier 5 | Batu Segel Kekaisaran (60% (Umum))<br>Inti Tier 5 (12% (Langka)) |
 | Kuda Sembrani Langit | Beast Terbang | Tier 6 | Sayap Sembrani Spirit (55% (Umum))<br>Inti Tier 6 (10% (Langka)) |
 | Bao-Penguasa Bukit Bintang | Predator Mitos | Tier 6 | Kulit Totem Bao (55% (Umum))<br>Inti Tier 6 (8% (Langka)) |
 | Naga Emas Pelindung Dinasti | Imperial Dragon | Tier 7 | Sisik Naga Emas (50% (Umum))<br>Inti Tier 7 (4% (Legendaris)) |
