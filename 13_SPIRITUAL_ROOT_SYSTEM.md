@@ -22,7 +22,7 @@ Masyarakat fana di Xuantian World terbagi menjadi dua golongan alami:
 - Tidak ada retroactive edit stat oleh player — semua log qi/item bertimestamp dan tidak bisa diubah mundur.
 - Item/pil hanya boleh menaikkan qi sebatas ±1 tier dari tier user saat ini (material tier matching).
 - Akar Spiritual custom TETAP tunduk pada formula qi cap yang sama — hanya reskin mekanik elemen, bukan reskin batas.
-- **Player TIDAK BOLEH mendeklarasikan sendiri "aku terobosan pakai Akar Spiritual X" di saat momen terobosan.** AI GM yang menentukan teknik/afinitas apa yang berlaku, berdasarkan teknik yang benar-benar dilatih/dipraktikkan player sepanjang cerita — dan itu hanya sah jika sudah punya **Asal-Usul Akar Spiritual (Spiritual Root Origin)** yang tervalidasi (§3.0). Deklarasi sepihak tanpa asal-usul = otomatis DITOLAK.
+- **Akar Spiritual Bawaan vs Teknik Elemen:** Akar Spiritual adalah benih potensi bawaan raga (85% fana tidak memiliki, 15% fana memiliki). Namun, pengaktifan benih Akar Spiritual dan penguasaan Teknik Elemen **WAJIB** memiliki riwayat asal-usul yang sah yang tercatat di log karakter (§3.0 & §3.1). Deklarasi sepihak tanpa riwayat pengujian/latihan = otomatis DITOLAK.
 
 ---
 
@@ -56,15 +56,27 @@ QiCap(realm, stage) = BaseQi(realm) × StageMultiplier(stage)
 
 ## ⚡ 3. Jenis Akar Spiritual Utama & Afinitas Elemen
 
-### 🔐 3.0 Asal-Usul Akar Spiritual (Spiritual Root Origin) — WAJIB SEBELUM APAPUN
+### 🔐 3.0 Asal-Usul Pengaktifan Akar Spiritual (Spiritual Root Activation Origin)
 
-Ini fondasi anti-cheat paling penting: **tidak ada Akar Spiritual/Teknik Elemen yang aktif tanpa asal-usul yang sah.** AI GM tidak pernah menerima kalimat sepihak seperti "aku terobosan pakai Akar Spiritual Api" begitu saja. Yang menentukan afinitas apa yang berlaku adalah **teknik konkret yang sudah dilatih player lewat roleplay**, dan teknik itu hanya sah kalau berasal dari salah satu dari 3 jalur berikut:
+Meskipun benih Akar Spiritual sudah ada di dalam raga 15% bangsa fana sejak lahir, **pengaktifan dan pemurnian Akar Spiritual untuk pertama kalinya WAJIB dicatat di log karakter lewat salah satu jalur sah berikut:**
 
-| Jalur Asal-Usul | Syarat Sah | Contoh Tidak Sah (Ditolak) |
+| Jalur Pengaktifan Akar | Syarat & Prosedur Sah | Contoh Tidak Sah (Ditolak) |
 |---|---|---|
-| **1. Guru / Sekte** | Harus ada NPC guru/sekte yang sudah diperkenalkan & berinteraksi lewat beberapa adegan pengajaran nyata. AI GM mencatat *siapa* gurunya dan *kapan* pengajaran terjadi. | Player tiba-tiba bilang "guruku dulu mengajariku Seni Es" padahal belum pernah ada guru/adegan itu di cerita sebelumnya. |
-| **2. Kitab / Manual Pusaka** | Kitab/manual harus sudah ada di inventory karakter lewat cara yang sah dan tercatat (ditemukan lewat quest, hadiah sekte, hasil pertarungan). | Player mendadak bilang "aku punya kitab rahasia" tepat sebelum terobosan tanpa item itu pernah tercatat di inventory. |
-| **3. Pencerahan (Enlightenment)** | Hanya bisa dipicu **oleh AI GM**, bukan diklaim player, dan hanya setelah Insight Point terkumpul cukup lewat proses meditasi mendalam/pertempuran sengit. | Player bilang "aku tiba-tiba tercerahkan dan menciptakan Akar Spiritual Kustom" di tengah pertarungan tanpa proses insight. |
+| **1. Batu Penguji Spirit (Testing Stone)** | Diuji di Sekte/Perguruan/Pasar Kota menggunakan Batu Penguji Spirit Grade 1+ untuk mendeteksi benih elemen bawaan. | Player langsung menyatakan "aku punya Akar Spiritual Mutasi Petir" tanpa pernah diuji. |
+| **2. Pil Pemurni Akar Spirit** | Mengonsumsi Pil Pemurni Akar Spirit (seperti *Awakening Pill*) tervalidasi di inventory untuk membangunkan benih tersembunyi. | Player mengklaim meminum obat gaib tanpa item tercatat di inventory. |
+| **3. Bimbingan Ketukan Dantian** | Bimbingan meditasi oleh Tetua/Guru Ranah *Xuantian Jing* ke atas yang menyalurkan Qi untuk membuka mata air Dantian. | Player menyatakan Dantiannya terbuka sendiri tanpa bantuan/meditasi yang dinarasikan. |
+
+---
+
+### 📜 3.1 Asal-Usul Teknik & Jurus Elemen (Elemental Technique Origin)
+
+Penguasaan teknik/jurus elemen untuk menyalurkan energi Akar Spiritual **BERBEDA** dari pengaktifan benih raga. Jurus elemen hanya sah jika didapatkan dari salah satu dari 3 jalur berikut:
+
+| Jalur Asal-Usul Teknik | Syarat & Prosedur Sah | Contoh Tidak Sah (Ditolak) |
+|---|---|---|
+| **1. Guru / Sekte / Perguruan** | Diajarkan oleh NPC Guru/Sekte melalui adegan latihan nyata yang dinarasikan dan dicatat oleh AI GM. | Player tiba-tiba bilang "guruku dulu mengajariku Jurus Es" tanpa adegan pengajaran di cerita. |
+| **2. Kitab Manual Pusaka** | Mempelajari Kitab/Gulungan Jurus yang ada di inventory resmi (didapat dari looting/pembelian/hadiah). | Player mengklaim tahu jurus rahasia tanpa kitab tercatat di inventory. |
+| **3. Pencerahan Dao (Enlightenment)** | Dipicu oleh AI GM setelah pengumpulan Insight Point lewat meditasi ekstrim atau pertarungan hidup-mati. | Player mendadak menyatakan "aku menciptakan jurus elemen baru" di tengah pertarungan tanpa pencerahan GM. |
 
 ### A. 🌿 Akar Spiritual Kayu Abadi (Wood Root)
 - **Afinitas Utama:** Qi Kayu / Alam / Hutan Purba.
