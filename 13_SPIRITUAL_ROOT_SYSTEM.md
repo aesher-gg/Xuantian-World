@@ -138,19 +138,39 @@ Untuk tempat khusus yang memiliki Dunia Kecil Mandiri (*Pocket World*), seperti 
 
 Terobosan (*Breakthrough*) adalah proses menaikkan stage (Awal $\rightarrow$ Tengah $\rightarrow$ Puncak) atau menembus ranah kultivasi baru (Realm 1 $\rightarrow$ Realm 9). Di Xuantian World, **semakin tinggi Ranah Kultivasi, semakin ekstrem tingkat kesulitan dan risiko kegagalannya**.
 
-### 5.1 Skala Kesulitan Terobosan Berjenjang (Progressive Breakthrough Scaling)
+### 5.1 Tabel Matriks Syarat Terobosan Lengkap (Mortal & 9 Major Realm × Sub-Stage)
 
-| Realm # | Nama Ranah Kultivasi | Base Rate Sub-Stage (Awal $\rightarrow$ Tengah $\rightarrow$ Puncak) | Base Rate Major Realm (Penembusan Ranah Baru) | Waktu Meditasi Minimum | Risiko Qi Deviation (Jika Gagal) |
-|---|---|---|---|---|---|
-| 1 | **Lingquan Jing (灵泉境)** | **85%** | **70%** (Tembus Realm 2) | 3 Jam | Minor (Kerusakan 10% HP) |
-| 2 | **Kaimai Jing (开脉境)** | **75%** | **60%** (Tembus Realm 3) | 12 Jam | Ringan (Kerusakan 20% HP) |
-| 3 | **Ningyuan Jing (凝元境)** | **65%** | **50%** (Tembus Realm 4) | 3 Hari | Sedang (Kerusakan 30% HP, Dantian Lelah 2 Hari) |
-| 4 | **Lingyi Jing (灵意境)** | **55%** | **40%** (Tembus Realm 5) | 7 Hari | Berat (Kerusakan 40% HP, Dantian Retak Ringan) |
-| 5 | **Xuantian Jing (玄天境)** | **45%** | **30%** (Tembus Realm 6) | 14 Hari | Sangat Berat (Kerusakan 50% HP, Dantian Retak) |
-| 6 | **Tongtian Jing (通天境)** | **35%** | **20%** (Tembus Realm 7) | 1 Bulan | Parah (Kerusakan 60% HP, Toxin +30%) |
-| 7 | **Faxiang Jing (法相境)** | **25%** | **15%** (Tembus Realm 8) + Tribulasi 3 Petir | 3 Bulan | Kritis (Kerusakan 75% HP, Penurunan 1 Sub-stage) |
-| 8 | **Shenhuang Jing (神皇境)** | **15%** | **10%** (Tembus Realm 9) + Tribulasi 6 Petir | 6 Bulan | Ekstrem (Kerusakan 90% HP, Dantian Hancur) |
-| 9 | **Hunyuan Jing (混元境)** | **10%** | **5%** (Fei Sheng / Kenaikan Abadi) + Tribulasi 9 Petir | 1 Tahun | Maut / Permadeath (Dantian Meledak Fatal) |
+Tabel berikut menetapkan seluruh syarat mutlak (*Breakthrough Floor*) yang harus dipenuhi pembudidaya untuk menaikkan sub-stage (Awal $\rightarrow$ Tengah $\rightarrow$ Puncak) maupun menembus Major Realm baru:
+
+| Ranah & Stage Kultivasi | Akumulasi Qi Min. | Pil & Bahan Terobos Minimum | Waktu Meditasi | Insight Point Wajib | Base Success Rate | Risiko Kegagalan / Qi Deviation |
+|---|---|---|---|---|---|---|
+| **Mortal $\rightarrow$ Realm 1 Awal** | Non-Qi (Batu Spirit) | Pil Pengaktif Spirit Grade 1 / Uji Batu Spirit | 1 Jam | 0 Point | **90%** | Gagal total (Tetap Fana) |
+| **Realm 1 (Lingquan) Awal $\rightarrow$ Tengah** | 95 Qi (95% Cap) | Pil Pemurni Dantian Tier 1 (Opsional) | 3 Jam | 0 Point | **85%** | HP -10%, Qi terbuang 50% |
+| **Realm 1 (Lingquan) Tengah $\rightarrow$ Puncak** | 142 Qi (95% Cap) | Pil Pemurni Dantian Tier 1 (Disarankan) | 6 Jam | 1 Point | **75%** | HP -15%, Dantian Lelah 6 Jam |
+| **Realm 1 Puncak $\rightarrow$ Realm 2 Awal** | 200 Qi (100% Cap) | **Pil Terobos Kaimai (Tier 1 Wajib)** | 12 Jam | 2 Point | **70%** | HP -20%, Qi resets ke 0 |
+| **Realm 2 (Kaimai) Awal $\rightarrow$ Tengah** | 475 Qi (95% Cap) | Pil Pemurni Urat Tier 2 | 12 Jam | 2 Point | **75%** | HP -20%, Dantian Lelah 12 Jam |
+| **Realm 2 (Kaimai) Tengah $\rightarrow$ Puncak** | 712 Qi (95% Cap) | Pil Pemurni Urat Tier 2 | 1 Hari | 3 Point | **65%** | HP -25%, Qi terbuang 50% |
+| **Realm 2 Puncak $\rightarrow$ Realm 3 Awal** | 1.000 Qi (100% Cap) | **Pil Terobos Ningyuan (Tier 2 Wajib)** | 3 Hari | 4 Point | **60%** | HP -30%, Urat Spirit Membeku |
+| **Realm 3 (Ningyuan) Awal $\rightarrow$ Tengah** | 2.375 Qi (95% Cap) | Pil Kondensasi Yuan Tier 3 | 3 Hari | 4 Point | **65%** | HP -30%, Dantian Lelah 2 Hari |
+| **Realm 3 (Ningyuan) Tengah $\rightarrow$ Puncak** | 3.562 Qi (95% Cap) | Pil Kondensasi Yuan Tier 3 | 5 Hari | 5 Point | **55%** | HP -35%, Qi resets ke 0 |
+| **Realm 3 Puncak $\rightarrow$ Realm 4 Awal** | 5.000 Qi (100% Cap) | **Pil Terobos Lingyi (Tier 3 Wajib)** | 7 Hari | 6 Point | **50%** | HP -40%, Dantian Retak Ringan |
+| **Realm 4 (Lingyi) Awal $\rightarrow$ Tengah** | 11.875 Qi (95% Cap) | Pil Kesadaran Spirit Tier 4 | 7 Hari | 6 Point | **55%** | HP -40%, Dantian Lelah 3 Hari |
+| **Realm 4 (Lingyi) Tengah $\rightarrow$ Puncak** | 17.812 Qi (95% Cap) | Pil Kesadaran Spirit Tier 4 | 10 Hari | 8 Point | **45%** | HP -45%, Qi terbuang 75% |
+| **Realm 4 Puncak $\rightarrow$ Realm 5 Awal** | 25.000 Qi (100% Cap) | **Pil Terobos Xuantian (Tier 4 Wajib)** | 14 Hari | 10 Point | **40%** | HP -50%, Dantian Retak |
+| **Realm 5 (Xuantian) Awal $\rightarrow$ Tengah** | 59.375 Qi (95% Cap) | Pil Inti Dunia Tier 5 | 14 Hari | 10 Point | **45%** | HP -50%, Dantian Lelah 7 Hari |
+| **Realm 5 (Xuantian) Tengah $\rightarrow$ Puncak** | 89.062 Qi (95% Cap) | Pil Inti Dunia Tier 5 | 21 Hari | 12 Point | **35%** | HP -55%, Toxin +20% |
+| **Realm 5 Puncak $\rightarrow$ Realm 6 Awal** | 125.000 Qi (100% Cap) | **Pil Terobos Tongtian (Tier 5 Wajib)** | 1 Bulan | 15 Point | **30%** | HP -60%, Dantian Parah |
+| **Realm 6 (Tongtian) Awal $\rightarrow$ Tengah** | 296.875 Qi (95% Cap) | Pil Pilar Langit Tier 6 | 1 Bulan | 15 Point | **35%** | HP -60%, Dantian Lelah 14 Hari |
+| **Realm 6 (Tongtian) Tengah $\rightarrow$ Puncak** | 445.312 Qi (95% Cap) | Pil Pilar Langit Tier 6 | 45 Hari | 18 Point | **25%** | HP -65%, Penurunan 1 Stage |
+| **Realm 6 Puncak $\rightarrow$ Realm 7 Awal** | 625.000 Qi (100% Cap) | **Pil Terobos Faxiang + Trial Kehampaan** | 3 Bulan | 20 Point + Trial | **20%** | HP -70%, Dantian Retak Parah |
+| **Realm 7 (Faxiang) Awal $\rightarrow$ Tengah** | 1.484.375 Qi (95% Cap) | Pil Avatar Dao Tier 7 | 3 Bulan | 20 Point | **25%** | HP -70%, Dantian Lelah 1 Bulan |
+| **Realm 7 (Faxiang) Tengah $\rightarrow$ Puncak** | 2.226.562 Qi (95% Cap) | Pil Avatar Dao Tier 7 | 4 Bulan | 25 Point | **15%** | HP -75%, Penurunan 1 Stage |
+| **Realm 7 Puncak $\rightarrow$ Realm 8 Awal** | 3.125.000 Qi (100% Cap) | **Pil Terobos Shenhuang + Tribulasi 3 Petir** | 6 Bulan | 30 Point + Tribulasi | **15%** | Kritis / Bahaya Jiwa Melayang |
+| **Realm 8 (Shenhuang) Awal $\rightarrow$ Tengah** | 7.421.875 Qi (95% Cap) | Pil Domain Elemen Tier 8 | 6 Bulan | 30 Point | **15%** | HP -80%, Dantian Hancur Sebagian |
+| **Realm 8 (Shenhuang) Tengah $\rightarrow$ Puncak** | 11.132.812 Qi (95% Cap)| Pil Domain Elemen Tier 8 | 9 Bulan | 35 Point | **10%** | HP -85%, Penurunan 1 Sub-stage |
+| **Realm 8 Puncak $\rightarrow$ Realm 9 Awal** | 15.625.000 Qi (100% Cap)| **Pil Terobos Hunyuan + Tribulasi 6 Petir** | 1 Tahun | 40 Point + Tribulasi | **10%** | Ekstrem (Dantian Hancur Total) |
+| **Realm 9 (Hunyuan) Awal $\rightarrow$ Puncak** | 58.593.750 Qi (95% Cap) | Pil Abadi Hunyuan Tier 9 | 2 Tahun | 50 Point | **10%** | HP -90%, Karma Sin Backlash |
+| **Realm 9 Puncak $\rightarrow$ Fei Sheng** | 78.125.000 Qi (100% Cap)| **Darah Primordial + Tribulasi 9 Petir** | 3 Tahun | 100 Point + Tribulasi | **5%** | **Maut / Permadeath (Meledak)** |
 
 ---
 
