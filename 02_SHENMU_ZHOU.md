@@ -154,69 +154,128 @@ Wilayah rahasia mandiri di Shenmu Zhou berupa hutan bambu spiritual kuno yang te
 ---
 
 ### 2.13 Desa Akar Wangi (香根村 - Xiānggēn Cūn)
-Desa pertanian spiritual di perbatasan Lembah Biyang dan Dataran Abu Hijau. Berfungsi sebagai pemasok bahan obat mentah akar ke Perguruan Berkebun Biyang dan Kota Shenmu.
+Desa pertanian spiritual yang tenang di perbatasan Lembah Biyang dan Dataran Abu Hijau. Desa ini dibangun di atas jaringan akar spiritual alami tempat mengalir pasokan Qi Kayu murni. Menjadi pemasok utama tanaman obat jenis akar ke Perguruan Berkebun Biyang dan pasar Kota Shenmu.
+
 * **Spesialisasi:** Tanaman obat akar, pengolahan tanah spiritual, dan perdagangan bibit.
-* **Sub-lokasi:** Kebun Seribu Akar, Sumur Qi Bumi, Rumah Pengering Herbal, Paviliun Benih Leluhur, Ladang Akar Merah.
+* **Sub-lokasi Kunci:** Kebun Seribu Akar, Sumur Qi Bumi, Rumah Pengering Herbal, Paviliun Benih Leluhur, Ladang Akar Merah.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Tetua Xiāng** | Kepala Desa Akar Wangi | 72 | *Ningyuan Jing*, Awal | **2.500** | *Mantra Penyubur Akar Spirit* — Mempercepat pertumbuhan tanaman akar | Lembut, tekun, sangat melindungi tradisi pertanian desa |
+| **Paman Gēn** | Pengawas Kebun Seribu Akar | 48 | *Kaimai Jing*, Puncak | **1.000** | *Cangkul Pembajak Qi Kayu* — Membersihkan hama cacing akar | Rajin, pekerja keras, tahu persis racikan kompos spirit |
+
+---
 
 ### 2.14 Desa Kabut Hijau (青雾村 - Qīngwù Cūn)
-Desa perbatasan di pinggiran Hutan Purba Wansen yang diselimuti kabut penguapan air spiritual.
-* **Spesialisasi:** Pemandu hutan, pengumpulan bahan spiritual, dan pengamatan pergerakan monster.
-* **Sub-lokasi:** Menara Penanda Kabut, Jalur Tapak Zamrud, Pondok Pemburu Tua, Kolam Embun Pagi, Ladang Obat Kabut.
+Desa perbatasan di pinggiran Hutan Purba Wansen yang diselimuti kabut penguapan air spiritual dan spora tumbuhan. Desa ini menjadi tempat singgah utama pemburu beast dan pengumpul herbal sebelum memasuki kawasan hutan belantara.
+
+* **Spesialisasi:** Pemandu hutanExperienced, pengumpulan bahan spiritual, dan pengamatan monster.
+* **Sub-lokasi Kunci:** Menara Penanda Kabut, Jalur Tapak Zamrud, Pondok Pemburu Tua, Kolam Embun Pagi, Ladang Obat Kabut.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pemandu Wù** | Kepala Pemandu Hutan Wansen | 52 | *Lingyi Jing*, Awal | **12.500** | *Langkah Pengembara Kabut* — Menembus kabut tanpa kehilangan arah | Tenang, waspada, hafal setiap pergerakan musim monster |
+
+---
 
 ### 2.15 Kota Kecil Lumu (鹿木镇 - Lùmù Zhèn)
-Kota kecil pengolahan kayu spiritual di jalur dagang antara Kota Shenmu dan Hutan Purba Wansen.
-* **Spesialisasi:** Kayu spiritual, furnitur formasi, perlengkapan perjalanan, dan jasa pengawalan karavan.
+Kota kecil pengolahan kayu spiritual di jalur dagang utama antara Kota Shenmu dan Hutan Purba Wansen. Kota ini terkenal dengan para pengrajin kayu yang memproduksi busur spirit, tongkat formasi, dan perabotan kayu bernilai tinggi.
+
+* **Spesialisasi:** Industri kayu spiritual terdaftar, furnitur formasi, perlengkapan perjalanan, dan jasa pengawalan karavan.
 * **Distrik Utama:** Jalan Pengrajin Kayu, Pasar Kulit dan Sisik, Lapangan Pengawal, Gudang Kayu Terdaftar, Kawasan Penginapan Pengembara.
-* **Tokoh Lokal:** Wali Kota Lu Cheng, Pengrajin Shen Bo, Kapten Pengawal Wei Nan, Pedagang Yu Rong.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Wali Kota Lu Cheng** | Wali Kota Lumu | 56 | *Xuantian Jing*, Awal | **62.500** | *Tebasan Kapak Kayu Spirit* — Menghancurkan perisai kayu liar | Berwibawa, tegas menegakkan hukum penebangan kayu terdaftar |
+| **Pengrajin Shen Bo** | Master Pengrajin Komponen Formasi | 65 | *Lingyi Jing*, Puncak | **25.000** | *Ukiran Inskripsi Kayu Lumu* — Membuat tongkat formasi berkualitas | Perfeksionis, eksentrik, benci bahan kayu mentah cacat |
+
+---
 
 ### 2.16 Kota Kecil Qingshang (青桑镇 - Qīngsāng Zhèn)
-Kota kecil di wilayah timur Shenmu Zhou yang terkenal dengan perkebunan murbei spiritual dan ulat sutra.
-* **Spesialisasi:** Pohon murbei spiritual, ulat sutra spiritual, kain pelindung Qi, dan pakaian perjalanan.
-* **Sub-lokasi:** Perkebunan Murbei Hijau, Rumah Pemintalan Spirit, Pasar Kain Pelindung, Kolam Pencelupan Daun, Gudang Benang Seribu Kilau.
+Kota kecil di wilayah timur Shenmu Zhou yang dikelilingi perkebunan murbei spiritual luas. Menjadi pusat industri pemintalan benang ulat sutra spiritual dan pembuatan jubah pelindung Qi.
+
+* **Spesialisasi:** Perkebunan murbei spiritual, ulat sutra spiritual, kain pelindung Qi, dan pakaian perjalanan.
+* **Sub-lokasi Kunci:** Perkebunan Murbei Hijau, Rumah Pemintalan Spirit, Pasar Kain Pelindung, Kolam Pencelupan Daun, Gudang Benang Seribu Kilau.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Ibu Sāng** | Pengelola Perkebunan Murbei | 50 | *Kaimai Jing*, Puncak | **1.000** | *Sentuhan Benang Sutra Spirit* — Merawat ulat sutra spiritual | Ramah, teliti, sangat menjaga mutu benang sutra hasil panen |
+
+---
 
 ### 2.17 Pos Penjaga Gerbang Wanmulin (万木林守备营 - Wànmùlín Shǒubèi Yíng)
-Pos keamanan pendaftaran dan pengawasan ekspedisi di jalur masuk utama Hutan Purba Wansen.
-* **Fungsi:** Pencatatan izin ekspedisi, penyimpanan laporan monster, dan koordinasi tim evakuasi darurat.
-* **Fasilitas:** Aula Pendaftaran Ekspedisi, Menara Pengamat Monster, Gudang Obat Darurat, Papan Peringatan Hutan, Lapangan Evakuasi.
+Pos keamanan resmi yang dikelola otoritas wilayah untuk mendaftar, memeriksa izin, dan mengawasi setiap ekspedisi yang hendak memasuki Hutan Purba Wansen.
+
+* **Fungsi Utama:** Pendaftaran ekspedisi, pemeriksaan perlengkapan keselamatan, dan pusat koordinasi tim evakuasi darurat.
+* **Fasilitas Kunci:** Aula Pendaftaran Ekspedisi, Menara Pengamat Monster, Gudang Obat Darurat, Papan Peringatan Hutan, Lapangan Evakuasi.
+
+| NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Komandan Wàn** | Kepala Pos Penjaga Wanmulin | 58 | *Xuantian Jing*, Menengah | **93.750** | *Perisai Tembok Kayu Wanmulin* — Menahan amukan gelombang beast | Disiplin ketat, tidak bisa disuap, sangat mengutamakan keselamatan |
+
+---
 
 ### 2.18 Lembah Bunga Mayat (尸花谷 - Shīhuā Gǔ) — Zona Merah (Terlarang)
-Area terlarang di bagian terpencil Hutan Purba Wansen yang menyimpan sisa dampak Bencana Bunga Mayat Purba 8.000 tahun silam.
-* **Tema:** Tumbuhan pemakan bangkai, spora beracun, dan racun biologis purba.
-* **Tiga Zona Bahaya:**
-  1. *Zona Luar (Ladang Kelopak Pucat):* Spora pemicu pusing & halusinasi ringan.
-  2. *Zona Tengah (Rawa Akar Pemangsa):* Akar hidup merespon getaran & menyerap Qi.
-  3. *Zona Inti (Sarang Bunga Mayat):* Tumbuhan leluhur purba ber-Qi berubah-ubah.
-* **Sub-lokasi:** Jalur Kelopak Tanpa Angin, Rawa Akar Pemangsa, Menara Pengamatan Runtuh, Sarang Bunga Mayat, Ruang Sampel Terkubur.
+Area terlarang di ceruk terpencil Hutan Purba Wansen yang menjadi pusat letusan spora Bencana Bunga Bangkai Purba 8.000 tahun silam. Dipenuhi oleh tumbuhan pemakan bangkai dan lapisan spora beracun biologis.
+
+* **Tema & Bahaya:** Tumbuhan karnivora, racun biologis purba, dan spora halusinasi.
+* **Sub-lokasi Kunci:** Jalur Kelopak Tanpa Angin, Rawa Akar Pemangsa, Menara Pengamatan Runtuh, Sarang Bunga Mayat, Ruang Sampel Terkubur.
+
+| Monster / Anomali | Kategori / Peran | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Mekanik Pertarungan |
+|---|---|---|---|---|---|
+| **Bunga Mayat Leluhur** | Tumbuhan Purba (Boss) | *Xuantian Jing*, Puncak | **125.000** | *Semburan Spora Beracun Massal* — Menyebarkan spora racun biologis | Mengikat target dengan sulur pemakan bangkai & menyerap HP target. |
+
+---
 
 ### 2.19 Jurang Guruh Hijau (青雷断崖 - Qīngléi Duànyá) — Zona Oranye-Merah
-Tebing pegunungan di utara Dataran Abu Hijau yang sering dilanda badai petir spiritual.
-* **Tema:** Petir spiritual, pohon tersambar petir, dan mineral penghantar Qi.
-* **Sub-lokasi:** Tebing Seribu Sambaran, Hutan Kayu Hangus, Gua Batu Penghantar, Puncak Awan Hijau, Jembatan Akar Retak.
+Tebing tinggi menakutkan di utara Dataran Abu Hijau yang secara konstan tersambar badai petir spiritual. Tempat penambangan mineral penghantar petir dan pencarian kayu tersambar guruh (*Thunder-Struck Wood*).
+
+* **Tema & Bahaya:** Badai petir spiritual, kayu hangus terionisasi, dan petir mendadak.
+* **Sub-lokasi Kunci:** Tebing Seribu Sambaran, Hutan Kayu Hangus, Gua Batu Penghantar, Puncak Awan Hijau, Jembatan Akar Retak.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Penambang Qīng** | Ahli Tambang Mineral Guruh | 45 | *Lingyi Jing*, Menengah | **18.750** | *Pukulan Palu Tahan Kilat* — Membongkar batu mineral guruh | Pemberani, kasar, selalu membawa baju zirah pelindung petir |
+
+---
 
 ### 2.20 Taman Terlarang Seribu Benih (万种禁园 - Wànzhǒng Jìnyuán) — Zona Merah
-Area penelitian botani purba tertutup di antara Lembah Biyang dan Hutan Purba Wansen.
-* **Tema:** Bibit purba dorman, mutasi tanaman, dan eksperimen botani kuno.
-* **Sub-lokasi:** Gerbang Seratus Segel, Kebun Bibit Tidur, Rumah Kaca Runtuh, Kolam Mutasi, Gudang Benih Tersegel.
+Situs penelitian botani kuno yang terisolasi di antara Lembah Biyang dan Hutan Purba Wansen. Dipenuhi oleh kebun bibit dorman dan tanaman mutasi hasil eksperimen masa lalu.
+
+* **Tema & Bahaya:** Formasi segel rusak, mutasi tanaman spiritual agresif, dan bibit purba beracun.
+* **Sub-lokasi Kunci:** Gerbang Seratus Segel, Kebun Bibit Tidur, Rumah Kaca Runtuh, Kolam Mutasi, Gudang Benih Tersegel.
+
+---
 
 ### 2.21 Kawasan Terlarang Makam Akar Sunyi (寂根禁地 - Jìgēn Jìndì) — Zona Hitam
-Lapisan terdalam Hutan Bambu Giok yang terhubung dengan sisa percobaan gagal Sekte Pedang Bambu Langit.
-* **Tema:** Keheningan mutlak, formasi penghambat Qi, dan pengaman segel leluhur.
-* **Sub-lokasi:** Jalan Akar Tanpa Jejak, Gerbang Sunyi Tiga Nadi, Ruang Penjaga Tanpa Nama, Makam Tetua Pertama, Ruang Segel Leluhur.
+Lapisan paling dalam dan terisolasi dari Hutan Bambu Giok. Tempat disembunyikannya inti pengaman formasi kuno yang menyegel sisa kegagalan ritual Sekte Pedang Bambu Langit.
+
+* **Tema & Bahaya:** Keheningan mutlak tanpa suara, formasi penekan Qi, dan jebakan ilusi jiwa.
+* **Sub-lokasi Kunci:** Jalan Akar Tanpa Jejak, Gerbang Sunyi Tiga Nadi, Ruang Penjaga Tanpa Nama, Makam Tetua Pertama, Ruang Segel Leluhur.
+
+---
 
 ### 2.22 Danau Akar Terbalik (倒根灵湖 - Dàogēn Línghú) — Zona Oranye
-Lembah terpencil di selatan Hutan Purba Wansen dengan mata air jaringan akar bawah tanah.
-* **Tema:** Aliran Qi terbalik, akar pohon tumbuh ke permukaan air, dan ilusi pantulan spiritual.
-* **Sub-lokasi:** Dermaga Akar Terapung, Pulau Pantulan, Mata Air Terbalik, Hutan Akar Menggantung, Gua Dasar Danau.
+Lembah danau spiritual di selatan Hutan Purba Wansen tempat akar pohon raksasa tumbuh terbalik ke arah permukaan air. Menghasilkan fenomena anomali aliran Qi terbalik.
+
+* **Tema & Bahaya:** Aliran Qi terbalik, ilusi pulau terapung, dan pusaran air spirit.
+* **Sub-lokasi Kunci:** Dermaga Akar Terapung, Pulau Pantulan, Mata Air Terbalik, Hutan Akar Menggantung, Gua Dasar Danau.
+
+---
 
 ### 2.23 Kampung Penenun Akar (织根寨 - Zhīgēn Zhài)
-Permukiman pengrajin tali dan jembatan akar di dekat Terowongan Akar Berurat Giok (Hutan Bambu Giok).
-* **Spesialisasi:** Anyaman akar spiritual, tali penjelajah, jembatan akar, dan perlengkapan ekspedisi.
-* **Sub-lokasi:** Balai Anyaman Leluhur, Jembatan Akar Ganda, Gudang Serat Spiritual, Lapangan Uji Tali, Pos Penjaga Terowongan.
+Permukiman suku pengrajin tradisional di dekat Terowongan Akar Berurat Giok. Menguasai teknik menganyam serat akar spiritual menjadi tali penjelajah dan jembatan gantung tahan beban berat.
+
+* **Spesialisasi:** Anyaman akar spiritual, tali panjat tebing, jembatan akar, dan jaring penangkap beast.
+* **Sub-lokasi Kunci:** Balai Anyaman Leluhur, Jembatan Akar Ganda, Gudang Serat Spiritual, Lapangan Uji Tali, Pos Penjaga Terowongan.
+
+---
 
 ### 2.24 Perkampungan Penjaga Mata Air (守泉村 - Shǒuquán Cūn)
-Desa konservasi di hulu Sungai Seribu Akar yang mengaliri kebun dan permukiman Shenmu Zhou.
-* **Spesialisasi:** Pemeliharaan mata air, pemurnian air, dan pengaturan aliran kanal.
-* **Sub-lokasi:** Mata Air Tujuh Cabang, Rumah Penjaga Bendung, Kolam Pemurnian, Kanal Batu Hijau, Hutan Pelindung Hulu.
+Desa konservasi lingkungan di hulu Sungai Seribu Akar. Bertanggung jawab menjaga pemurnian mata air utama yang mengaliri seluruh kebun obat di Shenmu Zhou.
+
+* **Spesialisasi:** Pemeliharaan mata air spiritual, pemurnian air, pengerukan kanal, dan perlindungan ekosistem hulu.
+* **Sub-lokasi Kunci:** Mata Air Tujuh Cabang, Rumah Penjaga Bendung, Kolam Pemurnian, Kanal Batu Hijau, Hutan Pelindung Hulu.
 
 ---
 
