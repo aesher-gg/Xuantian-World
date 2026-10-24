@@ -80,6 +80,11 @@ QiRegenPerHour = QiCap × 0.05 × RootRegenMultiplier × EnvironmentQiModifier �
 MeditationQiPerMinute = (QiCap × 0.02) × (1 + ComprehensionLevel × 0.10) × SpiritStoneGatheringBonus
 ```
 
+### 3.3 Efek Ruang Spesial & Dilatasi Waktu (Pocket World Time Dilation)
+Untuk tempat khusus yang memiliki Dunia Kecil Mandiri (*Pocket World*), seperti **Gantungan Giok Alam Hunyuan** (`51_SPECIAL_ITEMS.md`):
+- **Dilatasi Waktu 1:24:** **1 Jam meditasi di dalam dunia giok setara dengan 24 Jam (1 Hari) waktu dunia luar.**
+- **Hasil Meditasi:** Memberikan pemulihan Qi Cap 100% instan dan melipatgandakan serapan wawasan/insight terobosan sebesar 24x lipat tanpa risiko penalti kelelahan Dantian.
+
 ---
 
 ## 🌟 4. Mekanik & Formula Keberhasilan Penerobosan (Breakthrough System)
