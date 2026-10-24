@@ -65,7 +65,19 @@ Material langka dari Hutan Bambu Giok (`02_SHENMU_ZHOU.md` §2.6) yang dapat dio
 | **Benih Leluhur Giok** *(Ancestral Jade Seed)* | Berkebun / Alkimia | Tier 6–7 | Benih purba langka untuk ditanam di Tanah Spirit Grade 4 (Menghasilkan *Buah Giok Leluhur*). |
 | **Inti Roh Purba** *(Ancient Spirit Core)* | Alkimia / Penempaan | Tier 6–7 | Bahan baku utama *Pill Terobos Nadi Giok* (Breakthrough Realm 5–6) dan Artefak Jiwa. |
 
-### 1.5 Material Kustom & Resep Dataran Makam Kekaisaran (Imperial Mausoleum Plains Materials)
+### 1.5 Material Kustom & Resep Ekspansi Shenmu Zhou (Shenmu Zhou Expansion Materials)
+Material kustom dari lokasi-lokasi baru Shenmu Zhou (`02_SHENMU_ZHOU.md` §2.13–2.24):
+
+| Nama Material / Resep | Jenis Profesi / Kegunaan | Tier Bahan | Efek / Hasil Olahan |
+|---|---|---|---|
+| **Akar Wangi Spiritual** *(Fragrant Root)* | Alkimia / Herbal | Tier 1–2 | Bahan racikan Pil Penenang Jiwa & pakan khusus serangga spirit. |
+| **Sutra Spiritual Qingshang** *(Qingshang Spirit Silk)* | Penempaan / Kerajinan | Tier 2–3 | Bahan kain pelindung Qi ringan, jubah perjalanan tahan gesekan, dan perban herbal. |
+| **Kayu Lumu Terdaftar** *(Registered Lumu Wood)* | Kerajinan / Formasi | Tier 2–3 | Bahan baku utama perkakas kebun, busur kayu spirit, dan komponen piringan formasi. |
+| **Mineral Penghantar Guruh** *(Thunder Conductor Mineral)* | Penempaan / Formasi | Tier 3–4 | Komponen piringan formasi petir dan campuran leburan zirah tahan kilat. |
+| **Anyaman Akar Spiritual** *(Spiritual Root Weave)* | Kerajinan Penjelajah | Tier 2–3 | Bahan baku tali panjat ber-Qi tinggi, jembatan gantung portabel, dan jaring penjinak beast. |
+| **Spora Bunga Mayat** *(Corpse Flower Spores)* | Toksikologi / Alkimia | Tier 4–5 | Bahan baku racun biologis pelumpuh dan racikan obat pemurni sampel purba. |
+
+### 1.6 Material Kustom & Resep Dataran Makam Kekaisaran (Imperial Mausoleum Plains Materials)
 Material bersejarah dan spiritual dari Dataran Makam Kekaisaran (`03_ZHONGHUA_ZHOU.md` §2.5):
 
 | Nama Material / Resep | Jenis Profesi / Kegunaan | Tier Bahan | Efek / Hasil Olahan |

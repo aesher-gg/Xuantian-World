@@ -153,9 +153,112 @@ Wilayah rahasia mandiri di Shenmu Zhou berupa hutan bambu spiritual kuno yang te
 
 ---
 
+### 2.13 Desa Akar Wangi (香根村 - Xiānggēn Cūn)
+Desa pertanian spiritual di perbatasan Lembah Biyang dan Dataran Abu Hijau. Berfungsi sebagai pemasok bahan obat mentah akar ke Perguruan Berkebun Biyang dan Kota Shenmu.
+* **Spesialisasi:** Tanaman obat akar, pengolahan tanah spiritual, dan perdagangan bibit.
+* **Sub-lokasi:** Kebun Seribu Akar, Sumur Qi Bumi, Rumah Pengering Herbal, Paviliun Benih Leluhur, Ladang Akar Merah.
+
+### 2.14 Desa Kabut Hijau (青雾村 - Qīngwù Cūn)
+Desa perbatasan di pinggiran Hutan Purba Wansen yang diselimuti kabut penguapan air spiritual.
+* **Spesialisasi:** Pemandu hutan, pengumpulan bahan spiritual, dan pengamatan pergerakan monster.
+* **Sub-lokasi:** Menara Penanda Kabut, Jalur Tapak Zamrud, Pondok Pemburu Tua, Kolam Embun Pagi, Ladang Obat Kabut.
+
+### 2.15 Kota Kecil Lumu (鹿木镇 - Lùmù Zhèn)
+Kota kecil pengolahan kayu spiritual di jalur dagang antara Kota Shenmu dan Hutan Purba Wansen.
+* **Spesialisasi:** Kayu spiritual, furnitur formasi, perlengkapan perjalanan, dan jasa pengawalan karavan.
+* **Distrik Utama:** Jalan Pengrajin Kayu, Pasar Kulit dan Sisik, Lapangan Pengawal, Gudang Kayu Terdaftar, Kawasan Penginapan Pengembara.
+* **Tokoh Lokal:** Wali Kota Lu Cheng, Pengrajin Shen Bo, Kapten Pengawal Wei Nan, Pedagang Yu Rong.
+
+### 2.16 Kota Kecil Qingshang (青桑镇 - Qīngsāng Zhèn)
+Kota kecil di wilayah timur Shenmu Zhou yang terkenal dengan perkebunan murbei spiritual dan ulat sutra.
+* **Spesialisasi:** Pohon murbei spiritual, ulat sutra spiritual, kain pelindung Qi, dan pakaian perjalanan.
+* **Sub-lokasi:** Perkebunan Murbei Hijau, Rumah Pemintalan Spirit, Pasar Kain Pelindung, Kolam Pencelupan Daun, Gudang Benang Seribu Kilau.
+
+### 2.17 Pos Penjaga Gerbang Wanmulin (万木林守备营 - Wànmùlín Shǒubèi Yíng)
+Pos keamanan pendaftaran dan pengawasan ekspedisi di jalur masuk utama Hutan Purba Wansen.
+* **Fungsi:** Pencatatan izin ekspedisi, penyimpanan laporan monster, dan koordinasi tim evakuasi darurat.
+* **Fasilitas:** Aula Pendaftaran Ekspedisi, Menara Pengamat Monster, Gudang Obat Darurat, Papan Peringatan Hutan, Lapangan Evakuasi.
+
+### 2.18 Lembah Bunga Mayat (尸花谷 - Shīhuā Gǔ) — Zona Merah (Terlarang)
+Area terlarang di bagian terpencil Hutan Purba Wansen yang menyimpan sisa dampak Bencana Bunga Mayat Purba 8.000 tahun silam.
+* **Tema:** Tumbuhan pemakan bangkai, spora beracun, dan racun biologis purba.
+* **Tiga Zona Bahaya:**
+  1. *Zona Luar (Ladang Kelopak Pucat):* Spora pemicu pusing & halusinasi ringan.
+  2. *Zona Tengah (Rawa Akar Pemangsa):* Akar hidup merespon getaran & menyerap Qi.
+  3. *Zona Inti (Sarang Bunga Mayat):* Tumbuhan leluhur purba ber-Qi berubah-ubah.
+* **Sub-lokasi:** Jalur Kelopak Tanpa Angin, Rawa Akar Pemangsa, Menara Pengamatan Runtuh, Sarang Bunga Mayat, Ruang Sampel Terkubur.
+
+### 2.19 Jurang Guruh Hijau (青雷断崖 - Qīngléi Duànyá) — Zona Oranye-Merah
+Tebing pegunungan di utara Dataran Abu Hijau yang sering dilanda badai petir spiritual.
+* **Tema:** Petir spiritual, pohon tersambar petir, dan mineral penghantar Qi.
+* **Sub-lokasi:** Tebing Seribu Sambaran, Hutan Kayu Hangus, Gua Batu Penghantar, Puncak Awan Hijau, Jembatan Akar Retak.
+
+### 2.20 Taman Terlarang Seribu Benih (万种禁园 - Wànzhǒng Jìnyuán) — Zona Merah
+Area penelitian botani purba tertutup di antara Lembah Biyang dan Hutan Purba Wansen.
+* **Tema:** Bibit purba dorman, mutasi tanaman, dan eksperimen botani kuno.
+* **Sub-lokasi:** Gerbang Seratus Segel, Kebun Bibit Tidur, Rumah Kaca Runtuh, Kolam Mutasi, Gudang Benih Tersegel.
+
+### 2.21 Kawasan Terlarang Makam Akar Sunyi (寂根禁地 - Jìgēn Jìndì) — Zona Hitam
+Lapisan terdalam Hutan Bambu Giok yang terhubung dengan sisa percobaan gagal Sekte Pedang Bambu Langit.
+* **Tema:** Keheningan mutlak, formasi penghambat Qi, dan pengaman segel leluhur.
+* **Sub-lokasi:** Jalan Akar Tanpa Jejak, Gerbang Sunyi Tiga Nadi, Ruang Penjaga Tanpa Nama, Makam Tetua Pertama, Ruang Segel Leluhur.
+
+### 2.22 Danau Akar Terbalik (倒根灵湖 - Dàogēn Línghú) — Zona Oranye
+Lembah terpencil di selatan Hutan Purba Wansen dengan mata air jaringan akar bawah tanah.
+* **Tema:** Aliran Qi terbalik, akar pohon tumbuh ke permukaan air, dan ilusi pantulan spiritual.
+* **Sub-lokasi:** Dermaga Akar Terapung, Pulau Pantulan, Mata Air Terbalik, Hutan Akar Menggantung, Gua Dasar Danau.
+
+### 2.23 Kampung Penenun Akar (织根寨 - Zhīgēn Zhài)
+Permukiman pengrajin tali dan jembatan akar di dekat Terowongan Akar Berurat Giok (Hutan Bambu Giok).
+* **Spesialisasi:** Anyaman akar spiritual, tali penjelajah, jembatan akar, dan perlengkapan ekspedisi.
+* **Sub-lokasi:** Balai Anyaman Leluhur, Jembatan Akar Ganda, Gudang Serat Spiritual, Lapangan Uji Tali, Pos Penjaga Terowongan.
+
+### 2.24 Perkampungan Penjaga Mata Air (守泉村 - Shǒuquán Cūn)
+Desa konservasi di hulu Sungai Seribu Akar yang mengaliri kebun dan permukiman Shenmu Zhou.
+* **Spesialisasi:** Pemeliharaan mata air, pemurnian air, dan pengaturan aliran kanal.
+* **Sub-lokasi:** Mata Air Tujuh Cabang, Rumah Penjaga Bendung, Kolam Pemurnian, Kanal Batu Hijau, Hutan Pelindung Hulu.
+
+---
+
 ## 3. Sekte & Perguruan di Shenmu Zhou
 
 1. **Sekte Induk Shenmu (Shenmu Spirit Sect / 神木宗)** [`19_SHENMU_SECT.md`]: Sekte Utama pelindung Pohon Shenmu dan penguasa Akar Spiritual Kayu Abadi.
 2. **Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)** [`20_PERGURUAN_BERKEBUN_BIYANG.md`]: Perguruan Spesialis teknik analisis tanah, benih obat, dan pupuk Qi Kayu.
 3. **Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)** [`21_PERGURUAN_BEAST_QINGLING.md`]: Perguruan Spesialis komunikasi empati, kontrak kesetaraan, dan taktik Spirit Beast.
 4. **Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)** [`45_TIANZHU_SWORD_SECT.md`]: Sekte Kuno Tersegel di Hutan Bambu Giok, pemilik warisan Niat Pedang Bambu Langit & Formasi Tiga Nadi Giok.
+5. **Perguruan Pengamat Bintang Rimba (Forest Star Astronomy Academy / 林星观测院)** [`46_PERGURUAN_PENGAMAT_BINTANG_RIMBA.md`]: Perguruan Spesialis pengamatan kalender spiritual, pemetaan siklus Qi Kayu, dan kalkulasi musim berbunga tanaman obat.
+6. **Perguruan Pemetaan Nadi Bumi (Earth Vein Mapping Academy / 地脉测绘院)** [`47_PERGURUAN_PEMETAAN_NADI_BUMI.md`]: Perguruan Spesialis geografi spiritual, pemetaan terowongan bawah tanah, dan analisis kestabilan tanah spirit.
+7. **Perguruan Racun dan Penawar Tumbuhan (Plant Poison & Antidote Academy / 草毒解药院)** [`48_PERGURUAN_RACUN_DAN_PENAWAR_TUMBUHAN.md`]: Perguruan Spesialis toksikologi spora/tumbuhan beracun, pembuatan antidot, dan karantina bahan berbahaya.
+8. **Perguruan Pemeliharaan Formasi Alam (Natural Array Maintenance Academy / 自然阵法维护院)** [`49_PERGURUAN_PEMELIHARAAN_FORMASI_ALAM.md`]: Perguruan Spesialis inspeksi, perawatan pilar formasi pelindung hutan, dan evaluasi risiko formasi kuno.
+9. **Perguruan Perawatan Beast Spiritual (Spiritual Beast Care Academy / 灵兽护理院)** [`50_PERGURUAN_PERAWATAN_BEAST_SPIRITUAL.md`]: Perguruan Spesialis kesehatan fisik beast, rehabilitasi monster terluka, dan nutrisi herbal hewan spirit.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Shenmu Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Dapat dikunjungi publik dan pemula dengan kewaspadaan standar. |
+| **Zona Kuning** | Sedang | Disarankan membawa pemandu lokal dan obat pemulihan dasar. |
+| **Zona Oranye** | Tinggi | Memerlukan tim berpengalaman, peta terbaru, dan perlengkapan khusus. |
+| **Zona Merah** | Sangat Tinggi | Akses dibatasi ketat; wajib mendaftar di pos penjaga & membawa penawar/pelindung khusus. |
+| **Zona Hitam** | Ekstrem / Terlarang | Akses sangat terbatas; hanya dapat dibuka melalui izin khusus & evaluasi risiko kematian. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Desa Akar Wangi** | Lembah Biyang, Dataran Abu Hijau | Pemasok bahan obat mentah jenis akar. |
+| **Desa Kabut Hijau** | Hutan Purba Wansen | Pusat pemandu hutan & pos pemantauan kabut. |
+| **Kota Kecil Lumu** | Kota Shenmu, Hutan Purba Wansen | Pusat industri pengolahan kayu spiritual & perkakas. |
+| **Kota Kecil Qingshang** | Jalur Perdagangan Timur | Pusat produksi sutra spiritual & kain pelindung. |
+| **Pos Penjaga Wanmulin** | Hutan Purba Wansen | Pusat pendaftaran & koordinasi keselamatan ekspedisi. |
+| **Lembah Bunga Mayat** | Hutan Purba Wansen (Terpencil) | Zona eksplorasi riset spora & racun biologis purba. |
+| **Jurang Guruh Hijau** | Dataran Abu Hijau (Utara) | Tambang mineral penghantar petir & kayu tersambar. |
+| **Taman Terlarang Seribu Benih** | Lembah Biyang & Hutan Purba | Situs riset bibit purba & arena konflik hak penelitian. |
+| **Makam Akar Sunyi** | Hutan Bambu Giok (Jantung) | Reruntuhan rahasia puncak konflik Sekte Pedang Bambu Langit. |
+| **Danau Akar Terbalik** | Hutan Purba Wansen (Selatan) | Zona anomali aliran Qi & ekspolasi perahu akar. |
+| **Kampung Penenun Akar** | Hutan Bambu Giok | Pengrajin jembatan & tali anyaman akar penjelajah. |
+| **Perkampungan Penjaga Mata Air** | Hulu Sungai Seribu Akar | Pusat konservasi air & jaringan pengerukan kanal spirit. |
