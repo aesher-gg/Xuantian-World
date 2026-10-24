@@ -16,7 +16,7 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 2. **Sesuai Lokasi Karakter Saat Ini:**
    - **Ibu Kota / General:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`
    - **Shenmu Zhou (Kayu/Alam/Berkebun):** `02_SHENMU_ZHOU.md` (Kota Shenmu, Desa Qingling, Lembah Biyang, Hutan Purba Wansen, Dataran Abu Hijau, Hutan Bambu Giok)
-   - **Zhonghua Zhou (Dataran Tengah):** `03_ZHONGHUA_ZHOU.md` (Kota Tianjing, Kota Luoyang, Desa Xingcun, Lembah Medan Perang Kuno)
+   - **Zhonghua Zhou (Dataran Tengah):** `03_ZHONGHUA_ZHOU.md` (Kota Tianjing, Kota Luoyang, Desa Xingcun, Lembah Medan Perang Kuno, Dataran Makam Kekaisaran)
    - **Canglong Zhou (Pegunungan Pedang):** `04_CANGLONG_ZHOU.md` (Kota Canglong, Desa Qingfeng, Lembah Pedang Berbisik, Puncak Tebasan Naga, Ngarai Bambu Pedang)
    - **Chiyan Zhou (Gunung Berapi/Forging):** `05_CHIYAN_ZHOU.md` (Kota Shendu, Desa Chishui, Puncak Danhuang, Lembah Meteorit Merah, Gua Lava Hitam)
    - **Canghai Zhou (Kepulauan/Laut):** `06_CANGHAI_ZHOU.md` (Kota Pelabuhan Haibin, Kepulauan Xingluo, Palung Laut Bintang Giok, Kepulauan Mutiara Purba, Tembok Es Samudra)

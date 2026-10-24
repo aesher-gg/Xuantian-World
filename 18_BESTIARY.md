@@ -120,16 +120,23 @@ Beast lintas wilayah adalah entitas spiritual yang dapat ditemukan mengembara di
 | Nama Beast | Jenis / Kategori | Tier | Loot |
 |---|---|---|---|
 | Anjing Penjaga Halaman Spirit | Mamalia Kecil | Tier 1 | Kulit Anjing Spirit (85% (Umum)) |
+| Gagak Batu | Unggas Spiritual | Tier 1 | Bulu Gagak Batu (85% (Umum))<br>Cakar Spirit (75% (Umum)) |
 | Babi Hutan Taring Besi | Mamalia Darat | Tier 2 | Taring Besi (80% (Umum))<br>Daging Spirit (75% (Umum)) |
 | Roh Prajurit Gugur | Undead / Spirit | Tier 2 | Serpihan Baju Zirah Kuno (75% (Umum))<br>Kristal Jiwa Tier 2 (35% (Jarang)) |
+| Boneka Penjaga Rusak | Konstruksi Spiritual | Tier 2 | Pecahan Inti Konstruksi (75% (Umum))<br>Komponen Mekanis (35% (Jarang)) |
 | Macan Besi Pegunungan | Predator Darat | Tier 3 | Kulit Macan Besi (75% (Umum))<br>Inti Tier 3 (30% (Jarang)) |
+| Ular Danau Leluhur | Reptil Danau | Tier 3 | Sisik Ular Danau (75% (Umum))<br>Empedu Ular (35% (Jarang)) |
 | Elang Pengawal Bukit | Unggas Udara | Tier 3 | Bulu Elang Spirit (70% (Umum))<br>Inti Tier 3 (30% (Jarang)) |
 | Serigala Karang Sungai | Predator Air/Darat | Tier 3 | Taring Serigala Sungai (70% (Umum))<br>Kulit Serigala (35% (Jarang)) |
 | Naga Sungai Longjiang | Aquatic Dragon | Tier 4 | Sisik Naga Sungai (65% (Umum))<br>Inti Air Tier 4 (20% (Langka)) |
+| Prajurit Boneka Kekaisaran | Konstruksi Spiritual | Tier 4 | Inti Konstruksi Tier 4 (65% (Umum))<br>Pecahan Zirah Batu (18% (Langka)) |
+| Pengawal Batu | Konstruksi Spiritual | Tier 4 | Batu Formasi Makam (65% (Umum))<br>Komponen Mekanis (18% (Langka)) |
 | Banteng Tanduk Perunggu | Beast Raga Besi | Tier 4 | Tanduk Perunggu Spirit (65% (Umum))<br>Inti Tier 4 (18% (Langka)) |
 | Beruang Pelindung Lembah | Tank / Elit | Tier 4 | Empedu Beruang (65% (Umum))<br>Inti Tier 4 (18% (Langka)) |
 | Singa Bintang Kekaisaran | Spirit Beast Elit | Tier 5 | Surai Singa Bintang (60% (Umum))<br>Inti Tier 5 (15% (Langka)) |
 | Ular Emas Pelindung Makam | Reptil Purba | Tier 5 | Sisik Emas Purba (60% (Umum))<br>Inti Tier 5 (12% (Langka)) |
+| Roh Pelayan Makam | Roh Spiritual | Tier 5 | Fragmen Memori Kuno (60% (Umum))<br>Kristal Jiwa Tier 5 (15% (Langka)) |
+| Penjaga Segel Tanpa Nama | Entitas Penjaga | Tier 5 | Batu Segel Kekaisaran (60% (Umum))<br>Inti Tier 5 (12% (Langka)) |
 | Kuda Sembrani Langit | Beast Terbang | Tier 6 | Sayap Sembrani Spirit (55% (Umum))<br>Inti Tier 6 (10% (Langka)) |
 | Bao-Penguasa Bukit Bintang | Predator Mitos | Tier 6 | Kulit Totem Bao (55% (Umum))<br>Inti Tier 6 (8% (Langka)) |
 | Naga Emas Pelindung Dinasti | Imperial Dragon | Tier 7 | Sisik Naga Emas (50% (Umum))<br>Inti Tier 7 (4% (Legendaris)) |

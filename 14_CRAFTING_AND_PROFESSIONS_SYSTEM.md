@@ -65,6 +65,20 @@ Material langka dari Hutan Bambu Giok (`02_SHENMU_ZHOU.md` §2.6) yang dapat dio
 | **Benih Leluhur Giok** *(Ancestral Jade Seed)* | Berkebun / Alkimia | Tier 6–7 | Benih purba langka untuk ditanam di Tanah Spirit Grade 4 (Menghasilkan *Buah Giok Leluhur*). |
 | **Inti Roh Purba** *(Ancient Spirit Core)* | Alkimia / Penempaan | Tier 6–7 | Bahan baku utama *Pill Terobos Nadi Giok* (Breakthrough Realm 5–6) dan Artefak Jiwa. |
 
+### 1.5 Material Kustom & Resep Dataran Makam Kekaisaran (Imperial Mausoleum Plains Materials)
+Material bersejarah dan spiritual dari Dataran Makam Kekaisaran (`03_ZHONGHUA_ZHOU.md` §2.5):
+
+| Nama Material / Resep | Jenis Profesi / Kegunaan | Tier Bahan | Efek / Hasil Olahan |
+|---|---|---|---|
+| **Batu Prasasti Kuno** *(Ancient Stele Stone)* | Formasi / Penempaan | Tier 1–2 | Bahan baku penyusun piringan formasi segel dan restorasi jalan batu kekaisaran. |
+| **Kayu Pinus Tua** *(Old Pine Wood)* | Kerajinan / Penempaan | Tier 1–2 | Bahan perabotan kayu spirit tahan cuaca dan tiang penyangga lorong makam. |
+| **Pecahan Formasi** *(Array Shard)* | Formasi / Jimat | Tier 3–4 | Komponen penarik energi Qi untuk piringan formasi pertahanan portabel. |
+| **Logam Pemakaman** *(Mausoleum Metal)* | Penempaan Besi | Tier 3–4 | Bahan campuran pembuatan zirah pengawal dan senjata pembunuh roh. |
+| **Fragmen Senjata Kuno** *(Ancient Weapon Shard)* | Penempaan / Penelitian | Tier 4–5 | Bahan lebur besi tua ber-Qi tinggi untuk menempa ulang senjata bersertifikat kekaisaran. |
+| **Catatan Dinasti** *(Dynasty Record Scroll)* | Penelitian / Quest | Tier 4–5 | Bahan analisis sejarah kuno yang dijual ke rumah lelang atau diserahkan ke peneliti. |
+| **Inti Konstruksi** *(Construct Core)* | Formasi / Penempaan | Tier 4–5 | Inti penggerak boneka penjaga batu dan formasi otomatis makam. |
+| **Segel Kekaisaran Rusak** *(Damaged Imperial Seal)* | Identifikasi / Quest | Tier 5–6 | Barang kuno bernilai tinggi untuk membuktikan klaim silsilah dinasti atau membuka rahasia segel. |
+
 ---
 
 ## 🐾 2. Sistem Penjinakan & Pelatihan Beast (Beast Taming System)
