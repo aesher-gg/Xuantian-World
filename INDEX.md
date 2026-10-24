@@ -15,7 +15,7 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 
 2. **Sesuai Lokasi Karakter Saat Ini:**
    - **Ibu Kota / General:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`
-   - **Shenmu Zhou (Kayu/Alam/Berkebun):** `02_SHENMU_ZHOU.md` (Kota Shenmu, Desa Qingling, Lembah Biyang, Hutan Purba Wansen, Dataran Abu Hijau)
+   - **Shenmu Zhou (Kayu/Alam/Berkebun):** `02_SHENMU_ZHOU.md` (Kota Shenmu, Desa Qingling, Lembah Biyang, Hutan Purba Wansen, Dataran Abu Hijau, Hutan Bambu Giok)
    - **Zhonghua Zhou (Dataran Tengah):** `03_ZHONGHUA_ZHOU.md` (Kota Tianjing, Kota Luoyang, Desa Xingcun, Lembah Medan Perang Kuno)
    - **Canglong Zhou (Pegunungan Pedang):** `04_CANGLONG_ZHOU.md` (Kota Canglong, Desa Qingfeng, Lembah Pedang Berbisik, Puncak Tebasan Naga, Ngarai Bambu Pedang)
    - **Chiyan Zhou (Gunung Berapi/Forging):** `05_CHIYAN_ZHOU.md` (Kota Shendu, Desa Chishui, Puncak Danhuang, Lembah Meteorit Merah, Gua Lava Hitam)
@@ -85,4 +85,5 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 | 42 | `42_CUSTOM_SPIRITUAL_ROOTS.md` | 📜 Akar Spiritual Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/42_CUSTOM_SPIRITUAL_ROOTS.md |
 | 43 | `43_CUSTOM_SECTS.md` | 🏯 Sekte & Perguruan Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/43_CUSTOM_SECTS.md |
 | 44 | `44_CUSTOM_TECHNIQUES.md` | ⚔️ Teknik & Jurus Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/44_CUSTOM_TECHNIQUES.md |
+| 45 | `45_TIANZHU_SWORD_SECT.md` | 🎋 Sekte Pedang Bambu Langit (Tianzhu Sword Sect - Hutan Bambu Giok) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/45_TIANZHU_SWORD_SECT.md |
 | Hub | `players.md` | 📇 Katalog Read-Only Karakter Awal | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players.md |

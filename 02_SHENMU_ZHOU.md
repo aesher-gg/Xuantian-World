@@ -77,11 +77,79 @@ Hutan belantara raksasa yang membentang seluas 4 juta li². Hutan ini diselimuti
 ---
 
 ### 2.5 Dataran Abu Hijau (绿灰平原 - Green Ash Plains)
-Dataran luas bekas Bencana Bunga Bangkai Purba. Tanah berpigmen abu hijau ini mengandung konsentrasi unsur hara spirit tinggi, menjadikannya lokasi perkelahian perebutan lahan kebun obat antar-faksi.
+Dataran luas bekas Bencana Bunga Bangkai Purba. Tanah berpigmen abu hijau mengandung konsentrasi unsur hara spirit tinggi, menjadikannya lokasi perkelahian perebutan lahan kebun obat antar-faksi.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
 | **Ketua Kebun Gu** | Pengelola Konsorsium Kebun Obat Dataran Abu | 58 | *Xuantian Jing*, Puncak | **125.000** | *Telapak Tanah Subur Shenmu* — Mempercepat masa panen tanaman obat | Cerdas, berjiwa bisnis tinggi, sangat lihai mengatur kontrak kerja petani |
+
+---
+
+### 2.6 Hutan Bambu Giok (翠玉竹海 - Jade Bamboo Sea / Cuiyu Zhuhai)
+Wilayah rahasia mandiri di Shenmu Zhou berupa hutan bambu spiritual kuno yang terbagi menjadi 3 lapisan eksplorasi. Terkenal dengan fenomena batang bambu berwarna hijau giok, kabut spiritual pekat, formasi kuno tersegel, serta reruntuhan **Sekte Pedang Bambu Langit (Tianzhu Sword Sect)**.
+
+* **Nama Alternatif:** Jade Bamboo Sea / Emerald Bamboo Sanctum
+* **Tema:** Keindahan yang menyembunyikan bahaya, kesadaran tanaman, formasi kuno, dan warisan kultivator yang hilang.
+* **Ciri Visual:** Batang bambu hijau giok, daun berkilau, kabut spiritual, sungai dangkal, batu giok alami, serta cahaya hijau berpendar pada malam hari.
+
+#### Struktur Tiga Lapisan Eksplorasi
+
+```
+[ LAPISAN III · JANTUNG GIOK (禁地) ]
+  ├── Pohon Leluhur Giok
+  ├── Istana Akar Tanpa Matahari
+  └── Makam Tetua Pertama / Altar Tiga Nadi
+        ▲ (Tanda Formasi & Segel Nadi Kedua)
+[ LAPISAN II · HUTAN TENGAH (核心林域) ]
+  ├── Lembah Kabut Pemakan Qi
+  ├── Danau Cermin Giok
+  ├── Reruntuhan Sekte Pedang Bambu Langit
+  └── Terowongan Akar Berurat Giok
+        ▲ (Urutan Nada Prasasti Gerbang)
+[ LAPISAN I · HUTAN LUAR GIOK (外围竹林) ]
+  ├── Gerbang Bambu Sunyi
+  ├── Sungai Seribu Bambu
+  └── Paviliun Pengembara
+```
+
+| Elemen | Lapisan I — Hutan Luar | Lapisan II — Hutan Tengah | Lapisan III — Jantung Giok |
+|---|---|---|---|
+| **Rekomendasi Ranah** | *Lingquan Jing* – *Kaimai Jing* (Tier 1–2) | *Ningyuan Jing* – *Lingyi Jing* (Tier 3–4) | *Xuantian Jing* – *Faxiang Jing* (Tier 5–7+) |
+| **Energi Spiritual** | Stabil (Wood Qi Modifier ×1.25) | Padat & Berubah-ubah (Konsumsi Qi +20%) | Sangat Pekat, Menekan Jiwa (-10% Qi Cap/turn tanpa pelindung) |
+| **Lingkungan** | Terbuka, sungai dangkal, jalan tua | Kabut tebal, tebing, reruntuhan formasi | Akar raksasa, ruang terlipat, ilusi ingatan |
+| **Ancaman Utama** | Predator liar, perangkap sulur | Formasi aktif, beast cerdas, kabut pemakan Qi | Penjaga kuno, korupsi spiritual, boss entitas |
+| **Sumber Daya** | Bambu Roh Hijau, Embun Giok, Rumput Penjernih Qi | Serat Urat Giok, Pecahan Pedang Giok, Giok Spirit | Benih Leluhur Giok, Inti Roh Purba, Warisan Niat Pedang |
+
+#### A. Area Kunci Lapisan I — Hutan Luar
+1. **Gerbang Bambu Sunyi (寂竹门):** Pintu masuk kuno dengan prasasti terkikis. Orang dengan niat membunuh akan dijebak rute berputar kembali ke tempat semula. Prasasti menyimpan urutan nada untuk membuka segel lapisan kedua.
+2. **Sungai Seribu Bambu (千竹溪):** Sungai dangkal di antara akar bambu. Airnya memulihkan stamina (+10 Stamina per minum), namun bagian tertentu mengandung racun akar pembusuk.
+3. **Paviliun Pengembara (游修亭):** Bekas tempat istirahat kultivator. Menjadi titik singgah tidak resmi pedagang keliling dan pemburu beast.
+
+#### B. Area Kunci Lapisan II — Hutan Tengah
+1. **Lembah Kabut Pemakan Qi (噬气雾谷):** Kabut menyerap 5% Qi karakter per turn. Kultivator harus mengontrol napas atau menggunakan Pil Penjernih Qi.
+2. **Danau Cermin Giok (玉镜湖):** Memantulkan bayangan jiwa. Menyerang pantulan secara membabi buta memicu perlawanan formasi pertahanan.
+3. **Reruntuhan Sekte Pedang Bambu Langit (天竹剑宗遗址):** Aula latihan dan halaman pedang yang ditelan akar. Menyimpan artefak dan inskripsi teknik pedang kuno.
+4. **Terowongan Akar Berurat Giok (玉脉根道):** Jaringan akar pembawa mineral spirit menuju lapisan inti.
+
+#### C. Area Kunci Lapisan III — Jantung Giok (Tanah Terlarang)
+1. **Pohon Leluhur Sepuluh Ribu Daun (万叶祖竹):** Menara bambu purba raksasa wadah kesadaran kolektif para penjaga sekte.
+2. **Istana Akar Tanpa Matahari (无日根宫):** Istana bawah tanah berisi ukiran sejarah pendirian dan kejatuhan sekte.
+3. **Altar Tiga Nadi (三脉封坛):** Pusat pengendali aliran Qi dan segel akar Hutan Bambu Giok.
+4. **Makam Tetua Pertama (初代长老墓):** Tempat ditemukannya bukti penyebab utama kegagalan ritual masa lalu.
+
+#### Roster NPC & Boss Hutan Bambu Giok
+
+| NPC / Boss | Peran / Jabatan | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Mekanik Pertarungan |
+|---|---|---|---|---|---|
+| **Pemburu Lu** | Pemburu Khusus Bambu Giok | *Kaimai Jing*, Puncak | **1.000** | *Tebasan Pisau Bambu Cepat* — Serangan beruntun 2x | Ramah, menjual peta lokasi Lapisan I & memberi saran jebakan |
+| **Penjaga Pedang Tanpa Wajah** | Penjaga Reruntuhan (Lapisan II) | *Lingyi Jing*, Menengah | **18.750** | *Pedang Angin Bambu Beruntun* — Serangan pedang beruntun | Tanpa emosi, mengulang pola jurus pendekar kuno |
+| **Jenderal Bambu Layu** *(枯竹将军)* | Bos Lapisan II | *Xuantian Jing*, Puncak | **125.000** | *Gaya Pedang Bambu Mati* — Tebasan pedang giok & akar penusuk | **Fase 1:** Tebasan lurus & akar.<br>**Fase 2:** Memanggil prajurit bambu.<br>**Fase 3:** Melemah jika 3 simpul formasi dihancurkan.<br>*Kemenangan Alternatif:* Memulihkan ingatannya lewat prasasti sekte membuka jalan damai tanpa pertumpahan darah. |
+| **Leluhur Giok yang Terbelah** *(裂魂玉祖)* | Bos Akhir Lapisan III | *Faxiang Jing*, Puncak | **3.125.000** | *Tebasan Jiwa Bambu Purba* — Serangan gabungan Qi Kayu & Jiwa | **Fase 1 (Ujian):** Ujian ilusi masa lalu.<br>**Fase 2 (Akar Mengikat):** Serangan akar massal arena.<br>**Fase 3 (Jiwa Terbelah):** Pemain dapat melawan, menstabilkan formasi, atau memisahkan dua kesadaran. |
+
+#### Event Acak & Quest Regional
+* **Event: Ekspedisi yang Hilang:** Melacak rombongan pengembara yang hilang di Lapisan II.
+* **Quest: Tiga Ayat Pedang:** Mengumpulkan 3 fragmen prasasti untuk mempelajari teknik *Niat Pedang Bambu Langit*.
+* **World Event: Retaknya Segel Tiga Nadi:** Jika segel memudar, beast bermigrasi ke Lapisan I dan tanaman menjadi agresif hingga formasi dipulihkan.
 
 ---
 
@@ -90,3 +158,4 @@ Dataran luas bekas Bencana Bunga Bangkai Purba. Tanah berpigmen abu hijau ini me
 1. **Sekte Induk Shenmu (Shenmu Spirit Sect / 神木宗)** [`19_SHENMU_SECT.md`]: Sekte Utama pelindung Pohon Shenmu dan penguasa Akar Spiritual Kayu Abadi.
 2. **Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)** [`20_PERGURUAN_BERKEBUN_BIYANG.md`]: Perguruan Spesialis teknik analisis tanah, benih obat, dan pupuk Qi Kayu.
 3. **Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)** [`21_PERGURUAN_BEAST_QINGLING.md`]: Perguruan Spesialis komunikasi empati, kontrak kesetaraan, dan taktik Spirit Beast.
+4. **Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)** [`45_TIANZHU_SWORD_SECT.md`]: Sekte Kuno Tersegel di Hutan Bambu Giok, pemilik warisan Niat Pedang Bambu Langit & Formasi Tiga Nadi Giok.
