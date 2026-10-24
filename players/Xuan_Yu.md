@@ -29,8 +29,10 @@
 - Benih Ginseng Spirit Muda ×3 (Persediaan benih untuk ditanam di Tanah Spirit Dunia Giok)
 
 **Teknik & Jurus Awal:**
+- 🌿 Pernapasan Hati Pedang Bambu Hijau:
+   • 🍃 Napas Bambu Hijau (Pernapasan Dasar — Meningkatkan pemulihan energi spiritual 10% dan mempercepat pemulihan stamina 5%).
+   • ⚔️ Ritme Pedang Bambu (Teknik Pedang — Meningkatkan akurasi serangan 10% dan bonus Hit Chance +10% pada serangan beruntun).
 - 🌿 **Sembuhan Sulur Hijau** (Penyembuhan Dasar — Memulihkan 15% HP & meredakan kelelahan).
-- 🗡️ **Tebasan Pedang Bambu Lentur** (Offense — Serangan pedang kayu melengkung dengan bonus Hit Chance +10%).
 
 **Latar Belakang & Kepribadian:**
 Xuan Yu lahir di sebuah keluarga pemetik obat fana sederhana di kaki pegunungan Shenmu Zhou. Sejak kecil, ia sering diajak ayahnya menjelajahi pinggiran Hutan Purba Wansen untuk mencari akar herbal dan ginseng liar. Ketika berusia 16 tahun, saat sedang menggali akar obat di sebuah celah tebing batu purba yang tersembunyi, ia secara tidak sengaja menemukan sebuah piringan batu kuno terlupakan tempat bersemayamnya **Gantungan Giok Alam Hunyuan**. Tetesan darah dari jarinya yang terluka memicu pengikatan segel pusaka, membuka kesadarannya pada keberadaan Dunia Kecil Mandiri yang legendaris.
