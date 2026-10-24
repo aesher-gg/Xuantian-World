@@ -51,6 +51,7 @@ HarvestYield = BaseYield (2–5 buah) × SoilYieldMultiplier × (1 + HerbalistSk
 ### 1.3 Perguruan & Lokasi Utama Berkebun
 - **Perguruan Berkebun Obat Biyang** (`20_PERGURUAN_BERKEBUN_BIYANG.md`): Pusat pelatihan analisis tanah spirit dan pupuk Qi.
 - **Shenmu Zhou** (`02_SHENMU_ZHOU.md`): Wilayah utama kebun obat dengan bonus Wood Qi Modifier 1.25x.
+- **Dunia Kecil Gantungan Giok Alam Hunyuan** (`51_SPECIAL_ITEMS.md`): Tanah Spirit Grade 9 khusus yang dapat menumbuhkan tanaman obat Tier tinggi dalam waktu **3 sampai 7 hari** tanpa bantuan pupuk/alat bantu lain.
 
 ### 1.4 Material Kustom & Resep Spesialis Hutan Bambu Giok (Jade Bamboo Sea Materials)
 Material langka dari Hutan Bambu Giok (`02_SHENMU_ZHOU.md` §2.6) yang dapat diolah dalam berbagai profesi:

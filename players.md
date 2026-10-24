@@ -9,7 +9,7 @@
 
 | Nama Karakter | Ranah Awal | Profesi Utama | Lokasi Awal | File Save Awal |
 |---|---|---|---|---|
-| *(Belum ada karakter terdaftar)* | - | - | - | `players/` |
+| **Xuan Yu** | Lingquan Jing (Awal) | Pembudidaya / Penjelajah | Desa Qingling, Shenmu Zhou | `players/Xuan_Yu.md` |
 
 ---
 
