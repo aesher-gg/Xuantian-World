@@ -1,24 +1,39 @@
 # 🏯 Xuantian World — World Bible (Edisi Modular Xuantian)
 
-**Genre:** Xianxia · Wuxia · Kultivasi · Kerajinan Profesi · Hardcore Realism
-**Tujuan:** Roleplay kultivasi Xianxia yang adil, mendalam, konsisten, dan realistis dengan AI Game Master.
+> **Versi:** 3.5 (Edisi Fully Expanded & Core Style Standardized)
+> **Genre:** Xianxia · Wuxia · Kultivasi Akar Spiritual · Kerajinan Profesi · Hardcore Realism
+> **Tujuan:** Roleplay kultivasi Xianxia yang adil, mendalam, konsisten, dan realistis bersama AI Game Master.
+
+---
+
+## 📜 Lore, Sejarah Purba & Kosmologi Dunia Xuantian
+
+**Xuantian World (Dunia Xuantian)** adalah benua raksasa berukuran ±75 juta li² yang terbentuk dari nafas kehidupan Dewa Primordial Hunyuan puluhan juta tahun silam. Di pusat benua ini tumbuh **Pohon Induk Shenmu Purba** yang menyalurkan energi Qi Kayu (*Wood Qi*) mutlak dan menjadi pilar penyeimbang ekosistem di 10 Wilayah Utama.
+
+### 🏛️ Kekaisaran Tianjing & Bencana Pemberontakan Sembilan Pangeran
+Di pusat Dataran Tengah (Zhonghua Zhou) berdiri megah **Kota Tianjing**, pusat pemerintahan Kekaisaran Xuantian yang ditenagai oleh Formasi Purba *Bintang Sembilan Naga* Grade 9. Sekitar 12.000 tahun silam, meletus **Pemberontakan Sembilan Pangeran (Nine Princes Rebellion)** di mana sembilan pangeran kekaisaran mengerahkan tentara kultivator sesat dan Formasi Bencana Api. Pertempuran dahsyat ini menghancurkan Kota Luoyang Lama, meninggalkan **Lembah Medan Perang Kuno** dan **Dataran Makam Kekaisaran (帝陵原)** di mana jutaan roh prajurit dan pangeran gugur disemayamkan di bawah segel rahasia dinasti.
+
+### 🌿 Bencana Bunga Bangkai Purba & Hutan Bambu Giok
+8.000 tahun silam, spora beracun Bunga Bangkai Purba menginvasi Hutan Purba Wansen di Shenmu Zhou. Aliansi Sekte Induk Shenmu dan Suku Elf Spirit membakar spora tersebut dengan Formasi Api Spirit, membekas menjadi **Dataran Abu Hijau** yang kini menjadi tanah tersubur untuk Ginseng Spirit 1.000 Tahun. Di ceruk terpencil Shenmu Zhou, berdiri **Hutan Bambu Giok (翠玉竹海)** — wilayah rahasia 3 lapisan yang menyimpan reruntuhan **Sekte Pedang Bambu Langit (Tianzhu Sword Sect)** dan segel rahasia Formasi Tiga Nadi Giok.
 
 ---
 
 ## 🧭 Cara Bermain (Quickstart Guide)
 
-### A. Memulai Sesi Baru (Karakter Baru)
-Tempelkan prompt berikut ke AI Game Master favorit Anda (seperti ChatGPT / Claude / Qwen):
+### A. Memulai Sesi Baru (Karakter Terdaftar / Karakter Baru)
+Tempelkan prompt berikut ke AI Game Master favorit Anda (seperti ChatGPT / Claude / Qwen / DeepSeek):
 
 ```
-Kamu akan menjadi AI Game Master untuk roleplay Xuantian World. Baca dan ikuti seluruh isi link berikut sebagai satu-satunya sumber kebenaran:
+Kamu akan menjadi AI Game Master resmi untuk roleplay Xuantian World. Baca dan ikuti seluruh isi link berikut sebagai satu-satunya sumber kebenaran:
 
 https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/INDEX.md
 
 Data karakterku:
-- Nama: [Nama Karaktermu]
-- Profesi: [Alkemis / Penjinak Beast / Pembuat Formasi / Penempa / Pembuat Jimat / Petani Obat / Pengembara / dll]
-- Lokasi Awal: [Contoh: Desa Qingling, Shenmu Zhou]
+- Nama: Xuan Yu
+- Akar Spiritual: Akar Spiritual Kayu Abadi
+- Profesi: Penjelajah Alam / Herbalis
+- Lokasi Awal: Desa Qingling, Shenmu Zhou
+- Save File Awal: https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players/Xuan_Yu.md
 ```
 
 ### B. Melanjutkan Sesi Terakhir
@@ -26,19 +41,37 @@ Tempelkan link `INDEX.md` disertai blok **Profil Karakter** terakhir dari percak
 
 ---
 
-## 📂 Struktur Modul Repository
+## 🗺️ Geografi 10 Wilayah Utama Xuantian World
+
+1. **🌿 Shenmu Zhou (神木州):** Wilayah Kayu/Alam, Hutan Purba Wansen, Kebun Obat Biyang, Hutan Bambu Giok, dan 12 Permukiman Konservasi.
+2. **🏰 Zhonghua Zhou (中华州):** Dataran Tengah, Ibu Kota Kekaisaran Tianjing, Kota Perdagangan Luoyang, dan Dataran Makam Kekaisaran.
+3. **🐉 Canglong Zhou (苍龙州):** Pegunungan Pedang Azure Dragon, Puncak Tebasan Naga, dan Paviliun Pedang Canglong.
+4. **🌋 Chiyan Zhou (赤炎州):** Wilayah Kawah Gunung Berapi, Kota Penempa Shendu, dan Sekte Alkimia Danhuang.
+5. **🌊 Canghai Zhou (沧海州):** Wilayah Kepulauan & Lautan Timur, Palung Bintang Giok, dan Istana Kemurnian Giok Laut.
+6. **🏜️ Xixuan Zhou (西玄州):** Gurun Pasir Suci Barat, Oasis Ganlu, dan Sekte Jimat Gurun Huangsha.
+7. **❄️ Beihan Zhou (北寒州):** Padang Es Abadi Utara, Gua Kristal Es, dan Perguruan Alkimia Es Beihan.
+8. **🖤 Youming Zhou (幽冥州):** Wilayah Bayangan, Rawa Racun Duwu, dan Sekte Api Iblis Youming.
+9. **🛸 Tiangong Zhou (天工州):** Benteng Melayang Tiangong, Galangan Airship Lintas Wilayah, dan Perguruan Formasi Ruang.
+10. **☠️ Juejing Zhou (绝境州):** Zona Terlarang Anomali Ruang, Retakan Petir Tanah, dan Perguruan Eksplorasi Purba.
+
+---
+
+## 📂 Struktur Modul Repository (`00` s/d `51`)
 
 * **`00_CORE_RULES_AI_GM.md`**: Aturan inti AI GM, anti-cheat, format respon wajib, dan ringkasan 9 Ranah Kultivasi.
-* **`01_WORLD_OVERVIEW_AND_CAPITAL.md`**: Geografi 10 Wilayah & Ibu Kota Tianjing.
-* **`02_SHENMU_ZHOU.md` s/d `11_JUEJING_ZHOU.md`**: 10 File Wilayah Utama (Pinyin Tionghoa) termasuk Wilayah Kayu/Alam Shenmu Zhou, Wilayah Api Chiyan Zhou, Wilayah Transportasi Tiangong Zhou, dll.
-* **`12_CROSS_REGION_ORGANIZATIONS.md`**: Guild Alkemis, Serikat Kapal Terbang, Guild Penjinak Beast, Guild Formasi/Jimat, dan Serikat Penempa.
-* **`13_SPIRITUAL_ROOT_SYSTEM.md`**: 9 Ranah Kultivasi Unik (Lingquan hingga Hunyuan), Breakthrough, & Tribulasi Petir.
-* **`14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`**: Sistem Mekanik Berkebun Obat, Menjinakkan Spirit Beast, Alkemis, Kapal Terbang, Formasi, Penempa, dan Jimat.
-* **`15_ECONOMY_SYSTEM.md`**: Ekonomi, Batu Spirit, Tiket Kapal Terbang, dan Harga Bahan.
-* **`16_VITALITY_HUNGER_SYSTEM.md`**: HP, Stamina, Kelaparan, dan Racun Pill.
+* **`01_WORLD_OVERVIEW_AND_CAPITAL.md`**: Geografi total 10 Wilayah & Ibu Kota Tianjing.
+* **`02_SHENMU_ZHOU.md` s/d `11_JUEJING_ZHOU.md`**: 10 Modul Wilayah Utama (mencakup sub-lokasi baru Hutan Bambu Giok & Dataran Makam Kekaisaran).
+* **`12_CROSS_REGION_ORGANIZATIONS.md`**: Guild Alkemis, Serikat Airship, Guild Beast Tamer, Rumah Lelang Wanbao, dan Serikat Penempa.
+* **`13_SPIRITUAL_ROOT_SYSTEM.md`**: 9 Ranah Kultivasi (Lingquan hingga Hunyuan), Klasifikasi Fana, Asal-Usul Akar vs Teknik, Formula Breakthrough Sub-Stage/Major Realm, & Tribulasi Petir.
+* **`14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`**: Formula Berkebun, Beast Taming, Alkimia, Airship, Formasi, Forging, dan Jimat.
+* **`15_ECONOMY_SYSTEM.md`**: Ekonomi, Batu Spirit, Tiket Airship, dan Log Asal-Usul Barang.
+* **`16_VITALITY_HUNGER_SYSTEM.md`**: HP, Stamina, Satiety, dan Penalti Toxin Dantian.
 * **`17_COMBAT_SYSTEM.md`**: Sistem Pertempuran Turn-based & Aksi Profesi.
-* **`18_BESTIARY.md`**: Daftar Spirit Beast per Wilayah.
-* **`19_...` s/d `40_...`**: File Sekte Utama, Paviliun, Istana, Balai Penempa, Lembaga Suci, dan Guild Spesialis.
+* **`18_BESTIARY.md`**: Katalog Spirit Beast & Monster per Wilayah.
+* **`19_...` s/d `40_...`**: Modul Sekte Utama (Faksi Politik) & Perguruan Spesialis (Institusi Ilmu).
 * **`41_CUSTOM_EVENTS.md` s/d `44_CUSTOM_TECHNIQUES.md`**: Modul Kustom Admin.
+* **`45_TIANZHU_SWORD_SECT.md`**: Modul Sekte Kuno Tersegel Tianzhu Sword Sect di Hutan Bambu Giok.
+* **`46_PERGURUAN_...` s/d `50_PERGURUAN_...`**: 5 Modul Perguruan Akademis Spesialis Baru di Shenmu Zhou.
+* **`51_SPECIAL_ITEMS.md`**: Katalog Artefak Purba & Item Spesial (Gantungan Giok Alam Hunyuan).
 * **`INDEX.md`**: Hub Navigasi Tunggal & Auto-fetch AI GM.
-* **`players.md` & folder `players/`**: Katalog & Folder Template Karakter Awal.
+* **`players.md` & folder `players/`**: Katalog Read-Only & Save File Karakter Awal (`players/Xuan_Yu.md`).
