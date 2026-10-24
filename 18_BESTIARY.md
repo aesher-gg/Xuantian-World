@@ -80,10 +80,12 @@ Beast lintas wilayah adalah entitas spiritual yang dapat ditemukan mengembara di
 | Nama Beast | Jenis / Kategori | Tier | Loot |
 |---|---|---|---|
 | Kelinci Spirit Daun Hijau | Mamalia Kecil | Tier 1 | Bulu Kelinci Spirit (85% (Umum))<br>Daging Spirit (75% (Umum)) |
+| Ulat Sutra Spiritual | Serangga Spirit | Tier 1 | Benang Sutra Spirit (85% (Umum))<br>Kepompong Spirit (40% (Jarang)) |
 | Kelinci Giok Roh | Mamalia Spirit | Tier 1 | Bulu Kelinci Giok (85% (Umum))<br>Daging Spirit (75% (Umum)) |
 | Unggas Hutan Shenmu | Unggas Hutan | Tier 1 | Bulu Unggas Spirit (80% (Umum))<br>Telur Spirit (40% (Jarang)) |
 | Bangau Bulu Zamrud | Unggas Udara | Tier 2 | Bulu Zamrud (80% (Umum))<br>Inti Kayu Tier 2 (35% (Jarang)) |
 | Ular Hijau Sulur Kayu | Reptil Kayu | Tier 2 | Kulit Ular Kayu (75% (Umum))<br>Bisa Kayu Ringan (35% (Jarang)) |
+| Cacing Spiritual Akar Merah | Annelida Spirit | Tier 2 | Lendir Akar Merah (75% (Umum))<br>Inti Tier 2 (35% (Jarang)) |
 | Ular Bambu Bercorak | Reptil Bambu | Tier 2 | Bisa Ular Bambu (75% (Umum))<br>Kantung Racun Bambu (35% (Jarang))<br>Kulit Ular (35% (Jarang)) |
 | Kera Batu Hijau | Primata Hutan | Tier 2 | Batu Mineral Giok (75% (Umum))<br>Inti Tier 2 (35% (Jarang)) |
 | Babi Hutan Taring Bambu | Mamalia Darat | Tier 2 | Taring Bambu (80% (Umum))<br>Daging Spirit (75% (Umum)) |
@@ -101,6 +103,7 @@ Beast lintas wilayah adalah entitas spiritual yang dapat ditemukan mengembara di
 | Elang Hijau Pelindung Kanopi | Unggas Udara | Tier 4 | Bulu Sayap Angin (65% (Umum))<br>Inti Tier 4 (18% (Langka)) |
 | Harimau Dahan Shenmu | Predator Elit | Tier 5 | Taring Harimau Spirit (60% (Umum))<br>Inti Kayu Tier 5 (15% (Langka)) |
 | Ular Sulur Sembilan Daun | Reptil Purba | Tier 5 | Sisik Sembilan Daun (60% (Umum))<br>Bisa Racun Shenmu (12% (Langka)) |
+| Bunga Mayat Leluhur | Tumbuhan Purba / Boss | Tier 5 | Spora Bunga Mayat (60% (Umum))<br>Akar Purba Beracun (12% (Langka)) |
 | Roh Bambu Tanpa Nama | Entitas Spiritual | Tier 5 | Esensi Jiwa Bambu (60% (Umum))<br>Inti Tier 5 (15% (Langka)) |
 | Penjaga Leluhur Berakar | Boss Elit / Guardian | Tier 5 | Kayu Akar Purba (60% (Umum))<br>Inti Tier 5 (12% (Langka)) |
 | Gajah Akar Kayu Purba | Beast Raksasa | Tier 6 | Gading Kayu Purba (55% (Umum))<br>Inti Tier 6 (10% (Langka)) |

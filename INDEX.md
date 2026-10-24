@@ -86,4 +86,9 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 | 43 | `43_CUSTOM_SECTS.md` | 🏯 Sekte & Perguruan Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/43_CUSTOM_SECTS.md |
 | 44 | `44_CUSTOM_TECHNIQUES.md` | ⚔️ Teknik & Jurus Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/44_CUSTOM_TECHNIQUES.md |
 | 45 | `45_TIANZHU_SWORD_SECT.md` | 🎋 Sekte Pedang Bambu Langit (Tianzhu Sword Sect - Hutan Bambu Giok) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/45_TIANZHU_SWORD_SECT.md |
+| 46 | `46_PERGURUAN_PENGAMAT_BINTANG_RIMBA.md` | 🏯 Perguruan Pengamat Bintang Rimba (Shenmu Zhou) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/46_PERGURUAN_PENGAMAT_BINTANG_RIMBA.md |
+| 47 | `47_PERGURUAN_PEMETAAN_NADI_BUMI.md` | 🏯 Perguruan Pemetaan Nadi Bumi (Shenmu Zhou) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/47_PERGURUAN_PEMETAAN_NADI_BUMI.md |
+| 48 | `48_PERGURUAN_RACUN_DAN_PENAWAR_TUMBUHAN.md` | 🏯 Perguruan Racun dan Penawar Tumbuhan (Shenmu Zhou) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/48_PERGURUAN_RACUN_DAN_PENAWAR_TUMBUHAN.md |
+| 49 | `49_PERGURUAN_PEMELIHARAAN_FORMASI_ALAM.md` | 🏯 Perguruan Pemeliharaan Formasi Alam (Shenmu Zhou) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/49_PERGURUAN_PEMELIHARAAN_FORMASI_ALAM.md |
+| 50 | `50_PERGURUAN_PERAWATAN_BEAST_SPIRITUAL.md` | 🏯 Perguruan Perawatan Beast Spiritual (Shenmu Zhou) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/50_PERGURUAN_PERAWATAN_BEAST_SPIRITUAL.md |
 | Hub | `players.md` | 📇 Katalog Read-Only Karakter Awal | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players.md |
