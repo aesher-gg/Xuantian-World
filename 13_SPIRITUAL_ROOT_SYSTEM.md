@@ -7,11 +7,14 @@
 
 ---
 
-## 🧭 1. Filosofi Sistem
+## 🧭 1. Filosofi Sistem & Pembedaan Keberadaan Akar Spiritual
 
-Setiap pembudidaya di Xuantian World terlahir dengan **Akar Spiritual (Spiritual Root / 灵根)** yang menentukan garis afinitas energi elemen (Kayu, Api, Angin & Logam, Tanah, Air & Es, dsb). Meskipun tiap jenis Akar Spiritual memberikan spesialisasi dan bonus statistik berbeda, **semua Akar Spiritual tunduk pada satu Formula Batas Qi (Qi Cap Formula)** yang sama, supaya tidak ada jalur yang overpower dibanding yang lain.
+Setiap makhluk hidup di Xuantian World terlahir di bawah hukum alam benua kultivasi. Namun, **keberadaan Akar Spiritual (Spiritual Root / 灵根) tidak dimiliki oleh semua manusia fana secara otomatis**.
 
-**AI GM WAJIB menolak** klaim kekuatan/qi/item yang melampaui batas formula di bawah ini — tanpa pengecualian, tanpa "power creep" naratif.
+### 1.1 Klasifikasi Bangsa Fana (Mortal Division):
+Masyarakat fana di Xuantian World terbagi menjadi dua golongan alami:
+1. **Fana Murni Tanpa Akar Spiritual (Mortal without Spiritual Root):** Sekitar 85% populasi. Tubuh mereka tidak memiliki meridian penghantar Qi dan tidak mampu menyerap energi spirit alam semesta. Mereka tidak dapat berkultivasi menjadi pembudidaya sejati kecuali mendapatkan keajaiban purba (*Reconstituting Pill Grade 8+* atau pencerahan sumsum tulang oleh Dewa).
+2. **Fana Ber-Akar Spiritual (Mortal with Spiritual Root):** Sekitar 15% populasi. Mereka terlahir dengan benih Akar Spiritual bawaan (Kayu, Api, Angin/Logam, Tanah, atau Air/Es) yang dapat diaktifkan saat memasuki Ranah *Lingquan Jing* melalui pengujian batu penguji spirit atau bimbingan sekte/perguruan.
 
 ### Aturan Emas Anti-Cheat Kultivasi
 - Qi/energi karakter tidak boleh melebihi `QiCap(realm, stage)` — dihitung ulang tiap turn oleh AI GM. Player **TIDAK BOLEH** mendeklarasikan sendiri "Qi-ku naik jadi 10.000" tanpa terobosan sah tervalidasi GM.
@@ -25,7 +28,7 @@ Setiap pembudidaya di Xuantian World terlahir dengan **Akar Spiritual (Spiritual
 
 ## 🌀 2. Struktur Ranah Universal (9 Major Realm × 3 Stage = 27 Sub-Tier)
 
-Semua Akar Spiritual memakai kerangka ranah kultivasi Xuantian World yang sama.
+Semua Akar Spiritual memakai kerangka ranah kultivasi resmi Xuantian World (Base Qi & Qi Cap asli tervalidasi):
 
 | # | Major Realm | Base Qi (Awal) | Mid Qi (Tengah) | Peak Qi (Puncak) | Keterangan & Syarat Terobosan |
 |---|---|---|---|---|---|
@@ -41,7 +44,7 @@ Semua Akar Spiritual memakai kerangka ranah kultivasi Xuantian World yang sama.
 
 Tiap Major Realm punya 3 Stage: **Awal (×1,0) $\rightarrow$ Tengah (×1,5) $\rightarrow$ Puncak (×2,0)**.
 
-### 🔒 Formula Qi Cap (WAJIB DIPAKAI AI GM)
+### 🔒 Formula Qi Cap Asli Xuantian World (WAJIB DIPAKAI AI GM)
 
 ```
 QiCap(realm, stage) = BaseQi(realm) × StageMultiplier(stage)
@@ -104,6 +107,7 @@ QiRegenPerHour = QiCap × 0.05 × RootRegenMultiplier × EnvironmentQiModifier �
 ```
 - **RootRegenMultiplier:** Kayu (1.5x) | Air/Es (1.2x) | Angin/Logam (1.0x) | Tanah (1.0x) | Api (0.9x).
 - **EnvironmentQiModifier:** Disesuaikan dengan Qi Density Modifier wilayah (misal Shenmu Zhou = 1.25x, Juejing Zhou = 1.50x chaotic).
+- **PillToxinPercent:** Penalti racun pill dantian (`16_VITALITY_HUNGER_SYSTEM.md`).
 
 ### 4.2 Formula Regenerasi Qi Meditasi Aktif (Meditation Qi Recovery)
 
