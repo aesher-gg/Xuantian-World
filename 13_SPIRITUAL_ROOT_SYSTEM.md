@@ -107,20 +107,64 @@ Tingkat keberhasilan dasar (*Base Success Rate*) menurun secara signifikan seiri
 | 8 | **Shenhuang Jing (神皇境)** | **15%** | **10%** (Tembus Realm 9) + Tribulasi 6 Petir | 6 Bulan | Ektrem (Kerusakan 90% HP, Dantian Hancur) |
 | 9 | **Hunyuan Jing (混元境)** | **10%** | **5%** (Fei Sheng / Kenaikan Abadi) + Tribulasi 9 Petir | 1 Tahun | Maut / Permadeath (Dantian Meledak Fatal) |
 
-### 4.2 Formula Persentase Keberhasilan Terobosan (Breakthrough Success Chance)
+### 4.2 Aturan & Formula Spesifik Terobosan Sub-Stage (Awal $\rightarrow$ Tengah $\rightarrow$ Puncak)
+
+Terobosan sub-stage adalah proses memperluas kapasitas Dantian dan memperkuat kepadatan Qi di dalam ranah kultivasi yang sama tanpa berganti ranah.
+
+#### A. Syarat Mutlak Akumulasi Qi Sub-Stage
+Kultivator **WAJIB** memenuhi syarat akumulasi Qi minimal sebelum dapat mengajukan percakapan terobosan sub-stage:
+```
+RequiredQiToBreakthrough = CurrentQiCap × 0.95
+```
+*Contoh:* Kultivator Lingquan Jing Stage Awal (`QiCap = 100`) harus memadatkan Qi hingga minimal `95 Qi` sebelum mencoba terobosan ke Stage Tengah (`QiCap = 150`).
+
+#### B. Formula Keberhasilan Terobosan Sub-Stage (Sub-Stage Breakthrough Chance)
 
 ```
-BreakthroughChance = Clamp(BaseRate(Realm, Stage) + PillQualityBonus + InsightBonus + EnvironmentBonus - ToxinPenalty - DeviationPenalty, 5%, 95%)
+SubStageBreakthroughChance = Clamp(BaseRateSubStage(Realm) + SubStagePillBonus + InsightBonus + EnvironmentBonus - ToxinPenalty, 5%, 95%)
 ```
-- **Pill Quality Bonus:**
-  - *No Pill / Failed Pill:* `+0%`
+
+- **Pilihan Terobosan Sub-Stage:**
+  1. **Awal $\rightarrow$ Tengah (Early to Mid):**
+     - Base Rate: `BaseRateSubStage(Realm)` (Lihat Tabel §4.1, contoh Realm 1 = 85%, Realm 5 = 45%).
+     - Konsumsi Qi: Membakar 50% Qi saat ini.
+     - Syarat Pill: Opsional (dapat menggunakan Pil Pemurni Dantian Tier N).
+  2. **Tengah $\rightarrow$ Puncak (Mid to Peak):**
+     - Base Rate: `BaseRateSubStage(Realm) - 10%` (Lebih padat dan membutuhkan ekspansi Dantian ekstra).
+     - Konsumsi Qi: Membakar 75% Qi saat ini.
+     - Syarat Pill: Disarankan Pil Pemurni Dantian / Pil Terobos Sub-Stage Tier N.
+
+- **Bonus Pill Sub-Stage (SubStagePillBonus):**
+  - *Tanpa Pil:* `+0%`
   - *Low Purity Pill (50-69%):* `+10%`
-  - *Mid Purity Pill (70-89%):* `+20%`
-  - *High Purity Pill (90-99%):* `+35%`
-  - *Perfect Pill (100% Danwen):* `+50%`
-- **Insight & Comprehension Bonus:** `+5%` hingga `+20%` berdasarkan hasil pemahaman wawasan Dao/Akar Spiritual tervalidasi GM.
-- **Environment Qi Bonus:** `+10%` jika berada di Spirit Vein / Markas Sekte berelemental sama.
-- **Penalti Toxin & Deviation:** `-20%` jika Toxin > 30%, dan `-30%` jika mengalami trauma dantian.
+  - *Mid Purity Pill (70-89%):* `+15%`
+  - *High Purity Pill (90-99%):* `+25%`
+  - *Perfect Pill (100% Danwen):* `+35%`
+
+- **Insight & Comprehension Bonus:** `+5%` hingga `+20%` berdasarkan hasil pemahaman wawasan Akar Spiritual / Latihan Teknik tervalidasi GM.
+- **Environment Qi Bonus:** `+10%` jika berada di Spirit Vein / Markas Sekte / Kebun Spirit bersesuaian elemen.
+- **Penalti Toxin:** `-15%` jika Toxin Dantian > 20%.
+
+#### C. Penalti Kegagalan Terobosan Sub-Stage
+Jika roll terobosan sub-stage gagal:
+- **Gagal Biasa (Roll = Chance - 15%):** Qi terbuang 50%, Dantian mengalami kelelahan (*Dantian Fatigue*) selama 12 jam (dilarang terobosan ulang sebelum pulih).
+- **Qi Deviation Sub-Stage (Roll < Chance - 15%):** HP berkurang 30% MaxHP, Qi turun ke 0, Toxin Dantian bertambah +10%, dan Dantian membeku selama 1 hari waktu game.
+
+---
+
+### 4.3 Aturan & Formula Spesifik Terobosan Major Realm (Puncak $\rightarrow$ Ranah Baru)
+
+Terobosan Major Realm adalah proses melompati batas ranah kultivasi (misal *Lingquan Jing Puncak $\rightarrow$ Kaimai Jing Awal*).
+
+```
+MajorRealmBreakthroughChance = Clamp(BaseRateMajor(Realm) + MajorPillBonus + InsightBonus + EnvironmentBonus - ToxinPenalty - TraumaPenalty, 5%, 95%)
+```
+
+- **Syarat Mutlak Major Realm:**
+  1. Qi karakter harus mencapai `100% Peak QiCap`.
+  2. **WAJIB** menggunakan **Pill Breakthrough Major Realm** bersesuaian Tier (misal *Pill Terobos Kaimai* untuk Realm 1 $\rightarrow$ 2). Terobosan Major Realm tanpa Pil mengalami penalti `-40% Success Rate`.
+  3. Memenuhi syarat waktu meditasi stasioner minimum (Tabel §4.1).
+  4. Untuk terobosan menuju Realm 7+, wajib selamat dari Tribulasi Petir (§5).
 
 ### 4.2 Risiko Kegagalan & Qi Deviation (Penyimpangan Qi)
 Jika roll keberhasilan terobosan gagal:
