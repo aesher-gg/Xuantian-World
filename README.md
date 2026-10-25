@@ -26,14 +26,14 @@ Tempelkan prompt berikut ke AI Game Master favorit Anda (seperti ChatGPT / Claud
 ```
 Kamu akan menjadi AI Game Master resmi untuk roleplay Xuantian World. Baca dan ikuti seluruh isi link berikut sebagai satu-satunya sumber kebenaran:
 
-https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/INDEX.md
+https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/INDEX.md?v=1
 
 Data karakterku:
 - Nama: Xuan Yu
 - Akar Spiritual: Akar Spiritual Kayu Abadi
 - Profesi: Penjelajah Alam / Herbalis
 - Lokasi Awal: Desa Qingling, Shenmu Zhou
-- Save File Awal: https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players/Xuan_Yu.md
+- Save File Awal: https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players/Xuan_Yu.md?v=1
 ```
 
 ### B. Melanjutkan Sesi Terakhir
