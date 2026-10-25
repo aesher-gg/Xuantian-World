@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 450 juta Tael Perak (Pasar Gelap & Komoditas Racun) |
 | **Kerapatan Qi (Qi Density)** | **Shadow & Poison Qi Modifier ×1.25** (+25% Potensi Kerusakan Racun Alkimia, +20% Kerahasiaan Formasi Bayangan) |
 | **Jarak Antar-Kota** | 200–650 li (Dapat ditempuh lewat Jalur Kereta Bayangan, Perahu Rawa Spirit, dan Gua Rawa Gelap) |
-| **Monster Khas Wilayah** | Ular Rawa Taring Hitam (Tier 2), Kutu Iblis Pemakan Qi (Tier 3), Kalajengking Bayangan Purba (Tier 4), Naga Purba Youming (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Bayangan Rawa (Tier 1), Chilong Racun Kelam (Tier 2), Panlong Api Hitam (Tier 3), Jiaolong Rawa Youming (Tier 4), Shenlong Bayangan (Tier 5), Dilong Youming Kelam (Tier 6), Fucanglong Bayangan (Tier 7), Tianlong Kelam (Tier 8), Zhulong Bayangan Purba Hunyuan (Tier 9) |
 
 ---
 

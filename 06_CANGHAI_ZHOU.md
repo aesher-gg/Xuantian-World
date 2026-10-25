@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 580 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Water & Ice Qi Modifier ×1.25** (+25% Kecepatan Navigasi Laut, +20% Success Rate Penjinakan Aquatic Beast) |
 | **Jarak Antar-Kota** | 300–900 li (Dapat ditempuh lewat Kapal Terbang Laut, Perahu Spirit Vena Air, dan Penumpangan Naga Laut) |
-| **Monster Khas Wilayah** | Hiu Bersisik Perak (Tier 3), Siput Mutiara Spirit (Tier 2), Naga Laut Bersisik Giok (Tier 4), Naga Purba Canghai (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Air Mutiara (Tier 1), Chilong Gelombang Laut (Tier 2), Panlong Karang Biru (Tier 3), Naga Laut Bersisik Giok (Tier 4), Shenlong Gelombang Samudra (Tier 5), Dilong Dasar Laut (Tier 6), Yinglong Air Purba (Tier 7), Tianlong Samudra Mutiara Suci (Tier 8), Zhulong Samudra Hunyuan (Tier 9) |
 
 ---
 

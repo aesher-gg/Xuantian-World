@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 410 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Earth & Sand Qi Modifier ×1.20** (+25% Ketahanan Pertahanan Formasi Segel, +20% Success Rate Pembuatan Jimat/Talisman) |
 | **Jarak Antar-Kota** | 300–800 li (Dapat ditempuh lewat Unta Spirit Gurun, Kapal Terbang Pasir, dan Penyeberangan Oasis) |
-| **Monster Khas Wilayah** | Cacing Pasir Besi (Tier 2), Kalajengking Emas Pasir (Tier 3), Elang Badai Gurun (Tier 3), Qilin Pasir Suci (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Pasir Emas (Tier 1), Chilong Gurun Pasir Emas (Tier 2), Panlong Badai Pasir (Tier 3), Jiaolong Reruntuhan Gurun (Tier 4), Dilong Pasir Suci Xixuan (Tier 5), Naga Pasir Emas Gurun (Tier 6), Fucanglong Karavan Pasir Emas (Tier 7), Tianlong Gurun (Tier 8), Zhulong Pasir Emas Purba Hunyuan (Tier 9) |
 
 ---
 

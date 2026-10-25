@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 1,2 Miliar Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Netral Seimbang ×1.0** (Cocok untuk semua Akar Spiritual Kultivasi tanpa penalti maupun bonus) |
 | **Jarak Antar-Kota** | 100–400 li (Sangat terhubung lewat Jalan Raya Kekaisaran & Dermaga Kapal Terbang) |
-| **Monster Khas Wilayah** | Roh Prajurit Gugur (Tier 2), Naga Sungai Longjiang (Tier 4), Macan Besi Pegunungan (Tier 3), Naga Bintang Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Batu Perunggu (Tier 1), Chilong Karang Perunggu (Tier 2), Panlong Tanah (Tier 3), Naga Sungai Longjiang (Tier 4), Dilong Lembah Kekaisaran (Tier 5), Fucanglong Emas Perut Bumi (Tier 6), Naga Emas Pelindung Dinasti (Tier 7), Tianlong Bintang Emas (Tier 8), Huanglong Primordial Hunyuan (Tier 9) |
 
 ---
 

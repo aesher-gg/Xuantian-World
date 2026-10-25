@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 680 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Fire Qi Modifier ×1.30** (+25% Kecepatan Alkimia Suhu Tinggi, +20% Success Rate Penempaan Senjata Spirit) |
 | **Jarak Antar-Kota** | 200–600 li (Dapat ditempuh lewat jalur transportasi kereta besi spirit & kapal terbang pelindung panas) |
-| **Monster Khas Wilayah** | Kadal Lava Berlapis Besi (Tier 2), Kalajengking Abu Vulkanik (Tier 3), Salamander Api Purba (Tier 4), Naga Purba Bintang Api (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Api Abu Vulkanik (Tier 1), Chilong Api Lava (Tier 2), Panlong Api Neraka (Tier 3), Jiaolong Lava Kawah (Tier 4), Shenlong Bara Chiyan (Tier 5), Dilong Lava (Tier 6), Fucanglong Lava Perut Kawah (Tier 7), Tianlong Api (Tier 8), Zhulong Api Hunyuan (Tier 9) |
 
 ---
 

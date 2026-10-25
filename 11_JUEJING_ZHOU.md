@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 250 juta Tael Perak (Namun kaya bahan pemuatan zirah Mythical & Kristal Ruang Purba) |
 | **Kerapatan Qi (Qi Density)** | **Chaotic Ancient Qi Modifier ×1.50** (Potensi Qi Deviation tinggi, namun +30% Peluang Terobosan Ranah & Loot Purba Grade High) |
 | **Jarak Antar-Kota** | 400–1.200 li (Sangat berbahaya, hanya dapat dilalui dengan pengawalan veteran atau kapal terbang berlapis baja) |
-| **Monster Khas Wilayah** | Serigala Taring Ruang (Tier 3), Chimera Batu Purba (Tier 4), Serpent Raksasa Retakan Ruang (Tier 6), Naga Purba Retakan Ruang Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Retakan Ruang (Tier 1), Chilong Anomali Dimensi (Tier 2), Panlong Petir Anomali (Tier 3), Jiaolong Anomali (Tier 4), Dilong Retakan Ruang (Tier 5), Serpent Raksasa Retakan Ruang (Tier 6), Yinglong Anomali Ruang (Tier 7), Tianlong Dimensi (Tier 8), Zhulong Anomali Dimensi Hunyuan (Tier 9) |
 
 ---
 
