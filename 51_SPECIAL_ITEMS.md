@@ -52,8 +52,50 @@ Dunia kecil di dalam giok dilindungi oleh Hukum Ruang-Waktu Primordial.
 
 ---
 
-## 2. Pendaftaran Pemilik Artefak
+### 1.2 Mutiara Suci Qinglong Purba Hunyuan (Hunyuan Qinglong Pearl / 青龙混元珠)
 
-| Nama Artefak | Pemilik Saat Ini | Tanggal Diperoleh | Catatan Kelayakan |
+Mutiara kehidupannya Naga Suci Qinglong Purba yang mengembunkan esensi Wood Qi dari Pohon Induk Shenmu selama jutaan tahun.
+
+* **Nama Mandarin / Pinyin:** 青龙混元珠 / Qīnglóng Hùnyuán Zhū
+* **Tingkat Kelangkaan:** Drop Purba Grade 9 (Mythic / Legendaris Suci) — Drop Rate 1% dari Naga Suci Qinglong Purba Shenmu Hunyuan (`18_BESTIARY.md`).
+* **Status Pemilik Pertama:** *Belum Ditemukan (Terbuka untuk Perburuan Tier 9)*
+* **Kemampuan Khusus:**
+  - **Kekuatan Restorasi Alam:** Memulihkan 100% HP dan memoles kecacatan Dantian akibat Qi Deviation secara permanen.
+  - **Resonansi Kayu Abadi:** Peningkatan Kecepatan Tumbuh Tanaman Spirit di sekitarnya +300% dan bonus Qi Cap Kayu +30%.
+
+---
+
+### 1.3 Mutiara Zhulong Api Hunyuan (Hunyuan Zhulong Fire Pearl / 烛龙赤炎珠)
+
+Inti bara murni buatan Zhulong Api Hunyuan yang memancarkan energi panas Bintang Api Primordial.
+
+* **Nama Mandarin / Pinyin:** 烛龙赤炎珠 / Zhúlóng Chìyán Zhū
+* **Tingkat Kelangkaan:** Drop Purba Grade 9 (Mythic / Legendaris Suci) — Drop Rate 1% dari Zhulong Api Hunyuan (`18_BESTIARY.md`).
+* **Status Pemilik Pertama:** *Belum Ditemukan (Terbuka untuk Perburuan Tier 9)*
+* **Kemampuan Khusus:**
+  - **Api Penempaan Tanpa Cacat:** Memberikan Purity 100% pada setiap hasil penempaan senjata/zirah besi meteorit dan alkimia suhu tinggi.
+  - **Aura Nyala Bintang:** Menghancurkan 20% Passive Defense musuh berbasis elemen es/kayu di setiap awal giliran pertarungan.
+
+---
+
+### 1.4 Mutiara Purba Canghai Hunyuan (Hunyuan Canghai Ocean Pearl / 沧海混元珠)
+
+Mutiara samudra purba yang mampu mengendalikan pasang surut air laut dan gelombang di seluruh Canghai Zhou.
+
+* **Nama Mandarin / Pinyin:** 沧海混元珠 / Cānghǎi Hùnyuán Zhū
+* **Tingkat Kelangkaan:** Drop Purba Grade 9 (Mythic / Legendaris Suci) — Drop Rate 1% dari Zhulong Samudra Hunyuan (`18_BESTIARY.md`).
+* **Status Pemilik Pertama:** *Belum Ditemukan (Terbuka untuk Perburuan Tier 9)*
+* **Kemampuan Khusus:**
+  - **Dominasi Samudra:** Pemilik dapat berjalan di atas air dan menyelam di palung laut terdalam tanpa terkena tekanan air.
+  - **Perisai Gelombang Abadi:** Menyerap 50% Damage Elemental Api/Air dan memulihkan 10% Qi per turn saat berada di wilayah lautan.
+
+---
+
+## 2. Pendaftaran Pemilik Artefak & Item Legendaris
+
+| Nama Artefak / Item | Pemilik Saat Ini | Tanggal Diperoleh | Catatan Kelayakan |
 |---|---|---|---|
 | **Gantungan Giok Alam Hunyuan** | **Xuan Yu** | Sesi Awal | Pemilik pertama penemu warisan purba Batu Langit Hunyuan. |
+| **Mutiara Suci Qinglong Purba Hunyuan** | *Belum Ada* | — | Terbuka untuk pemburu Spirit Beast Tier 9 di Shenmu Zhou. |
+| **Mutiara Zhulong Api Hunyuan** | *Belum Ada* | — | Terbuka untuk pemburu Spirit Beast Tier 9 di Chiyan Zhou. |
+| **Mutiara Purba Canghai Hunyuan** | *Belum Ada* | — | Terbuka untuk pemburu Spirit Beast Tier 9 di Canghai Zhou. |

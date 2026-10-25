@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 390 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Frost & Ice Qi Modifier ×1.30** (+25% Purity Alkimia Elemen Es, +20% Bonus Damage Akar Spiritual Es Purba) |
 | **Jarak Antar-Kota** | 250–700 li (Dapat ditempuh lewat Kereta Sled Serigala Es, Kapal Terbang Salju, dan Jalur Gua Kristal Es) |
-| **Monster Khas Wilayah** | Rubah Es Berekor Dua (Tier 2), Serigala Salju Pemburu (Tier 3), Beruang Es Kristal Purba (Tier 4), Naga Purba Beihan (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Es Salju (Tier 1), Chilong Frost Padang Salju (Tier 2), Panlong Kristal Es (Tier 3), Jiaolong Danau Beku (Tier 4), Shenlong Frost (Tier 5), Dilong Es Abadi (Tier 6), Yinglong Es Purba (Tier 7), Tianlong Frost (Tier 8), Zhulong Frost Hunyuan (Tier 9) |
 
 ---
 

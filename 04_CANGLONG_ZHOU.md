@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 520 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Metal & Wind Qi Modifier ×1.20** (+25% Kecepatan Latihan Sword Intent, +20% Bonus Damage Seni Pedang) |
 | **Jarak Antar-Kota** | 250–750 li (Dapat ditempuh lewat jalur terbang pedang, kapal terbang spirit, dan jalan setapak tebing) |
-| **Monster Khas Wilayah** | Elang Angin Taring Besi (Tier 2), Macan Tutul Petir Pegunungan (Tier 3), Naga Spirit Sisik Perak (Tier 4), Naga Purba Canglong (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Taring Pedang (Tier 1), Chilong Besi Tebing Pedang (Tier 2), Panlong Bilah Angin (Tier 3), Naga Spirit Sisik Perak (Tier 4), Shenlong Angin Besi (Tier 5), Dilong Tebing Canglong (Tier 6), Yinglong Sayap Pedang Perak (Tier 7), Tianlong Pedang (Tier 8), Naga Purba Canglong Sword-Intent (Tier 9) |
 
 ---
 

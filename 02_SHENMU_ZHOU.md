@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 450 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Wood Qi Modifier ×1.25** (+30% Kecepatan Tumbuh Berkebun, +20% Success Rate Alkimia Kayu) |
 | **Jarak Antar-Kota** | 200–800 li (Sangat terhubung lewat jalur perahu kayu spirit & airship lokal) |
-| **Monster Khas Wilayah** | Bangau Bulu Zamrud (Tier 2), Beruang Spirit Kayu (Tier 3), Ular Sulur Sembilan Daun (Tier 4), Qilin Kayu Purba (Tier 9) |
+| **Monster Khas Wilayah** | Anak Naga Sulur Kayu (Tier 1), Chilong Tunas Kayu (Tier 2), Panlong Bambu Spirit (Tier 3), Jiaolong Sungai Shenmu (Tier 4), Shenlong Kanopi Hijau (Tier 5), Dilong Urat Kayu (Tier 6), Fucanglong Hutan Purba (Tier 7), Yinglong Sayap Daun (Tier 8), Naga Suci Qinglong Purba Shenmu Hunyuan (Tier 9) |
 
 ---
 
