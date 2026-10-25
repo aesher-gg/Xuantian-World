@@ -47,7 +47,7 @@ Dunia kecil ini memiliki ekosistem alam yang sangat cocok untuk tempat tinggal S
 
 ##### C. Dilatasi Waktu Kultivasi (Space-Time Dilation Law)
 Dunia kecil di dalam giok dilindungi oleh Hukum Ruang-Waktu Primordial.
-* **Rasio Waktu 1:24:** **1 hari (24 jam) kultivasi meditasi di dalam dunia giok sama dengan 1 jam waktu di dunia luar.**
+* **Rasio Waktu 1:24:** 1 hari (24 jam) kultivasi meditasi di dalam dunia giok sama dengan 1 jam waktu di dunia luar.
 * **Efisiensi Qi Cap:** Karakter yang bermeditasi di dalam giok mendapatkan pemulihan Qi 100% instan dalam 1 jam waktu dunia luar dan bonus penyerapan Qi Cap +25%.
 
 ---
