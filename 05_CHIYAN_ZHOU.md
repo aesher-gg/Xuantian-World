@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 680 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Fire Qi Modifier ×1.30** (+25% Kecepatan Alkimia Suhu Tinggi, +20% Success Rate Penempaan Senjata Spirit) |
 | **Jarak Antar-Kota** | 200–600 li (Dapat ditempuh lewat jalur transportasi kereta besi spirit & kapal terbang pelindung panas) |
-| **Monster Khas Wilayah** | Anak Naga Api Abu Vulkanik (Tier 1), Chilong Api Lava (Tier 2), Panlong Api Neraka (Tier 3), Jiaolong Lava Kawah (Tier 4), Shenlong Bara Chiyan (Tier 5), Dilong Lava (Tier 6), Fucanglong Lava Perut Kawah (Tier 7), Tianlong Api (Tier 8), Zhulong Api Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Api Abu Kawah (Tier 1), Panther Bara Lava Shendu (Tier 2), Harimau Taring Lava Merah (Tier 3), Singa Surai Api Chiyan (Tier 4), Macan Tutul Meteorit Api (Tier 5), Serigala Raja Neraka Kawah (Tier 6), Panther Bayangan Api Hitam (Tier 7), Singa Raja Bintang Lava Purba (Tier 8), Zhulong Api Hunyuan (Tier 9) |
 
 ---
 
@@ -86,3 +86,4 @@ Jaringan gua di bawah Kawah Shendu yang berisikan sungai lava pekat. Tempat pela
 1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`35_CHIYAN_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Api Purba dan teknik pengontrolan Lava.
 2. **Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)** [`22_DANHUANG_ALCHEMIST_SECT.md`]: Sekte Utama Alkimia terkemuka penguasa resep Pill Breakthrough.
 3. **Perguruan Penempa Besi Shendu (Shendu Forging Academy / 神都锻造学院)** [`24_PERGURUAN_PENEMPA_SHENDU.md`]: Perguruan Spesialis yang melatih seni peleburan logam spirit, meteorit api, dan penempaan jiwa.
+4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shendu yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Lava Kawah.

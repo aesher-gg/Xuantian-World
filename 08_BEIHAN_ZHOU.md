@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 390 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Frost & Ice Qi Modifier ×1.30** (+25% Purity Alkimia Elemen Es, +20% Bonus Damage Akar Spiritual Es Purba) |
 | **Jarak Antar-Kota** | 250–700 li (Dapat ditempuh lewat Kereta Sled Serigala Es, Kapal Terbang Salju, dan Jalur Gua Kristal Es) |
-| **Monster Khas Wilayah** | Anak Naga Es Salju (Tier 1), Chilong Frost Padang Salju (Tier 2), Panlong Kristal Es (Tier 3), Jiaolong Danau Beku (Tier 4), Shenlong Frost (Tier 5), Dilong Es Abadi (Tier 6), Yinglong Es Purba (Tier 7), Tianlong Frost (Tier 8), Zhulong Frost Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Salju Pemburu Muda (Tier 1), Panther Kristal Es Abadi (Tier 2), Macan Tutul Badai Salju Beihan (Tier 3), Harimau Taring Es Salju (Tier 4), Singa Surai Frost Abadi (Tier 5), Serigala Raja Kutub Es Purba (Tier 6), Panther Bayangan Salju Abadi (Tier 7), Harimau Raja Es Salju Bintang (Tier 8), Zhulong Frost Hunyuan (Tier 9) |
 
 ---
 
@@ -75,3 +75,4 @@ Puncak tertinggi di Beihan Zhou setinggi 8.000 meter. Tempat mekarnya Lotus Es 1
 
 1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`38_HANBING_SNOW_PALACE.md`]: Sekte Utama pemurni jiwa dengan spesialisasi Akar Spiritual Es Purba, Pembekuan Area, dan Seni Pedang Es.
 2. **Perguruan Alkimia Es Beihan (Beihan Frost Alchemist Academy / 北寒冰药谷)** [`29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`]: Perguruan Spesialis alkimia es, ekstraksi herbal salju, dan pemurnian ramuan pemulih dantian.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Hanbing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Salju Abadi.

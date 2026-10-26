@@ -13,6 +13,8 @@ Perguruan Perawatan Beast Spiritual didirikan di Desa Qingling oleh **Tabib Beas
 
 Prinsip Utama: *"Mahluk spirit adalah kawan perjalanan. Menyembuhkan luka mereka adalah menjaga keseimbangan alam."*
 
+* **Layanan Lintas Guild:** Menyediakan perawatan medis & rehabilitasi Beast Tunggangan bagi anggota Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`).
+
 ---
 
 ## 2. Struktur Pengajar & Tokoh Utama

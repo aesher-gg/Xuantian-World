@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 580 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Water & Ice Qi Modifier ×1.25** (+25% Kecepatan Navigasi Laut, +20% Success Rate Penjinakan Aquatic Beast) |
 | **Jarak Antar-Kota** | 300–900 li (Dapat ditempuh lewat Kapal Terbang Laut, Perahu Spirit Vena Air, dan Penumpangan Naga Laut) |
-| **Monster Khas Wilayah** | Anak Naga Air Mutiara (Tier 1), Chilong Gelombang Laut (Tier 2), Panlong Karang Biru (Tier 3), Naga Laut Bersisik Giok (Tier 4), Shenlong Gelombang Samudra (Tier 5), Dilong Dasar Laut (Tier 6), Yinglong Air Purba (Tier 7), Tianlong Samudra Mutiara Suci (Tier 8), Zhulong Samudra Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Rawa Pasang Laut (Tier 1), Panther Sisik Perak Samudra (Tier 2), Harimau Gelombang Bintang Giok (Tier 3), Singa Surai Gelombang Samudra (Tier 4), Macan Tutul Petir Badai Laut (Tier 5), Serigala Raja Es Samudra (Tier 6), Panther Bayangan Palung Laut (Tier 7), Harimau Raja Mutiara Samudra (Tier 8), Zhulong Samudra Hunyuan (Tier 9) |
 
 ---
 
@@ -85,3 +85,4 @@ Benteng es raksasa hasil pembekuan tsunami purba 5.000 tahun lalu. Tembok es ini
 
 1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`36_JADE_OCEAN_PALACE.md`]: Sekte Utama pelindung lautan dengan spesialisasi Akar Spiritual Air Purba, Manipulasi Gelombang, dan Es Samudra.
 2. **Balai Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)** [`31_PERGURUAN_PELAYARAN_CANGHAI.md`]: Perguruan / Sekte Spesialis kemudi kapal terbang laut, pemetaan arus angin, dan teknik pertempuran laut-udara.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Pelabuhan Haibin yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Pelayaran.

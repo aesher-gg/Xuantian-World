@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 1,2 Miliar Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Netral Seimbang ×1.0** (Cocok untuk semua Akar Spiritual Kultivasi tanpa penalti maupun bonus) |
 | **Jarak Antar-Kota** | 100–400 li (Sangat terhubung lewat Jalan Raya Kekaisaran & Dermaga Kapal Terbang) |
-| **Monster Khas Wilayah** | Anak Naga Batu Perunggu (Tier 1), Chilong Karang Perunggu (Tier 2), Panlong Tanah (Tier 3), Naga Sungai Longjiang (Tier 4), Dilong Lembah Kekaisaran (Tier 5), Fucanglong Emas Perut Bumi (Tier 6), Naga Emas Pelindung Dinasti (Tier 7), Tianlong Bintang Emas (Tier 8), Huanglong Primordial Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Anjing Serigala Perunggu (Tier 1), Panther Batu Marmer (Tier 2), Harimau Taring Perunggu (Tier 3), Singa Bintang Pelindung Tahta (Tier 4), Serigala Karang Nadi Bumi (Tier 5), Macan Tutul Zirah Batu Emas (Tier 6), Panther Bayangan Tianjing (Tier 7), Singa Raja Emas Hunyuan (Tier 8), Huanglong Primordial Hunyuan (Tier 9) |
 
 ---
 
@@ -151,3 +151,4 @@ Lokasi eksplorasi tingkat lanjut di pinggiran Kota Luoyang. Kompleks pemakaman k
 1. **Sekte Pedang Kekaisaran Tianjing (Tianjing Sword Sect)** [`34_TIANJING_SWORD_SECT.md`]: Sekte Utama pengawal dinasti dengan disiplin ketat dan teknik pedang lurus.
 2. **Perguruan Dagang Jiuzhou (Jiuzhou Merchant Academy)** [`32_PERGURUAN_DAGANG_JIUZHOU.md`]: Perguruan Spesialis yang melatih ahli taksiran barang, purity pill, dan strategi lelang.
 3. **Perhimpunan Tabib Pengembara (Wandering Physician Association)** [`40_WANDERING_PHYSICIAN_ASSOCIATION.md`]: Organisasi/Perguruan penyembuh keliling, penawar racun, dan diagnosa Qi Deviation.
+4. **Markas Pusat Serikat Youxia Sanxiu (Sanxiu Youxia Guild Headquarters / 散修游侠公会总会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Markas Pusat Serikat Petualang di Kota Tianjing yang mengendalikan Papan Misi Quest Tier 1–9, Sistem Lisensi Rank Youxia, Balai Penukaran Loot, dan Layanan Informasi Seluruh Benua.

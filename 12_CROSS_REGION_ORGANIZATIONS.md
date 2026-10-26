@@ -81,3 +81,18 @@ Lembaga lelang terbesar yang menjamin keamanan transaksi barang langka (benih ob
   - Pelelangan Bulanan & Tahunan Barang Langka Grade Tier 4–9.
   - Jasa Penaksiran Keaslian Artefak & Purity Pill oleh Master Penaksir.
   - Bank Deposit Batu Spirit & Kerahasiaan Identitas Penawar.
+
+---
+
+## 7. Serikat Youxia Sanxiu (Sanxiu Youxia Guild / 散修游侠公会) [`52_SERIKAT_YOUXIA_SANXIU.md`]
+
+### 7.1 Peran, Lore & Fungsi
+Organisasi petualang independen terbesar di Xuantian World yang menaungi jutaan kultivator independen (*Sanxiu*), pemburu Spirit Beast, pengawal karavan, dan penjelajah zona terlarang. Beroperasi secara netral dengan sistem Guild Petualang Xianxia.
+* **Markas Pusat:** Kota Tianjing, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`, `52_SERIKAT_YOUXIA_SANXIU.md`)
+* **Cabang:** Hadir di seluruh ibu kota & pos depan 10 Wilayah Utama.
+* **Tokoh Kunci:** President Lu Youxia (*Shenhuang Jing*, Peak - Qi Cap 15.625.000) & Grandmaster Penaksir Tang (*Faxiang Jing*, Early - Qi Cap 1.562.500).
+* **Layanan Utama:**
+  - Papan Misi Quest (Tier 1–9) berhadiah Batu Spirit & Poin Kontribusi Guild.
+  - Sistem Lisensi Rank Badges (Perunggu, Besi, Perak, Emas, Giok, Bintang, Purba, Hunyuan).
+  - Balai Penukaran Loot & Registrasi Origin Log Resmi (`15_ECONOMY_SYSTEM.md`).
+  - Asuransi Misi & Tim Evakuasi Darurat Youxia Veteran.

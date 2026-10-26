@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 520 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Metal & Wind Qi Modifier ×1.20** (+25% Kecepatan Latihan Sword Intent, +20% Bonus Damage Seni Pedang) |
 | **Jarak Antar-Kota** | 250–750 li (Dapat ditempuh lewat jalur terbang pedang, kapal terbang spirit, dan jalan setapak tebing) |
-| **Monster Khas Wilayah** | Anak Naga Taring Pedang (Tier 1), Chilong Besi Tebing Pedang (Tier 2), Panlong Bilah Angin (Tier 3), Naga Spirit Sisik Perak (Tier 4), Shenlong Angin Besi (Tier 5), Dilong Tebing Canglong (Tier 6), Yinglong Sayap Pedang Perak (Tier 7), Tianlong Pedang (Tier 8), Naga Purba Canglong Sword-Intent (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Angin Taring Besi (Tier 1), Panther Bilah Perak Tebing (Tier 2), Macan Tutul Petir Canglong (Tier 3), Harimau Pedang Badai Perak (Tier 4), Singa Surai Pedang Besi (Tier 5), Serigala Raja Badai Bintang (Tier 6), Panther Bayangan Pedang Angin (Tier 7), Harimau Raja Taring Naga Perak (Tier 8), Naga Purba Canglong Sword-Intent (Tier 9) |
 
 ---
 
@@ -86,3 +86,4 @@ Ngarai terisolasi di mana bambu-bambu batu tumbuh sekeras pedang besi. Ngarai in
 
 1. **Paviliun Pedang Canglong (Canglong Sword Pavilion / 苍龙剑阁)** [`23_CANGLONG_SWORD_PAVILION.md`]: Sekte Utama penguasa Puncak Canglong dengan spesialisasi Seni Pedang Naga dan Pedang Terbang.
 2. **Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy / 青风剑意学院)** [`28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`]: Perguruan Spesialis yang melatih keheningan pikiran, manipulasi Qi Angin, dan integrasi Niat Pedang (*Sword Intent*).
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Canglong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Tebing Pedang.

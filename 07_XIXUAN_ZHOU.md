@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 410 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Earth & Sand Qi Modifier ×1.20** (+25% Ketahanan Pertahanan Formasi Segel, +20% Success Rate Pembuatan Jimat/Talisman) |
 | **Jarak Antar-Kota** | 300–800 li (Dapat ditempuh lewat Unta Spirit Gurun, Kapal Terbang Pasir, dan Penyeberangan Oasis) |
-| **Monster Khas Wilayah** | Anak Naga Pasir Emas (Tier 1), Chilong Gurun Pasir Emas (Tier 2), Panlong Badai Pasir (Tier 3), Jiaolong Reruntuhan Gurun (Tier 4), Dilong Pasir Suci Xixuan (Tier 5), Naga Pasir Emas Gurun (Tier 6), Fucanglong Karavan Pasir Emas (Tier 7), Tianlong Gurun (Tier 8), Zhulong Pasir Emas Purba Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Pasir Emas Gurun (Tier 1), Panther Pasir Gila Emas (Tier 2), Macan Tutul Badai Pasir Xixuan (Tier 3), Harimau Taring Emas Oasis (Tier 4), Singa Surai Pasir Suci Gurun (Tier 5), Serigala Raja Reruntuhan Moko (Tier 6), Panther Bayangan Segel Tanah (Tier 7), Singa Raja Emas Gurun Purba (Tier 8), Zhulong Pasir Emas Purba Hunyuan (Tier 9) |
 
 ---
 
@@ -75,3 +75,4 @@ Ngarai batu pasir berliku seluas 1.000 li yang dipenuhi jebakan formasi segel ta
 
 1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`37_GOLDEN_BELL_MONASTERY.md`]: Sekte Utama pembudidaya fisik/tubuh tahan pukulan dengan Akar Spiritual Pertahanan Lonceng Emas.
 2. **Sekte Jimat Gurun Huangsha (Huangsha Talisman Sect / 黄沙符箓宗)** [`25_PERGURUAN_JIMAT_HUANGSHA.md`]: Sekte / Perguruan Spesialis pembuatan kertas jimat spirit, tinta darah beast, dan inskripsi rune pertahanan.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Huangsha yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Gurun.

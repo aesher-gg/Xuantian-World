@@ -15,6 +15,8 @@ Untuk melindungi wilayah kultivasi suci ini, para tetua sekte meletakkan **Forma
 
 Ajaran Utama Kuno: *"Bambu membengkok namun tidak patah, pedang memotong tanpa meninggalkan jejak. Jiwa menyatu dengan kayu, abadi bersama bumi."*
 
+* **Eksplorasi Youxia:** Reruntuhan sekte ini menjadi target Misi Eksplorasi Lisensi Giok & Purba dari Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`) untuk perburuan fragmen Niat Pedang Bambu dan Serat Urat Giok.
+
 ---
 
 ## 2. Struktur Hierarki & Tokoh Kunci

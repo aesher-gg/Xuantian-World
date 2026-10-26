@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 250 juta Tael Perak (Namun kaya bahan pemuatan zirah Mythical & Kristal Ruang Purba) |
 | **Kerapatan Qi (Qi Density)** | **Chaotic Ancient Qi Modifier ×1.50** (Potensi Qi Deviation tinggi, namun +30% Peluang Terobosan Ranah & Loot Purba Grade High) |
 | **Jarak Antar-Kota** | 400–1.200 li (Sangat berbahaya, hanya dapat dilalui dengan pengawalan veteran atau kapal terbang berlapis baja) |
-| **Monster Khas Wilayah** | Anak Naga Retakan Ruang (Tier 1), Chilong Anomali Dimensi (Tier 2), Panlong Petir Anomali (Tier 3), Jiaolong Anomali (Tier 4), Dilong Retakan Ruang (Tier 5), Serpent Raksasa Retakan Ruang (Tier 6), Yinglong Anomali Ruang (Tier 7), Tianlong Dimensi (Tier 8), Zhulong Anomali Dimensi Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Taring Ruang Muda (Tier 1), Panther Anomali Retakan Ruang (Tier 2), Macan Tutul Petir Tanah Purba (Tier 3), Harimau Anomali Dimensi (Tier 4), Singa Surai Ruang Purba (Tier 5), Serigala Raja Retakan Dimensi (Tier 6), Panther Bayangan Anomali Dimensi (Tier 7), Singa Raja Retakan Ruang Hunyuan (Tier 8), Zhulong Anomali Dimensi (Tier 9) |
 
 ---
 
@@ -75,3 +75,4 @@ Situs reruntuhan istana purba yang dipenuhi prasasti bertuliskan bahasa kuno. Te
 
 1. **Garnisun Pelindung Juejing (Juejing Guardian Alliance / 绝境守护者联盟)**: Pasukan benteng gabungan veteran dari seluruh 10 Wilayah untuk menjaga stabilitas perbatasan.
 2. **Perguruan Eksplorasi Juejing (Juejing Ancient Exploration Academy / 绝境古阵堂)** [`33_PERGURUAN_EKSPLORASI_JUEJING.md`]: Perguruan / Sekte Spesialis riset formasi purba, pendeteksian anomali ruang, dan ekstraksi kristal ruang.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Pos Depan Juejing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Anomali Ruang.

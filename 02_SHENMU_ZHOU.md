@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 450 juta Tael Perak |
 | **Kerapatan Qi (Qi Density)** | **Wood Qi Modifier ×1.25** (+30% Kecepatan Tumbuh Berkebun, +20% Success Rate Alkimia Kayu) |
 | **Jarak Antar-Kota** | 200–800 li (Sangat terhubung lewat jalur perahu kayu spirit & airship lokal) |
-| **Monster Khas Wilayah** | Anak Naga Sulur Kayu (Tier 1), Chilong Tunas Kayu (Tier 2), Panlong Bambu Spirit (Tier 3), Jiaolong Sungai Shenmu (Tier 4), Shenlong Kanopi Hijau (Tier 5), Dilong Urat Kayu (Tier 6), Fucanglong Hutan Purba (Tier 7), Yinglong Sayap Daun (Tier 8), Naga Suci Qinglong Purba Shenmu Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Bayangan Kabut Hijau (Tier 1), Panther Urat Giok Rimba (Tier 2), Macan Tutul Dahan Shenmu (Tier 3), Harimau Taring Awan Hijau (Tier 4), Serigala Raja Spirit Wansen (Tier 5), Singa Surai Daun Purba (Tier 6), Panther Bayangan Akar Leluhur (Tier 7), Harimau Raja Shenmu (Tier 8), Qinglong Purba Shenmu Hunyuan (Tier 9) |
 
 ---
 
@@ -290,6 +290,7 @@ Desa konservasi lingkungan di hulu Sungai Seribu Akar. Bertanggung jawab menjaga
 7. **Perguruan Racun dan Penawar Tumbuhan (Plant Poison & Antidote Academy / 草毒解药院)** [`48_PERGURUAN_RACUN_DAN_PENAWAR_TUMBUHAN.md`]: Perguruan Spesialis toksikologi spora/tumbuhan beracun, pembuatan antidot, dan karantina bahan berbahaya.
 8. **Perguruan Pemeliharaan Formasi Alam (Natural Array Maintenance Academy / 自然阵法维护院)** [`49_PERGURUAN_PEMELIHARAAN_FORMASI_ALAM.md`]: Perguruan Spesialis inspeksi, perawatan pilar formasi pelindung hutan, dan evaluasi risiko formasi kuno.
 9. **Perguruan Perawatan Beast Spiritual (Spiritual Beast Care Academy / 灵兽护理院)** [`50_PERGURUAN_PERAWATAN_BEAST_SPIRITUAL.md`]: Perguruan Spesialis kesehatan fisik beast, rehabilitasi monster terluka, dan nutrisi herbal hewan spirit.
+10. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shenmu & Desa Qingling yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Hutan.
 
 ---
 

@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 450 juta Tael Perak (Pasar Gelap & Komoditas Racun) |
 | **Kerapatan Qi (Qi Density)** | **Shadow & Poison Qi Modifier ×1.25** (+25% Potensi Kerusakan Racun Alkimia, +20% Kerahasiaan Formasi Bayangan) |
 | **Jarak Antar-Kota** | 200–650 li (Dapat ditempuh lewat Jalur Kereta Bayangan, Perahu Rawa Spirit, dan Gua Rawa Gelap) |
-| **Monster Khas Wilayah** | Anak Naga Bayangan Rawa (Tier 1), Chilong Racun Kelam (Tier 2), Panlong Api Hitam (Tier 3), Jiaolong Rawa Youming (Tier 4), Shenlong Bayangan (Tier 5), Dilong Youming Kelam (Tier 6), Fucanglong Bayangan (Tier 7), Tianlong Kelam (Tier 8), Zhulong Bayangan Purba Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Bayangan Rawa Kelam (Tier 1), Panther Taring Racun Youming (Tier 2), Macan Tutul Kabut Hitam Sunyi (Tier 3), Harimau Api Hitam Bayangan (Tier 4), Singa Surai Bayangan Kelam (Tier 5), Serigala Raja Iblis Rawa Duwu (Tier 6), Panther Bayangan Tujuh Langkah (Tier 7), Singa Raja Api Hitam Youming (Tier 8), Zhulong Bayangan Purba Hunyuan (Tier 9) |
 
 ---
 
@@ -75,3 +75,4 @@ Lembah terisolasi yang dipenuhi sarang *Laba-laba Bayangan Malam (Tier 2)* dan t
 
 1. **Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)** [`39_YOUMING_DEMONIC_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Bayangan, Api Hitam, dan Seni Pertempuran Gelap.
 2. **Perguruan Racun Youming (Youming Poison Academy / 幽冥毒影宗)** [`30_PERGURUAN_RACUN_YOUMING.md`]: Perguruan Spesialis alkimia toksik, formulasi racun pelumpuh Qi, jarum rahasia, dan formasi bayangan.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Heian (Pasar Gelap) yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Rawa Racun.
