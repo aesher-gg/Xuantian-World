@@ -1,98 +1,93 @@
-# 🌐 Organisasi Lintas Wilayah Xuantian World
+# 🌐 Organisasi & Guild Lintas Wilayah Xuantian World (Cross-Region Organizations)
 
 > **Modul:** 12 — Cross-Region Organizations
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `10_TIANGONG_ZHOU.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `INDEX.md`
+> **Kategori:** Konsorsium Industri, Guild Profesi, & Serikat Lintas Wilayah
+> **Lokasi:** Cabang Utama di Seluruh Ibu Kota 10 Wilayah Utama
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `10_TIANGONG_ZHOU.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `40_WANDERING_PHYSICIAN_ASSOCIATION.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`
 
 ---
 
-## 1. Serikat Kapal Terbang Tiangong (Tiangong Airship Union / 天宫飞航工会)
+## 1. Lore, Visi & Peran Organisasi Lintas Wilayah
 
-### 1.1 Peran, Lore & Fungsi
-Serikat terbesar yang memegang monopoli pendaftaran, sertifikasi pilot, dan navigasi armada Kapal Terbang Spirit (*Tiankong Feichuan*) di seluruh 10 Wilayah Utama. Ditinggali oleh puluhan ribu pilot profesional dan mekanik penerbangan.
-* **Markas Pusat:** Benteng Melayang Tiangong, Tiangong Zhou (`10_TIANGONG_ZHOU.md`)
-* **Cabang:** Hadir di seluruh ibu kota 10 Wilayah Utama.
-* **Tokoh Kunci:** Grandmaster Tiangong Zi (*Shenhuang Jing*, Mid - Qi Cap 11.718.750) & Kapten Senior Feiyun (*Faxiang Jing*, Early - Qi Cap 1.562.500).
-* **Layanan Utama:**
-  - Penjualan Tiket Perjalanan Lintas Wilayah (Skiff, Merchant Freighter, Passenger Galleon, War Battleship).
-  - Penyewaan Kapal Terbang Kargo & Armada Pengawalan.
-  - Uji Lisensi Pilot Kapal Terbang Tier 1 (Pemula) hingga Tier 5 (Master Navigasi Ruang).
+Organisasi Lintas Wilayah di Xuantian World berdiri sebagai pilar stabilitas ekonomi, perhubungan, pertukaran ilmu profesi, serta keamanan publik yang beroperasi melintasi batas-batas politik sekte dan kekaisaran. Dipimpin oleh para Grandmaster Profesi independen, guild-guild ini menetapkan standar lisensi resmi, pengujian kadar kebersihan (*Purity*), sertifikasi piringan formasi, serta memuluskan jalur perdagangan benua.
+
+Visi Utama: *"Ilmu Dan Profesi Berdiri Netral Di Atas Konflik Sekte; Melayani Seluruh Pembudidaya Demi Kemajuan Benua Xuantian"*.
 
 ---
 
-## 2. Guild Alkemis Agung Xuantian (Grand Alchemist Guild / 玄天炼丹师工会)
+## 2. Tujuh Guild & Serikat Profesi Utama
 
-### 2.1 Peran, Lore & Fungsi
-Asosiasi Alkemis independen yang mengatur standar grade pill, sertifikasi kuali spirit, dan perlindungan resep alkimia di seluruh benua Xuantian World.
-* **Markas Pusat:** Kota Tianjing, Zhonghua Zhou (`01_WORLD_OVERVIEW_AND_CAPITAL.md`, `03_ZHONGHUA_ZHOU.md`)
-* **Cabang Utama:** Puncak Danhuang (Chiyan Zhou) & Kota Hanbing (Beihan Zhou).
-* **Tokoh Kunci:** Grandmaster Danhuang (*Shenhuang Jing*, Early - Qi Cap 7.812.500) & Tetua Yan Huo (*Faxiang Jing*, Mid - Qi Cap 2.343.750).
-* **Ujian Lisensi Alkemis:**
-  - **Tier 1–3 (Alkemis Muda):** Mampu memurnikan pill konsumsi pemula & penyembuhan dasar.
-  - **Tier 4–6 (Master Alkemis):** Mampu memurnikan Pill Breakthrough (*Ningyuan Pill*, *Lingyi Pill*, *Xuantian Pill*) dan mengendalikan Api Spirit Alami.
-  - **Tier 7–9 (Grandmaster Alkemis Ancestral):** Mampu meracik Pill Umur Panjang, Pill Penembus Faxiang/Shenhuang, & Ramuan Pengubah Nasib.
+### 2.1 Serikat Kapal Terbang Tiangong (Tiangong Airship Union / 天宫飞航工会)
+* **Markas Pusat:** Benteng Melayang Tiangong, Tiangong Zhou (`10_TIANGONG_ZHOU.md`, `27_PERGURUAN_KEMUDI_TIANGONG.md`)
+* **Peran & Monopoli:** Memegang sertifikasi pendaftaran pilot, audit pilar antigravitasi, serta jadwal penerbangan armada Feichuan di seluruh 10 Wilayah.
+* **Layanan Utama:** Penjualan Tiket Perjalanan Lintas Wilayah, Penyewaan Feichuan Kargo, & Uji Lisensi Pilot Tier 1–5.
+* **Tokoh Kunci:** Grandmaster Tiangong Zi (*Shenhuang Jing*, Mid) & Kapten Senior Feiyun (*Faxiang Jing*, Early).
 
----
+### 2.2 Guild Alkemis Agung Xuantian (Grand Alchemist Guild / 玄天炼丹师工会)
+* **Markas Pusat:** Kota Tianjing, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`, `22_DANHUANG_ALCHEMIST_SECT.md`, `29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`)
+* **Peran & Monopoli:** Mengatur pendaftaran resep obat, sertifikasi kuali spirit, serta pengujian kadar racun obat (*pill toxins*).
+* **Layanan Utama:** Uji Lisensi Alkemis Tier 1–9, Bank Resep Purba, & Pelelangan Pill Breakthrough.
+* **Tokoh Kunci:** Grandmaster Danhuang (*Shenhuang Jing*, Early) & Master Xue Dan (*Faxiang Jing*, Early).
 
-## 3. Serikat Penjinak Beast Xuantian (Xuantian Beast Tamer Guild / 驭兽师同盟)
+### 2.3 Serikat Penjinak Beast Xuantian (Xuantian Beast Tamer Guild / 驭兽师同盟)
+* **Markas Pusat:** Desa Qingling, Shenmu Zhou (`02_SHENMU_ZHOU.md`, `21_PERGURUAN_BEAST_QINGLING.md`)
+* **Peran & Monopoli:** Mengelola lisensi Penjinak Beast, pendaftaran hewan tunggangan (*Mounts*), serta penangkaran spesies langka.
+* **Layanan Utama:** Pemasangan Kontrak Kesetaraan, Penjualan Pakan Formulasi Spirit, & Sertifikasi Spirit Beast Tier 1–9.
+* **Tokoh Kunci:** Master Feng Qingling (*Faxiang Jing*, Early) & Guru Ling Xia (*Xuantian Jing*, Mid).
 
-### 3.1 Peran, Lore & Fungsi
-Serikat yang mengelola standar Jimat Penjinak Beast, pendaftaran Spirit Beast Terjinakkan, dan perdagangan telur beast di 10 Wilayah.
-* **Markas Pusat:** Desa Qingling, Shenmu Zhou (`02_SHENMU_ZHOU.md`)
-* **Tokoh Kunci:** Master Feng Qingling (*Faxiang Jing*, Early - Qi Cap 1.562.500) & Guru Ling Xia (*Xuantian Jing*, Mid - Qi Cap 93.750).
-* **Layanan Utama:**
-  - Pemasangan Kontrak Kesetaraan (Equality Contract) / Kontrak Tuan-Hamba (Master-Servant Contract).
-  - Penjualan Makanan & Pakan Formulasi Spirit Beast.
-  - Arena Tanding & Sertifikasi Spirit Beast Tier 1–9.
+### 2.4 Guild Pembuat Formasi & Jimat (Array & Talisman Guild / 阵法符箓大同盟)
+* **Markas Pusat:** Kota Huangsha, Xixuan Zhou (`07_XIXUAN_ZHOU.md`, `25_PERGURUAN_JIMAT_HUANGSHA.md`, `26_PERGURUAN_FORMASI_TIANGONG.md`)
+* **Peran & Monopoli:** Memasok kertas jimat combat, piringan formasi portabel (*Array Discs*), serta inskripsi rune pertahanan benteng.
+* **Layanan Utama:** Sertifikasi Master Formasi/Jimat Tier 1–4, Inskripsi Rune Zirah, & Penjualan Piringan Formasi.
+* **Tokoh Kunci:** Master Huangsha (*Faxiang Jing*, Early) & Guru Zhen Ling (*Faxiang Jing*, Early).
 
----
+### 2.5 Serikat Penempa Bintang (Starforgers Guild / 星锻师工会)
+* **Markas Pusat:** Kota Shendu, Chiyan Zhou (`05_CHIYAN_ZHOU.md`, `24_PERGURUAN_PENEMPA_SHENDU.md`)
+* **Peran & Monopoli:** Mengontrol harga bijih besi spirit, ekstraksi meteorit, dan inskripsi integrasi Inti Spirit Beast ke dalam senjata.
+* **Layanan Utama:** Sertifikasi Penempa Tier 1–4, Upgrading Senjata/Zirah Spirit Grade 1–8, & Ekstraksi Logam Meteorit.
+* **Tokoh Kunci:** Grandmaster Shendu (*Faxiang Jing*, Mid) & Guru Tie Yan (*Xuantian Jing*, Peak).
 
-## 4. Guild Pembuat Formasi & Jimat (Array & Talisman Guild / 阵法符箓大同盟)
+### 2.6 Rumah Lelang Agung Wanbao (Wanbao Grand Auction House / 万宝皇家拍卖行)
+* **Markas Pusat:** Kota Tianjing, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`, `32_PERGURUAN_DAGANG_JIUZHOU.md`)
+* **Peran & Monopoli:** Lembaga lelang terbesar yang menjamin keamanan transaksi barang antik, benih purba, dan artefak tanpa memandang latar belakang pembeli.
+* **Layanan Utama:** Pelelangan Bulanan/Tahunan Barang Grade 4–9, Jasa Penaksiran Keaslian Artefak, & Deposit Batu Spirit Anonim.
+* **Tokoh Kunci:** Instruktur Su Feng (*Xuantian Jing*, Mid) & Penaksir Old Chen (*Lingyi Jing*, Peak).
 
-### 4.1 Peran, Lore & Fungsi
-Persatuan Master Formasi (*Array Master*) dan Master Jimat (*Talisman Master*) yang memasok kertas jimat combat, bendera formasi pelindung sekte, dan piringan formasi portabel (*Array Discs*).
-* **Markas Pusat:** Kota Huangsha, Xixuan Zhou (`07_XIXUAN_ZHOU.md`)
-* **Tokoh Kunci:** Master Huangsha (*Faxiang Jing*, Early - Qi Cap 1.562.500) & Tetua Mo Lin (*Xuantian Jing*, Mid - Qi Cap 93.750).
-* **Layanan Utama:**
-  - Penjualan Kertas Jimat Spirit Sutra, Tinta Darah Beast, & Piringan Formasi Levitasi/Barrier.
-  - Jasa Inskripsi Rune Pertahanan Zirah & Pintu Sekte.
-
----
-
-## 5. Serikat Penempa Bintang (Starforgers Guild / 星锻师工会)
-
-### 5.1 Peran, Lore & Fungsi
-Guild Penempa Senjata & Zirah Spirit yang mengendalikan harga batu besi spirit (*Spirit Metal Iron*), ekstraksi meteorit, dan penempaan jiwa (*Soul Binding Forging*).
-* **Markas Pusat:** Kota Shendu, Chiyan Zhou (`05_CHIYAN_ZHOU.md`)
-* **Tokoh Kunci:** Grandmaster Shendu (*Faxiang Jing*, Mid - Qi Cap 2.343.750) & Guru Tie Yan (*Xuantian Jing*, Peak - Qi Cap 125.000).
-* **Layanan Utama:**
-  - Penempaan & Upgrading Senjata/Zirah Spirit Grade 1–8.
-  - Ekstraksi Logam Meteorit & Integrasi Inti Spirit Beast ke dalam Senjata.
-
----
-
-## 6. Rumah Lelang Agung Wanbao (Wanbao Grand Auction House / 万宝皇家拍卖行)
-
-### 6.1 Peran, Lore & Fungsi
-Lembaga lelang terbesar yang menjamin keamanan transaksi barang langka (benih obat purba, egg beast mythical, kuali grade tinggi, artefak, dan teknik kustom) tanpa memandang asal-usul pembeli (Sekte Sampingan, Sekte Iblis, maupun Sanxiu).
-* **Markas Pusat:** Kota Tianjing, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`)
-* **Cabang:** Memiliki balai lelang mewah di seluruh ibu kota 10 Wilayah (termasuk Pasar Gelap Heian Youming Zhou).
-* **Tokoh Kunci:** Nyonya Su Feng (*Xuantian Jing*, Mid - Qi Cap 93.750) & Pengelola Hei Gui (*Xuantian Jing*, Mid - Qi Cap 93.750).
-* **Layanan Utama:**
-  - Pelelangan Bulanan & Tahunan Barang Langka Grade Tier 4–9.
-  - Jasa Penaksiran Keaslian Artefak & Purity Pill oleh Master Penaksir.
-  - Bank Deposit Batu Spirit & Kerahasiaan Identitas Penawar.
-
----
-
-## 7. Serikat Youxia Sanxiu (Sanxiu Youxia Guild / 散修游侠公会) [`52_SERIKAT_YOUXIA_SANXIU.md`]
-
-### 7.1 Peran, Lore & Fungsi
-Organisasi petualang independen terbesar di Xuantian World yang menaungi jutaan kultivator independen (*Sanxiu*), pemburu Spirit Beast, pengawal karavan, dan penjelajah zona terlarang. Beroperasi secara netral dengan sistem Guild Petualang Xianxia.
+### 2.7 Serikat Youxia Sanxiu (Sanxiu Youxia Guild / 散修游侠公会) [`52_SERIKAT_YOUXIA_SANXIU.md`]
 * **Markas Pusat:** Kota Tianjing, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`, `52_SERIKAT_YOUXIA_SANXIU.md`)
-* **Cabang:** Hadir di seluruh ibu kota & pos depan 10 Wilayah Utama.
-* **Tokoh Kunci:** President Lu Youxia (*Shenhuang Jing*, Peak - Qi Cap 15.625.000) & Grandmaster Penaksir Tang (*Faxiang Jing*, Early - Qi Cap 1.562.500).
-* **Layanan Utama:**
-  - Papan Misi Quest (Tier 1–9) berhadiah Batu Spirit & Poin Kontribusi Guild.
-  - Sistem Lisensi Rank Badges (Perunggu, Besi, Perak, Emas, Giok, Bintang, Purba, Hunyuan).
-  - Balai Penukaran Loot & Registrasi Origin Log Resmi (`15_ECONOMY_SYSTEM.md`).
-  - Asuransi Misi & Tim Evakuasi Darurat Youxia Veteran.
+* **Peran & Monopoli:** Guild petualang terbesar yang menaungi jutaan kultivator independen (*Sanxiu*), pemburu beast, dan penjelajah zona terlarang.
+* **Layanan Utama:** Papan Misi Quest (Tier 1–9), Lisensi Badges Rank (Perunggu s/d Hunyuan), Balai Penukaran Loot, & Origin Log.
+* **Tokoh Kunci:** President Lu Youxia (*Shenhuang Jing*, Peak) & Grandmaster Penaksir Tang (*Faxiang Jing*, Early).
+
+---
+
+## 3. Matriks Hirarki & Roster Pimpinan Guild
+
+| Organisasi | Pimpinan Utama | Realm & Stage | Qi Cap Resmi | Lokasi Markas Pusat |
+|---|---|---|---|---|
+| **Serikat Kapal Terbang** | Grandmaster Tiangong Zi | *Shenhuang Jing*, Menengah | **11.718.750** | Benteng Melayang Tiangong |
+| **Guild Alkemis Agung** | Grandmaster Danhuang | *Shenhuang Jing*, Awal | **7.812.500** | Kota Tianjing (Zhonghua Zhou) |
+| **Serikat Penjinak Beast** | Master Feng Qingling | *Faxiang Jing*, Awal | **1.562.500** | Desa Qingling (Shenmu Zhou) |
+| **Guild Formasi & Jimat** | Master Huangsha | *Faxiang Jing*, Awal | **1.562.500** | Kota Huangsha (Xixuan Zhou) |
+| **Serikat Penempa Bintang** | Grandmaster Shendu | *Faxiang Jing*, Menengah | **2.343.750** | Kota Shendu (Chiyan Zhou) |
+| **Rumah Lelang Wanbao** | Instruktur Su Feng | *Xuantian Jing*, Menengah | **93.750** | Kota Tianjing (Zhonghua Zhou) |
+| **Serikat Youxia Sanxiu** | President Lu Youxia | *Shenhuang Jing*, Puncak | **15.625.000** | Kota Tianjing (Zhonghua Zhou) |
+
+---
+
+## 4. Sistem Lisensi & Penyetaraan Profesi BENUA
+
+Setiap pembudidaya yang menguasai keahlian profesi wajib mengikuti Ujian Sertifikasi di kantor cabang Guild resmi untuk mendapatkan **Lencana Lisensi Profesi**:
+
+1. **Lisensi Tier 1 (Pemula / Magang):** Mampu mengolah bahan baku dasar (Herbal Grade 1–2, Besi Biasa, Skiff Kecil).
+2. **Lisensi Tier 2 (Ahli / Senior):** Mampu meracik obat/senjata Grade 3–4, mengemudikan Feichuan Kargo, dan menjinakkan Beast Tier 3–4.
+3. **Lisensi Tier 3 (Master Profesi):** Diizinkan memimpin bengkel/kualian utama, meracik Pill Breakthrough, dan memasang pilar antigravitasi.
+4. **Lisensi Tier 4 (Grandmaster Ancestral):** Otoritas tertinggi benua yang berhak menerbitkan resep purba dan menilai Artefak Grade 7+.
+
+---
+
+## 5. Hubungan Diplomatik & Papan Misi Profesi
+
+- **Interaksi Antar-Guild:** Serikat Kapal Terbang Tiangong memesan piringan formasi dari Guild Formasi & Jimat dan zirah pelindung dari Serikat Penempa Shendu.
+- **Perlindungan Legalitas:** Setiap barang langka yang dijual di Wanbao Auction House mendapatkan sertifikasi *Origin Log Legal* yang diakui oleh Sekte Pedang Kekaisaran Tianjing.
+- **Papan Misi Profesi:** Tersedia di seluruh cabang guild di 10 Wilayah Utama untuk pencarian bahan baku langka dan pengawalan pakar profesi.

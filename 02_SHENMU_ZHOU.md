@@ -285,12 +285,7 @@ Desa konservasi lingkungan di hulu Sungai Seribu Akar. Bertanggung jawab menjaga
 2. **Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)** [`20_PERGURUAN_BERKEBUN_BIYANG.md`]: Perguruan Spesialis teknik analisis tanah, benih obat, dan pupuk Qi Kayu.
 3. **Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)** [`21_PERGURUAN_BEAST_QINGLING.md`]: Perguruan Spesialis komunikasi empati, kontrak kesetaraan, dan taktik Spirit Beast.
 4. **Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)** [`45_TIANZHU_SWORD_SECT.md`]: Sekte Kuno Tersegel di Hutan Bambu Giok, pemilik warisan Niat Pedang Bambu Langit & Formasi Tiga Nadi Giok.
-5. **Perguruan Pengamat Bintang Rimba (Forest Star Astronomy Academy / 林星观测院)** [`46_PERGURUAN_PENGAMAT_BINTANG_RIMBA.md`]: Perguruan Spesialis pengamatan kalender spiritual, pemetaan siklus Qi Kayu, dan kalkulasi musim berbunga tanaman obat.
-6. **Perguruan Pemetaan Nadi Bumi (Earth Vein Mapping Academy / 地脉测绘院)** [`47_PERGURUAN_PEMETAAN_NADI_BUMI.md`]: Perguruan Spesialis geografi spiritual, pemetaan terowongan bawah tanah, dan analisis kestabilan tanah spirit.
-7. **Perguruan Racun dan Penawar Tumbuhan (Plant Poison & Antidote Academy / 草毒解药院)** [`48_PERGURUAN_RACUN_DAN_PENAWAR_TUMBUHAN.md`]: Perguruan Spesialis toksikologi spora/tumbuhan beracun, pembuatan antidot, dan karantina bahan berbahaya.
-8. **Perguruan Pemeliharaan Formasi Alam (Natural Array Maintenance Academy / 自然阵法维护院)** [`49_PERGURUAN_PEMELIHARAAN_FORMASI_ALAM.md`]: Perguruan Spesialis inspeksi, perawatan pilar formasi pelindung hutan, dan evaluasi risiko formasi kuno.
-9. **Perguruan Perawatan Beast Spiritual (Spiritual Beast Care Academy / 灵兽护理院)** [`50_PERGURUAN_PERAWATAN_BEAST_SPIRITUAL.md`]: Perguruan Spesialis kesehatan fisik beast, rehabilitasi monster terluka, dan nutrisi herbal hewan spirit.
-10. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shenmu & Desa Qingling yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Hutan.
+5. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shenmu & Desa Qingling yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Hutan.
 
 ---
 
