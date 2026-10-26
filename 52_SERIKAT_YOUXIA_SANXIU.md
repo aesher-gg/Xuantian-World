@@ -83,13 +83,42 @@ Pemain dengan Lisensi Giok ke atas yang mengalami kondisi kritis di wilayah baha
 
 ---
 
-## 6. Hubungan Diplomatik & Papan Misi/Quest Board (Tier 1 s.d. Tier 9)
+## 6. Konsep & Panduan Kategori Jenis Misi (Papan Misi Dinamis bagi AI GM)
 
-### Hubungan Diplomatik
-- **Kekaisaran Xuantian & Sekte Utama:** Serikat mempertahankan perbatasan netral. Sekte-Sekte Besar rutin mempublikasikan Misi Pengawalan di Papan Guild.
-- **Guild Profesi Lintas Wilayah:** Bermitra dengan Serikat Kapal Terbang Tiangong, Rumah Lelang Wanbao, dan Perhimpunan Tabib Pengembara.
+Di setiap Balai Serikat terdapat **Papan Misi Kristal Spirit (Crystal Quest Board)**. AI GM tidak terikat pada daftar quest statis, melainkan menformulasikan misi secara dinamis berdasarkan **6 Kategori Jenis Misi** berikut sesuai lokasi, ranah pemain, dan kejadian regional yang sedang berlangsung:
 
-### Papan Misi Kristal Spirit (Examples of Youxia Quests)
-* **Misi Perburuan [Tier 2 - Perunggu]:** *Perburuan Serigala Bayangan* — Basmi 10 Serigala Bayangan Kabut di Hutan Wansen dan kumpulkan taringnya. (Hadiah: 80 Batu Spirit + 100 Merit Guild).
-* **Misi Pengawalan [Tier 4 - Perak]:** *Pengawalan Karavan Meteorit* — Kawal karavan batu besi meteorit dari Kota Shendu menuju Kota Tianjing. (Hadiah: 400 Batu Spirit + 300 Merit Guild).
-* **Misi Eksplorasi [Tier 6 - Giok]:** *Pemetaan Reruntuhan Medan Perang Kuno* — Pimpin tim eksplorasi memetakan anomali ruang di Juejing Zhou. (Hadiah: 1.500 Batu Spirit + Akses Lencana Bintang Purba).
+### 1. Kategori Perburuan (Hunting / Extermination)
+- **Konsep:** Membasmi atau menumpas Spirit Beast pengganggu, monster amuk, atau entitas berbahaya yang mengancam permukiman fana / jalur pelayaran.
+- **Target Misi:** Spirit Beast Tier 1–9 (`18_BESTIARY.md`) atau Monster Anomali Lokal.
+- **Ketentuan Hasil:** Wajib membuktikan hasil buruan melalui penyerahan organ spesifik (Taring, Sisik, Inti Spirit, Bulu, atau Kulit).
+- **Penentuan Imbalan:** Disesuaikan dengan Tier Beast (Batu Spirit standar + Poin Merit Guild × Tier Beast).
+
+### 2. Kategori Pengumpulan (Gathering / Harvesting)
+- **Konsep:** Mengumpulkan bahan baku alam spiritual, tanaman obat langka, mineral tempaan, atau bahan inskripsi rune.
+- **Target Misi:** Ginseng Spirit, Bunga Teratai Air, Bijih Meteorit, Serat Urat Giok, Darah Beast, dll.
+- **Ketentuan Hasil:** Penyerahan kuantitas bahan sesuai tingkat kebersihan (*Purity*) yang diminta pemohon misi.
+- **Penentuan Imbalan:** Harga standar bahan baku di pasar (`15_ECONOMY_SYSTEM.md`) + Bonus Komisi Pengumpulan.
+
+### 3. Kategori Pengawalan (Escort / Convoy Guard)
+- **Konsep:** Melindungi karavan pedagang, armada Kapal Terbang (*Feichuan*), utusan diplomatik, atau herbalis dari ancaman penyamun dan amukan monster liar.
+- **Target Misi:** Rute darat, laut, atau udara lintas kota / wilayah.
+- **Ketentuan Hasil:** Menjamin keselamatan target pengawalan hingga sampai di lokasi tujuan tanpa kerusakan muatan melebihi batas toleransi.
+- **Penentuan Imbalan:** Dihitung berdasarkan tingkat risiko zona rute (Zona Hijau s/d Hitam) & durasi perjalanan.
+
+### 4. Kategori Eksplorasi (Exploration & Cartography)
+- **Konsep:** Memetakan rute liar baru, menembus labirin bawah tanah, memeriksa reruntuhan kuno, atau melacak titik keberadaan sumber daya baru.
+- **Target Misi:** Zona Terlarang Juejing Zhou, Gua Kristal, Reruntuhan Sekte Kuno (`45_TIANZHU_SWORD_SECT.md`), dll.
+- **Ketentuan Hasil:** Penyerahan batu peta topografi, sampel tanah/kristal, atau rekaman prasasti kuno.
+- **Penentuan Imbalan:** Imbalan tinggi + Hak Istimewa Klaim Penemuan Pertama (*First Discovery Rights*).
+
+### 5. Kategori Investigasi Anomali (Anomaly & Incident Investigation)
+- **Konsep:** Menyelidiki fenomena anomali alam mendadak, perubahan perilaku monster liar, retakan ruang lokal, atau wabah spora beracun.
+- **Target Misi:** Lokasi anomali regional (misal: Lembah Bunga Mayat, Jurang Guruh Hijau, Rawa Duwu).
+- **Ketentuan Hasil:** Laporan tertulis mengenai sumber pemicu anomali dan penyerahan sampel kontaminasi.
+- **Penentuan Imbalan:** Batu Spirit + Akses Informasi Rahasia Tingkat I Guild.
+
+### 6. Kategori Penumpasan Penyamun & Buronan (Bounty & Criminal Suppression)
+- **Konsep:** Menangkap atau menumpas sindikat pembajak udara, penyamun tebing, pembalak liar, atau pembudidaya sesat yang melanggar hukum benua.
+- **Target Misi:** Buronan terdaftar dengan nilai imbalan resmi (*Bounty Notice*).
+- **Ketentuan Hasil:** Penangkapan hidup/mati beserta penyerahan stempel identitas atau bukti cincin penyimpanan buronan.
+- **Penentuan Imbalan:** Nilai Bounty resmi + Peningkatan Reputasi Penegak Hukum Kekaisaran.
