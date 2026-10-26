@@ -92,4 +92,5 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 | 49 | `49_PERGURUAN_PEMELIHARAAN_FORMASI_ALAM.md` | 🏯 Perguruan Pemeliharaan Formasi Alam (Shenmu Zhou) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/49_PERGURUAN_PEMELIHARAAN_FORMASI_ALAM.md?v=2 |
 | 50 | `50_PERGURUAN_PERAWATAN_BEAST_SPIRITUAL.md` | 🏯 Perguruan Perawatan Beast Spiritual (Shenmu Zhou) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/50_PERGURUAN_PERAWATAN_BEAST_SPIRITUAL.md?v=2 |
 | 51 | `51_SPECIAL_ITEMS.md` | 🔮 Katalog Artefak Purba & Item Spesial Legendaris | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/51_SPECIAL_ITEMS.md?v=2 |
+| 52 | `52_SERIKAT_YOUXIA_SANXIU.md` | 🌐 Serikat Youxia Sanxiu (Guild Petualang Lintas Wilayah) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/52_SERIKAT_YOUXIA_SANXIU.md?v=2 |
 | Hub | `players.md` | 📇 Katalog Read-Only Karakter Awal | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players.md?v=2 |

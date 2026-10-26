@@ -2,7 +2,7 @@
 
 > **Modul:** 21 — Perguruan Beast Qingling
 > **Kategori:** Perguruan Spesialis Penjinakan & Pelatihan Spirit Beast
-> **Afiliasi Induk:** Bermitra dengan Sekte Induk Shenmu (`19_SHENMU_SECT.md`) & Serikat Penjinak Beast (`12_CROSS_REGION_ORGANIZATIONS.md`)
+> **Afiliasi Induk:** Bermitra dengan Sekte Induk Shenmu (`19_SHENMU_SECT.md`), Serikat Penjinak Beast (`12_CROSS_REGION_ORGANIZATIONS.md`), & Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`)
 > **Lokasi:** Desa Qingling, Shenmu Zhou (`02_SHENMU_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `INDEX.md`
 
@@ -11,8 +11,9 @@
 ## 1. Konsep & Fungsi Perguruan
 Perguruan Penjinak Beast Qingling adalah **Perguruan Spesialis** yang melatih komunikasi empati, pemasangan kontrak kesetaraan, formulasi pakan spirit, dan taktik pertempuran bersama Spirit Beast.
 
-* **Fokus Utama:** Penjinakan, Perawatan, & Pertempuran Spirit Beast.
+* **Fokus Utama:** Penjinakan, Perawatan, & Pertempuran Spirit Beast (termasuk Beast Tunggangan / Mounts seperti Serigala, Harimau, Singa, Panther).
 * **Kepala Perguruan:** Master Feng Qingling.
+* **Layanan Lintas Guild:** Menyediakan pelatihan sertifikasi penjinakan Beast Tunggangan untuk anggota Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`).
 
 ---
 

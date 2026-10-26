@@ -13,7 +13,7 @@ Perguruan Berkebun Biyang adalah **Perguruan Spesialis (Institusi Ilmu)** yang b
 
 * **Fokus Utama:** Ilmu Berkebun & Pertani Obat Spirit.
 * **Kepala Perguruan:** Grandmaster Biyang (Ahli Pertani Obat Spirit Grade 7).
-* **Struktur:** Grandmaster → Guru Pembimbing → Murid Pembudidaya Obat.
+* **Kemitraan Lintas Faksi:** Bekerja sama erat dengan Sekte Induk Shenmu (`19_SHENMU_SECT.md`) dan Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`) dalam penyediaan benih obat & pemenuhan Misi Pengumpulan Herbal Papan Misi Guild.
 
 ---
 
