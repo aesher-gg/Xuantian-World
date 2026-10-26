@@ -140,14 +140,36 @@ Wilayah rahasia mandiri di Shenmu Zhou berupa hutan bambu spiritual kuno yang te
 | **Ancaman Utama** | Predator liar, perangkap sulur | Formasi aktif, beast cerdas, kabut pemakan Qi | Penjaga kuno, korupsi spiritual, boss entitas |
 | **Sumber Daya** | Bambu Roh Hijau, Embun Giok, Rumput Penjernih Qi | Serat Urat Giok, Pecahan Pedang Giok, Giok Spirit | Benih Leluhur Giok, Inti Roh Purba, Warisan Niat Pedang |
 
+#### A. Area Kunci Lapisan I — Hutan Luar
+1. **Gerbang Bambu Sunyi (寂竹门):** Pintu masuk kuno dengan prasasti terkikis. Orang dengan niat membunuh akan dijebak rute berputar kembali ke tempat semula. Prasasti menyimpan urutan nada untuk membuka segel lapisan kedua.
+2. **Sungai Seribu Bambu (千竹溪):** Sungai dangkal di antara akar bambu. Airnya memulihkan stamina (+10 Stamina per minum), namun bagian tertentu mengandung racun akar pembusuk.
+3. **Paviliun Pengembara (游修亭):** Bekas tempat istirahat kultivator. Menjadi titik singgah tidak resmi pedagang keliling dan pemburu beast.
+
+#### B. Area Kunci Lapisan II — Hutan Tengah
+1. **Lembah Kabut Pemakan Qi (噬气雾谷):** Kabut menyerap 5% Qi karakter per turn. Kultivator harus mengontrol napas atau menggunakan Pil Penjernih Qi.
+2. **Danau Cermin Giok (玉镜湖):** Memantulkan bayangan jiwa. Menyerang pantulan secara membabi buta memicu perlawanan formasi pertahanan.
+3. **Reruntuhan Sekte Pedang Bambu Langit (天竹剑宗遗址):** Aula latihan dan halaman pedang yang ditelan akar. Menyimpan artefak dan inskripsi teknik pedang kuno.
+4. **Terowongan Akar Berurat Giok (玉脉根道):** Jaringan akar pembawa mineral spirit menuju lapisan inti.
+
+#### C. Area Kunci Lapisan III — Jantung Giok (Tanah Terlarang)
+1. **Pohon Leluhur Sepuluh Ribu Daun (万叶祖竹):** Menara bambu purba raksasa wadah kesadaran kolektif para penjaga sekte.
+2. **Istana Akar Tanpa Matahari (无日根宫):** Istana bawah tanah berisi ukiran sejarah pendirian dan kejatuhan sekte.
+3. **Altar Tiga Nadi (三脉封坛):** Pusat pengendali aliran Qi dan segel akar Hutan Bambu Giok.
+4. **Makam Tetua Pertama (初代长老墓):** Tempat ditemukannya bukti penyebab utama kegagalan ritual masa lalu.
+
+#### Roster NPC & Boss Hutan Bambu Giok
+
 | NPC / Boss | Peran / Jabatan | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Mekanik Pertarungan |
 |---|---|---|---|---|---|
 | **Pemburu Lu** | Pemburu Khusus Bambu Giok | *Kaimai Jing*, Puncak | **1.000** | *Tebasan Pisau Bambu Cepat* — Serangan beruntun 2x | Ramah, menjual peta lokasi Lapisan I & memberi saran jebakan |
 | **Penjaga Pedang Tanpa Wajah** | Penjaga Reruntuhan (Lapisan II) | *Lingyi Jing*, Menengah | **18.750** | *Pedang Angin Bambu Beruntun* — Serangan pedang beruntun | Tanpa emosi, mengulang pola jurus pendekar kuno |
-| **Jenderal Bambu Layu** *(枯竹将军)* | Bos Lapisan II | *Xuantian Jing*, Puncak | **125.000** | *Gaya Pedang Bambu Mati* — Tebasan pedang giok & akar penusuk | **Fase 1:** Tebasan lurus & akar.<br>**Fase 2:** Memanggil prajurit bambu.<br>**Fase 3:** Melemah jika 3 simpul formasi dihancurkan. |
-| **Leluhur Giok yang Terbelah** *(裂魂玉祖)* | Bos Akhir Lapisan III | *Faxiang Jing*, Puncak | **3.125.000** | *Tebasan Jiwa Bambu Purba* — Serangan gabungan Qi Kayu & Jiwa | **Fase 1:** Ujian ilusi masa lalu.<br>**Fase 2:** Serangan akar massal arena.<br>**Fase 3:** Stabilisasi jiwa atau pertarungan. |
+| **Jenderal Bambu Layu** *(枯竹将军)* | Bos Lapisan II | *Xuantian Jing*, Puncak | **125.000** | *Gaya Pedang Bambu Mati* — Tebasan pedang giok & akar penusuk | **Fase 1:** Tebasan lurus & akar.<br>**Fase 2:** Memanggil prajurit bambu.<br>**Fase 3:** Melemah jika 3 simpul formasi dihancurkan.<br>*Kemenangan Alternatif:* Memulihkan ingatannya lewat prasasti sekte membuka jalan damai tanpa pertumpahan darah. |
+| **Leluhur Giok yang Terbelah** *(裂魂玉祖)* | Bos Akhir Lapisan III | *Faxiang Jing*, Puncak | **3.125.000** | *Tebasan Jiwa Bambu Purba* — Serangan gabungan Qi Kayu & Jiwa | **Fase 1 (Ujian):** Ujian ilusi masa lalu.<br>**Fase 2 (Akar Mengikat):** Serangan akar massal arena.<br>**Fase 3 (Jiwa Terbelah):** Pemain dapat melawan, menstabilkan formasi, atau memisahkan dua kesadaran. |
 
-* **Konflik Regional & Misi Lokal:** Misi Eksplorasi Lisensi Giok dari Serikat Youxia untuk mengaktifkan kembali Altar Tiga Nadi dan mengamankan warisan Niat Pedang Bambu Langit.
+#### Event Acak & Quest Regional
+* **Event: Ekspedisi yang Hilang:** Melacak rombongan pengembara yang hilang di Lapisan II.
+* **Quest: Tiga Ayat Pedang:** Mengumpulkan 3 fragmen prasasti untuk mempelajari teknik *Niat Pedang Bambu Langit*.
+* **World Event: Retaknya Segel Tiga Nadi:** Jika segel memudar, beast bermigrasi ke Lapisan I dan tanaman menjadi agresif hingga formasi dipulihkan.
 
 ---
 
