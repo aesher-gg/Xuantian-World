@@ -24,7 +24,7 @@
 
 | Nama Karakter | Lokasi Awal | Realm Awal | Sekte/Afiliasi Awal | File Detail & Link RAW |
 |---|---|---|---|---|
-| **Xuan Yu** | Desa Qingling, Shenmu Zhou | Lingquan Jing, Awal | Sanxiu (Kultivator Independen) | [`Xuan_Yu.md`](https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players/Xuan_Yu.md?v=1) |
+| **Xuan Yu** | Desa Qingling, Shenmu Zhou | Lingquan Jing, Awal | Sanxiu (Kultivator Independen) | [`Xuan_Yu.md`](https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players/Xuan_Yu.md?v=2) |
 
 *(Admin menambah baris baru di sini dan membuat file di `players/` setiap kali mendaftarkan karakter baru.)*
 
