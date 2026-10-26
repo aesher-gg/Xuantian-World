@@ -15,7 +15,7 @@
 | **Total Kekayaan** | ± 950 juta Tael Perak (Monopoli Penerbangan & Galangan Kapal) |
 | **Kerapatan Qi (Qi Density)** | **Wind & Space Qi Modifier ×1.35** (+30% Kecepatan Penerbangan Kapal Terbang, -25% Konsumsi Batu Spirit Navigasi) |
 | **Jarak Antar-Kota** | 100–500 li (Dapat ditempuh lewat Jalur Airship Ekspres, Piringan Formasi Melayang, dan Terbang Pedang) |
-| **Monster Khas Wilayah** | Anak Naga Awan Langit (Tier 1), Chilong Badai Awan (Tier 2), Panlong Petir Langit (Tier 3), Jiaolong Udara Tiangong (Tier 4), Shenlong Awan (Tier 5), Dilong Udara (Tier 6), Yinglong Awan Langit (Tier 7), Tianlong Bintang (Tier 8), Zhulong Langit Tiangong Purba Hunyuan (Tier 9) |
+| **Monster Khas Wilayah** | Serigala Angin Awan Udara (Tier 1), Panther Sayap Awan Tipis (Tier 2), Macan Tutul Petir Awan Hitam (Tier 3), Harimau Sayap Badai Langit (Tier 4), Singa Surai Awan Melayang (Tier 5), Serigala Raja Ruang Udara (Tier 6), Panther Bayangan Bintang Langit (Tier 7), Harimau Raja Sayap Badai Bintang (Tier 8), Zhulong Langit Tiangong Purba (Tier 9) |
 
 ---
 
