@@ -13,6 +13,8 @@ Perguruan Pemetaan Nadi Bumi didirikan untuk mengukur, memetakan, dan meneliti j
 
 Prinsip Utama: *"Bumi memiliki pembuluh darah, batu memiliki ingatan. Memetakan nadi adalah menjaga pijakan kehidupan."*
 
+* **Layanan Lintas Guild:** Pemasok peta topografi & kompas geografi bawah tanah untuk Misi Eksplorasi Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`).
+
 ---
 
 ## 2. Struktur Pengajar & Tokoh Utama

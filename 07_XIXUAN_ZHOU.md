@@ -75,3 +75,4 @@ Ngarai batu pasir berliku seluas 1.000 li yang dipenuhi jebakan formasi segel ta
 
 1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`37_GOLDEN_BELL_MONASTERY.md`]: Sekte Utama pembudidaya fisik/tubuh tahan pukulan dengan Akar Spiritual Pertahanan Lonceng Emas.
 2. **Sekte Jimat Gurun Huangsha (Huangsha Talisman Sect / 黄沙符箓宗)** [`25_PERGURUAN_JIMAT_HUANGSHA.md`]: Sekte / Perguruan Spesialis pembuatan kertas jimat spirit, tinta darah beast, dan inskripsi rune pertahanan.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Huangsha yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Gurun.

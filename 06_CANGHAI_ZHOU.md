@@ -85,3 +85,4 @@ Benteng es raksasa hasil pembekuan tsunami purba 5.000 tahun lalu. Tembok es ini
 
 1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`36_JADE_OCEAN_PALACE.md`]: Sekte Utama pelindung lautan dengan spesialisasi Akar Spiritual Air Purba, Manipulasi Gelombang, dan Es Samudra.
 2. **Balai Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)** [`31_PERGURUAN_PELAYARAN_CANGHAI.md`]: Perguruan / Sekte Spesialis kemudi kapal terbang laut, pemetaan arus angin, dan teknik pertempuran laut-udara.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Pelabuhan Haibin yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Pelayaran.

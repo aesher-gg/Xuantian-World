@@ -76,3 +76,4 @@ Menara kristal melayang setinggi 200 meter tempat pemetaan arus angin, rasi bint
 1. **Serikat Airship Tiangong (Tiangong Airship Union)** [`12_CROSS_REGION_ORGANIZATIONS.md`]: Organisasi penerbangan lintas wilayah terbesar.
 2. **Perguruan Formasi Tiangong (Tiangong Array Pavilion / 天宫阵法阁)** [`26_PERGURUAN_FORMASI_TIANGONG.md`]: Perguruan / Sekte Spesialis piringan formasi portabel, barrier ruang, dan kristal levitasi.
 3. **Perguruan Kemudi Udara Tiangong (Tiangong Feihang Guild / 天宫飞航阁)** [`27_PERGURUAN_KEMUDI_TIANGONG.md`]: Perguruan Spesialis melatih pilot profesional, navigasi badai, dan taktik pertempuran udara.
+4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Benteng Melayang Tiangong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Airship.

@@ -86,3 +86,4 @@ Jaringan gua di bawah Kawah Shendu yang berisikan sungai lava pekat. Tempat pela
 1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`35_CHIYAN_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Api Purba dan teknik pengontrolan Lava.
 2. **Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)** [`22_DANHUANG_ALCHEMIST_SECT.md`]: Sekte Utama Alkimia terkemuka penguasa resep Pill Breakthrough.
 3. **Perguruan Penempa Besi Shendu (Shendu Forging Academy / 神都锻造学院)** [`24_PERGURUAN_PENEMPA_SHENDU.md`]: Perguruan Spesialis yang melatih seni peleburan logam spirit, meteorit api, dan penempaan jiwa.
+4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shendu yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Lava Kawah.

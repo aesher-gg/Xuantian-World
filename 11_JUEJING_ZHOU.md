@@ -75,3 +75,4 @@ Situs reruntuhan istana purba yang dipenuhi prasasti bertuliskan bahasa kuno. Te
 
 1. **Garnisun Pelindung Juejing (Juejing Guardian Alliance / 绝境守护者联盟)**: Pasukan benteng gabungan veteran dari seluruh 10 Wilayah untuk menjaga stabilitas perbatasan.
 2. **Perguruan Eksplorasi Juejing (Juejing Ancient Exploration Academy / 绝境古阵堂)** [`33_PERGURUAN_EKSPLORASI_JUEJING.md`]: Perguruan / Sekte Spesialis riset formasi purba, pendeteksian anomali ruang, dan ekstraksi kristal ruang.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Pos Depan Juejing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Anomali Ruang.

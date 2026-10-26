@@ -13,6 +13,8 @@ Perguruan Pengamat Bintang Rimba didirikan di puncak dahan tertinggi Kota Shenmu
 
 Prinsip Utama: *"Bintang di langit menuntun akar di bumi. Memahami waktu alam adalah awal dari harmoni kultivasi."*
 
+* **Layanan Lintas Guild:** Menyediakan laporan kalender musim mekar herbal dan prediksi badai Qi bagi Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`).
+
 ---
 
 ## 2. Struktur Pengajar & Tokoh Utama

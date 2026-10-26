@@ -86,3 +86,4 @@ Ngarai terisolasi di mana bambu-bambu batu tumbuh sekeras pedang besi. Ngarai in
 
 1. **Paviliun Pedang Canglong (Canglong Sword Pavilion / 苍龙剑阁)** [`23_CANGLONG_SWORD_PAVILION.md`]: Sekte Utama penguasa Puncak Canglong dengan spesialisasi Seni Pedang Naga dan Pedang Terbang.
 2. **Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy / 青风剑意学院)** [`28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`]: Perguruan Spesialis yang melatih keheningan pikiran, manipulasi Qi Angin, dan integrasi Niat Pedang (*Sword Intent*).
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Canglong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Tebing Pedang.

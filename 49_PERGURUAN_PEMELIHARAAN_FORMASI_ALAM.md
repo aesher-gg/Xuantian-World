@@ -13,6 +13,8 @@ Perguruan Pemeliharaan Formasi Alam didirikan di pintu masuk Hutan Purba Wansen 
 
 Prinsip Utama: *"Formasi adalah perisai alam. Menjaga pilar tetap kokoh adalah mencegah bencana meluap."*
 
+* **Layanan Lintas Guild:** Mengeluarkan Misi Perbaikan Pilar Formasi Lapangan melalui Papan Misi Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`).
+
 ---
 
 ## 2. Struktur Pengajar & Tokoh Utama

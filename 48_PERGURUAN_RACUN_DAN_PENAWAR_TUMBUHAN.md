@@ -13,6 +13,8 @@ Perguruan Racun dan Penawar Tumbuhan didirikan di Kota Kecil Lumu oleh **Master 
 
 Prinsip Utama: *"Tumbuhan membunuh dengan racun, namun menyembuhkan dengan penawar dari akar yang sama."*
 
+* **Layanan Lintas Guild:** Pemasok pil penawar racun spora & salep antidot biologis untuk tim pengembara Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`).
+
 ---
 
 ## 2. Struktur Pengajar & Tokoh Utama
