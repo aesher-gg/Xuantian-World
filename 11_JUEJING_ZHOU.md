@@ -2,7 +2,7 @@
 
 > **Modul:** 11 — Juejing Zhou
 > **Tema:** Forbidden Zone / High-Risk High-Reward / Spirit Beast Kuno Purba / Anomali Ruang & Formasi Purba Liar
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `18_BESTIARY.md`, `33_PERGURUAN_EKSPLORASI_JUEJING.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `18_BESTIARY.md`, `40_PERGURUAN_EKSPLORASI_JUEJING.md`, `INDEX.md`
 
 ---
 
@@ -71,8 +71,60 @@ Situs reruntuhan istana purba yang dipenuhi prasasti bertuliskan bahasa kuno. Te
 
 ---
 
+### 2.5 Ngarai Kristal Ruang Purba (古空晶峡 - Ancient Space Crystal Canyon) 🆕
+Ngarai terisolasi di dalam zona tengah Juejing Zhou tempat fluktuasi retakan ruang mengendapkan Kristal Ruang Purba murni. Ruang di dalam ngarai ini terlipat secara dinamis, memerlukan jimat penstabil ruang untuk penambangan yang aman.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Penambangan Kristal Ruang, Vena Kristal Ruang, Dinding Ruang Terlipat, Gua Pelindung Angin Ruang.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Master Lie** | Ketua Penambang Kristal Ruang | 110 | *Tongtian Jing*, Awal | **312.500** | *Pukulan Palu Penembus Ruang* — Membongkar kristal ruang tanpa memicu ledakan anomali | Berani, tenang di bawah ancaman retakan ruang, sangat berpengalaman |
+| **Penyelia Meng** | Ahli Penstabil Ruang Perguruan Eksplorasi | 52 | *Xuantian Jing*, Puncak | **125.000** | *Formasi Anchor Penstabil Ruang* — Mencegah lipatan ruang mengunci penambang | Teliti, waspada, selalu membawa piringan anchor penstabil ruang |
+
+* **Konflik Regional & Misi Lokal:** Terlipatnya lorong ngarai akibat badai anomali ruang yang mengurung tim penambang.
+
+---
+
+### 2.6 Kamp Penjelajah Karavan Veteran (老兵探索营 - Veteran Explorer Camp) 🆕
+Pos benteng depan di antara Jurang Petir Tanah dan Lembah Retakan Ruang. Tempat istirahat, perdagangan artefak galian purba, dan perekrutan pemandu veteran bagi tim ekspedisi tingkat tinggi.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Pos Komando Veteran, Pasar Salvage Artefak Purba, Kedai Minuman Spirit Tahan Dingin.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kapten Veteran Yan** | Komandan Kamp Karavan Veteran | 68 | *Xuantian Jing*, Puncak | **125.000** | *Tebasan Perisai Baja Purba* — Menahan amukan binatang kuno Tier 4–5 | Disiplin, jujur, sangat berpengalaman dalam taktik survival zona merah |
+| **Pakar Salvage Old Bai** | Penaksir Artefak Galian Purba | 75 | *Lingyi Jing*, Puncak | **25.000** | *Deteksi Qi Artefak Purba* — Mengidentifikasi kegunaan artefak lapuk purba | Ramah, cerdik, menguasai sejarah artefak dari Bencana Retakan Ruang |
+
+* **Konflik Regional & Misi Lokal:** Misi evakuasi tim peneliti yang terjebak di zona badai petir tanah.
+
+---
+
 ## 3. Sekte & Garnisun di Juejing Zhou
 
 1. **Garnisun Pelindung Juejing (Juejing Guardian Alliance / 绝境守护者联盟)**: Pasukan benteng gabungan veteran dari seluruh 10 Wilayah untuk menjaga stabilitas perbatasan.
-2. **Perguruan Eksplorasi Juejing (Juejing Ancient Exploration Academy / 绝境古阵堂)** [`33_PERGURUAN_EKSPLORASI_JUEJING.md`]: Perguruan / Sekte Spesialis riset formasi purba, pendeteksian anomali ruang, dan ekstraksi kristal ruang.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Pos Depan Juejing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Anomali Ruang.
+2. **Perguruan Eksplorasi Juejing (Juejing Ancient Exploration Academy / 绝境古阵学院)** [`40_PERGURUAN_EKSPLORASI_JUEJING.md`]: Perguruan / Sekte Spesialis riset formasi purba, pendeteksian anomali ruang, dan ekstraksi kristal ruang.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Pos Depan Juejing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Anomali Ruang.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Juejing Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Pos Depan Juejing (Hanya di dalam tembok benteng). |
+| **Zona Kuning** | Sedang | Kamp Penjelajah Karavan Veteran. |
+| **Zona Oranye** | Tinggi | Reruntuhan Medan Perang Purba, Jurang Anomali Petir Tanah. |
+| **Zona Merah** | Sangat Tinggi | Lembah Retakan Ruang & Ngarai Kristal Ruang Purba. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Pos Depan Juejing** | Seluruh Wilayah | Benteng pertahanan utama, markas garnisun & gerbang masuk. |
+| **Lembah Retakan Ruang** | Pos Depan Juejing | Situs anomali ruang utama & perburuan bangkai Beast Kuno. |
+| **Jurang Anomali Petir** | Perguruan Eksplorasi | Sumber Batu Petir Purba Grade 8 & habitat Chimera Batu. |
+| **Reruntuhan Medan Perang** | Pos Depan Juejing | Perburuan artefak kuno lapuk, prasasti & naskah jurus. |
+| **Ngarai Kristal Ruang 🆕** | Perguruan Eksplorasi | Tambang Kristal Ruang Purba untuk mesin levitasi & formasi. |
+| **Kamp Penjelajah Veteran 🆕** | Pos Depan Juejing | Pos depan ekspedisi, tempat istirahat & pasar salvage purba. |

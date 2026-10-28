@@ -2,7 +2,7 @@
 
 > **Modul:** 09 — Youming Zhou
 > **Tema:** Qi Bayangan & Kegelapan / Sekte Iblis / Racun Alkimia Toksik / Formasi Jebakan Bayangan / Pembunuhan Sunyi
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `30_PERGURUAN_RACUN_YOUMING.md`, `39_YOUMING_DEMONIC_PALACE.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `27_YOUMING_DEMONIC_PALACE.md`, `37_PERGURUAN_RACUN_YOUMING.md`, `INDEX.md`
 
 ---
 
@@ -62,7 +62,7 @@ Bukit batu hitam berbentuk tengkorak raksasa bekas situs pertempuran kuno. Di bu
 
 ---
 
-### 2.4 Lembah Kabut Kelam ( 幽雾谷 - Dark-Mist Valley)
+### 2.4 Lembah Kabut Kelam (幽雾谷 - Dark-Mist Valley)
 Lembah terisolasi yang dipenuhi sarang *Laba-laba Bayangan Malam (Tier 2)* dan tempat pengambilan *Sutra Bayangan Spirit*.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -71,8 +71,60 @@ Lembah terisolasi yang dipenuhi sarang *Laba-laba Bayangan Malam (Tier 2)* dan t
 
 ---
 
+### 2.5 Pasar Malam Bayangan Jiwa (鬼市暗集 - Ghost Night Market) 🆕
+Pasar gelap bawah tanah di dalam Bukit Tengkorak Hitam yang hanya buka saat bulan mati. Pusat lelang resep racun terlarang, perdagangan senjata tersembunyi, dan penjualan informasi pembunuhan sunyi.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Pasar gelap rahasia, Lorong Pasar Gelap, Balai Transaksi Tanpa Nama, Rumah Lelang Racun Rahasia.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Manajer Shadow Han** | Kepala Pengelola Pasar Gelap | 62 | *Xuantian Jing*, Puncak | **125.000** | *Sembunyi Bayangan Tanpa Jejak* — Menghilang dari pandangan musuh | Cerdas, berwibawa di dunia bawah, sangat mematuhi kerahasiaan klien |
+| **Penilai Racun Old Ghost** | Pakar Penaksir Racun Terlarang | 85 | *Lingyi Jing*, Puncak | **25.000** | *Mata Taksir Racun Bayangan* — Mengetahui jenis & daya bunuh racun secara instan | Eksentrik, pendiam, tidak pernah salah menilai purity racun |
+
+* **Konflik Regional & Misi Lokal:** Perebutan gulungan resep Racun Jiwa Purba yang hilang dari lelang rahasia.
+
+---
+
+### 2.6 Perkampungan Perajin Jarum Racun Rahasia (暗针毒器寨 - Poison Needle Artifact Village) 🆕
+Desa tersembunyi yang dipahat pada stalaktit gua di atas Lembah Kabut Kelam. Para perajin menguasai teknik pembuatan jarum mikro (*Micro-Needles*), sumpit peniup racun, dan jebakan berpelumas bisa ular.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Pembuatan jarum racun rahasia, Bengkel Jarum Halus, Kolam Perendam Bisul Ular, Gua Uji Coba Racun.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Master Jarum Zhen** | Ketua Perajin Jarum Rahasia | 74 | *Faxiang Jing*, Awal | **1.562.500** | *Tembakan Seribu Jarum Bayangan* — Menembakkan jarum beracun melumpuhkan 10 target | Lincah, tajam mata, sangat bangga akan kepresisian tembakan jarumnya |
+| **Peracik Xiao Venom** | Ahli Pelapis Bisa Ular Rawa | 20 | *Ningyuan Jing*, Puncak | **5.000** | *Olesan Bisul Ular Racun* — Melapisi bilah jarum dengan efek racun pembakar HP | Lincah, dingin, selalu memakai sarung tangan pelindung racun |
+
+* **Konflik Regional & Misi Lokal:** Pencurian berton-ton racun ular oleh kelompok tentara bayaran luar.
+
+---
+
 ## 3. Sekte & Perguruan di Youming Zhou
 
-1. **Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)** [`39_YOUMING_DEMONIC_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Bayangan, Api Hitam, dan Seni Pertempuran Gelap.
-2. **Perguruan Racun Youming (Youming Poison Academy / 幽冥毒影宗)** [`30_PERGURUAN_RACUN_YOUMING.md`]: Perguruan Spesialis alkimia toksik, formulasi racun pelumpuh Qi, jarum rahasia, dan formasi bayangan.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Heian (Pasar Gelap) yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Rawa Racun.
+1. **Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)** [`27_YOUMING_DEMONIC_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Bayangan, Api Hitam, dan Seni Pertempuran Gelap.
+2. **Perguruan Racun Youming (Youming Poison Academy / 幽冥毒影学院)** [`37_PERGURUAN_RACUN_YOUMING.md`]: Perguruan Spesialis alkimia toksik, formulasi racun pelumpuh Qi, jarum rahasia, dan formasi bayangan.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Heian (Pasar Gelap) yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Rawa Racun.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Youming Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Kota Heian (Pasar Terang), Perkampungan Jarum Racun Rahasia. |
+| **Zona Kuning** | Sedang | Lembah Kabut Kelam, Pasar Malam Bayangan Jiwa. |
+| **Zona Oranye** | Tinggi | Bukit Tengkorak Hitam, Rawa Racun Duwu. |
+| **Zona Merah** | Sangat Tinggi | Pusat Rawa Racun Kabut Hitam & Sarang Kutu Iblis. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Kota Heian** | Seluruh Wilayah | Pusat politik pasar gelap, markas Istana Youming & balai lelang. |
+| **Rawa Racun Duwu** | Kota Heian | Habitat utama tanaman racun, cacing spirit & latihan keberanian. |
+| **Bukit Tengkorak Hitam** | Kota Heian | Bukit gua bayangan, lokasi latihan pembunuhan sunyi & pasar malam. |
+| **Lembah Kabut Kelam** | Perguruan Youming | Lembah laba-laba bayangan & panen Sutra Bayangan Spirit. |
+| **Pasar Malam Bayangan 🆕** | Bukit Tengkorak Hitam | Pasar transaksi senjata terlarang, resep racun & informasi rahasia. |
+| **Perkampungan Jarum Racun 🆕** | Lembah Kabut Kelam | Pusat manufaktur jarum mikro beracun & jebakan sumpit bayangan. |

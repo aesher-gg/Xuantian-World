@@ -2,7 +2,7 @@
 
 > **Modul:** 05 — Chiyan Zhou
 > **Tema:** Qi Api & Lava / Gunung Berapi / Penempaan Senjata Spirit / Alkimia Suhu Tinggi
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `22_DANHUANG_ALCHEMIST_SECT.md`, `24_PERGURUAN_PENEMPA_SHENDU.md`, `35_CHIYAN_PALACE.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `20_DANHUANG_ALCHEMIST_SECT.md`, `23_CHIYAN_PALACE.md`, `31_PERGURUAN_PENEMPA_SHENDU.md`, `INDEX.md`
 
 ---
 
@@ -81,9 +81,62 @@ Jaringan gua di bawah Kawah Shendu yang berisikan sungai lava pekat. Tempat pela
 
 ---
 
+### 2.6 Kawah Kristal Api Purba (古炎晶火口 - Ancient Flame Crystal Crater) 🆕
+Kawah gunung berapi aktif di dataran tinggi barat Chiyan Zhou. Dinding-dinding dalam kawah ini ditumbuhi lapisan Kristal Api Purba (*Flame Crystals*) berpendar merah yang menjadi bahan utama pembuatan kristal array pelindung dan senjata elemen api.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Penambangan Kristal Api, Dinding Kristal Api, Altar Pengembun Qi Bara, Danau Magma Murni.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Penambang Kristal Yan** | Kepala Ekspedisi Kristal Api | 58 | *Xuantian Jing*, Puncak | **125.000** | *Pukulan Linggis Tahan Lava* — Membongkar kristal api tanpa retak | Tangguh, berani, hafal waktu aktivitas hembusan magma kawah |
+| **Alkemis Bunga Api Chi** | Pengumpul Bunga Bara Spirit | 34 | *Lingyi Jing*, Puncak | **25.000** | *Mantra Pelindung Kulit Panas* — Menahan gelombang radiasi panas kawah | Teliti, pendiam, mencari bahan tanaman khusus pemurnian pil |
+
+* **Konflik Regional & Misi Lokal:** Erupsi mendadak yang memicu munculnya Salamander Magma Raksasa di dasar kawah.
+
+---
+
+### 2.7 Perkampungan Pembuat Kuali Spirit (灵鼎铸造村 - Spirit Cauldron Foundry Village) 🆕
+Desa spesialis penempaan kuali alkimia di dekat sumber air panas selatan Puncak Danhuang. Desa ini memproduksi Kuali Alkimia (*Spirit Cauldrons*) berbagai Grade dari bahan paduan logam tahan panas dan ukiran rune api.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Penempaan Kuali Alkimia, Bengkel Cetak Kuali Spirit, Kolam Pendingin Air Es Spirit, Gedung Penilaian Kuali Danhuang.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Master Pembuat Kuali Ding** | Ketua Perajin Kuali Spirit | 82 | *Faxiang Jing*, Awal | **1.562.500** | *Inskripsi Rune Api Kuali* — Meningkatkan Purity hasil alkimia kuali +15% | Perfeksionis, sangat membanggakan standar kualitas kuali hasil buatannya |
+| **Penguji Kuali Mei** | Penilai Mutu Kuali Spirit | 29 | *Lingyi Jing*, Menengah | **18.750** | *Deteksi Cacat Logam Spirit* — Menemukan titik retak halus pada kuali | Cerdas, tegas, tidak mengizinkan kuali cacat keluar dari desa |
+
+* **Konflik Regional & Misi Lokal:** Pencurian cetakan Kuali Spirit Grade High oleh kelompok perampok dari perbatasan Youming Zhou.
+
+---
+
 ## 3. Sekte & Perguruan di Chiyan Zhou
 
-1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`35_CHIYAN_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Api Purba dan teknik pengontrolan Lava.
-2. **Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)** [`22_DANHUANG_ALCHEMIST_SECT.md`]: Sekte Utama Alkimia terkemuka penguasa resep Pill Breakthrough.
-3. **Perguruan Penempa Besi Shendu (Shendu Forging Academy / 神都锻造学院)** [`24_PERGURUAN_PENEMPA_SHENDU.md`]: Perguruan Spesialis yang melatih seni peleburan logam spirit, meteorit api, dan penempaan jiwa.
-4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shendu yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Lava Kawah.
+1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`23_CHIYAN_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Api Purba dan teknik pengontrolan Lava.
+2. **Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)** [`20_DANHUANG_ALCHEMIST_SECT.md`]: Sekte Utama Alkimia terkemuka penguasa resep Pill Breakthrough.
+3. **Perguruan Penempa Besi Shendu (Shendu Forging Academy / 神都锻造学院)** [`31_PERGURUAN_PENEMPA_SHENDU.md`]: Perguruan Spesialis yang melatih seni peleburan logam spirit, meteorit api, dan penempaan jiwa.
+4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shendu yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Lava Kawah.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Chiyan Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Kota Shendu, Desa Chishui, Perkampungan Pembuat Kuali Spirit. |
+| **Zona Kuning** | Sedang | Puncak Danhuang, Kawah Kristal Api Purba. |
+| **Zona Oranye** | Tinggi | Lembah Meteorit Merah, Gua Lava Hitam. |
+| **Zona Merah** | Sangat Tinggi | Kedalaman Kawah Lava Shendu & Danau Magma Murni. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Kota Shendu** | Seluruh Wilayah | Pusat politik, benteng besi hitam & markas Perguruan Shendu. |
+| **Desa Chishui** | Kota Shendu | Pemukiman pengeringan bahan obat tahan api & pemandian panas. |
+| **Puncak Danhuang** | Kota Shendu, Beihan Zhou | Markas Sekte Danhuang & produsen Pill Breakthrough utama. |
+| **Lembah Meteorit Merah** | Perguruan Shendu | Tambang logam meteorit api & perburuan Salamander Api. |
+| **Gua Lava Hitam** | Kota Shendu | Pelatihan raga ketahanan panas ekstrem & sungai lava. |
+| **Kawah Kristal Api Purba 🆕** | Kota Shendu, Sekte Danhuang | Sumber bahan Kristal Api Purba & pelindung array termal. |
+| **Perkampungan Kuali Spirit 🆕** | Puncak Danhuang, Shendu | Manufaktur kuali alkimia & pengujian rune pelindung kuali. |

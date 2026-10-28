@@ -2,7 +2,7 @@
 
 > **Modul:** 06 — Canghai Zhou
 > **Tema:** Qi Air & Es / Kepulauan Spirit / Kapal Terbang Laut / Spirit Beast Aquatic & Navigasi
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `31_PERGURUAN_PELAYARAN_CANGHAI.md`, `36_JADE_OCEAN_PALACE.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `24_JADE_OCEAN_PALACE.md`, `38_PERGURUAN_PELAYARAN_CANGHAI.md`, `INDEX.md`
 
 ---
 
@@ -81,8 +81,61 @@ Benteng es raksasa hasil pembekuan tsunami purba 5.000 tahun lalu. Tembok es ini
 
 ---
 
+### 2.6 Pulau Terumbu Karang Giok (翡翠珊瑚岛 - Emerald Coral Island) 🆕
+Pulau tropis bercahaya yang dikelilingi oleh gugusan terumbu karang berwarna hijau giok. Terkenal sebagai lokasi budidaya Mutiara Spirit Elemen Air dan tempat pemanenan Rumput Laut Penyegar Stamina Bawah Air.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Budidaya Mutiara Spirit, Terumbu Karang Giok, Gua Air Spirit Bawah Laut, Pasar Mutiara Laut Hijau.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Ketua Nelayan Lin** | Kepala Desa Terumbu Karang Giok | 62 | *Xuantian Jing*, Awal | **62.500** | *Jaring Qi Pelindung Karang* — Menjaga terumbu karang dari gelombang ganas | Pengayom warga, sangat paham ekosistem biota laut giok |
+| **Penyelam Karang Ah Mei** | Ahli Pemungut Rumput Laut Spirit | 21 | *Ningyuan Jing*, Puncak | **5.000** | *Renangan Lumba-Lumba Spirit* — Bergerak sangat lincah di dalam terumbu karang | Ceria, ramah, pandai berkomunikasi dengan binatang laut kecil |
+
+* **Konflik Regional & Misi Lokal:** Serangan kawanan Kepiting Batu Cangkang Besi yang merusak ladang terumbu karang budidaya.
+
+---
+
+### 2.7 Galangan Kapal Spirit Bintang Laut (星海船坞 - Starsea Spirit Shipyard) 🆕
+Dermaga apung raksasa di antara tiga pulau pelindung. Tempat para master pembuat kapal membangun Perahu Spirit Laju dan Kapal Terbang Laut berlapis zirah besi kayu bersimbol rune penolak air.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Konstruksi kapal spirit, Galangan Kapal Terbang Laut, Bengkel Inskripsi Rune Air, Dermaga Uji Coba Kecepatan.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Master Galangan Zhao** | Ketua Perajin Kapal Spirit | 75 | *Faxiang Jing*, Awal | **1.562.500** | *Inskripsi Rune Air Pembelah Gelombang* — Membuat lambung kapal tahan benturan | Berwibawa, perfeksionis, sangat membanggakan armada buatannya |
+| **Pengukir Rune Qi'er** | Ahli Inskripsi Rune Navigasi | 26 | *Lingyi Jing*, Puncak | **25.000** | *Goresan Rune Angin Pelayar* — Meningkatkan kecepatan kapal terbang +25% | Tekun, teliti, menguasai ilmu aerodinamika & gelombang air |
+
+* **Konflik Regional & Misi Lokal:** Sabotase mesin kapal terbang laut prototipe oleh kelompok bajak laut perbatasan.
+
+---
+
 ## 3. Sekte & Perguruan di Canghai Zhou
 
-1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`36_JADE_OCEAN_PALACE.md`]: Sekte Utama pelindung lautan dengan spesialisasi Akar Spiritual Air Purba, Manipulasi Gelombang, dan Es Samudra.
-2. **Balai Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)** [`31_PERGURUAN_PELAYARAN_CANGHAI.md`]: Perguruan / Sekte Spesialis kemudi kapal terbang laut, pemetaan arus angin, dan teknik pertempuran laut-udara.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Pelabuhan Haibin yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Pelayaran.
+1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`24_JADE_OCEAN_PALACE.md`]: Sekte Utama pelindung lautan dengan spesialisasi Akar Spiritual Air Purba, Manipulasi Gelombang, dan Es Samudra.
+2. **Balai Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)** [`38_PERGURUAN_PELAYARAN_CANGHAI.md`]: Perguruan / Sekte Spesialis kemudi kapal terbang laut, pemetaan arus angin, dan teknik pertempuran laut-udara.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Pelabuhan Haibin yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Pelayaran.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Canghai Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Kota Pelabuhan Haibin, Kepulauan Xingluo, Pulau Terumbu Karang Giok. |
+| **Zona Kuning** | Sedang | Galangan Kapal Bintang Laut, Kepulauan Mutiara Purba. |
+| **Zona Oranye** | Tinggi | Tembok Es Samudra, Palung Laut Bintang Giok (Atas). |
+| **Zona Merah** | Sangat Tinggi | Dasar Palung Laut Bintang Giok & Pusaran Air Maut Lingxiao. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Kota Pelabuhan Haibin** | Seluruh Wilayah | Pusat perdagangan, dermaga kapal terbang laut & markas pelaut. |
+| **Kepulauan Xingluo** | Pelabuhan Haibin | Pemukiman suku nelayan & lokasi perburuan Siput Mutiara. |
+| **Palung Laut Bintang Giok** | Istana Giok Laut | Lokasi eksplorasi bawah laut dalam, karang bintang & naga laut. |
+| **Kepulauan Mutiara Purba** | Istana Giok Laut | Markas Sekte Istana Giok Laut & panen Mutiara Hunyuan. |
+| **Tembok Es Samudra** | Pelabuhan Haibin | Benteng es pertahanan batas samudra dari monster laut dalam. |
+| **Pulau Terumbu Karang Giok 🆕** | Pelabuhan Haibin | Pusat budidaya Mutiara Spirit & tanaman obat laut. |
+| **Galangan Kapal Bintang Laut 🆕** | Pelabuhan Haibin, Tiangong Zhou | Manufaktur & perawatan kapal spirit serta airship laut. |
