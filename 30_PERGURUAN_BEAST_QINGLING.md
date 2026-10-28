@@ -1,6 +1,6 @@
 # 🐾 Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)
 
-> **Modul:** 21 — Perguruan Beast Qingling
+> **Modul:** 30 — Perguruan Beast Qingling
 > **Kategori:** Perguruan Spesialis Penjinakan, Pelatihan, & Komunikasi Spirit Beast (Shenmu Zhou)
 > **Afiliasi Induk:** Bermitra Erat dengan Sekte Induk Shenmu (`19_SHENMU_SECT.md`) & Serikat Penjinak Beast (`12_CROSS_REGION_ORGANIZATIONS.md`)
 > **Lokasi:** Desa Qingling & Pinggiran Hutan Purba Wansen, Shenmu Zhou (`02_SHENMU_ZHOU.md`)

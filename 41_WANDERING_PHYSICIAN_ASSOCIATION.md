@@ -1,6 +1,6 @@
 # ⚕️ Perhimpunan Tabib Pengembara (Wandering Physician Association / 游医同盟)
 
-> **Modul:** 40 — Wandering Physician Association
+> **Modul:** 41 — Wandering Physician Association
 > **Kategori:** Organisasi Lintas Wilayah, Spesialis Akupunktur Spirit, Pengobatan Dantian, & Diagnosa Qi Deviation
 > **Lokasi:** Balai Pengobatan Wan'an Kota Luoyang, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`) & Pos Medis di 10 Wilayah Utama
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `16_VITALITY_HUNGER_SYSTEM.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

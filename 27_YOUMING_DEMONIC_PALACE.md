@@ -1,6 +1,6 @@
 # 🖤 Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)
 
-> **Modul:** 39 — Youming Demonic Palace
+> **Modul:** 27 — Youming Demonic Palace
 > **Kategori:** Sekte Utama Iblis, Sihir Api Hitam, Pembunuhan Bayangan, & Racun (Youming Zhou)
 > **Lokasi:** Benteng Tengkorak Hitam & Kota Heian, Youming Zhou (`09_YOUMING_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `30_PERGURUAN_RACUN_YOUMING.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

@@ -1,6 +1,6 @@
 # 🏰 Sekte Pedang Kekaisaran Tianjing (Tianjing Imperial Sword Sect / 天京皇家剑宗)
 
-> **Modul:** 34 — Tianjing Sword Sect
+> **Modul:** 22 — Tianjing Sword Sect
 > **Kategori:** Sekte Utama Kekaisaran, Pengawal Dinasti, & Penegak Hukum (Zhonghua Zhou)
 > **Lokasi:** Benteng Marmer Sembilan Naga, Kota Tianjing, Zhonghua Zhou (`01_WORLD_OVERVIEW_AND_CAPITAL.md`, `03_ZHONGHUA_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

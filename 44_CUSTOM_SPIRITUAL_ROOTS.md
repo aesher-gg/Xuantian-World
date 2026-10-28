@@ -1,6 +1,6 @@
 # 📜 Akar Spiritual Kultivasi Kustom (Custom Laws)
 
-> **Modul:** 42 — Custom Laws
+> **Modul:** 44 — Custom Spiritual Roots
 > **Pengelola:** Admin Repo / Pemain (Direkam setelah disetujui)
 > **Rujukan:** `13_SPIRITUAL_ROOT_SYSTEM.md`, `INDEX.md`
 

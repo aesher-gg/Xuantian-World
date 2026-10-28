@@ -1,6 +1,6 @@
 # 🔮 Perguruan Formasi Tiangong (Tiangong Array Pavilion / 天宫阵法阁)
 
-> **Modul:** 26 — Perguruan Formasi Tiangong
+> **Modul:** 33 — Perguruan Formasi Tiangong
 > **Kategori:** Perguruan Spesialis Formasi, Levitasi Ruang, & Piringan Formasi Portabel (Tiangong Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Serikat Kapal Terbang Tiangong (`12_CROSS_REGION_ORGANIZATIONS.md`) & Guild Formasi & Jimat
 > **Lokasi:** Benteng Melayang Tiangong, Tiangong Zhou (`10_TIANGONG_ZHOU.md`)

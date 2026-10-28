@@ -1,6 +1,6 @@
 # 🎋 Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)
 
-> **Modul:** 45 — Tianzhu Sword Sect
+> **Modul:** 28 — Tianzhu Sword Sect
 > **Kategori:** Sekte Kuno Tersegel, Warisan Niat Pedang Kayu/Giok, & Reruntuhan Purba (Shenmu Zhou)
 > **Lokasi:** Hutan Bambu Giok (翠玉竹海 - Cuiyu Zhuhai), Shenmu Zhou (`02_SHENMU_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `02_SHENMU_ZHOU.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

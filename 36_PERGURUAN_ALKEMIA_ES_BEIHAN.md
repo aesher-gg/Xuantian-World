@@ -1,6 +1,6 @@
 # ❄️ Perguruan Alkimia Es Beihan (Beihan Frost Alchemist Academy / 北寒冰药谷)
 
-> **Modul:** 29 — Perguruan Alkimia Es Beihan
+> **Modul:** 36 — Perguruan Alkimia Es Beihan
 > **Kategori:** Perguruan Spesialis Alkimia Es, Ekstraksi Herbal Salju, & Pemulihan Dantian (Beihan Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Sekte Istana Salju Abadi (`38_HANBING_SNOW_PALACE.md`) & Grand Alchemist Guild
 > **Lokasi:** Lembah Xueyuan & Kota Hanbing, Beihan Zhou (`08_BEIHAN_ZHOU.md`)

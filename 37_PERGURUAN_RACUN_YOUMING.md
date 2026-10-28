@@ -1,6 +1,6 @@
 # 🐍 Perguruan Racun Youming (Youming Poison Academy / 幽冥毒影宗)
 
-> **Modul:** 30 — Perguruan Racun Youming
+> **Modul:** 37 — Perguruan Racun Youming
 > **Kategori:** Perguruan Spesialis Toksikologi, Pembuatan Jarum Beracun, & Antidot Rawa (Youming Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Sekte Api Iblis Youming (`39_YOUMING_DEMONIC_PALACE.md`)
 > **Lokasi:** Rawa Racun Duwu & Kota Heian, Youming Zhou (`09_YOUMING_ZHOU.md`)

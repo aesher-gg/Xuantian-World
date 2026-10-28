@@ -1,6 +1,6 @@
 # 🌿 Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)
 
-> **Modul:** 20 — Perguruan Berkebun Biyang
+> **Modul:** 29 — Perguruan Berkebun Biyang
 > **Kategori:** Perguruan Spesialis Berkebun, Pertanian Obat Spirit, & Nutrisi Tanah (Shenmu Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Sekte Induk Shenmu (`19_SHENMU_SECT.md`)
 > **Lokasi:** Lembah Biyang, Shenmu Zhou (`02_SHENMU_ZHOU.md`)

@@ -1,6 +1,6 @@
 # 🧭 Perguruan Kemudi Udara Tiangong (Tiangong Feihang Guild / 天宫飞航阁)
 
-> **Modul:** 27 — Perguruan Kemudi Tiangong
+> **Modul:** 34 — Perguruan Kemudi Tiangong
 > **Kategori:** Perguruan Spesialis Pelatihan Pilot, Navigasi Badai, & Taktik Pertempuran Udara (Tiangong Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Serikat Kapal Terbang Tiangong (`12_CROSS_REGION_ORGANIZATIONS.md`) & Galangan Shenhang
 > **Lokasi:** Benteng Melayang & Dermaga Levitasi Awan Tiangong, Tiangong Zhou (`10_TIANGONG_ZHOU.md`)

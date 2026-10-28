@@ -1,6 +1,6 @@
 # ⚔️ Teknik & Jurus Kustom (Custom Techniques)
 
-> **Modul:** 44 — Custom Techniques
+> **Modul:** 46 — Custom Techniques
 > **Pengelola:** Admin Repo / Pemain
 > **Rujukan:** `INDEX.md`
 

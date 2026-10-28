@@ -1,6 +1,6 @@
 # ⚓ Perguruan Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)
 
-> **Modul:** 31 — Perguruan Pelayaran Canghai
+> **Modul:** 38 — Perguruan Pelayaran Canghai
 > **Kategori:** Perguruan Spesialis Kemudi Laut, Navigasi Pusaran, & Taktik Meriam Spirit (Canghai Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Istana Kemurnian Giok Laut (`36_JADE_OCEAN_PALACE.md`)
 > **Lokasi:** Dermaga Utama Kota Pelabuhan Haibin, Canghai Zhou (`06_CANGHAI_ZHOU.md`)
