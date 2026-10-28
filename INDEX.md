@@ -15,7 +15,7 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 
 2. **Sesuai Lokasi Karakter Saat Ini:**
    - **Ibu Kota / General:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`
-   - **Shenmu Zhou (Kayu/Alam/Berkebun):** `02_SHENMU_ZHOU.md` (Kota Shenmu, Desa Qingling, Lembah Biyang, Hutan Purba Wansen, Dataran Abu Hijau, Hutan Bambu Giok)
+   - **Shenmu Zhou (Kayu/Alam/Berkebun):** `02_SHENMU_ZHOU.md` (Kota Shenmu, Desa Qingling, Lembah Biyang, Hutan Purba Wansen, Kerajaan Spirit Elf Wanling, Dataran Abu Hijau, Hutan Bambu Giok, Sanctum Pohon Leluhur Wansen, Lembah Embun Spirit, Rawa Spora Merah)
    - **Zhonghua Zhou (Dataran Tengah):** `03_ZHONGHUA_ZHOU.md` (Kota Tianjing, Kota Luoyang, Desa Xingcun, Lembah Medan Perang Kuno, Dataran Makam Kekaisaran)
    - **Canglong Zhou (Pegunungan Pedang):** `04_CANGLONG_ZHOU.md` (Kota Canglong, Desa Qingfeng, Lembah Pedang Berbisik, Puncak Tebasan Naga, Ngarai Bambu Pedang)
    - **Chiyan Zhou (Gunung Berapi/Forging):** `05_CHIYAN_ZHOU.md` (Kota Shendu, Desa Chishui, Puncak Danhuang, Lembah Meteorit Merah, Gua Lava Hitam)
@@ -42,7 +42,7 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 |---|---|---|---|
 | 00 | `00_CORE_RULES_AI_GM.md` | Aturan GM, Anti-Cheat, Status Response, Konsep Sekte vs Perguruan | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/00_CORE_RULES_AI_GM.md?v=2 |
 | 01 | `01_WORLD_OVERVIEW_AND_CAPITAL.md` | Geografi 10 Wilayah, Kecepatan Jalan Kaki & Terbang Realm 3+ | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/01_WORLD_OVERVIEW_AND_CAPITAL.md?v=2 |
-| 02 | `02_SHENMU_ZHOU.md` | Wilayah Utama Kayu/Alam 🌿 & Kebun Obat Spirit | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/02_SHENMU_ZHOU.md?v=2 |
+| 02 | `02_SHENMU_ZHOU.md` | Wilayah Utama Kayu/Alam 🌿, Kerajaan Elf Spirit Wanling & Kebun Obat Spirit | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/02_SHENMU_ZHOU.md?v=2 |
 | 03 | `03_ZHONGHUA_ZHOU.md` | Dataran Tengah & Pusat Kekaisaran | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/03_ZHONGHUA_ZHOU.md?v=2 |
 | 04 | `04_CANGLONG_ZHOU.md` | Pegunungan Azure Dragon & Sekte Pedang | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/04_CANGLONG_ZHOU.md?v=2 |
 | 05 | `05_CHIYAN_ZHOU.md` | Wilayah Gunung Berapi, Forging & Alkimia Api | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/05_CHIYAN_ZHOU.md?v=2 |

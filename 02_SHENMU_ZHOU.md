@@ -24,7 +24,7 @@
 Shenmu Zhou adalah wilayah paling hijau, subur, dan hidup di benua Xuantian World. Menurut legenda kuno yang terpahat pada Batu Prasasti Shenmu, wilayah ini terbentuk dari tumpahan tetesan darah dan napas kehidupan **Pohon Induk Shenmu Purba** yang ditanam oleh Dewa Primordial Hunyuan puluhan juta tahun lalu pada Era Fajar. Pohon megah ini memiliki ketinggian menembus awan (10.000 meter) dan akar spiritual yang membentang hingga ribuan li di bawah tanah, memasok energi Qi Kayu (*Wood Qi*) murni ke seluruh penjuru benua.
 
 ### Bencana Bunga Bangkai Purba (Ancient Corpse-Flower Calamity)
-Sekitar 8.000 tahun lalu, terjadi invasi spora Bunga Bangkai Purba dari perbatasan Youming Zhou yang menginfeksi sepertiga Hutan Purba Wansen. Bencana ini hampir mematikan pasokan Qi Kayu benua. Aliansi Sekte Induk Shenmu dan Suku Elf Spirit berjuang selama 100 tahun membakar spora tersebut dengan Formasi Api Spirit Shenmu, menciptakan **Dataran Abu Hijau (Green Ash Plains)** yang kini menjadi tanah paling subur untuk penanaman Ginseng Spirit 1.000 Tahun.
+Sekitar 8.000 tahun lalu, terjadi invasi spora Bunga Bangkai Purba dari perbatasan Youming Zhou yang menginfeksi sepertiga Hutan Purba Wansen. Bencana ini hampir mematikan pasokan Qi Kayu benua. Aliansi Sekte Induk Shenmu dan Kerajaan Spirit Elf Wanling berjuang selama 100 tahun membakar spora tersebut dengan Formasi Api Spirit Shenmu, menciptakan **Dataran Abu Hijau (Green Ash Plains)** yang kini menjadi tanah paling subur untuk penanaman Ginseng Spirit 1.000 Tahun.
 
 ### Mitos Sang Perajin Hijau (Green Artisan Legend)
 3.000 tahun lalu, **Grandmaster Alkemis Biyang** menemukan bahwa mengombinasikan Qi Kayu Shenmu dengan pupuk tanah kristal spirit dapat mempercepat masa tumbuh Ginseng Spirit hingga 10 kali lipat. Penemuan ini memicu berdirinya ribuan kebun obat spirit dan menjadikan Shenmu Zhou sebagai pemasok bahan baku obat nomor satu bagi seluruh Guild Alkemis di 10 Wilayah.
@@ -81,7 +81,7 @@ Lembah subur yang dilingkupi aliran sungai air spirit alami. Tempat berdirinya *
 ### 2.4 Hutan Purba Wansen (万森古林 - Wansen Ancient Forest)
 Hutan belantara raksasa yang membentang seluas 4 juta li². Hutan ini diselimuti kanopi pohon raksasa setinggi puluhan meter dan menyimpan benih obat purba serta habitat Spirit Beast Kayu Tier 1–9 dan wilayah pemukiman Ras Elf Spirit.
 
-* **Spesialisasi & Sub-lokasi Kunci:** Wilayah Kerajaan Elf Spirit, Pohon Leluhur Wansen, Persembunyian Spirit Beast Purba, Sarang Harimau Raja.
+* **Spesialisasi & Sub-lokasi Kunci:** Wilayah Kerajaan Elf Spirit Wanling, Sanctum Pohon Leluhur Wansen, Persembunyian Spirit Beast Purba, Sarang Harimau Raja.
 
 | NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
@@ -331,13 +331,126 @@ Desa konservasi lingkungan di hulu Sungai Seribu Akar. Bertanggung jawab menjaga
 
 ---
 
+### 2.19 Kerajaan Elf Spirit Wanling (万灵精皇国 - Wanling Spirit Elf Kingdom)
+Kerajaan megah berdaulat milik Ras Elf Spirit yang tersembunyi di kedalaman Hutan Purba Wansen. Berdiri megah secara memutar di atas dahan-dahan raksasa **Pohon Induk Wanling (Wanling World-Tree)** yang berusia 50.000 tahun. Bangsa Elf Spirit dikenal sebagai penjaga kesucian alam, master memanah Qi Kayu/Angin, dan pemelihara kebun benih obat langka yang tidak dapat tumbuh di tempat lain di dunia fana.
+
+* **Nama Resmi:** Kerajaan Spirit Elf Wanling (Wanling Spirit Elf Kingdom)
+* **Tema Visual & Budaya:** Arsitektur rumah pohon berpendar hijau giok, jembatan gantung dari sulur hidup, pakaian sutra daun spirit, musik seruling angin spiritual, keselarasan mutlak dengan binatang dan tumbuhan hutan.
+* **Ciri Khas Ras Elf Spirit:** Telinga runcing anggun, mata berwarna seperti kristal giok atau embun pagi, panjang umur (hingga 1.000 tahun), afinitas bawaan tinggi terhadap Qi Kayu dan Qi Angin.
+
+#### Struktur Empat Lapisan Area Utama Kerajaan Elf
+
+```
+[ LAPISAN IV · SANCTUM LELUHUR PURBA (远古祖灵圣境) ]
+  ├── Jantung Pohon Induk Wanling
+  ├── Telaga Air Spirit Hunyuan Purba
+  └── Altar Prasasti Perjanjian Fajar
+        ▲ (Segel Barrier Pelindung Jiwa)
+[ LAPISAN III · ISTANA POHON INDUK SHENLING (神灵母树皇宫) ]
+  ├── Singgasana Dahan Zamrud (Ratu Yueruo)
+  ├── Dewan Agung Tetua Druid Elf
+  └── Perpustakaan Kitab Botani Purba
+        ▲ (Akses Izin Kerajaan / Penjaga Emerald)
+[ LAPISAN II · TAMAN BUNGA KRISTAL SPIRIT (灵晶花苑) ]
+  ├── Pasar Embun & Benih Langka (Nidoria Plaza)
+  ├── Anjungan Peminum Teh Bunga Spirit
+  └── Laboratorium Ekstraksi Air Embun
+        ▲ (Buka untuk Tamu / Pedagang Terdaftar)
+[ LAPISAN I · GERBANG KANOPI HIJAU (翠冠之门) ]
+  ├── Jembatan Sulur Pelindung (Living Vine Bridge)
+  ├── Menara Pengintai Pemanah Angin
+  └── Pos Registrasi Izin Masuk
+```
+
+#### A. Area Kunci Lapisan I — Gerbang Kanopi Hijau (翠冠之门)
+1. **Jembatan Sulur Pelindung (Living Vine Bridge):** Jembatan gantung raksasa yang terbuat dari sulur akar purba yang dapat bergerak sendiri menolak penyusup bermaksud jahat.
+2. **Menara Pengintai Pemanah Angin (Wind-Rider Watchtowers):** Menara kayu yang menyatu dengan batang pohon, disiagakan oleh Pemanah Elf yang mengawasi perbatasan batas luar hutan.
+3. **Pos Registrasi Izin Masuk:** Tempat penyerahan surat rekomendasi atau token persahabatan bagi kultivator manusia yang ingin berdagang atau berkunjung.
+
+#### B. Area Kunci Lapisan II — Taman Bunga Kristal Spirit (灵晶花苑)
+1. **Pasar Embun & Benih Langka (Nidoria Plaza):** Pusat pertukaran barang tempat bangsa Elf menjual Embun Bunga Spirit, Benih Obat Grade High, dan jubah serat kayu kepada pembudidaya manusia yang berizin.
+2. **Anjungan Peminum Teh Bunga Spirit:** Tempat berkumpulnya para ulama dan pengembara Elf untuk menikmati teh kelopak bunga yang meningkatkan regenerasi Qi pasif.
+3. **Laboratorium Ekstraksi Air Embun:** Fasilitas pemurnian cairan embun spiritual untuk bahan dasar pembuatan pil alkimia kualitas puncak.
+
+#### C. Area Kunci Lapisan III — Istana Pohon Induk Shenling (神灵母树皇宫)
+1. **Singgasana Dahan Zamrud:** Balai audiensi Ratu Yueruo yang dipahat dari dahan hidup Pohon Induk Wanling tanpa merusak pohon tersebut.
+2. **Dewan Agung Tetua Druid Elf:** Tempat bertemunya 7 Tetua Agung Elf untuk membahas kebijakan perang, diplomasi wilayah, dan pelestarian hutan.
+3. **Perpustakaan Kitab Botani Purba:** Tempat penyimpanan ribuan gulungan kulit kayu kuno berisi catatan resep obat dan taktik penjinakan Spirit Beast yang sudah punah di luar hutan.
+
+#### D. Area Kunci Lapisan IV — Sanctum Leluhur Purba (远古祖灵圣境 - Tanah Terlarang)
+1. **Jantung Pohon Induk Wanling:** Inti energi spiritual tempat mengalirnya Qi Kayu paling pekat di seluruh Shenmu Zhou.
+2. **Telaga Air Spirit Hunyuan Purba:** Kolam ajaib yang sanggup menyembuhkan kerusakan Dantian dan racun jiwa jika mendapat izin dari Ratu Elf.
+3. **Altar Prasasti Perjanjian Fajar:** Batu peringatan ikrar persahabatan kuno antara Ras Elf Spirit dan Pendiri Sekte Induk Shenmu.
+
+#### Roster NPC Detail Kerajaan Elf Spirit Wanling
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Ratu Spirit Elf Yueruo** | Penguasa Kerajaan Spirit Elf Wanling | 280 | *Shenhuang Jing*, Awal | **7.812.500** | *Panah Spirit Awan Hijau Membusur* — Panah Qi Kayu penembus perisai ruang | Anggun, bijaksana, misterius,sangat melindungi rakyat dan integritas Hutan Wansen |
+| **Pangeran Qingxian** | Putra Mahkota & Komandan Pemanah Angin | 110 | *Xuantian Jing*, Puncak | **125.000** | *Serbuan Seribu Panah Daun Zamrud* — Hujan panah elemen Kayu/Angin | Gagah, tegas, cemas akan ekspansi manusia, namun menghormati pendekar berbudi |
+| **Tetua Agung Muze** | Ketua Dewan Druid Elf Spirit | 450 | *Faxiang Jing*, Puncak | **3.125.000** | *Hukum Akar Leluhur Wanling* — Mengikat musuh dengan akar purba raksasa | Sangat bijaksana, konservatif, ahli sihir kayu dan herbal purba |
+| **Jenderal Fengling** | Panglima Pengawal Emerald Guard | 210 | *Faxiang Jing*, Awal | **1.562.500** | *Tebasan Pedang Angin Spirit Wanling* — Tebasan cepat pemotong perisai fisik | Disiplin, stoik, berwibawa tinggi saat memimpin garis depan pertahanan |
+| **Tabib Spirit Linglan** | Kepala Alkemis & Tabib Kerajaan | 180 | *Tongtian Jing*, Menengah | **468.750** | *Sentuhan Embun Murni Penyembuh* — Memulihkan 80% HP & menghapus racun | Lembut, penyayang, teliti dalam meracik embun bunga spirit |
+| **Penjaga Sanctum Yehen** | Pelindung Altar Leluhur Purba | 350 | *Faxiang Jing*, Menengah | **2.343.750** | *Perisai Cahaya Spirit Wanling* — Menahan serangan sihir elemen | Pendiam, jarang berbicara, setia menjaga kesucian Sanctum Leluhur |
+| **Duta Besar Fey Yuehua** | Diplomat Elf untuk Sekte Luar | 95 | *Lingyi Jing*, Puncak | **25.000** | *Langkah Bisikan Daun* — Pergerakan stealth tanpa jejak suara | Cerdas, berwawasan luas, mahir berbahasa manusia dan negosiasi dagang |
+
+* **Konflik Regional & Misi Lokal:**
+  1. *Penyelundupan Anak Beast Purba:* Sindikat pemburu luar berhasil mencuri telur Burung Phoenix Spirit dari perbatasan utara kerajaan.
+  2. *Infeksi Spora Hitam Mitos:* Kebocoran spora hitam beracun dari Rawa Spora Merah yang mengancam kebersihan akar Pohon Induk Wanling.
+  3. *Ujian Kelayakan Tamu:* Player harus menyelesaikan misi kepercayaan Ratu Yueruo untuk mendapatkan Token Permata Zamrud yang memberi akses ke Lapisan III & IV.
+
+---
+
+### 2.20 Sanctum Pohon Leluhur Wansen (万森祖树圣境 - Wansen Ancestral Tree Sanctum)
+Jantung spiritual kuno Hutan Purba Wansen tempat tumbuhnya pohon induk generasi pertama yang menjadi sumber kehidupan seluruh flora di Shenmu Zhou. Wilayah ini diselimuti oleh konsentrasi Qi Kayu paling padat (*Wood Qi Modifier ×1.5*) dan dijaga oleh entitas roh purba.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Pusat konsentrasi Qi Kayu murni, Altar Akar Purba, Danau Embun Hunyuan, Hutan Purba Tanpa Bayangan, Ruang Meditasi Akar Leluhur.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Kesadaran Pohon Wansen** | Spirit Purba Pohon Leluhur | 50.000 | *Shenhuang Jing*, Puncak | **15.625.000** | *Kemurkaan Akar Hunyuan Purba* — Serangan akar massal penyerap Qi | Entitas tak berwujud, berkomunikasi via telepati, sangat menguji kesucian jiwa |
+| **Penjaga Beast Qinglin** | Spirit Beast Penjaga Sanctum | 800 | *Tongtian Jing*, Puncak | **625.000** | *Semburan Napas Giok Purba* — Menyembuhkan kawan / menghancurkan musuh | Setia, perkasa, hanya tunduk pada pencerahan Dao Kayu sejati |
+
+* **Konflik Regional & Misi Lokal:** Mendedikasikan meditasi Dao Kayu untuk menstabilkan simpul akar utama yang terganggu getaran seismik bawah tanah.
+
+---
+
+### 2.21 Lembah Embun Spirit (灵露谷 - Spirit Dew Valley)
+Lembah tersembunyi yang dilingkupi tebing giok hijau. Setiap subuh, penguapan Qi Kayu dari kanopi hutan mengembun menjadi **Embun Spirit Murni (Pure Spirit Dew)** yang menggenang di Telaga Embun Murni. Menjadi lokasi perburuan utama para tabib dan alkemis untuk mencari bahan pelarut obat kualitas puncak.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Panen Embun Spirit Murni, Telaga Embun Murni, Anjungan Penampung Qi, Kebun Bunga Embun Malam.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pertana Dewa Embun Lu** | Pertapa Pengumpul Embun | 110 | *Xuantian Jing*, Menengah | **93.750** | *Jurus Penampung Tetesan Embun* — Mengumpulkan 100 liter embun murni/jam | Tenang, menyukai kedamaian, sangat menghargai kebersihan air spirit |
+| **Pengumpul Xiao Rou** | Murid Junior Perguruan Biyang | 19 | *Ningyuan Jing*, Puncak | **5.000** | *Jaring Sutra Penjebak Embun* — Memanen embun tanpa merusak kelopak bunga | Rajin, ceria, selalu membawa botol-botol giok penampung embun |
+
+* **Konflik Regional & Misi Lokal:** Perebutan hak panen Embun Bunga Malam antara murid Perguruan Biyang dan kelompok alkemis bebas.
+
+---
+
+### 2.22 Rawa Spora Merah (红孢沼泽 - Red Spore Swamp) — Zona Merah
+Area rawa beracun di sebelah tenggara Hutan Purba Wansen. Terbentuk dari hasil mutasi tanaman obat akibat sisa pencemaran spora Bunga Bangkai Purba. Dipenuhi oleh jamur spora merah raksasa, gas beracun pembakar paru-paru, dan monster tumbuhan mutasi.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Bahan racun biologis, Rawa Spora Berdarah, Gua Jamur Merah Purba, Sarang Lintah Spirit Mutasi.
+
+| Monster / Anomali | Kategori / Peran | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Mekanik Pertarungan |
+|---|---|---|---|---|---|
+| **Raja Jamur Spora Merah** | Monster Tumbuhan Mutasi (Boss) | *Xuantian Jing*, Puncak | **125.000** | *Ledakan Spora Berdarah Massal* — Semburan racun pembakar Dantian | Menyebarkan awan racun merah seluas 50 meter & kebal efek pendarahan. |
+| **Peneliti Racun Mo Lin** | Ahli Botanis Racun Sanxiu | 64 | *Lingyi Jing*, Puncak | **25.000** | *Ekstrak Penawar Spora Merah* — Menetralkan racun spora selama 1 jam | Eksentrik, terobsesi pada racun tanaman, menjual penawar dengan harga mahal |
+
+* **Konflik Regional & Misi Lokal:** Misi pengumpulan sampel spora merah mutasi untuk pembuatan racun penembus zirah oleh Serikat Youxia Sanxiu.
+
+---
+
 ## 3. Sekte & Perguruan di Shenmu Zhou
 
 1. **Sekte Induk Shenmu (Shenmu Spirit Sect / 神木宗)** [`19_SHENMU_SECT.md`]: Sekte Utama pelindung Pohon Shenmu dan penguasa Akar Spiritual Kayu Abadi.
-2. **Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)** [`28_TIANZHU_SWORD_SECT.md`]: Sekte Kuno Tersegel di Hutan Bambu Giok, pemilik warisan Niat Pedang Bambu Langit & Formasi Tiga Nadi Giok.
-3. **Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)** [`29_PERGURUAN_BERKEBUN_BIYANG.md`]: Perguruan Spesialis teknik analisis tanah, benih obat, dan pupuk Qi Kayu.
-4. **Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)** [`30_PERGURUAN_BEAST_QINGLING.md`]: Perguruan Spesialis komunikasi empati, kontrak kesetaraan, dan taktik Spirit Beast.
-5. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shenmu & Desa Qingling yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Hutan.
+2. **Kerajaan Spirit Elf Wanling (Wanling Spirit Elf Kingdom / 万灵精皇国)**: Kerajaan berdaulat Ras Elf Spirit di kedalaman Hutan Wansen, pelindung Pohon Induk Wanling & sekutu kuno Sekte Induk Shenmu.
+3. **Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)** [`28_TIANZHU_SWORD_SECT.md`]: Sekte Kuno Tersegel di Hutan Bambu Giok, pemilik warisan Niat Pedang Bambu Langit & Formasi Tiga Nadi Giok.
+4. **Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)** [`29_PERGURUAN_BERKEBUN_BIYANG.md`]: Perguruan Spesialis teknik analisis tanah, benih obat, dan pupuk Qi Kayu.
+5. **Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)** [`30_PERGURUAN_BEAST_QINGLING.md`]: Perguruan Spesialis komunikasi empati, kontrak kesetaraan, dan taktik Spirit Beast.
+6. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shenmu & Desa Qingling yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Hutan.
 
 ---
 
@@ -362,6 +475,10 @@ Desa konservasi lingkungan di hulu Sungai Seribu Akar. Bertanggung jawab menjaga
 | **Kota Kecil Lumu** | Kota Shenmu, Hutan Purba Wansen | Pusat industri pengolahan kayu spiritual & perkakas. |
 | **Kota Kecil Qingshang** | Jalur Perdagangan Timur | Pusat produksi sutra spiritual & kain pelindung. |
 | **Pos Penjaga Wanmulin** | Hutan Purba Wansen | Pusat pendaftaran & koordinasi keselamatan ekspedisi. |
+| **Kerajaan Elf Spirit Wanling** | Hutan Wansen, Sekte Shenmu | Pusat peradaban Elf Spirit, pemuliaan benih purba & penjaga Pohon Wanling. |
+| **Sanctum Pohon Leluhur Wansen** | Kerajaan Elf, Hutan Wansen | Jantung pasokan Wood Qi regional & lokasi meditasi Dao Kayu murni. |
+| **Lembah Embun Spirit** | Lembah Biyang, Kota Shenmu | Pusat pemanenan Embun Spirit Murni untuk bahan pelarut alkimia. |
+| **Rawa Spora Merah** | Hutan Wansen (Tenggara) | Zona bahaya racun biologis & perburuan monster mutasi. |
 | **Lembah Bunga Mayat** | Hutan Purba Wansen (Terpencil) | Zona eksplorasi riset spora & racun biologis purba. |
 | **Jurang Guruh Hijau** | Dataran Abu Hijau (Utara) | Tambang mineral penghantar petir & kayu tersambar. |
 | **Taman Terlarang Seribu Benih** | Lembah Biyang & Hutan Purba | Situs riset bibit purba & arena konflik hak penelitian. |
