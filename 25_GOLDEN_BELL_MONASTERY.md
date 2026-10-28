@@ -1,6 +1,6 @@
 # 🔔 Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)
 
-> **Modul:** 37 — Golden Bell Monastery
+> **Modul:** 25 — Golden Bell Monastery
 > **Kategori:** Sekte Utama Kultivasi Raga Fisik, Pertahanan Emas, & Kebajikan Gurun (Xixuan Zhou)
 > **Lokasi:** Oasis Ganlu, Kota Huangsha, Xixuan Zhou (`07_XIXUAN_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `25_PERGURUAN_JIMAT_HUANGSHA.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

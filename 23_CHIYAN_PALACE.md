@@ -1,6 +1,6 @@
 # 🔥 Istana Api Chiyan (Chiyan Palace / 赤炎宫)
 
-> **Modul:** 35 — Chiyan Palace
+> **Modul:** 23 — Chiyan Palace
 > **Kategori:** Sekte Utama Penguasa Api, Manipulasi Lava, & Penempaan Raga (Chiyan Zhou)
 > **Lokasi:** Benteng Kawah Lava Shendu, Chiyan Zhou (`05_CHIYAN_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `22_DANHUANG_ALCHEMIST_SECT.md`, `24_PERGURUAN_PENEMPA_SHENDU.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

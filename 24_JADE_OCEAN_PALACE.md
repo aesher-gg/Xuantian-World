@@ -1,6 +1,6 @@
 # 🌊 Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)
 
-> **Modul:** 36 — Jade Ocean Palace
+> **Modul:** 24 — Jade Ocean Palace
 > **Kategori:** Sekte Utama Penguasa Lautan, Sihir Gelombang, & Es Samudra (Canghai Zhou)
 > **Lokasi:** Istana Kristal Bawah Laut & Kota Pelabuhan Haibin, Canghai Zhou (`06_CANGHAI_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `31_PERGURUAN_PELAYARAN_CANGHAI.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

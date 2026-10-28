@@ -1,6 +1,6 @@
 # 🔮 Xuantian World — Artefak Legendaris & Item Spesial (Special Items)
 
-> **Modul:** 51 — Special Items
+> **Modul:** 47 — Special Items
 > **Kategori:** Artefak Purba / Item Spesial Langka & Legendaris
 > **Pengelola:** Admin Repo / Pemain
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `INDEX.md`

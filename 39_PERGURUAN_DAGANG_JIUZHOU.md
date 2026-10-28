@@ -1,6 +1,6 @@
 # 💰 Perguruan Dagang Jiuzhou (Jiuzhou Merchant Academy / 九州商学院)
 
-> **Modul:** 32 — Perguruan Dagang Jiuzhou
+> **Modul:** 39 — Perguruan Dagang Jiuzhou
 > **Kategori:** Perguruan Spesialis Penaksiran Barang, Strategi Lelang, & Manajemen Keuangan (Zhonghua Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Rumah Lelang Wanbao (`12_CROSS_REGION_ORGANIZATIONS.md`)
 > **Lokasi:** Kota Luoyang & Kota Tianjing, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`)

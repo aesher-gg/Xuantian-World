@@ -1,6 +1,6 @@
 # 🧪 Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)
 
-> **Modul:** 22 — Danhuang Alchemist Sect
+> **Modul:** 20 — Danhuang Alchemist Sect
 > **Kategori:** Sekte Utama Alkimia & Pemurnian Pill Breakthrough (Chiyan Zhou)
 > **Lokasi:** Puncak Danhuang, Chiyan Zhou (`05_CHIYAN_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `16_VITALITY_HUNGER_SYSTEM.md`, `24_PERGURUAN_PENEMPA_SHENDU.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

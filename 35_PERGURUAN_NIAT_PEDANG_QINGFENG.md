@@ -1,6 +1,6 @@
 # 🍃 Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy / 青风剑意学院)
 
-> **Modul:** 28 — Perguruan Niat Pedang Qingfeng
+> **Modul:** 35 — Perguruan Niat Pedang Qingfeng
 > **Kategori:** Perguruan Spesialis Keheningan Batin, Niat Pedang (Sword Intent), & Tebasan Angin Cepat (Canglong Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Paviliun Pedang Canglong (`23_CANGLONG_SWORD_PAVILION.md`)
 > **Lokasi:** Desa Qingfeng & Lembah Pedang Berbisik, Canglong Zhou (`04_CANGLONG_ZHOU.md`)

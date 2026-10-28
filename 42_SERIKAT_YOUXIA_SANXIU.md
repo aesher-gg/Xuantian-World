@@ -1,6 +1,6 @@
 # 🌐 Serikat Youxia Sanxiu (散修游侠公会 - Sǎnxīu Yóuxiá Gōnghuì) — Guild Petualang Xianxia Lintas Wilayah
 
-> **Modul:** 52 — Serikat Youxia Sanxiu (Sanxiu Youxia Guild)
+> **Modul:** 42 — Serikat Youxia Sanxiu (Sanxiu Youxia Guild)
 > **Kategori:** Guild Petualang Lintas Wilayah, Organisasi Netral Sanxiu, Papan Misi Quest, & Origin Log System
 > **Lokasi:** Markas Pusat Benteng Perunggu Kota Tianjing, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`) & Pos Cabang di 10 Wilayah Utama
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `01_WORLD_OVERVIEW_AND_CAPITAL.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `18_BESTIARY.md`, `INDEX.md`

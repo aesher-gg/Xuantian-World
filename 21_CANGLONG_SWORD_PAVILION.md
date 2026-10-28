@@ -1,6 +1,6 @@
 # ⚔️ Paviliun Pedang Canglong (Canglong Sword Pavilion / 苍龙剑阁)
 
-> **Modul:** 23 — Canglong Sword Pavilion
+> **Modul:** 21 — Canglong Sword Pavilion
 > **Kategori:** Sekte Utama Seni Pedang, Pedang Terbang, & Niat Pedang (Canglong Zhou)
 > **Lokasi:** Puncak Canglong & Puncak Wanshou, Canglong Zhou (`04_CANGLONG_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

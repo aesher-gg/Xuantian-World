@@ -1,6 +1,6 @@
 # 📜 Perguruan Jimat Gurun Huangsha (Huangsha Talisman Academy / 黄沙符箓学院)
 
-> **Modul:** 25 — Perguruan Jimat Huangsha
+> **Modul:** 32 — Perguruan Jimat Huangsha
 > **Kategori:** Perguruan Spesialis Pembuatan Jimat, Inskripsi Rune, & Segel Pertahanan (Xixuan Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Kuil Lonceng Emas Gurun (`37_GOLDEN_BELL_MONASTERY.md`) & Guild Formasi & Jimat (`12_CROSS_REGION_ORGANIZATIONS.md`)
 > **Lokasi:** Kota Huangsha, Xixuan Zhou (`07_XIXUAN_ZHOU.md`)

@@ -1,6 +1,6 @@
 # ❄️ Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)
 
-> **Modul:** 38 — Hanbing Snow Palace
+> **Modul:** 26 — Hanbing Snow Palace
 > **Kategori:** Sekte Utama Pemurni Jiwa, Seni Pedang Es Purba, & Alkimia Es (Beihan Zhou)
 > **Lokasi:** Puncak Es Abadi & Gua Kristal Es, Kota Hanbing, Beihan Zhou (`08_BEIHAN_ZHOU.md`)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_COMBAT_SYSTEM.md`, `29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`

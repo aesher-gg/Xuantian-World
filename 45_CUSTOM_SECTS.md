@@ -1,6 +1,6 @@
 # 🏯 Sekte & Perguruan Kustom (Custom Sects)
 
-> **Modul:** 43 — Custom Sects
+> **Modul:** 45 — Custom Sects
 > **Pengelola:** Admin Repo / Pemain
 > **Rujukan:** `INDEX.md`
 
@@ -9,7 +9,7 @@
 ## 1. Daftar Sekte / Perguruan Kustom
 
 ### 1. Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)
-* **Modul:** `45_TIANZHU_SWORD_SECT.md`
+* **Modul:** `28_TIANZHU_SWORD_SECT.md`
 * **Kategori:** Sekte Kuno Tersegel / Reruntuhan Kuno
 * **Lokasi Utama:** Hutan Bambu Giok (翠玉竹海 - Cuiyu Zhuhai), Shenmu Zhou (`02_SHENMU_ZHOU.md`)
 * **Spesialisasi:** Seni Pedang Kayu/Giok, Formasi Tiga Nadi Giok, dan Warisan Niat Pedang Bambu Langit (*Tianzhu Sword Intent Law*).
@@ -18,7 +18,7 @@
 ---
 
 ### 2. Serikat Youxia Sanxiu (Sanxiu Youxia Guild / 散修游侠公会)
-* **Modul:** `52_SERIKAT_YOUXIA_SANXIU.md`
+* **Modul:** `42_SERIKAT_YOUXIA_SANXIU.md`
 * **Kategori:** Guild Petualang Lintas Wilayah / Organisasi Netral Sanxiu
 * **Lokasi Utama:** Kota Tianjing (Balai Pusat), Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`) & Cabang di 10 Wilayah Utama
 * **Spesialisasi:** Papan Misi Quest (Tier 1–9), Sistem Lisensi Pangkat Youxia, Balai Penukaran Loot & Origin Log, Layanan Informasi Rahasia, dan Tim Evakuasi Veteran.

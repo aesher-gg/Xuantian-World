@@ -1,6 +1,6 @@
 # 🔍 Perguruan Eksplorasi Juejing (Juejing Ancient Exploration Academy / 绝境古阵堂)
 
-> **Modul:** 33 — Perguruan Eksplorasi Juejing
+> **Modul:** 40 — Perguruan Eksplorasi Juejing
 > **Kategori:** Perguruan Spesialis Eksplorasi Terlarang, Dekoder Formasi Purba, & Navigasi Anomali Ruang (Juejing Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Garnisun Pelindung Juejing (`11_JUEJING_ZHOU.md`)
 > **Lokasi:** Pos Depan Juejing, Juejing Zhou (`11_JUEJING_ZHOU.md`)

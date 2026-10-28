@@ -1,6 +1,6 @@
 # ⚒️ Perguruan Penempa Besi Shendu (Shendu Forging Academy / 神都锻造学院)
 
-> **Modul:** 24 — Perguruan Penempa Shendu
+> **Modul:** 31 — Perguruan Penempa Shendu
 > **Kategori:** Perguruan Spesialis Penempaan, Peleburan Logam Spirit, & Ekstraksi Meteorit (Chiyan Zhou)
 > **Afiliasi Induk:** Mandiri / Bermitra Erat dengan Istana Api Chiyan (`35_CHIYAN_PALACE.md`) & Serikat Penempa Bintang (`12_CROSS_REGION_ORGANIZATIONS.md`)
 > **Lokasi:** Kawah Shendu, Chiyan Zhou (`05_CHIYAN_ZHOU.md`)

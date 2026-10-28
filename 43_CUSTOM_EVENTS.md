@@ -1,6 +1,6 @@
 # 🎭 Peristiwa Khusus & Event Dunia (Custom Events)
 
-> **Modul:** 41 — Custom Events
+> **Modul:** 43 — Custom Events
 > **Pengelola:** Admin Repo (Read-only bagi AI GM kecuali saat mengecek event aktif)
 > **Rujukan:** `00_CORE_RULES_AI_GM.md`, `INDEX.md`
 
