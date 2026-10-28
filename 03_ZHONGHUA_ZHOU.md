@@ -38,7 +38,7 @@ Pusat politik, ekonomi, dan kebudayaan seluruh Xuantian World. Kota ini dilindun
 | **Kaisar Xuantian Di-XVII** | Penguasa Kekaisaran Xuantian | 240 | *Shenhuang Jing*, Puncak | **15.625.000** | *Telapak Sembilan Naga Bintang* — Mampu menghancurkan tentara musuh | Karismatik, sangat bijaksana, berwibawa tinggi, penuh perhitungan |
 | **Jenderal Zhao Wu** | Komandan Pasukan Tianjing Guard & Tetua Sect | 85 | *Faxiang Jing*, Awal | **1.562.500** | *Tebasan Pedang Kekaisaran* — Menembus 30% Passive Defense musuh | Disiplin ketat, tegas pada pelanggar hukum kota, setia pada Kaisar |
 | **Master Huangfu Chen** | Sect Master Sekte Pedang Kekaisaran | 110 | *Faxiang Jing*, Puncak | **3.125.000** | *Seni Pedang Sembilan Naga Bintang* — Memanggil bayangan pedang naga kekaisaran | Berwibawa, anggun, memegang teguh martabat Kekaisaran |
-| **Nyonya Su Feng** | Pemilik Balai Lelang Wanbao Pusat | 48 | *Xuantian Jing*, Menengah | **93.750** | *Pesona Kipas Angin Bunga* — Melumpuhkan fokus musuh | Luas pergaulan, sangat mahir bernegosiasi, tahu banyak rahasia |
+| **Nyonya Su Feng** | Pemilik Balai Lelang Wanbao Pusat | 48 | *Xuantian Jing*, Menengah | **93.750** | *Pesona Kipas Angin Bunga* — Melumpuhkan fokus musuh | Luas pergaulan, sangat mahir bernegosiation, tahu banyak rahasia |
 
 ---
 
@@ -146,9 +146,62 @@ Lokasi eksplorasi tingkat lanjut di pinggiran Kota Luoyang. Kompleks pemakaman k
 
 ---
 
+### 2.6 Taman Bunga Terlarang Sembilan Naga (九龙御花园 - Nine Dragons Imperial Forbidden Garden) 🆕
+Taman botani istana kekaisaran tersembunyi yang dilingkupi dinding batu giok putih di dalam cincin dalam Kota Tianjing. Ditanami berbagai tanaman obat langka berusia ribuan tahun yang hanya diperuntukkan bagi keluarga kekaisaran dan pejabat tinggi istana. Ditenagai oleh pancaran Qi dari Formasi Bintang Sembilan Naga.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Bunga Ginseng Bintang Imperial, Paviliun Bunga Bintang, Danau Nadi Giok, Gua Meditasi Kaisar Purba.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Duke Qi** | Pengawas Taman Bunga Terlarang | 160 | *Faxiang Jing*, Menengah | **2.343.750** | *Telapak Bunga Giok Pelindung* — Membentuk perisai kelopak bunga menahan 70% damage | Anggun, sangat tenang, tegas terhadap penyusup yang mencoba mencuri tanaman istana |
+| **Tabib Imperial Lin** | Kepala Botanis Kekaisaran | 95 | *Xuantian Jing*, Puncak | **125.000** | *Pemurnian Bunga Nadi Bintang* — Mengesktrak essence bunga obat tanpa merusak akar | Teliti, pendiam, selalu membawa kuas giok pemupuk bunga |
+
+* **Konflik Regional & Misi Lokal:** Pencurian benih Bunga Bintang Imperial oleh kelompok mata-mata sesat sebelum ritual tahunan Kekaisaran.
+
+---
+
+### 2.7 Lembah Kertas & Kuas Kaligrafi Spirit (灵墨书香谷 - Spirit Ink & Calligraphy Valley) 🆕
+Lembah kebudayaan yang asri di sebelah selatan Kota Luoyang. Terkenal dengan para cendekiawan kultivator yang memproduksi Kertas Jimat Spirit Grade High, Tinta Nadi Bumi, dan Kuas Kaligrafi Penyalur Qi yang digunakan oleh para master jimat di seluruh benua.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Pembuatan kertas jimat spiritual, Balai Kaligrafi Spirit, Kilang Tinta Nadi Bumi, Perkebunan Bambu Kertas Spirit.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Master Kaligrafi Yan** | Cendekiawan Utama Lembah Kaligrafi | 88 | *Xuantian Jing*, Puncak | **125.000** | *Goresan Kuas Naga Melayang* — Membentuk inskripsi Qi di udara yang membekukan musuh | Bijaksana, ramah, mengagumi karya seni dan puisi kuno |
+| **Pengrajin Tinta Lu** | Master Racik Tinta Nadi Bumi | 52 | *Lingyi Jing*, Puncak | **25.000** | *Gumpalan Tinta Hitam Pelindung* — Menyembunyikan keberadaan dari deteksi Qi | Tekun, bertangan dingin, sangat menjaga rahasia formula tinta |
+
+* **Konflik Regional & Misi Lokal:** Kelangkaan pasokan Getah Bambu Spirit akibat serangan kawanan Serigala Batu Nadi Bumi di hutan perbatasan.
+
+---
+
 ## 3. Sekte & Perguruan di Zhonghua Zhou
 
-1. **Sekte Pedang Kekaisaran Tianjing (Tianjing Sword Sect)** [`34_TIANJING_SWORD_SECT.md`]: Sekte Utama pengawal dinasti dengan disiplin ketat dan teknik pedang lurus.
-2. **Perguruan Dagang Jiuzhou (Jiuzhou Merchant Academy)** [`32_PERGURUAN_DAGANG_JIUZHOU.md`]: Perguruan Spesialis yang melatih ahli taksiran barang, purity pill, dan strategi lelang.
-3. **Perhimpunan Tabib Pengembara (Wandering Physician Association)** [`40_WANDERING_PHYSICIAN_ASSOCIATION.md`]: Organisasi/Perguruan penyembuh keliling, penawar racun, dan diagnosa Qi Deviation.
-4. **Markas Pusat Serikat Youxia Sanxiu (Sanxiu Youxia Guild Headquarters / 散修游侠公会总会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Markas Pusat Serikat Petualang di Kota Tianjing yang mengendalikan Papan Misi Quest Tier 1–9, Sistem Lisensi Rank Youxia, Balai Penukaran Loot, dan Layanan Informasi Seluruh Benua.
+1. **Sekte Pedang Kekaisaran Tianjing (Tianjing Sword Sect)** [`22_TIANJING_SWORD_SECT.md`]: Sekte Utama pengawal dinasti dengan disiplin ketat dan teknik pedang lurus.
+2. **Perguruan Dagang Jiuzhou (Jiuzhou Merchant Academy)** [`39_PERGURUAN_DAGANG_JIUZHOU.md`]: Perguruan Spesialis yang melatih ahli taksiran barang, purity pill, dan strategi lelang.
+3. **Perhimpunan Tabib Pengembara (Wandering Physician Association)** [`41_WANDERING_PHYSICIAN_ASSOCIATION.md`]: Organisasi/Perguruan penyembuh keliling, penawar racun, dan diagnosa Qi Deviation.
+4. **Markas Pusat Serikat Youxia Sanxiu (Sanxiu Youxia Guild Headquarters)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Markas Pusat Serikat Petualang di Kota Tianjing yang mengendalikan Papan Misi Quest Tier 1–9, Sistem Lisensi Rank Youxia, Balai Penukaran Loot, dan Layanan Informasi Seluruh Benua.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Zhonghua Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Kota Tianjing, Kota Luoyang, Desa Xingcun, Lembah Kaligrafi Spirit. |
+| **Zona Kuning** | Sedang | Area Luar Dataran Makam Kekaisaran, Taman Bunga Terlarang (Perlu Izin Pass). |
+| **Zona Oranye** | Tinggi | Area Tengah Dataran Makam Kekaisaran, Lembah Medan Perang Kuno. |
+| **Zona Merah** | Sangat Tinggi | Area Inti Dataran Makam Kekaisaran & Makam Panglima Luoyang. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Kota Tianjing** | Seluruh Wilayah | Pusat politik kekaisaran, markas Tianjing Guard & Sekte Pedang Kekaisaran. |
+| **Kota Luoyang** | Tianjing, Serikat Dagang | Pusat perdagangan barang antik, lelang Wanbao & pasar obat. |
+| **Desa Xingcun** | Kota Tianjing | Pemukiman pertanian & tempat awal pemula. |
+| **Lembah Medan Perang Kuno** | Kota Luoyang | Berburu senjata antik berkarat & material undead. |
+| **Dataran Makam Kekaisaran** | Kota Luoyang | Kompleks makam kuno, riset silsilah dinasti & eksplorasi dungeon. |
+| **Taman Bunga Terlarang Sembilan Naga 🆕** | Kota Tianjing | Kebun obat khusus kekaisaran & sumber bahan obat Grade High. |
+| **Lembah Kertas & Kuas Kaligrafi 🆕** | Kota Luoyang, Xixuan Zhou | Pusat manufaktur Kertas Jimat Spirit & Tinta Nadi Bumi. |

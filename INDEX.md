@@ -16,15 +16,15 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 2. **Sesuai Lokasi Karakter Saat Ini:**
    - **Ibu Kota / General:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`
    - **Shenmu Zhou (Kayu/Alam/Berkebun):** `02_SHENMU_ZHOU.md` (Kota Shenmu, Desa Qingling, Lembah Biyang, Hutan Purba Wansen, Kerajaan Spirit Elf Wanling, Dataran Abu Hijau, Hutan Bambu Giok, Sanctum Pohon Leluhur Wansen, Lembah Embun Spirit, Rawa Spora Merah)
-   - **Zhonghua Zhou (Dataran Tengah):** `03_ZHONGHUA_ZHOU.md` (Kota Tianjing, Kota Luoyang, Desa Xingcun, Lembah Medan Perang Kuno, Dataran Makam Kekaisaran)
-   - **Canglong Zhou (Pegunungan Pedang):** `04_CANGLONG_ZHOU.md` (Kota Canglong, Desa Qingfeng, Lembah Pedang Berbisik, Puncak Tebasan Naga, Ngarai Bambu Pedang)
-   - **Chiyan Zhou (Gunung Berapi/Forging):** `05_CHIYAN_ZHOU.md` (Kota Shendu, Desa Chishui, Puncak Danhuang, Lembah Meteorit Merah, Gua Lava Hitam)
-   - **Canghai Zhou (Kepulauan/Laut):** `06_CANGHAI_ZHOU.md` (Kota Pelabuhan Haibin, Kepulauan Xingluo, Palung Laut Bintang Giok, Kepulauan Mutiara Purba, Tembok Es Samudra)
-   - **Xixuan Zhou (Gurun/Talisman):** `07_XIXUAN_ZHOU.md` (Kota Huangsha, Reruntuhan Kuil Moko, Oasis Ganlu, Labirin Batu Pasir Purba)
-   - **Beihan Zhou (Padang Es/Alkimia Es):** `08_BEIHAN_ZHOU.md` (Kota Hanbing, Lembah Xueyuan, Gua Kristal Es Abadi, Puncak Es Abadi)
-   - **Youming Zhou (Iblis/Racun):** `09_YOUMING_ZHOU.md` (Kota Heian, Rawa Racun Duwu, Bukit Tengkorak Hitam, Lembah Kabut Kelam)
-   - **Tiangong Zhou (Airship/Kota Melayang):** `10_TIANGONG_ZHOU.md` (Benteng Melayang Tiangong, Galangan Shenhang, Dermaga Levitasi Awan, Menara Navigasi Bintang)
-   - **Juejing Zhou (Zona Terlarang):** `11_JUEJING_ZHOU.md` (Pos Depan Juejing, Lembah Retakan Ruang, Jurus Anomali Petir Tanah, Reruntuhan Medan Perang Purba)
+   - **Zhonghua Zhou (Dataran Tengah):** `03_ZHONGHUA_ZHOU.md` (Kota Tianjing, Kota Luoyang, Desa Xingcun, Lembah Medan Perang Kuno, Dataran Makam Kekaisaran, Taman Bunga Terlarang Sembilan Naga 🆕, Lembah Kertas & Kuas Kaligrafi 🆕)
+   - **Canglong Zhou (Pegunungan Pedang):** `04_CANGLONG_ZHOU.md` (Kota Canglong, Desa Qingfeng, Lembah Pedang Berbisik, Puncak Tebasan Naga, Ngarai Bambu Pedang, Danau Pedang Tenggelam 🆕, Desa Penempa Bintang Tebing 🆕)
+   - **Chiyan Zhou (Gunung Berapi/Forging):** `05_CHIYAN_ZHOU.md` (Kota Shendu, Desa Chishui, Puncak Danhuang, Lembah Meteorit Merah, Gua Lava Hitam, Kawah Kristal Api Purba 🆕, Perkampungan Kuali Spirit 🆕)
+   - **Canghai Zhou (Kepulauan/Laut):** `06_CANGHAI_ZHOU.md` (Kota Pelabuhan Haibin, Kepulauan Xingluo, Palung Laut Bintang Giok, Kepulauan Mutiara Purba, Tembok Es Samudra, Pulau Terumbu Karang Giok 🆕, Galangan Kapal Bintang Laut 🆕)
+   - **Xixuan Zhou (Gurun/Talisman):** `07_XIXUAN_ZHOU.md` (Kota Huangsha, Reruntuhan Kuil Moko, Oasis Ganlu, Labirin Batu Pasir Purba, Ngarai Inskripsi Rune 🆕, Perkampungan Penjinak Unta 🆕)
+   - **Beihan Zhou (Padang Es/Alkimia Es):** `08_BEIHAN_ZHOU.md` (Kota Hanbing, Lembah Xueyuan, Gua Kristal Es Abadi, Puncak Es Abadi, Danau Es Cermin Jiwa 🆕, Perkampungan Kereta Sled 🆕)
+   - **Youming Zhou (Iblis/Racun):** `09_YOUMING_ZHOU.md` (Kota Heian, Rawa Racun Duwu, Bukit Tengkorak Hitam, Lembah Kabut Kelam, Pasar Malam Bayangan 🆕, Perkampungan Jarum Racun 🆕)
+   - **Tiangong Zhou (Airship/Kota Melayang):** `10_TIANGONG_ZHOU.md` (Benteng Melayang Tiangong, Galangan Shenhang, Dermaga Levitasi Awan, Menara Navigasi Bintang, Anjungan Batu Bintang 🆕, Akademi Pilot Pemula 🆕)
+   - **Juejing Zhou (Zona Terlarang):** `11_JUEJING_ZHOU.md` (Pos Depan Juejing, Lembah Retakan Ruang, Jurus Anomali Petir Tanah, Reruntuhan Medan Perang Purba, Ngarai Kristal Ruang 🆕, Kamp Penjelajah Veteran 🆕)
 
 3. **Sesuai Aktivitas & Profesi:**
    - **Penerobosan Ranah / Tribulasi:** `13_SPIRITUAL_ROOT_SYSTEM.md`

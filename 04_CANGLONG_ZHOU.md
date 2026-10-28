@@ -2,7 +2,7 @@
 
 > **Modul:** 04 — Canglong Zhou
 > **Tema:** Qi Angin & Logam / Pegunungan Tajam / Seni Pedang & Pedang Intent / Penjinakan Beast Pegunungan
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `23_CANGLONG_SWORD_PAVILION.md`, `28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `21_CANGLONG_SWORD_PAVILION.md`, `35_PERGURUAN_NIAT_PEDANG_QINGFENG.md`, `INDEX.md`
 
 ---
 
@@ -82,8 +82,61 @@ Ngarai terisolasi di mana bambu-bambu batu tumbuh sekeras pedang besi. Ngarai in
 
 ---
 
+### 2.6 Danau Pedang Tenggelam (沉剑灵湖 - Sunken Sword Lake) 🆕
+Danau pegunungan tersembunyi yang dilingkupi tebing karang tajam. Menurut mitos, ratusan pendekar pedang yang kalah duel menenggelamkan pedang terlarang mereka ke dasar danau ini. Air danau mengandungi gelembung Qi Pedang yang berbahaya namun kaya akan mineral pecahan logam purba.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Penyelaman mineral logam purba, Pelabuhan Perahu Kayu Besi, Kolam Niat Pedang Air, Gua Dasar Danau Pedang.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Penyelam Pedang Lao Han** | Pemburu Artefak Dasar Danau | 55 | *Xuantian Jing*, Menengah | **93.750** | *Tebasan Arus Air Spirit* — Membelah tekanan air dasar danau | Pemberani, berpengalaman tinggi, kulit keras seperti batu kapur |
+| **Penjaga Danau Xuan Yu** | Murid Senior Paviliun Canglong | 28 | *Lingyi Jing*, Puncak | **25.000** | *Seni Pedang Gelombang Air Spirit* — Menjinakkan amukan Qi pedang liar di danau | Waspada, tenang, mengawasi penyusup pencuri pedang terlarang |
+
+* **Konflik Regional & Misi Lokal:** Kebocoran aura pedang terkutuk dari gua dasar danau yang memicu badai Qi liar di permukaan air.
+
+---
+
+### 2.7 Desa Penempa Bintang Tebing (崖星锻剑村 - Cliff Star Smithing Village) 🆕
+Desa penempa tradisional yang menggantung di tebing curam dekat situs jatuhnya meteorit purba. Terkenal dengan para master penempa yang memadukan Biji Besi Bintang (Meteorite Iron) dengan Qi Angin untuk menempa pedang spirit seringan bulu namun setajam intan.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Penempaan pedang besi bintang, Landasan Tempa Besi Bintang, Tungku Angin Tebing, Gua Tambang Meteorit Purba.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Master Penempa Shi** | Ketua Asosiasi Penempa Tebing | 78 | *Faxiang Jing*, Awal | **1.562.500** | *Pukulan Palu Bintang Badai* — Menempa & mengunci elemen Angin ke dalam pedang | Keras kepala, sangat bangga akan mutu pedang meteorit ciptaannya |
+| **Gadis Penambang Xing'er** | Pengumpul Bijih Besi Bintang | 18 | *Ningyuan Jing*, Puncak | **5.000** | *Kelincahan Panjat Tebing Angin* — Menjelajah tebing terjal tanpa tali | Ceria, pemberani, hafal setiap letak vena bijih meteorit |
+
+* **Konflik Regional & Misi Lokal:** Perebutan hak tambang pecahan meteorit baru antara warga desa dan kelompok pedagang asing.
+
+---
+
 ## 3. Sekte & Perguruan di Canglong Zhou
 
-1. **Paviliun Pedang Canglong (Canglong Sword Pavilion / 苍龙剑阁)** [`23_CANGLONG_SWORD_PAVILION.md`]: Sekte Utama penguasa Puncak Canglong dengan spesialisasi Seni Pedang Naga dan Pedang Terbang.
-2. **Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy / 青风剑意学院)** [`28_PERGURUAN_NIAT_PEDANG_QINGFENG.md`]: Perguruan Spesialis yang melatih keheningan pikiran, manipulasi Qi Angin, dan integrasi Niat Pedang (*Sword Intent*).
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Canglong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Tebing Pedang.
+1. **Paviliun Pedang Canglong (Canglong Sword Pavilion / 苍龙剑阁)** [`21_CANGLONG_SWORD_PAVILION.md`]: Sekte Utama penguasa Puncak Canglong dengan spesialisasi Seni Pedang Naga dan Pedang Terbang.
+2. **Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy / 青风剑意学院)** [`35_PERGURUAN_NIAT_PEDANG_QINGFENG.md`]: Perguruan Spesialis yang melatih keheningan pikiran, manipulasi Qi Angin, dan integrasi Niat Pedang (*Sword Intent*).
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Canglong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Tebing Pedang.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Canglong Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Kota Canglong, Desa Qingfeng, Desa Penempa Bintang Tebing. |
+| **Zona Kuning** | Sedang | Ngarai Bambu Pedang, Danau Pedang Tenggelam. |
+| **Zona Oranye** | Tinggi | Puncak Tebasan Naga, Lembah Pedang Berbisik. |
+| **Zona Merah** | Sangat Tinggi | Gua Dasar Danau Pedang Terlarang & Puncak Wanshou. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Kota Canglong** | Seluruh Wilayah | Pusat politik, arena duel pedang & markas Paviliun Pedang Canglong. |
+| **Desa Qingfeng** | Lembah Pedang Berbisik | Pemukiman awal & tempat Perguruan Niat Pedang Qingfeng. |
+| **Lembah Pedang Berbisik** | Kota Canglong | Tempat meditasi Sword Intent & pemahaman Niat Pedang. |
+| **Puncak Tebasan Naga** | Paviliun Canglong | Situs latihan tebasan pedang purba & inskripsi tebing. |
+| **Ngarai Bambu Pedang** | Kota Canglong | Sumber bahan pembuat sarung pedang & habitat monyet pedang. |
+| **Danau Pedang Tenggelam 🆕** | Kota Canglong | Lokasi penyelaman mineral logam purba & perburuan pedang karam. |
+| **Desa Penempa Bintang Tebing 🆕** | Kota Canglong, Chiyan Zhou | Pusat penempaan pedang berbahan besi meteorit bintang. |

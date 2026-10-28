@@ -2,7 +2,7 @@
 
 > **Modul:** 07 — Xixuan Zhou
 > **Tema:** Qi Tanah & Pasir / Gurun Luas / Reruntuhan Purba / Talisman & Formasi Segel / Ketahanan Tubuh Fisik
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `25_PERGURUAN_JIMAT_HUANGSHA.md`, `37_GOLDEN_BELL_MONASTERY.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `25_GOLDEN_BELL_MONASTERY.md`, `32_PERGURUAN_JIMAT_HUANGSHA.md`, `INDEX.md`
 
 ---
 
@@ -71,8 +71,60 @@ Ngarai batu pasir berliku seluas 1.000 li yang dipenuhi jebakan formasi segel ta
 
 ---
 
+### 2.5 Ngarai Inskripsi Rune Purba (古符刻纹峡 - Ancient Rune Inscription Canyon) 🆕
+Ngarai tebing batu pasir terjal yang dinding-dinding karangnya terpahat simbol rune tanah purba alami. Tempat berkumpulnya para pembuat jimat untuk bermeditasi memahami alur gumpalan Qi dan menambang batu Cinnabar Merah untuk bahan tinta jimat.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Penambangan Cinnabar, Tebing Inskripsi Rune, Gua Cinnabar Pasir Emas, Altar Meditasi Inskripsi Purba.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Master Inskripsi Mo** | Cendekiawan Inskripsi Rune Guruh | 71 | *Xuantian Jing*, Puncak | **125.000** | *Inskripsi Tangan Pasir Emas* — Membentuk jimat instan di udara tanpa kertas | Tekun, tenang, sangat membenci penyalahgunaan jimat terlarang |
+| **Penambang Cinnabar Sha** | Pengumpul Batu Cinnabar Spirit | 45 | *Lingyi Jing*, Puncak | **25.000** | *Palu Pemecah Karang Pasir* — Membongkar vein cinnabar murni tanpa merusak kualitas | Pekerja keras, ramah, ahli membedakan gumpalan cinnabar palsu |
+
+* **Konflik Regional & Misi Lokal:** Longsoran dinding ngarai akibat ulah cacing pasir tanah yang mengancam kehancuran inskripsi rune purba.
+
+---
+
+### 2.6 Perkampungan Penjinak Unta Spirit (灵骆驭兽寨 - Spirit Camel Tamer Village) 🆕
+Permukiman suku penjinak hewan gurun di pinggiran Oasis Ganlu. Tempat penangkaran dan pelatihan Unta Spirit Gurun Dua Punuk serta Panther Pasir Gila untuk sarana transportasi kafilah penjelajah.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Penjinakan beast gurun, Lapangan Pelatihan Unta Spirit, Kandang Penangkaran Panther Pasir, Pasar Pakan Kurma Spirit.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Ketua Penjinak Zhang** | Kepala Suku Penjinak Gurun | 52 | *Xuantian Jing*, Awal | **62.500** | *Siulan Panggilan Beast Pasir* — Menenangkan amukan binatang gurun liar | Tegas, bersahabat, sangat mencintai binatang gurun tunggangannya |
+| **Pelatih Young Lu** | Instruktur Penjinakan Pemula | 22 | *Ningyuan Jing*, Puncak | **5.000** | *Tali Ikat Sulur Pasir* — Menjerat kaki panther pasir gila | Energik, sabar, gemar mengajari traveler pemula cara menunggangi unta spirit |
+
+* **Konflik Regional & Misi Lokal:** Wabah penyakit haus air yang menyerang kawanan Unta Spirit utama jelang musim perjalanan kafilah.
+
+---
+
 ## 3. Sekte & Perguruan di Xixuan Zhou
 
-1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`37_GOLDEN_BELL_MONASTERY.md`]: Sekte Utama pembudidaya fisik/tubuh tahan pukulan dengan Akar Spiritual Pertahanan Lonceng Emas.
-2. **Sekte Jimat Gurun Huangsha (Huangsha Talisman Sect / 黄沙符箓宗)** [`25_PERGURUAN_JIMAT_HUANGSHA.md`]: Sekte / Perguruan Spesialis pembuatan kertas jimat spirit, tinta darah beast, dan inskripsi rune pertahanan.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Huangsha yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Gurun.
+1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`25_GOLDEN_BELL_MONASTERY.md`]: Sekte Utama pembudidaya fisik/tubuh tahan pukulan dengan Akar Spiritual Pertahanan Lonceng Emas.
+2. **Perguruan Jimat Gurun Huangsha (Huangsha Talisman Academy / 黄沙符箓学院)** [`32_PERGURUAN_JIMAT_HUANGSHA.md`]: Perguruan Spesialis pembuatan kertas jimat spirit, tinta darah beast, dan inskripsi rune pertahanan.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Huangsha yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Gurun.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Xixuan Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Kota Huangsha, Oasis Ganlu, Perkampungan Penjinak Unta. |
+| **Zona Kuning** | Sedang | Ngarai Inskripsi Rune Purba, Kuil Lonceng Emas. |
+| **Zona Oranye** | Tinggi | Reruntuhan Kuil Moko, Labirin Batu Pasir Purba. |
+| **Zona Merah** | Sangat Tinggi | Pusat Badai Pasir Gila Emas & Sarang Cacing Pasir Raksasa. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Kota Huangsha** | Seluruh Wilayah | Pusat perdagangan jimat, batu spirit tanah & markas Kuil Lonceng Emas. |
+| **Reruntuhan Kuil Moko** | Kota Huangsha | Lokasi eksplorasi artefak purba & inskripsi jimat lapuk. |
+| **Oasis Ganlu** | Kota Huangsha | Sumber air kehidupan utama gurun, pasar malam jimat & titik singgah. |
+| **Labirin Batu Pasir Purba** | Kota Huangsha | Ngarai berliku, lokasi perburuan cacing pasir & latihan formasi segel. |
+| **Ngarai Inskripsi Rune 🆕** | Sekte Huangsha | Sumber tambang Cinnabar Merah & lokasi meditasi pemahaman rune. |
+| **Perkampungan Penjinak Unta 🆕** | Oasis Ganlu, Tianjing | Pusat penangkaran & pelatihan Unta Spirit transportasi kafilah. |

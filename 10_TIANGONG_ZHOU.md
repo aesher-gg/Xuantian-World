@@ -2,7 +2,7 @@
 
 > **Modul:** 10 — Tiangong Zhou
 > **Tema:** Transportasi Udara / Benteng Melayang (Floating Citadel) / Guild Kapal Terbang / Formasi Melayang & Navigasi Udara
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `26_PERGURUAN_FORMASI_TIANGONG.md`, `27_PERGURUAN_KEMUDI_TIANGONG.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `33_PERGURUAN_FORMASI_TIANGONG.md`, `34_PERGURUAN_KEMUDI_TIANGONG.md`, `INDEX.md`
 
 ---
 
@@ -71,9 +71,61 @@ Menara kristal melayang setinggi 200 meter tempat pemetaan arus angin, rasi bint
 
 ---
 
+### 2.5 Anjungan Levitasi Batu Bintang (星石浮台 - Starstone Levitation Platform) 🆕
+Gugusan platform tambang batu melayang di lapisan atmosfer atas yang kaya akan *Kristal Ruang Levitasi*. Para penambang menggunakan tali grapling dari kapal terbang untuk memanen batu levitasi penggantung pulau dan mesin airship.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Penambangan Kristal Levitasi Ruang, Tambang Batu Levitasi, Anjungan Pengikat Grapling, Kolam Pemurnian Mineral Ruang.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Penambang Master Kong** | Ketua Ekspedisi Tambang Levitasi | 64 | *Xuantian Jing*, Puncak | **125.000** | *Tali Grapling Qi Penarik Batu* — Mengikat & menarik kristal levitasi berbobot 50 ton | Tangguh, berani, sangat ahli bernavigasi di udara tanpa pijakan tanah |
+| **Penguji Batu Ling** | Penilai Kerapatan Kristal Levitasi | 32 | *Lingyi Jing*, Puncak | **25.000** | *Deteksi Getaran Kristal Ruang* — Mengukur konsentrasi daya apung batu levitasi | Teliti, pendiam, menjaga standar keselamatan bahan bakar kapal |
+
+* **Konflik Regional & Misi Lokal:** Terputusnya tali grapling utama akibat serangan Burung Elang Badai Awan Hitam Tier 4.
+
+---
+
+### 2.6 Akademi Pelatihan Pilot Pemula Feichuan (飞舟初级驾驭所 - Feichuan Junior Pilot Training Center) 🆕
+Pusat akademi pelatihan penerbangan di pulau melayang sebelah timur Benteng Tiangong. Dilengkapi dengan simulator kemudi kayu dan rintangan angin badai buatan untuk menguji calon pilot penerbangan komersial.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Pelatihan Pilot Airship, Rintangan Angin Badai Buatan, Simulasi Kemudi Kayu, Balai Ujian Lisensi Pilot.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Instruktor Senior Song** | Kepala Penguji Lisensi Pilot Tier 1–2 | 55 | *Xuantian Jing*, Awal | **62.500** | *Kemudi Penyeimbang Angin Badai* — Menstabilkan kapal melayang dalam amukan pusaran | Disiplin, tegas, sangat mengutamakan aturan keselamatan penerbangan |
+| **Cadet Pilot Ah Fei** | Murid Genius Pelatihan Kemudi | 18 | *Ningyuan Jing*, Puncak | **5.000** | *Langkah Manuver Angin Lincah* — Mengendalikan skiff kecil meliuk cepat | Ambisius, berani, bercita-cita menjadi kapten battleship terbesar Tiangong |
+
+* **Konflik Regional & Misi Lokal:** Kerusakan formasi pencipta badai buatan yang membahayakan penerbangan simulasi murid akademi.
+
+---
+
 ## 3. Sekte & Perguruan di Tiangong Zhou
 
 1. **Serikat Airship Tiangong (Tiangong Airship Union)** [`12_CROSS_REGION_ORGANIZATIONS.md`]: Organisasi penerbangan lintas wilayah terbesar.
-2. **Perguruan Formasi Tiangong (Tiangong Array Pavilion / 天宫阵法阁)** [`26_PERGURUAN_FORMASI_TIANGONG.md`]: Perguruan / Sekte Spesialis piringan formasi portabel, barrier ruang, dan kristal levitasi.
-3. **Perguruan Kemudi Udara Tiangong (Tiangong Feihang Guild / 天宫飞航阁)** [`27_PERGURUAN_KEMUDI_TIANGONG.md`]: Perguruan Spesialis melatih pilot profesional, navigasi badai, dan taktik pertempuran udara.
-4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Benteng Melayang Tiangong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Airship.
+2. **Perguruan Formasi Tiangong (Tiangong Array Pavilion / 天宫阵法学院)** [`33_PERGURUAN_FORMASI_TIANGONG.md`]: Perguruan / Sekte Spesialis piringan formasi portabel, barrier ruang, dan kristal levitasi.
+3. **Perguruan Kemudi Udara Tiangong (Tiangong Feihang Guild / 天宫飞航学院)** [`34_PERGURUAN_KEMUDI_TIANGONG.md`]: Perguruan Spesialis melatih pilot profesional, navigasi badai, dan taktik pertempuran udara.
+4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Benteng Melayang Tiangong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Airship.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Tiangong Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Benteng Melayang Tiangong, Akademi Pelatihan Pilot Pemula. |
+| **Zona Kuning** | Sedang | Dermaga Levitasi Awan, Galangan Kapal Shenhang. |
+| **Zona Oranye** | Tinggi | Anjungan Levitasi Batu Bintang. |
+| **Zona Merah** | Sangat Tinggi | Zona Badai Guntur Udara & Retakan Ruang Angkasa Atas. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Benteng Melayang Tiangong** | Seluruh Wilayah | Ibu kota melayang, pusat kontrol navigasi & markas Serikat Airship. |
+| **Galangan Kapal Shenhang** | Benteng Tiangong | Pusat manufaktur Feichuan, kustomisasi lambung & perbaikan. |
+| **Dermaga Levitasi Awan** | Seluruh Wilayah | Terminal keberangkatan & kedatangan kapal terbang lintas wilayah. |
+| **Menara Navigasi Bintang** | Benteng Tiangong | Pusat pemetaan arus angin, rasi bintang & ujian lisensi pilot. |
+| **Anjungan Batu Bintang 🆕** | Galangan Shenhang | Sumber penambangan Kristal Levitasi penggantung pulau & Feichuan. |
+| **Akademi Pilot Pemula 🆕** | Perguruan Kemudi | Pusat pelatihan & ujian sertifikasi pilot penerbangan komersial. |

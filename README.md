@@ -44,15 +44,15 @@ Tempelkan link `INDEX.md` disertai blok **Profil Karakter** terakhir dari percak
 ## 🗺️ Geografi 10 Wilayah Utama Xuantian World
 
 1. **🌿 Shenmu Zhou (神木州):** Wilayah Kayu/Alam, Kerajaan Spirit Elf Wanling, Hutan Purba Wansen, Kebun Obat Biyang, Hutan Bambu Giok, Sanctum Pohon Leluhur Wansen, dan 16 Permukiman/Sub-wilayah Konservasi.
-2. **🏰 Zhonghua Zhou (中华州):** Dataran Tengah, Ibu Kota Kekaisaran Tianjing, Kota Perdagangan Luoyang, dan Dataran Makam Kekaisaran.
-3. **🐉 Canglong Zhou (苍龙州):** Pegunungan Pedang Azure Dragon, Puncak Tebasan Naga, dan Paviliun Pedang Canglong.
-4. **🌋 Chiyan Zhou (赤炎州):** Wilayah Kawah Gunung Berapi, Kota Penempa Shendu, dan Sekte Alkimia Danhuang.
-5. **🌊 Canghai Zhou (沧海州):** Wilayah Kepulauan & Lautan Timur, Palung Bintang Giok, dan Istana Kemurnian Giok Laut.
-6. **🏜️ Xixuan Zhou (西玄州):** Gurun Pasir Suci Barat, Oasis Ganlu, dan Sekte Jimat Gurun Huangsha.
-7. **❄️ Beihan Zhou (北寒州):** Padang Es Abadi Utara, Gua Kristal Es, dan Perguruan Alkimia Es Beihan.
-8. **🖤 Youming Zhou (幽冥州):** Wilayah Bayangan, Rawa Racun Duwu, dan Sekte Api Iblis Youming.
-9. **🛸 Tiangong Zhou (天工州):** Benteng Melayang Tiangong, Galangan Airship Lintas Wilayah, dan Perguruan Formasi Ruang.
-10. **☠️ Juejing Zhou (绝境州):** Zona Terlarang Anomali Ruang, Retakan Petir Tanah, dan Perguruan Eksplorasi Purba.
+2. **🏰 Zhonghua Zhou (中华州):** Dataran Tengah, Ibu Kota Kekaisaran Tianjing, Kota Perdagangan Luoyang, Dataran Makam Kekaisaran, Taman Bunga Terlarang Sembilan Naga 🆕, dan Lembah Kaligrafi Spirit 🆕.
+3. **🐉 Canglong Zhou (苍龙州):** Pegunungan Pedang Azure Dragon, Puncak Tebasan Naga, Paviliun Pedang Canglong, Danau Pedang Tenggelam 🆕, dan Desa Penempa Bintang Tebing 🆕.
+4. **🌋 Chiyan Zhou (赤炎州):** Wilayah Kawah Gunung Berapi, Kota Penempa Shendu, Sekte Alkimia Danhuang, Kawah Kristal Api Purba 🆕, dan Perkampungan Kuali Spirit 🆕.
+5. **🌊 Canghai Zhou (沧海州):** Wilayah Kepulauan & Lautan Timur, Palung Bintang Giok, Istana Kemurnian Giok Laut, Pulau Terumbu Karang Giok 🆕, dan Galangan Kapal Bintang Laut 🆕.
+6. **🏜️ Xixuan Zhou (西玄州):** Gurun Pasir Suci Barat, Oasis Ganlu, Sekte Jimat Gurun Huangsha, Ngarai Inskripsi Rune 🆕, dan Perkampungan Penjinak Unta 🆕.
+7. **❄️ Beihan Zhou (北寒州):** Padang Es Abadi Utara, Gua Kristal Es, Perguruan Alkimia Es Beihan, Danau Es Cermin Jiwa 🆕, dan Perkampungan Kereta Sled 🆕.
+8. **🖤 Youming Zhou (幽冥州):** Wilayah Bayangan, Rawa Racun Duwu, Sekte Api Iblis Youming, Pasar Malam Bayangan 🆕, dan Perkampungan Jarum Racun 🆕.
+9. **🛸 Tiangong Zhou (天工州):** Benteng Melayang Tiangong, Galangan Airship Lintas Wilayah, Perguruan Formasi Ruang, Anjungan Batu Bintang 🆕, dan Akademi Pilot Pemula 🆕.
+10. **☠️ Juejing Zhou (绝境州):** Zona Terlarang Anomali Ruang, Retakan Petir Tanah, Perguruan Eksplorasi Purba, Ngarai Kristal Ruang 🆕, dan Kamp Penjelajah Veteran 🆕.
 
 ---
 

@@ -2,7 +2,7 @@
 
 > **Modul:** 08 — Beihan Zhou
 > **Tema:** Qi Es & Salju / Padang Es Abadi / Alkimia Ramuan Es / Beast Padang Salju & Pembekuan Meridien
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`, `38_HANBING_SNOW_PALACE.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `26_HANBING_SNOW_PALACE.md`, `36_PERGURUAN_ALKEMIA_ES_BEIHAN.md`, `INDEX.md`
 
 ---
 
@@ -71,8 +71,60 @@ Puncak tertinggi di Beihan Zhou setinggi 8.000 meter. Tempat mekarnya Lotus Es 1
 
 ---
 
+### 2.5 Danau Es Cermin Jiwa (镜魂冰湖 - Soul Mirror Ice Lake) 🆕
+Danau es raksasa di dataran tinggi Beihan Zhou yang permukaan esnya bening dan mengkilap bak cermin obsidian. Digunakan para pendekar untuk bermeditasi menghalau iblis dalam diri serta memperdalam pemahaman Sword Intent elemen es.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Meditasi keheningan jiwa, Permukaan Es Cermin, Gua Kristal Es Cermin, Anjungan Meditasi Jiwa.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Pertapa Danau Jing** | Penjaga Kedamaian Danau Es | 92 | *Xuantian Jing*, Puncak | **125.000** | *Pantulan Cermin Es Pemurni Jiwa* — Membalikkan ilusi dan serangan jiwa musuh | Bijaksana, tenang, membantu pengembara mengatasi Qi Deviation |
+| **Peselancar Es Leng'er** | Atlet Lari & Seluncur Es Suku Salju | 19 | *Ningyuan Jing*, Puncak | **5.000** | *Langkah Seluncur Bintang Es* — Lari sangat cepat di atas es licin | Ceria, lincah, ahli memandu perjalanan di atas permukaan danau es |
+
+* **Konflik Regional & Misi Lokal:** Mitos munculnya Bayangan Iblis Cermin yang meniru wujud dan jurus pembudidaya yang bermeditasi.
+
+---
+
+### 2.6 Perkampungan Perajin Kereta Serigala Es (冰狼雪橇村 - Ice Wolf Sled Village) 🆕
+Desa kerajinan transportasi di pinggiran Lembah Xueyuan. Tempat penangkaran Serigala Salju Jinak dan pembuatan kereta sled (*Ice Sleds*) bertengaga kristal es untuk melintasi padang salju abadi.
+
+* **Spesialisasi & Sub-lokasi Kunci:** Pembuatan Kereta Sled Es, Penangkaran Serigala Salju, Bengkel Kereta Sled Kayu Es, Pasar Kulit & Bulu Es.
+
+| NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
+|---|---|---|---|---|---|---|
+| **Ketua Pengrajin Lang** | Master Pembuat Kereta Sled Spirit | 56 | *Xuantian Jing*, Awal | **62.500** | *Inskripsi Rune Kayu Es Ringan* — Membuat sled tahan gesekan salju ekstrem | Pekerja keras, ramah, sangat menyukai serigala salju peliharaannya |
+| **Penjinak Serigala Xue** | Pelatih Kawanan Serigala Salju | 28 | *Lingyi Jing*, Awal | **12.500** | *Siulan Komando Serigala Salju* — Mengendalikan 10 serigala penarik kereta | Lincah, penyayang binatang, selalu menjaga stamina kawanan serigala |
+
+* **Konflik Regional & Misi Lokal:** Serangan Serigala Salju Liar dari pegunungan utara yang mencoba merebut penangkaran desa.
+
+---
+
 ## 3. Sekte & Perguruan di Beihan Zhou
 
-1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`38_HANBING_SNOW_PALACE.md`]: Sekte Utama pemurni jiwa dengan spesialisasi Akar Spiritual Es Purba, Pembekuan Area, dan Seni Pedang Es.
-2. **Perguruan Alkimia Es Beihan (Beihan Frost Alchemist Academy / 北寒冰药谷)** [`29_PERGURUAN_ALKEMIA_ES_BEIHAN.md`]: Perguruan Spesialis alkimia es, ekstraksi herbal salju, dan pemurnian ramuan pemulih dantian.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`52_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Hanbing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Salju Abadi.
+1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`26_HANBING_SNOW_PALACE.md`]: Sekte Utama pemurni jiwa dengan spesialisasi Akar Spiritual Es Purba, Pembekuan Area, dan Seni Pedang Es.
+2. **Perguruan Alkimia Es Beihan (Beihan Frost Alchemist Academy / 北寒冰药谷)** [`36_PERGURUAN_ALKEMIA_ES_BEIHAN.md`]: Perguruan Spesialis alkimia es, ekstraksi herbal salju, dan pemurnian ramuan pemulih dantian.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Hanbing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Salju Abadi.
+
+---
+
+## 4. Sistem Klasifikasi Bahaya Lokasi Beihan Zhou
+
+| Kategori Zona | Tingkat Risiko | Syarat & Aturan Eksplorasi |
+|---|---|---|
+| **Zona Hijau** | Rendah | Kota Hanbing, Perkampungan Kereta Serigala Es. |
+| **Zona Kuning** | Sedang | Lembah Xueyuan, Danau Es Cermin Jiwa. |
+| **Zona Oranye** | Tinggi | Gua Kristal Es Abadi. |
+| **Zona Merah** | Sangat Tinggi | Puncak Es Abadi & Padang Badai Salju Kutub Utara. |
+
+---
+
+## 5. Matriks Hubungan Antarlokasi & Fungsi Ekosistem
+
+| Lokasi | Hubungan Utama | Fungsi dalam Jaringan Wilayah |
+|---|---|---|
+| **Kota Hanbing** | Seluruh Wilayah | Pusat politik, benteng es & markas Istana Salju Hanbing. |
+| **Lembah Xueyuan** | Kota Hanbing | Tempat perburuan serigala salju & pemanenan herbal es. |
+| **Gua Kristal Es Abadi** | Istana Salju Hanbing | Gua kristal, lokasi meditasi pemurnian jiwa & ekstraksi es. |
+| **Puncak Es Abadi** | Perguruan Beihan | Puncak gunung tertinggi, panen Teratai Es 1.000 Tahun. |
+| **Danau Es Cermin Jiwa 🆕** | Kota Hanbing, Canglong Zhou | Tempat pembersihan iblis dalam diri & latihan Sword Intent Es. |
+| **Perkampungan Kereta Sled 🆕** | Lembah Xueyuan, Shenmu Zhou | Manufaktur kereta sled es & penangkaran Serigala Salju penarik. |
