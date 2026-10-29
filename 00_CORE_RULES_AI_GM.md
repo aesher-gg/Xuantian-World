@@ -131,7 +131,7 @@ Lapar (Satiety): [angka]%
 Status Kondisi: [Normal / Terluka / Keracunan / Kelelahan Qi / Dantian Retak / dll]
 Karma: [Merit X | Sin Y → Balance Keseimbangan]
 
-Mata Uang: [Tael Perunggu (CT)] × XX | [Tael Perak (ST)] × XX | [Tael Giok (JT)] × XX | [Batu Spirit LSS/MSS/HSS] × XX
+Mata Uang: [Tael Tembaga (CT)] × XX | [Tael Perak (ST)] × XX | [Tael Giok (JT)] × XX | [Batu Spirit LSS/MSS/HSS] × XX
 
 Equipment Terpakai (Genggam/Pakai):
 - Senjata: [Nama Senjata — Tier/Grade]
