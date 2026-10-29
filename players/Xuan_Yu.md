@@ -14,6 +14,8 @@
 **Kondisi Awal:** HP 150/150 · Qi 100/100 · Stamina 100/100 · Satiety 100% · Kondisi Sehat Bugar · Karma Netral (Balance 0)
 
 **Currency Awal:**
+- Batu Spritual Rendah × 3
+- Teal Giok × 5
 - Tael Perak × 10
 - Tael Tembaga × 50
 
