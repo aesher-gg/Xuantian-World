@@ -1,8 +1,8 @@
 # 🌿 Shenmu Zhou (神木州) — Wilayah Utama Kayu & Alam Spirit
 
-> **Modul:** 02 — Shenmu Zhou
+> **Modul:** 2 — Shenmu Zhou
 > **Tema:** Qi Kayu / Alam / Hutan Purba / Berkebun & Kebun Obat Spirit / Penjinakan Beast Hutan / Spirit Elf
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `19_SHENMU_SECT.md`, `29_PERGURUAN_BERKEBUN_BIYANG.md`, `30_PERGURUAN_BEAST_QINGLING.md`, `42_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `22_SHENMU_SECT.md`, `32_PERGURUAN_BERKEBUN_BIYANG.md`, `33_PERGURUAN_BEAST_QINGLING.md`, `45_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`
 
 ---
 
@@ -65,7 +65,7 @@ Desa tenang dan asri di pinggiran Hutan Purba Wansen. Dikelilingi oleh kebun oba
 ---
 
 ### 2.3 Lembah Biyang (碧阳谷 - Biyang Herbal Valley)
-Lembah subur yang dilingkupi aliran sungai air spirit alami. Tempat berdirinya **Perguruan Berkebun Biyang** [`29_PERGURUAN_BERKEBUN_BIYANG.md`] dan ratusan ladang percobaan benih obat langka tempat para murid mempelajari analisis tanah spirit dan pemupukan.
+Lembah subur yang dilingkupi aliran sungai air spirit alami. Tempat berdirinya **Perguruan Berkebun Biyang** [`32_PERGURUAN_BERKEBUN_BIYANG.md`] dan ratusan ladang percobaan benih obat langka tempat para murid mempelajari analisis tanah spirit dan pemupukan.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Perguruan Berkebun Biyang, Ladang Uji Coba 100 Petak, Rumah Kaca Qi Shenmu, Laboratorium Komposting Spirit.
 
@@ -106,7 +106,7 @@ Dataran luas bekas Bencana Bunga Bangkai Purba 8.000 tahun silam. Tanah berpigme
 ---
 
 ### 2.6 Hutan Bambu Giok (翠玉竹海 - Jade Bamboo Sea / Cuiyu Zhuhai)
-Wilayah rahasia mandiri di Shenmu Zhou berupa hutan bambu spiritual kuno yang terbagi menjadi 3 lapisan eksplorasi. Terkenal dengan fenomena batang bambu berwarna hijau giok, kabut spiritual pekat, formasi kuno tersegel, serta reruntuhan **Sekte Pedang Bambu Langit (Tianzhu Sword Sect)** [`28_TIANZHU_SWORD_SECT.md`].
+Wilayah rahasia mandiri di Shenmu Zhou berupa hutan bambu spiritual kuno yang terbagi menjadi 3 lapisan eksplorasi. Terkenal dengan fenomena batang bambu berwarna hijau giok, kabut spiritual pekat, formasi kuno tersegel, serta reruntuhan **Sekte Pedang Bambu Langit (Tianzhu Sword Sect)** [`31_TIANZHU_SWORD_SECT.md`].
 
 * **Nama Alternatif:** Jade Bamboo Sea / Emerald Bamboo Sanctum
 * **Tema:** Keindahan yang menyembunyikan bahaya, kesadaran tanaman, formasi kuno, dan warisan kultivator yang hilang.
@@ -445,12 +445,12 @@ Area rawa beracun di sebelah tenggara Hutan Purba Wansen. Terbentuk dari hasil m
 
 ## 3. Sekte & Perguruan di Shenmu Zhou
 
-1. **Sekte Induk Shenmu (Shenmu Spirit Sect / 神木宗)** [`19_SHENMU_SECT.md`]: Sekte Utama pelindung Pohon Shenmu dan penguasa Akar Spiritual Kayu Abadi.
+1. **Sekte Induk Shenmu (Shenmu Spirit Sect / 神木宗)** [`22_SHENMU_SECT.md`]: Sekte Utama pelindung Pohon Shenmu dan penguasa Akar Spiritual Kayu Abadi.
 2. **Kerajaan Spirit Elf Wanling (Wanling Spirit Elf Kingdom / 万灵精皇国)**: Kerajaan berdaulat Ras Elf Spirit di kedalaman Hutan Wansen, pelindung Pohon Induk Wanling & sekutu kuno Sekte Induk Shenmu.
-3. **Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)** [`28_TIANZHU_SWORD_SECT.md`]: Sekte Kuno Tersegel di Hutan Bambu Giok, pemilik warisan Niat Pedang Bambu Langit & Formasi Tiga Nadi Giok.
-4. **Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)** [`29_PERGURUAN_BERKEBUN_BIYANG.md`]: Perguruan Spesialis teknik analisis tanah, benih obat, dan pupuk Qi Kayu.
-5. **Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)** [`30_PERGURUAN_BEAST_QINGLING.md`]: Perguruan Spesialis komunikasi empati, kontrak kesetaraan, dan taktik Spirit Beast.
-6. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shenmu & Desa Qingling yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Hutan.
+3. **Sekte Pedang Bambu Langit (Tianzhu Sword Sect / 天竹剑宗)** [`31_TIANZHU_SWORD_SECT.md`]: Sekte Kuno Tersegel di Hutan Bambu Giok, pemilik warisan Niat Pedang Bambu Langit & Formasi Tiga Nadi Giok.
+4. **Perguruan Berkebun Obat Biyang (Biyang Herbal Academy / 碧阳药农学院)** [`32_PERGURUAN_BERKEBUN_BIYANG.md`]: Perguruan Spesialis teknik analisis tanah, benih obat, dan pupuk Qi Kayu.
+5. **Perguruan Penjinak Beast Qingling (Qingling Beast Taming Academy / 青灵驭兽学院)** [`33_PERGURUAN_BEAST_QINGLING.md`]: Perguruan Spesialis komunikasi empati, kontrak kesetaraan, dan taktik Spirit Beast.
+6. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shenmu & Desa Qingling yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Hutan.
 
 ---
 

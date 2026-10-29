@@ -1,8 +1,8 @@
 # 🗺️ Xuantian World — Gambaran Umum Dunia, Sejarah Purba & Ibu Kota Kekaisaran Tianjing
 
-> **Modul:** 01 — World Overview & Capital
+> **Modul:** 1 — World Overview & Capital
 > **Kategori:** Geografi Benua, Kosmologi, Peta Jarak, & Pusat Kekaisaran
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `34_TIANJING_SWORD_SECT.md`, `52_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `18_ECONOMY_SYSTEM.md`, `25_TIANJING_SWORD_SECT.md`, `45_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`
 
 ---
 
@@ -12,8 +12,8 @@ Xuantian World diciptakan puluhan juta tahun lalu ketika **Dewa Primordial Hunyu
 
 ### A. Tiga Era Pembentukan Dunia
 1. **Era Primordial & Fajar (Dawn Era - 100.000+ Tahun Lalu):** Masa kebangkitan ras-ras pertama (Manusia, Spirit Elf, dan Beast Kuno). Terjadi **Bencana Retakan Ruang (Spatial Rift Calamity)** di mana ras Iblis Purba menembus alam fana. Pertempuran sengit ini meremukkan daratan barat daya dan menciptakan zona anomali terlarang **Juejing Zhou**.
-2. **Era Kuno & Dinasti Pertama (Ancient Era - 50.000 Tahun Lalu):** Kaisar Primordial Xuantian I menyatukan faksi-faksi manusia, membangun Benteng Marmer Sembilan Naga di Kota Tianjing, dan mendirikan **Sekte Pedang Kekaisaran Tianjing** (`34_TIANJING_SWORD_SECT.md`) sebagai penegak hukum benua.
-3. **Era Pertumbuhan & Perhubungan (Growth Era - 15.000 Tahun Lalu s/d Sekarang):** Kebangkitan organisasi lintas wilayah seperti Serikat Youxia Sanxiu (`52_SERIKAT_YOUXIA_SANXIU.md`) dan Serikat Kapal Terbang Tiangong yang menghubungkan penerbangan lintas 10 Wilayah.
+2. **Era Kuno & Dinasti Pertama (Ancient Era - 50.000 Tahun Lalu):** Kaisar Primordial Xuantian I menyatukan faksi-faksi manusia, membangun Benteng Marmer Sembilan Naga di Kota Tianjing, dan mendirikan **Sekte Pedang Kekaisaran Tianjing** (`25_TIANJING_SWORD_SECT.md`) sebagai penegak hukum benua.
+3. **Era Pertumbuhan & Perhubungan (Growth Era - 15.000 Tahun Lalu s/d Sekarang):** Kebangkitan organisasi lintas wilayah seperti Serikat Youxia Sanxiu (`45_SERIKAT_YOUXIA_SANXIU.md`) dan Serikat Kapal Terbang Tiangong yang menghubungkan penerbangan lintas 10 Wilayah.
 
 ---
 
@@ -96,8 +96,8 @@ Kota **Tianjing** adalah ibu kota megah Kekaisaran Xuantian yang terletak di jan
 ## 5. Distrik & Sub-Lokasi Utama Kota Tianjing
 
 1. **Istana Kekaisaran Xuantian (玄天皇宫):** Kompleks istana emas tempat bersemayam Kaisar Xuantian Di-XVII dan tempat persidangan agung para utusan 10 Wilayah.
-2. **Benteng Marmer Sembilan Naga (Nine-Dragon Marble Citadel):** Markas utama Sekte Pedang Kekaisaran Tianjing (`34_TIANJING_SWORD_SECT.md`) yang menjaga gerbang utama kota.
-3. **Markas Pusat Serikat Youxia Sanxiu (散修游侠公会总部) [`52_SERIKAT_YOUXIA_SANXIU.md`]:** Benteng perunggu lima lantai wadah pendaftaran misi petualang, Balai Penukaran Loot, dan penginapan pengembara.
+2. **Benteng Marmer Sembilan Naga (Nine-Dragon Marble Citadel):** Markas utama Sekte Pedang Kekaisaran Tianjing (`25_TIANJING_SWORD_SECT.md`) yang menjaga gerbang utama kota.
+3. **Markas Pusat Serikat Youxia Sanxiu (散修游侠公会总部) [`45_SERIKAT_YOUXIA_SANXIU.md`]:** Benteng perunggu lima lantai wadah pendaftaran misi petualang, Balai Penukaran Loot, dan penginapan pengembara.
 4. **Rumah Lelang Agung Wanbao (万宝皇家拍卖行):** Balai pelelangan termewah di benua tempat diperebutkannya artefak purba, pill breakthrough, dan telur beast mythical.
 5. **Dermaga Kapal Terbang Utama Tianjing (天京飞航港):** Pelabuhan penerbangan terbesar dengan 500+ jadwal keberangkatan Feichuan setiap hari menuju 10 Wilayah.
 6. **Markas Guild Alkemis Pusat (炼丹师工会总部):** Kompleks kuali raksasa tempat tersimpannya Tugu Kitab Resep Purba dan tempat ujian lisensi Alkemis.

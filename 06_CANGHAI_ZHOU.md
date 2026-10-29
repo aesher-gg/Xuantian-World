@@ -1,8 +1,8 @@
 # 🌊 Canghai Zhou (沧海州) — Wilayah Kepulauan & Lautan Timur
 
-> **Modul:** 06 — Canghai Zhou
+> **Modul:** 6 — Canghai Zhou
 > **Tema:** Qi Air & Es / Kepulauan Spirit / Kapal Terbang Laut / Spirit Beast Aquatic & Navigasi
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `24_JADE_OCEAN_PALACE.md`, `38_PERGURUAN_PELAYARAN_CANGHAI.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `21_BESTIARY.md`, `27_JADE_OCEAN_PALACE.md`, `41_PERGURUAN_PELAYARAN_CANGHAI.md`, `INDEX.md`
 
 ---
 
@@ -111,9 +111,9 @@ Dermaga apung raksasa di antara tiga pulau pelindung. Tempat para master pembuat
 
 ## 3. Sekte & Perguruan di Canghai Zhou
 
-1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`24_JADE_OCEAN_PALACE.md`]: Sekte Utama pelindung lautan dengan spesialisasi Akar Spiritual Air Purba, Manipulasi Gelombang, dan Es Samudra.
-2. **Balai Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)** [`38_PERGURUAN_PELAYARAN_CANGHAI.md`]: Perguruan / Sekte Spesialis kemudi kapal terbang laut, pemetaan arus angin, dan teknik pertempuran laut-udara.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Pelabuhan Haibin yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Pelayaran.
+1. **Istana Kemurnian Giok Laut (Jade Ocean Palace / 沧海玉清宫)** [`27_JADE_OCEAN_PALACE.md`]: Sekte Utama pelindung lautan dengan spesialisasi Akar Spiritual Air Purba, Manipulasi Gelombang, dan Es Samudra.
+2. **Balai Pelayaran Canghai (Canghai Maritime Hall / 沧海航海堂)** [`41_PERGURUAN_PELAYARAN_CANGHAI.md`]: Perguruan / Sekte Spesialis kemudi kapal terbang laut, pemetaan arus angin, dan teknik pertempuran laut-udara.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Pelabuhan Haibin yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Pelayaran.
 
 ---
 

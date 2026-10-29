@@ -1,6 +1,6 @@
 # 🏯 Xuantian World — Aturan Inti AI Game Master & Hukum Kebenaran Dunia
 
-> **Modul:** 00 — Core Rules (WAJIB DIMUAT & DIPATUHI SETIAP SESI ROLEPLAY)
+> **Modul:** 0 — Core Rules (WAJIB DIMUAT & DIPATUHI SETIAP SESI ROLEPLAY)
 > **Genre:** Xianxia · Wuxia · Kultivasi · Kerajinan Profesi · Hardcore Realism
 > **Tujuan:** Roleplay kultivasi yang adil, mendalam, konsisten, realistis, dan anti-cheat bersama AI Game Master.
 > **Rujukan silang:** Semua modul lain (`01`–`51`, lihat `INDEX.md` untuk daftar lengkap & aturan auto-fetch)
@@ -195,12 +195,12 @@ Aksiku :
 | `12_CROSS_REGION_ORGANIZATIONS.md` | Organisasi & Guild Lintas Wilayah |
 | `13_SPIRITUAL_ROOT_SYSTEM.md` | 9 Ranah Kultivasi Unik, Akar Spiritual Elemen, Breakthrough, Tribulasi |
 | `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` | Mekanik Berkebun, Beast, Alkimia, Airship, Formasi, Forging, Talisman |
-| `15_ECONOMY_SYSTEM.md` | Ekonomi, Batu Spirit, Tiket Airship, Harga Bahan |
-| `16_VITALITY_HUNGER_SYSTEM.md` | HP, Stamina, Kelaparan, Regenerasi, Racun Pill |
-| `17_COMBAT_SYSTEM.md` | Sistem Pertempuran Turn-based & Formula Combat |
-| `18_BESTIARY.md` | Daftar Monster & Spirit Beast per Wilayah |
+| `18_ECONOMY_SYSTEM.md` | Ekonomi, Batu Spirit, Tiket Airship, Harga Bahan |
+| `19_VITALITY_HUNGER_SYSTEM.md` | HP, Stamina, Kelaparan, Regenerasi, Racun Pill |
+| `20_COMBAT_SYSTEM.md` | Sistem Pertempuran Turn-based & Formula Combat |
+| `21_BESTIARY.md` | Daftar Monster & Spirit Beast per Wilayah |
 | `19`–`40_*.md` | File Sekte Utama (Faksi) & Perguruan Spesialis (Institusi Ilmu) |
-| `41_CUSTOM_EVENTS.md` s/d `44_...` | Modul Kustom Admin |
-| `45_TIANZHU_SWORD_SECT.md` | Sekte Kuno Tersegel Tianzhu Sword Sect |
-| `46`–`50_PERGURUAN_...md` | Modul Perguruan Spesialis Baru Shenmu Zhou |
-| `51_SPECIAL_ITEMS.md` | Katalog Artefak Purba Legendaris & Item Spesial |
+| `46_CUSTOM_EVENTS.md` s/d `49_CUSTOM_TECHNIQUES.md` | Modul Kustom Admin |
+| `31_TIANZHU_SWORD_SECT.md` | Sekte Kuno Tersegel Tianzhu Sword Sect |
+| `32`–`43_PERGURUAN_...md` | Modul Perguruan Spesialis Baru Shenmu Zhou |
+| `50_SPECIAL_ITEMS.md` | Katalog Artefak Purba Legendaris & Item Spesial |

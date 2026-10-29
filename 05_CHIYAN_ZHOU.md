@@ -1,8 +1,8 @@
 # 🌋 Chiyan Zhou (赤炎州) — Wilayah Api Vulkanik & Penempaan Spirit
 
-> **Modul:** 05 — Chiyan Zhou
+> **Modul:** 5 — Chiyan Zhou
 > **Tema:** Qi Api & Lava / Gunung Berapi / Penempaan Senjata Spirit / Alkimia Suhu Tinggi
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `20_DANHUANG_ALCHEMIST_SECT.md`, `23_CHIYAN_PALACE.md`, `31_PERGURUAN_PENEMPA_SHENDU.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `23_DANHUANG_ALCHEMIST_SECT.md`, `26_CHIYAN_PALACE.md`, `34_PERGURUAN_PENEMPA_SHENDU.md`, `INDEX.md`
 
 ---
 
@@ -111,10 +111,10 @@ Desa spesialis penempaan kuali alkimia di dekat sumber air panas selatan Puncak 
 
 ## 3. Sekte & Perguruan di Chiyan Zhou
 
-1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`23_CHIYAN_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Api Purba dan teknik pengontrolan Lava.
-2. **Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)** [`20_DANHUANG_ALCHEMIST_SECT.md`]: Sekte Utama Alkimia terkemuka penguasa resep Pill Breakthrough.
-3. **Perguruan Penempa Besi Shendu (Shendu Forging Academy / 神都锻造学院)** [`31_PERGURUAN_PENEMPA_SHENDU.md`]: Perguruan Spesialis yang melatih seni peleburan logam spirit, meteorit api, dan penempaan jiwa.
-4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shendu yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Lava Kawah.
+1. **Istana Api Chiyan (Chiyan Palace / 赤炎宫)** [`26_CHIYAN_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Api Purba dan teknik pengontrolan Lava.
+2. **Sekte Alkimia Danhuang (Danhuang Alchemist Sect / 丹皇宗)** [`23_DANHUANG_ALCHEMIST_SECT.md`]: Sekte Utama Alkimia terkemuka penguasa resep Pill Breakthrough.
+3. **Perguruan Penempa Besi Shendu (Shendu Forging Academy / 神都锻造学院)** [`34_PERGURUAN_PENEMPA_SHENDU.md`]: Perguruan Spesialis yang melatih seni peleburan logam spirit, meteorit api, dan penempaan jiwa.
+4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Shendu yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Lava Kawah.
 
 ---
 

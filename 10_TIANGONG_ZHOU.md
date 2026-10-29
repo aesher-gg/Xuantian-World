@@ -2,7 +2,7 @@
 
 > **Modul:** 10 — Tiangong Zhou
 > **Tema:** Transportasi Udara / Benteng Melayang (Floating Citadel) / Guild Kapal Terbang / Formasi Melayang & Navigasi Udara
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `15_ECONOMY_SYSTEM.md`, `33_PERGURUAN_FORMASI_TIANGONG.md`, `34_PERGURUAN_KEMUDI_TIANGONG.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_ECONOMY_SYSTEM.md`, `36_PERGURUAN_FORMASI_TIANGONG.md`, `37_PERGURUAN_KEMUDI_TIANGONG.md`, `INDEX.md`
 
 ---
 
@@ -102,9 +102,9 @@ Pusat akademi pelatihan penerbangan di pulau melayang sebelah timur Benteng Tian
 ## 3. Sekte & Perguruan di Tiangong Zhou
 
 1. **Serikat Airship Tiangong (Tiangong Airship Union)** [`12_CROSS_REGION_ORGANIZATIONS.md`]: Organisasi penerbangan lintas wilayah terbesar.
-2. **Perguruan Formasi Tiangong (Tiangong Array Pavilion / 天宫阵法学院)** [`33_PERGURUAN_FORMASI_TIANGONG.md`]: Perguruan / Sekte Spesialis piringan formasi portabel, barrier ruang, dan kristal levitasi.
-3. **Perguruan Kemudi Udara Tiangong (Tiangong Feihang Guild / 天宫飞航学院)** [`34_PERGURUAN_KEMUDI_TIANGONG.md`]: Perguruan Spesialis melatih pilot profesional, navigasi badai, dan taktik pertempuran udara.
-4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Benteng Melayang Tiangong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Airship.
+2. **Perguruan Formasi Tiangong (Tiangong Array Pavilion / 天宫阵法学院)** [`36_PERGURUAN_FORMASI_TIANGONG.md`]: Perguruan / Sekte Spesialis piringan formasi portabel, barrier ruang, dan kristal levitasi.
+3. **Perguruan Kemudi Udara Tiangong (Tiangong Feihang Guild / 天宫飞航学院)** [`37_PERGURUAN_KEMUDI_TIANGONG.md`]: Perguruan Spesialis melatih pilot profesional, navigasi badai, dan taktik pertempuran udara.
+4. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Benteng Melayang Tiangong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Airship.
 
 ---
 

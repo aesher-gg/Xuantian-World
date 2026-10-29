@@ -1,8 +1,8 @@
 # 🐉 Canglong Zhou (苍龙州) — Pegunungan Pedang & Lembah Naga Spirit
 
-> **Modul:** 04 — Canglong Zhou
+> **Modul:** 4 — Canglong Zhou
 > **Tema:** Qi Angin & Logam / Pegunungan Tajam / Seni Pedang & Pedang Intent / Penjinakan Beast Pegunungan
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `21_CANGLONG_SWORD_PAVILION.md`, `35_PERGURUAN_NIAT_PEDANG_QINGFENG.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `24_CANGLONG_SWORD_PAVILION.md`, `38_PERGURUAN_NIAT_PEDANG_QINGFENG.md`, `INDEX.md`
 
 ---
 
@@ -112,9 +112,9 @@ Desa penempa tradisional yang menggantung di tebing curam dekat situs jatuhnya m
 
 ## 3. Sekte & Perguruan di Canglong Zhou
 
-1. **Paviliun Pedang Canglong (Canglong Sword Pavilion / 苍龙剑阁)** [`21_CANGLONG_SWORD_PAVILION.md`]: Sekte Utama penguasa Puncak Canglong dengan spesialisasi Seni Pedang Naga dan Pedang Terbang.
-2. **Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy / 青风剑意学院)** [`35_PERGURUAN_NIAT_PEDANG_QINGFENG.md`]: Perguruan Spesialis yang melatih keheningan pikiran, manipulasi Qi Angin, dan integrasi Niat Pedang (*Sword Intent*).
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Canglong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Tebing Pedang.
+1. **Paviliun Pedang Canglong (Canglong Sword Pavilion / 苍龙剑阁)** [`24_CANGLONG_SWORD_PAVILION.md`]: Sekte Utama penguasa Puncak Canglong dengan spesialisasi Seni Pedang Naga dan Pedang Terbang.
+2. **Perguruan Niat Pedang Qingfeng (Qingfeng Sword Intent Academy / 青风剑意学院)** [`38_PERGURUAN_NIAT_PEDANG_QINGFENG.md`]: Perguruan Spesialis yang melatih keheningan pikiran, manipulasi Qi Angin, dan integrasi Niat Pedang (*Sword Intent*).
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Canglong yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Tebing Pedang.
 
 ---
 

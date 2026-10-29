@@ -2,7 +2,7 @@
 
 > **Modul:** players — dirujuk lewat `INDEX.md` §3, HANYA dipakai saat karakter yang namanya terdaftar di sini dimainkan untuk **pertama kali**.
 > **⚠️ SIFAT FILE & DIREKTORI: READ-ONLY MUTLAK BAGI AI.** Ini murni katalog & referensi **data awal** karakter — bukan sistem save, bukan checkpoint, bukan status terkini. AI tidak pernah menulis, mengedit, atau menyarankan perubahan pada file ini maupun file individual di folder `players/`. Hanya **admin** yang berhak mengubah isinya, langsung di GitHub, di luar sesi roleplay.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `13_SPIRITUAL_ROOT_SYSTEM.md` (Akar Spiritual), `15_ECONOMY_SYSTEM.md` (Item Origin & mata uang)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `13_SPIRITUAL_ROOT_SYSTEM.md` (Akar Spiritual), `18_ECONOMY_SYSTEM.md` (Item Origin & mata uang)
 
 ---
 
