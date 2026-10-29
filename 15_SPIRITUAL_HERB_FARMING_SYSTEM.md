@@ -30,7 +30,7 @@ ActualGrowthDays = Max(1, BaseGrowthDays × SoilMultiplier × (1.0 - FertilizerD
 ```
 
 *Contoh Perhitungan:* Benih Lotus Es Abadi (Base: 14 hari) ditanam di Tanah Spirit Grade 3 (`SoilMultiplier = 0.50`) dengan Pupuk Qi (`0.30`) oleh kultivator ber-Akar Spiritual Kayu (`0.30`):
-$$	ext{ActualGrowthDays} = 14 	imes 0.50 	imes (1.0 - 0.30 - 0.30) = 7 	imes 0.40 = 2.8 	ext{ Hari (dibulatkan 3 Hari)}.$$
+$$\text{ActualGrowthDays} = 14 \times 0.50 \times (1.0 - 0.30 - 0.30) = 7 \times 0.40 = 2.8 \text{ Hari (dibulatkan 3 Hari)}.$$
 
 ---
 
@@ -92,72 +92,72 @@ Katalog resmi komprehensif seluruh 200 spesies tanaman spiritual (herbal, rumput
 ### 🌿 Tier 2 – Ranah Kaimai (Meridian Awakening Plants)
 | # | Nama Tanaman | Kategori / Jenis | Wilayah Asal | Standar Waktu Tumbuh | Utama Kegunaan / Efek | Harga Pasaran Standar |
 |---|---|---|---|---|---|---|
-| 1 | **Ginseng Nadi Merah** *(Red Vein Ginseng)* | Akar Herbal | Shenmu Zhou / Zhonghua Zhou | 10 Hari | Bahan utama Pil Pembuka Nadi (Bonus Breakthrough Realm 2 +10%) | 1.5 Tael Emas (GT) / 15 ST |
-| 2 | **Teh Embun Bintang** *(Star Dew Tea)* | Daun Teh Spirit | Canglong Zhou / Tiangong Zhou | 12 Hari | Meningkatkan kecepatan regenerasi Qi +10% selama 6 jam saat diseduh | 2.5 Tael Emas (GT) / liang |
-| 3 | **Bunga Es Hanbing** *(Hanbing Frost Flower)* | Bunga Spirit | Beihan Zhou | 8 Hari | Bahan racikan Pil Penawar Racun Api & Pil Alkimia Es Tier 2 | 2 Tael Emas (GT) / 20 ST |
-| 4 | **Pohon Kayu Lumu** *(Lumu Wood Tree)* | Pohon Spirit | Shenmu Zhou | 15 Hari | Batang kayu fleksibel ber-Qi tinggi untuk perkakas & busur spirit | 5 Tael Emas (GT) / 0.5 LSS |
-| 5 | **Jamur Bayangan Kelam** *(Dark Shadow Mushroom)* | Jamur Spirit | Youming Zhou | 7 Hari | Bahan racun biologis pelumpuh saraf & Pil Penyamaran Bayangan | 1.8 Tael Emas (GT) |
-| 6 | **Rumput Tembaga Merah** *(Red Copper Grass)* | Rumput Spirit | Chiyan Zhou | 9 Hari | Diolah menjadi serbuk penguat leburan perunggu spirit | 1.2 Tael Emas (GT) |
-| 7 | **Bambu Belang Harimau** *(Tiger Stripe Bamboo)* | Bambu Spirit | Canglong Zhou | 14 Hari | Bahan gagang tombak & busur panah ketapel spirit | 4 Tael Emas (GT) |
-| 8 | **Lotus Karang Laut** *(Sea Coral Lotus)* | Lotus Spirit | Canghai Zhou | 11 Hari | Menghasilkan minyak pelumas piringan formasi kapal laut | 1.6 Tael Emas (GT) |
-| 9 | **Akar Licorice Spirit** *(Spirit Licorice Root)* | Akar Herbal | Zhonghua Zhou | 8 Hari | Bahan Penetralisir rasa pahit & penyeimbang reaksi kimia pill | 1 Tael Emas (GT) / 10 ST |
-| 10 | **Pohon Pir Salju** *(Snow Pear Tree)* | Pohon Buah Spirit | Beihan Zhou | 18 Hari | Menghasilkan Buah Pir Salju (+30 HP & meredakan batuk darah) | 3 Tael Emas (GT) |
-| 11 | **Bunga Violet Malam** *(Night Violet Flower)* | Bunga Spirit | Youming Zhou | 9 Hari | Bahan pembuatan tinta jimat penenang jiwa nocturnal | 1.4 Tael Emas (GT) |
-| 12 | **Teh Bambu Giok** *(Jade Bamboo Tea)* | Daun Teh Spirit | Shenmu Zhou | 12 Hari | Meredakan emosi tidak stabil & memperlancar aliran Qi Kayu | 2 Tael Emas (GT) / liang |
-| 13 | **Sulur Duridarah** *(Bloodthorn Vine)* | Sulur Merambat | Youming Zhou | 10 Hari | Diolah menjadi Cambuk Sulur Beracun atau jaring penjerat beast | 1.5 Tael Emas (GT) |
-| 14 | **Rumput Halilintar** *(Lightning Bolt Grass)* | Rumput Spirit | Juejing Zhou | 8 Hari | Bahan campuran tinta jimat elemen petir Tier 2 | 2.2 Tael Emas (GT) |
-| 15 | **Akar Teratai Batu** *(Stone Lotus Root)* | Akar Herbal | Xixuan Zhou | 13 Hari | Memperkeras kekebalan kulit terhadap serangan tumpul (+5 Def) | 2.5 Tael Emas (GT) |
-| 16 | **Pohon Persik Spirit** *(Spirit Peach Tree)* | Pohon Buah Spirit | Zhonghua Zhou | 20 Hari | Menghasilkan Buah Persik Spirit (+25 Stamina & +20 HP) | 4 Tael Emas (GT) |
-| 17 | **Bunga Krisan Emas** *(Golden Chrysanthemum)* | Bunga Spirit | Zhonghua Zhou | 9 Hari | Campuran ramuan pembersih racun mata & penajam penglihatan | 1.2 Tael Emas (GT) |
-| 18 | **Jamur Bintik Merah** *(Red Speckled Mushroom)* | Jamur Spirit | Chiyan Zhou | 8 Hari | Bahan obat perangsang vitalitas bertarung sementara | 1.5 Tael Emas (GT) |
-| 19 | **Teh Kabut Pegunungan** *(Mountain Mist Tea)* | Daun Teh Spirit | Canglong Zhou | 11 Hari | Meningkatkan fokus saat mempelajari kitab pedang dasar | 1.8 Tael Emas (GT) / liang |
-| 20 | **Rumput Sisik Serpent** *(Serpent Scale Grass)* | Rumput Spirit | Canghai Zhou | 10 Hari | Bahan penyamak kulit spirit beast agar lebih lentur | 1.4 Tael Emas (GT) |
-| 21 | **Bambu Serat Biru** *(Blue Fiber Bamboo)* | Bambu Spirit | Tiangong Zhou | 13 Hari | Bahan benang layang-layang pengintai & bingkai alat terbang | 3.5 Tael Emas (GT) |
-| 22 | **Akar Bawang Spirit** *(Spirit Onion Root)* | Akar Herbal | Zhonghua Zhou | 7 Hari | Pemicu rasa hangat instan untuk pemulihan hipotermia ringan | 80 Tael Perak (ST) |
-| 23 | **Lotus Daun Lebar** *(Broadleaf Lotus)* | Lotus Spirit | Canghai Zhou | 12 Hari | Alas pengeringan benih obat agar bebas jamur | 1.2 Tael Emas (GT) |
-| 24 | **Jamur Kayu Hitam** *(Black Wood Fungus)* | Jamur Spirit | Youming Zhou | 9 Hari | Bahan racikan Pil Pemurni Darah Kotor | 1.6 Tael Emas (GT) |
-| 25 | **Bunga Lavender Spirit** *(Spirit Lavender)* | Bunga Spirit | Shenmu Zhou | 8 Hari | Aroma terapi pemulih kelaparan & penenang jiwa | 1 Tael Emas (GT) |
-| 26 | **Pohon Kayu Besi Spirit** *(Spirit Ironwood Tree)* | Pohon Spirit | Canglong Zhou | 22 Hari | Kayu keras sekeras besi untuk perisai kayu & tiang dermaga | 6 Tael Emas (GT) |
-| 27 | **Rumput Angin Gurun** *(Desert Wind Grass)* | Rumput Spirit | Xixuan Zhou | 8 Hari | Campuran ramuan stamina pembawa barang di gurun pasir | 1.1 Tael Emas (GT) |
-| 28 | **Teh Melati Perak** *(Silver Jasmine Tea)* | Daun Teh Spirit | Zhonghua Zhou | 10 Hari | Seduhan penenang racun alkohol & zat pemicu pusing | 1.5 Tael Emas (GT) / liang |
-| 29 | **Akar Talas Spirit** *(Spirit Taro Root)* | Akar Herbal | Shenmu Zhou | 9 Hari | Bahan makanan olahan tinggi kalori pengganti ransum perjalanan | 1 Tael Emas (GT) |
-| 30 | **Sulur Awan Melayang** *(Floating Cloud Vine)* | Sulur Merambat | Tiangong Zhou | 14 Hari | Tali panjat sangat ringan tahan beban hingga 500 jin | 4 Tael Emas (GT) |
+| 1 | **Ginseng Nadi Merah** *(Red Vein Ginseng)* | Akar Herbal | Shenmu Zhou / Zhonghua Zhou | 10 Hari | Bahan utama Pil Pembuka Nadi (Bonus Breakthrough Realm 2 +10%) | 15 Tael Perak (ST) |
+| 2 | **Teh Embun Bintang** *(Star Dew Tea)* | Daun Teh Spirit | Canglong Zhou / Tiangong Zhou | 12 Hari | Meningkatkan kecepatan regenerasi Qi +10% selama 6 jam saat diseduh | 25 Tael Perak (ST) / liang |
+| 3 | **Bunga Es Hanbing** *(Hanbing Frost Flower)* | Bunga Spirit | Beihan Zhou | 8 Hari | Bahan racikan Pil Penawar Racun Api & Pil Alkimia Es Tier 2 | 20 Tael Perak (ST) |
+| 4 | **Pohon Kayu Lumu** *(Lumu Wood Tree)* | Pohon Spirit | Shenmu Zhou | 15 Hari | Batang kayu fleksibel ber-Qi tinggi untuk perkakas & busur spirit | 50 Tael Perak (ST) / 0.5 JT |
+| 5 | **Jamur Bayangan Kelam** *(Dark Shadow Mushroom)* | Jamur Spirit | Youming Zhou | 7 Hari | Bahan racun biologis pelumpuh saraf & Pil Penyamaran Bayangan | 18 Tael Perak (ST) |
+| 6 | **Rumput Tembaga Merah** *(Red Copper Grass)* | Rumput Spirit | Chiyan Zhou | 9 Hari | Diolah menjadi serbuk penguat leburan perunggu spirit | 12 Tael Perak (ST) |
+| 7 | **Bambu Belang Harimau** *(Tiger Stripe Bamboo)* | Bambu Spirit | Canglong Zhou | 14 Hari | Bahan gagang tombak & busur panah ketapel spirit | 40 Tael Perak (ST) |
+| 8 | **Lotus Karang Laut** *(Sea Coral Lotus)* | Lotus Spirit | Canghai Zhou | 11 Hari | Menghasilkan minyak pelumas piringan formasi kapal laut | 16 Tael Perak (ST) |
+| 9 | **Akar Licorice Spirit** *(Spirit Licorice Root)* | Akar Herbal | Zhonghua Zhou | 8 Hari | Bahan Penetralisir rasa pahit & penyeimbang reaksi kimia pill | 10 Tael Perak (ST) |
+| 10 | **Pohon Pir Salju** *(Snow Pear Tree)* | Pohon Buah Spirit | Beihan Zhou | 18 Hari | Menghasilkan Buah Pir Salju (+30 HP & meredakan batuk darah) | 30 Tael Perak (ST) |
+| 11 | **Bunga Violet Malam** *(Night Violet Flower)* | Bunga Spirit | Youming Zhou | 9 Hari | Bahan pembuatan tinta jimat penenang jiwa nocturnal | 14 Tael Perak (ST) |
+| 12 | **Teh Bambu Giok** *(Jade Bamboo Tea)* | Daun Teh Spirit | Shenmu Zhou | 12 Hari | Meredakan emosi tidak stabil & memperlancar aliran Qi Kayu | 20 Tael Perak (ST) / liang |
+| 13 | **Sulur Duridarah** *(Bloodthorn Vine)* | Sulur Merambat | Youming Zhou | 10 Hari | Diolah menjadi Cambuk Sulur Beracun atau jaring penjerat beast | 15 Tael Perak (ST) |
+| 14 | **Rumput Halilintar** *(Lightning Bolt Grass)* | Rumput Spirit | Juejing Zhou | 8 Hari | Bahan campuran tinta jimat elemen petir Tier 2 | 22 Tael Perak (ST) |
+| 15 | **Akar Teratai Batu** *(Stone Lotus Root)* | Akar Herbal | Xixuan Zhou | 13 Hari | Memperkeras kekebalan kulit terhadap serangan tumpul (+5 Def) | 25 Tael Perak (ST) |
+| 16 | **Pohon Persik Spirit** *(Spirit Peach Tree)* | Pohon Buah Spirit | Zhonghua Zhou | 20 Hari | Menghasilkan Buah Persik Spirit (+25 Stamina & +20 HP) | 40 Tael Perak (ST) |
+| 17 | **Bunga Krisan Emas** *(Golden Chrysanthemum)* | Bunga Spirit | Zhonghua Zhou | 9 Hari | Campuran ramuan pembersih racun mata & penajam penglihatan | 12 Tael Perak (ST) |
+| 18 | **Jamur Bintik Merah** *(Red Speckled Mushroom)* | Jamur Spirit | Chiyan Zhou | 8 Hari | Bahan obat perangsang vitalitas bertarung sementara | 15 Tael Perak (ST) |
+| 19 | **Teh Kabut Pegunungan** *(Mountain Mist Tea)* | Daun Teh Spirit | Canglong Zhou | 11 Hari | Meningkatkan fokus saat mempelajari kitab pedang dasar | 18 Tael Perak (ST) / liang |
+| 20 | **Rumput Sisik Serpent** *(Serpent Scale Grass)* | Rumput Spirit | Canghai Zhou | 10 Hari | Bahan penyamak kulit spirit beast agar lebih lentur | 14 Tael Perak (ST) |
+| 21 | **Bambu Serat Biru** *(Blue Fiber Bamboo)* | Bambu Spirit | Tiangong Zhou | 13 Hari | Bahan benang layang-layang pengintai & bingkai alat terbang | 35 Tael Perak (ST) |
+| 22 | **Akar Bawang Spirit** *(Spirit Onion Root)* | Akar Herbal | Zhonghua Zhou | 7 Hari | Pemicu rasa hangat instan untuk pemulihan hipotermia ringan | 8 Tael Perak (ST) |
+| 23 | **Lotus Daun Lebar** *(Broadleaf Lotus)* | Lotus Spirit | Canghai Zhou | 12 Hari | Alas pengeringan benih obat agar bebas jamur | 12 Tael Perak (ST) |
+| 24 | **Jamur Kayu Hitam** *(Black Wood Fungus)* | Jamur Spirit | Youming Zhou | 9 Hari | Bahan racikan Pil Pemurni Darah Kotor | 16 Tael Perak (ST) |
+| 25 | **Bunga Lavender Spirit** *(Spirit Lavender)* | Bunga Spirit | Shenmu Zhou | 8 Hari | Aroma terapi pemulih kelaparan & penenang jiwa | 10 Tael Perak (ST) |
+| 26 | **Pohon Kayu Besi Spirit** *(Spirit Ironwood Tree)* | Pohon Spirit | Canglong Zhou | 22 Hari | Kayu keras sekeras besi untuk perisai kayu & tiang dermaga | 60 Tael Perak (ST) |
+| 27 | **Rumput Angin Gurun** *(Desert Wind Grass)* | Rumput Spirit | Xixuan Zhou | 8 Hari | Campuran ramuan stamina pembawa barang di gurun pasir | 11 Tael Perak (ST) |
+| 28 | **Teh Melati Perak** *(Silver Jasmine Tea)* | Daun Teh Spirit | Zhonghua Zhou | 10 Hari | Seduhan penenang racun alkohol & zat pemicu pusing | 15 Tael Perak (ST) / liang |
+| 29 | **Akar Talas Spirit** *(Spirit Taro Root)* | Akar Herbal | Shenmu Zhou | 9 Hari | Bahan makanan olahan tinggi kalori pengganti ransum perjalanan | 10 Tael Perak (ST) |
+| 30 | **Sulur Awan Melayang** *(Floating Cloud Vine)* | Sulur Merambat | Tiangong Zhou | 14 Hari | Tali panjat sangat ringan tahan beban hingga 500 jin | 40 Tael Perak (ST) |
 
 ---
 
 ### 🌿 Tier 3 – Ranah Ningyuan (Qi Condensed Plants)
 | # | Nama Tanaman | Kategori / Jenis | Wilayah Asal | Standar Waktu Tumbuh | Utama Kegunaan / Efek | Harga Pasaran Standar |
 |---|---|---|---|---|---|---|
-| 1 | **Lotus Es Abadi** *(Eternal Frost Lotus)* | Lotus Spirit | Beihan Zhou / Canghai Zhou | 20 Hari | Bahan utama Pil Penjernih Dantian & Pemulih Retak Dantian | 30 GT (3 LSS) |
-| 2 | **Teh Niat Pedang Qingfeng** *(Qingfeng Sword Intent Tea)* | Daun Teh Spirit | Canglong Zhou | 25 Hari | Memberikan buff sementara Niat Pedang Tajam (+15% Physical Attack) | 45 GT (4.5 LSS) / liang |
-| 3 | **Buah Kristal Api Lava** *(Lava Fire Crystal Fruit)* | Pohon Buah Spirit | Chiyan Zhou | 30 Hari | Bahan utama Pil Pemurni Nyala Api & Pakan Beast Elemen Api | 50 GT (5 LSS) |
-| 4 | **Serat Urat Giok** *(Jade Vein Fiber Bamboo)* | Bambu Spirit | Shenmu Zhou | 18 Hari | Benang piringan formasi ruang portabel & kertas jimat segel jiwa | 35 GT (3.5 LSS) |
-| 5 | **Rumput Inskripsi Rune** *(Rune Inscription Grass)* | Rumput Spirit | Xixuan Zhou | 22 Hari | Tinta jimat khusus inskripsi rune pertahanan Benteng Pasir | 40 GT (4 LSS) |
-| 6 | **Akar Ginseng Es Purba** *(Ancient Frost Ginseng)* | Akar Herbal | Beihan Zhou | 24 Hari | Bahan utama Pil Penahan Dingin Mutlak & Pemulih Suhu Tubuh | 38 GT (3.8 LSS) |
-| 7 | **Bunga Teratai Darah** *(Blood Lotus)* | Lotus Spirit | Youming Zhou | 21 Hari | Bahan Baku Pil Penambah Darah & Pemulih Organ Dalam | 32 GT (3.2 LSS) |
-| 8 | **Pohon Kayu Meteorit** *(Meteorite Wood Tree)* | Pohon Spirit | Chiyan Zhou | 28 Hari | Bahan baku gagang senjata tempaan grade tinggi | 48 GT (4.8 LSS) |
-| 9 | **Jamur Kepala Singa Spirit** *(Spirit Lion Head Mushroom)* | Jamur Spirit | Shenmu Zhou | 19 Hari | Meningkatkan kekuatan otot & Pertahanan Fisik (+10 Def) | 28 GT (2.8 LSS) |
-| 10 | **Teh Bunga Peony Emas** *(Golden Peony Tea)* | Daun Teh Spirit | Zhonghua Zhou | 22 Hari | Menjaga kestabilan kultivasi saat konsumsi pil berturut-turut | 36 GT (3.6 LSS) / liang |
-| 11 | **Rumput Sisik Naga Azure** *(Azure Dragon Scale Grass)* | Rumput Spirit | Canglong Zhou | 20 Hari | Bahan pemurni baja pedang & ramuan penguat sisik beast | 42 GT (4.2 LSS) |
-| 12 | **Sulur Jiwa Terikat** *(Soulbound Vine)* | Sulur Merambat | Shenmu Zhou | 25 Hari | Bahan benang pengikat artefak jiwa & tali jimat penahan iblis | 40 GT (4 LSS) |
-| 13 | **Bambu Bintang Awan** *(Star Cloud Bamboo)* | Bambu Spirit | Tiangong Zhou | 23 Hari | Bahan pipa saluran Qi pada sistem mesin Kapal Terbang | 50 GT (5 LSS) |
-| 14 | **Akar Kunyit Emas Murni** *(Pure Gold Turmeric Root)* | Akar Herbal | Xixuan Zhou | 20 Hari | Bahan penyerap racun logam berat di Dantian | 30 GT (3 LSS) |
-| 15 | **Bunga Es Mawar Salju** *(Snow Rose Frost Flower)* | Bunga Spirit | Beihan Zhou | 18 Hari | Bahan parfum pemikat spirit beast serigala salju | 25 GT (2.5 LSS) |
-| 16 | **Jamur Api Lembah** *(Valley Fire Mushroom)* | Jamur Spirit | Chiyan Zhou | 22 Hari | Bahan ramuan penambah kecepatan tempa besi +15% | 35 GT (3.5 LSS) |
-| 17 | **Pohon Buah Plum Giok** *(Jade Plum Tree)* | Pohon Buah Spirit | Shenmu Zhou | 26 Hari | Buah penyegar Qi (+50 Qi) & penawar rasa lelah Dantian | 38 GT (3.8 LSS) |
-| 18 | **Lotus Lautan Dalam** *(Deep Sea Lotus)* | Lotus Spirit | Canghai Zhou | 24 Hari | Bahan pembuatan Pil Penahan Napas Dalam Air (12 Jam) | 42 GT (4.2 LSS) |
-| 19 | **Teh Teratai Putih** *(White Lotus Tea)* | Daun Teh Spirit | Zhonghua Zhou | 20 Hari | Meredakan racun pikiran & menenangkan efek halusinasi | 30 GT (3 LSS) / liang |
-| 20 | **Rumput Tanduk Rusa Spirit** *(Spirit Deer Horn Grass)* | Rumput Spirit | Shenmu Zhou | 19 Hari | Bahan utama ramuan peningkat vitalitas & pembakar stamina | 28 GT (2.8 LSS) |
-| 21 | **Sulur Bayangan Kelam** *(Dark Shadow Vine)* | Sulur Merambat | Youming Zhou | 21 Hari | Diolah menjadi jaring penangkap assassin atau serangga beracun | 34 GT (3.4 LSS) |
-| 22 | **Akar Urat Besi** *(Iron Vein Root)* | Akar Herbal | Chiyan Zhou | 23 Hari | Pemicu pengerasan struktur tulang saat breakthrough Realm 3 | 36 GT (3.6 LSS) |
-| 23 | **Bambu Petir Ringan** *(Light Thunder Bamboo)* | Bambu Spirit | Juejing Zhou | 25 Hari | Diolah menjadi tongkat pemicu kejutan petir ringan | 45 GT (4.5 LSS) |
-| 24 | **Bunga Seruni Bulan** *(Moon Seruni Flower)* | Bunga Spirit | Beihan Zhou | 20 Hari | Bahan tinta jimat penyerap cahaya malam | 32 GT (3.2 LSS) |
-| 25 | **Jamur Ungu Spirit** *(Spirit Purple Mushroom)* | Jamur Spirit | Shenmu Zhou | 18 Hari | Bahan pencampur pil pemurni energi Qi murni | 29 GT (2.9 LSS) |
-| 26 | **Pohon Kurma Merah Spirit** *(Spirit Red Date Tree)* | Pohon Buah Spirit | Zhonghua Zhou | 27 Hari | Buah pemulih Stamina & darah (+40 HP) | 35 GT (3.5 LSS) |
-| 27 | **Rumput Karang Bintang** *(Star Coral Grass)* | Rumput Spirit | Canghai Zhou | 22 Hari | Bahan ramuan pelindung gesekan air tekanan tinggi | 38 GT (3.8 LSS) |
-| 28 | **Teh Daun Pinus Purba** *(Ancient Pine Leaf Tea)* | Daun Teh Spirit | Canglong Zhou | 24 Hari | Meningkatkan daya tahan tubuh terhadap cuaca ekstrem | 33 GT (3.3 LSS) / liang |
-| 29 | **Akar Keladi Spirit** *(Spirit Caladium Root)* | Akar Herbal | Shenmu Zhou | 21 Hari | Bahan dasar pembuatan perekat kertas jimat Tier 3 | 30 GT (3 LSS) |
-| 30 | **Lotus Pelangi Gurun** *(Desert Rainbow Lotus)* | Lotus Spirit | Xixuan Zhou | 25 Hari | Bahan ramuan pencari mata air bawah tanah di gurun | 40 GT (4 LSS) |
+| 1 | **Lotus Es Abadi** *(Eternal Frost Lotus)* | Lotus Spirit | Beihan Zhou / Canghai Zhou | 20 Hari | Bahan utama Pil Penjernih Dantian & Pemulih Retak Dantian | 30 Tael Giok (JT) / 3 LSS |
+| 2 | **Teh Niat Pedang Qingfeng** *(Qingfeng Sword Intent Tea)* | Daun Teh Spirit | Canglong Zhou | 25 Hari | Memberikan buff sementara Niat Pedang Tajam (+15% Physical Attack) | 45 Tael Giok (JT) / 4.5 LSS |
+| 3 | **Buah Kristal Api Lava** *(Lava Fire Crystal Fruit)* | Pohon Buah Spirit | Chiyan Zhou | 30 Hari | Bahan utama Pil Pemurni Nyala Api & Pakan Beast Elemen Api | 50 Tael Giok (JT) / 5 LSS |
+| 4 | **Serat Urat Giok** *(Jade Vein Fiber Bamboo)* | Bambu Spirit | Shenmu Zhou | 18 Hari | Benang piringan formasi ruang portabel & kertas jimat segel jiwa | 35 Tael Giok (JT) / 3.5 LSS |
+| 5 | **Rumput Inskripsi Rune** *(Rune Inscription Grass)* | Rumput Spirit | Xixuan Zhou | 22 Hari | Tinta jimat khusus inskripsi rune pertahanan Benteng Pasir | 40 Tael Giok (JT) / 4 LSS |
+| 6 | **Akar Ginseng Es Purba** *(Ancient Frost Ginseng)* | Akar Herbal | Beihan Zhou | 24 Hari | Bahan utama Pil Penahan Dingin Mutlak & Pemulih Suhu Tubuh | 38 Tael Giok (JT) / 3.8 LSS |
+| 7 | **Bunga Teratai Darah** *(Blood Lotus)* | Lotus Spirit | Youming Zhou | 21 Hari | Bahan Baku Pil Penambah Darah & Pemulih Organ Dalam | 32 Tael Giok (JT) / 3.2 LSS |
+| 8 | **Pohon Kayu Meteorit** *(Meteorite Wood Tree)* | Pohon Spirit | Chiyan Zhou | 28 Hari | Bahan baku gagang senjata tempaan grade tinggi | 48 Tael Giok (JT) / 4.8 LSS |
+| 9 | **Jamur Kepala Singa Spirit** *(Spirit Lion Head Mushroom)* | Jamur Spirit | Shenmu Zhou | 19 Hari | Meningkatkan kekuatan otot & Pertahanan Fisik (+10 Def) | 28 Tael Giok (JT) / 2.8 LSS |
+| 10 | **Teh Bunga Peony Emas** *(Golden Peony Tea)* | Daun Teh Spirit | Zhonghua Zhou | 22 Hari | Menjaga kestabilan kultivasi saat konsumsi pil berturut-turut | 36 Tael Giok (JT) / 3.6 LSS |
+| 11 | **Rumput Sisik Naga Azure** *(Azure Dragon Scale Grass)* | Rumput Spirit | Canglong Zhou | 20 Hari | Bahan pemurni baja pedang & ramuan penguat sisik beast | 42 Tael Giok (JT) / 4.2 LSS |
+| 12 | **Sulur Jiwa Terikat** *(Soulbound Vine)* | Sulur Merambat | Shenmu Zhou | 25 Hari | Bahan benang pengikat artefak jiwa & tali jimat penahan iblis | 40 Tael Giok (JT) / 4 LSS |
+| 13 | **Bambu Bintang Awan** *(Star Cloud Bamboo)* | Bambu Spirit | Tiangong Zhou | 23 Hari | Bahan pipa saluran Qi pada sistem mesin Kapal Terbang | 50 Tael Giok (JT) / 5 LSS |
+| 14 | **Akar Kunyit Emas Murni** *(Pure Gold Turmeric Root)* | Akar Herbal | Xixuan Zhou | 20 Hari | Bahan penyerap racun logam berat di Dantian | 30 Tael Giok (JT) / 3 LSS |
+| 15 | **Bunga Es Mawar Salju** *(Snow Rose Frost Flower)* | Bunga Spirit | Beihan Zhou | 18 Hari | Bahan parfum pemikat spirit beast serigala salju | 25 Tael Giok (JT) / 2.5 LSS |
+| 16 | **Jamur Api Lembah** *(Valley Fire Mushroom)* | Jamur Spirit | Chiyan Zhou | 22 Hari | Bahan ramuan penambah kecepatan tempa besi +15% | 35 Tael Giok (JT) / 3.5 LSS |
+| 17 | **Pohon Buah Plum Giok** *(Jade Plum Tree)* | Pohon Buah Spirit | Shenmu Zhou | 26 Hari | Buah penyegar Qi (+50 Qi) & penawar rasa lelah Dantian | 38 Tael Giok (JT) / 3.8 LSS |
+| 18 | **Lotus Lautan Dalam** *(Deep Sea Lotus)* | Lotus Spirit | Canghai Zhou | 24 Hari | Bahan pembuatan Pil Penahan Napas Dalam Air (12 Jam) | 42 Tael Giok (JT) / 4.2 LSS |
+| 19 | **Teh Teratai Putih** *(White Lotus Tea)* | Daun Teh Spirit | Zhonghua Zhou | 20 Hari | Meredakan racun pikiran & menenangkan efek halusinasi | 30 Tael Giok (JT) / 3 LSS |
+| 20 | **Rumput Tanduk Rusa Spirit** *(Spirit Deer Horn Grass)* | Rumput Spirit | Shenmu Zhou | 19 Hari | Bahan utama ramuan peningkat vitalitas & pembakar stamina | 28 Tael Giok (JT) / 2.8 LSS |
+| 21 | **Sulur Bayangan Kelam** *(Dark Shadow Vine)* | Sulur Merambat | Youming Zhou | 21 Hari | Diolah menjadi jaring penangkap assassin atau serangga beracun | 34 Tael Giok (JT) / 3.4 LSS |
+| 22 | **Akar Urat Besi** *(Iron Vein Root)* | Akar Herbal | Chiyan Zhou | 23 Hari | Pemicu pengerasan struktur tulang saat breakthrough Realm 3 | 36 Tael Giok (JT) / 3.6 LSS |
+| 23 | **Bambu Petir Ringan** *(Light Thunder Bamboo)* | Bambu Spirit | Juejing Zhou | 25 Hari | Diolah menjadi tongkat pemicu kejutan petir ringan | 45 Tael Giok (JT) / 4.5 LSS |
+| 24 | **Bunga Seruni Bulan** *(Moon Seruni Flower)* | Bunga Spirit | Beihan Zhou | 20 Hari | Bahan tinta jimat penyerap cahaya malam | 32 Tael Giok (JT) / 3.2 LSS |
+| 25 | **Jamur Ungu Spirit** *(Spirit Purple Mushroom)* | Jamur Spirit | Shenmu Zhou | 18 Hari | Bahan pencampur pil pemurni energi Qi murni | 29 Tael Giok (JT) / 2.9 LSS |
+| 26 | **Pohon Kurma Merah Spirit** *(Spirit Red Date Tree)* | Pohon Buah Spirit | Zhonghua Zhou | 27 Hari | Buah pemulih Stamina & darah (+40 HP) | 35 Tael Giok (JT) / 3.5 LSS |
+| 27 | **Rumput Karang Bintang** *(Star Coral Grass)* | Rumput Spirit | Canghai Zhou | 22 Hari | Bahan ramuan pelindung gesekan air tekanan tinggi | 38 Tael Giok (JT) / 3.8 LSS |
+| 28 | **Teh Daun Pinus Purba** *(Ancient Pine Leaf Tea)* | Daun Teh Spirit | Canglong Zhou | 24 Hari | Meningkatkan daya tahan tubuh terhadap cuaca ekstrem | 33 Tael Giok (JT) / 3.3 LSS |
+| 29 | **Akar Keladi Spirit** *(Spirit Caladium Root)* | Akar Herbal | Shenmu Zhou | 21 Hari | Bahan dasar pembuatan perekat kertas jimat Tier 3 | 30 Tael Giok (JT) / 3 LSS |
+| 30 | **Lotus Pelangi Gurun** *(Desert Rainbow Lotus)* | Lotus Spirit | Xixuan Zhou | 25 Hari | Bahan ramuan pencari mata air bawah tanah di gurun | 40 Tael Giok (JT) / 4 LSS |
 
 ---
 
