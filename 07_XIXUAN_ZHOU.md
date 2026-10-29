@@ -1,8 +1,8 @@
 # 🏜️ Xixuan Zhou (西玄州) — Gurun Pasir Suci Barat & Reruntuhan Purba
 
-> **Modul:** 07 — Xixuan Zhou
+> **Modul:** 7 — Xixuan Zhou
 > **Tema:** Qi Tanah & Pasir / Gurun Luas / Reruntuhan Purba / Talisman & Formasi Segel / Ketahanan Tubuh Fisik
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `25_GOLDEN_BELL_MONASTERY.md`, `32_PERGURUAN_JIMAT_HUANGSHA.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `28_GOLDEN_BELL_MONASTERY.md`, `35_PERGURUAN_JIMAT_HUANGSHA.md`, `INDEX.md`
 
 ---
 
@@ -101,9 +101,9 @@ Permukiman suku penjinak hewan gurun di pinggiran Oasis Ganlu. Tempat penangkara
 
 ## 3. Sekte & Perguruan di Xixuan Zhou
 
-1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`25_GOLDEN_BELL_MONASTERY.md`]: Sekte Utama pembudidaya fisik/tubuh tahan pukulan dengan Akar Spiritual Pertahanan Lonceng Emas.
-2. **Perguruan Jimat Gurun Huangsha (Huangsha Talisman Academy / 黄沙符箓学院)** [`32_PERGURUAN_JIMAT_HUANGSHA.md`]: Perguruan Spesialis pembuatan kertas jimat spirit, tinta darah beast, dan inskripsi rune pertahanan.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Huangsha yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Gurun.
+1. **Kuil Lonceng Emas Gurun (Golden Bell Monastery / 金钟佛寺)** [`28_GOLDEN_BELL_MONASTERY.md`]: Sekte Utama pembudidaya fisik/tubuh tahan pukulan dengan Akar Spiritual Pertahanan Lonceng Emas.
+2. **Perguruan Jimat Gurun Huangsha (Huangsha Talisman Academy / 黄沙符箓学院)** [`35_PERGURUAN_JIMAT_HUANGSHA.md`]: Perguruan Spesialis pembuatan kertas jimat spirit, tinta darah beast, dan inskripsi rune pertahanan.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Huangsha yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Gurun.
 
 ---
 

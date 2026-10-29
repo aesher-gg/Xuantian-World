@@ -2,7 +2,7 @@
 
 > **Modul:** 11 — Juejing Zhou
 > **Tema:** Forbidden Zone / High-Risk High-Reward / Spirit Beast Kuno Purba / Anomali Ruang & Formasi Purba Liar
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `18_BESTIARY.md`, `40_PERGURUAN_EKSPLORASI_JUEJING.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `21_BESTIARY.md`, `43_PERGURUAN_EKSPLORASI_JUEJING.md`, `INDEX.md`
 
 ---
 
@@ -102,8 +102,8 @@ Pos benteng depan di antara Jurang Petir Tanah dan Lembah Retakan Ruang. Tempat 
 ## 3. Sekte & Garnisun di Juejing Zhou
 
 1. **Garnisun Pelindung Juejing (Juejing Guardian Alliance / 绝境守护者联盟)**: Pasukan benteng gabungan veteran dari seluruh 10 Wilayah untuk menjaga stabilitas perbatasan.
-2. **Perguruan Eksplorasi Juejing (Juejing Ancient Exploration Academy / 绝境古阵学院)** [`40_PERGURUAN_EKSPLORASI_JUEJING.md`]: Perguruan / Sekte Spesialis riset formasi purba, pendeteksian anomali ruang, dan ekstraksi kristal ruang.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Pos Depan Juejing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Anomali Ruang.
+2. **Perguruan Eksplorasi Juejing (Juejing Ancient Exploration Academy / 绝境古阵学院)** [`43_PERGURUAN_EKSPLORASI_JUEJING.md`]: Perguruan / Sekte Spesialis riset formasi purba, pendeteksian anomali ruang, dan ekstraksi kristal ruang.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Pos Depan Juejing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Anomali Ruang.
 
 ---
 

@@ -3,7 +3,7 @@
 > **Modul:** 13 — Spiritual Root System
 > **Untuk:** Roleplay AI Game Master Xuantian World
 > **Prinsip:** Anti-Cheat Enforced — Stable Tier Scaling — Karma-Linked Tribulation
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib), `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` (profesi & kerajinan), `15_ECONOMY_SYSTEM.md` (harga bahan), `16_VITALITY_HUNGER_SYSTEM.md` (HP & Toxin), `17_COMBAT_SYSTEM.md` (Formula Combat), file regional `02`–`11` (Kerapatan Qi regional)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib), `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` (profesi & kerajinan), `18_ECONOMY_SYSTEM.md` (harga bahan), `19_VITALITY_HUNGER_SYSTEM.md` (HP & Toxin), `20_COMBAT_SYSTEM.md` (Formula Combat), file regional `02`–`11` (Kerapatan Qi regional)
 
 ---
 
@@ -119,7 +119,7 @@ QiRegenPerHour = QiCap × 0.05 × RootRegenMultiplier × EnvironmentQiModifier �
 ```
 - **RootRegenMultiplier:** Kayu (1.5x) | Air/Es (1.2x) | Angin/Logam (1.0x) | Tanah (1.0x) | Api (0.9x).
 - **EnvironmentQiModifier:** Disesuaikan dengan Qi Density Modifier wilayah (misal Shenmu Zhou = 1.25x, Juejing Zhou = 1.50x chaotic).
-- **PillToxinPercent:** Penalti racun pill dantian (`16_VITALITY_HUNGER_SYSTEM.md`).
+- **PillToxinPercent:** Penalti racun pill dantian (`19_VITALITY_HUNGER_SYSTEM.md`).
 
 ### 4.2 Formula Regenerasi Qi Meditasi Aktif (Meditation Qi Recovery)
 
@@ -128,7 +128,7 @@ MeditationQiPerMinute = (QiCap × 0.02) × (1 + ComprehensionLevel × 0.10) × S
 ```
 
 ### 4.3 Efek Ruang Spesial & Dilatasi Waktu (Pocket World Time Dilation)
-Untuk tempat khusus yang memiliki Dunia Kecil Mandiri (*Pocket World*), seperti **Gantungan Giok Alam Hunyuan** (`51_SPECIAL_ITEMS.md`):
+Untuk tempat khusus yang memiliki Dunia Kecil Mandiri (*Pocket World*), seperti **Gantungan Giok Alam Hunyuan** (`50_SPECIAL_ITEMS.md`):
 - **Dilatasi Waktu 1:24:** **1 Jam meditasi di dalam dunia giok setara dengan 24 Jam (1 Hari) waktu dunia luar.**
 - **Hasil Meditasi:** Memberikan pemulihan Qi Cap 100% instan dan melipatgandakan serapan wawasan/insight terobosan sebesar 24x lipat tanpa risiko penalti kelelahan Dantian.
 

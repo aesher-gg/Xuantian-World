@@ -1,8 +1,8 @@
 # 🖤 Youming Zhou (幽冥州) — Wilayah Iblis, Bayangan & Racun
 
-> **Modul:** 09 — Youming Zhou
+> **Modul:** 9 — Youming Zhou
 > **Tema:** Qi Bayangan & Kegelapan / Sekte Iblis / Racun Alkimia Toksik / Formasi Jebakan Bayangan / Pembunuhan Sunyi
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `27_YOUMING_DEMONIC_PALACE.md`, `37_PERGURUAN_RACUN_YOUMING.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `21_BESTIARY.md`, `30_YOUMING_DEMONIC_PALACE.md`, `40_PERGURUAN_RACUN_YOUMING.md`, `INDEX.md`
 
 ---
 
@@ -101,9 +101,9 @@ Desa tersembunyi yang dipahat pada stalaktit gua di atas Lembah Kabut Kelam. Par
 
 ## 3. Sekte & Perguruan di Youming Zhou
 
-1. **Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)** [`27_YOUMING_DEMONIC_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Bayangan, Api Hitam, dan Seni Pertempuran Gelap.
-2. **Perguruan Racun Youming (Youming Poison Academy / 幽冥毒影学院)** [`37_PERGURUAN_RACUN_YOUMING.md`]: Perguruan Spesialis alkimia toksik, formulasi racun pelumpuh Qi, jarum rahasia, dan formasi bayangan.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Heian (Pasar Gelap) yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Rawa Racun.
+1. **Sekte Api Iblis Youming (Youming Demonic Palace / 幽冥魔宫)** [`30_YOUMING_DEMONIC_PALACE.md`]: Sekte Utama penguasa Akar Spiritual Bayangan, Api Hitam, dan Seni Pertempuran Gelap.
+2. **Perguruan Racun Youming (Youming Poison Academy / 幽冥毒影学院)** [`40_PERGURUAN_RACUN_YOUMING.md`]: Perguruan Spesialis alkimia toksik, formulasi racun pelumpuh Qi, jarum rahasia, dan formasi bayangan.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Heian (Pasar Gelap) yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Rawa Racun.
 
 ---
 

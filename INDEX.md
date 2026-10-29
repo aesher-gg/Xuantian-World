@@ -1,6 +1,6 @@
 # 🧭 INDEX.md — Hub Navigasi Utama Xuantian World
 
-> **Versi:** 3.3 (Edisi Xuantian World Sequentially Renumbered & Fully Expanded)
+> **Versi:** 3.4 (Edisi Xuantian World Standalone Professions & Sequentially Renumbered)
 > **Repo Base RAW Link:** `https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/`
 
 ---
@@ -11,7 +11,7 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 
 1. **Aturan Mutlak (Setiap Sesi):**
    - Fetch: `00_CORE_RULES_AI_GM.md`
-   - Fetch: `43_CUSTOM_EVENTS.md` (Pengecekan event aktif)
+   - Fetch: `46_CUSTOM_EVENTS.md` (Pengecekan event aktif)
 
 2. **Sesuai Lokasi Karakter Saat Ini:**
    - **Ibu Kota / General:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`
@@ -28,11 +28,14 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 
 3. **Sesuai Aktivitas & Profesi:**
    - **Penerobosan Ranah / Tribulasi:** `13_SPIRITUAL_ROOT_SYSTEM.md`
-   - **Berkebun / Penjinakan Beast / Alkimia / Airship / Formasi / Penempa / Jimat:** `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`
-   - **Transaksi / Harga / Tiket Airship:** `15_ECONOMY_SYSTEM.md`
-   - **Pencekeran Vitalitas / HP / Kelaparan:** `16_VITALITY_HUNGER_SYSTEM.md`
-   - **Pertarungan / Combat:** `17_COMBAT_SYSTEM.md`
-   - **Eksplorasi Liar / Beast:** `18_BESTIARY.md`
+   - **Inti Kerajinan / Alkimia / Formasi / Penempa / Jimat:** `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`
+   - **Berkebun / Pertanian Obat Spirit:** `15_SPIRITUAL_HERB_FARMING_SYSTEM.md`
+   - **Penjinakan & Pelatihan Beast:** `16_BEAST_TAMING_SYSTEM.md`
+   - **Kapal Terbang / Navigasi Airship:** `17_AIRSHIP_NAVIGATION_SYSTEM.md`
+   - **Transaksi / Harga / Tiket Airship:** `18_ECONOMY_SYSTEM.md`
+   - **Pencekeran Vitalitas / HP / Kelaparan:** `19_VITALITY_HUNGER_SYSTEM.md`
+   - **Pertarungan / Combat:** `20_COMBAT_SYSTEM.md`
+   - **Eksplorasi Liar / Beast:** `21_BESTIARY.md`
 
 ---
 
@@ -54,38 +57,41 @@ Saat AI GM menerima tautan `INDEX.md`, AI wajib memuat modul sesuai kebutuhan be
 | 11 | `11_JUEJING_ZHOU.md` | Zona Terlarang & Anomali Ruang | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/11_JUEJING_ZHOU.md?v=2 |
 | 12 | `12_CROSS_REGION_ORGANIZATIONS.md` | Guild Airship, Alkemis, Beast Tamer, Lelang Wanbao | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/12_CROSS_REGION_ORGANIZATIONS.md?v=2 |
 | 13 | `13_SPIRITUAL_ROOT_SYSTEM.md` | 9 Ranah Kultivasi Unik & 5 Hukum Elemen | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/13_SPIRITUAL_ROOT_SYSTEM.md?v=2 |
-| 14 | `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` | Formula Berkebun, Beast, Alkimia, Airship, Formasi, Forging, Talisman | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/14_CRAFTING_AND_PROFESSIONS_SYSTEM.md?v=2 |
-| 15 | `15_ECONOMY_SYSTEM.md` | Dynamic Price Formula & Conversion Rates | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/15_ECONOMY_SYSTEM.md?v=2 |
-| 16 | `16_VITALITY_HUNGER_SYSTEM.md` | Max HP Formula, Fasting, Pill Toxins | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/16_VITALITY_HUNGER_SYSTEM.md?v=2 |
-| 17 | `17_COMBAT_SYSTEM.md` | Formula Combat, Initiative, Hit & Crit Chance | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/17_COMBAT_SYSTEM.md?v=2 |
-| 18 | `18_BESTIARY.md` | Bestiarium & Taming Tiers Spirit Beast | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/18_BESTIARY.md?v=2 |
-| 19 | `19_SHENMU_SECT.md` | 🏔️ Sekte Induk Shenmu (Shenmu Spirit Sect) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/19_SHENMU_SECT.md?v=2 |
-| 20 | `20_DANHUANG_ALCHEMIST_SECT.md` | 🏔️ Sekte Alkimia Danhuang (Danhuang Alchemist Sect) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/20_DANHUANG_ALCHEMIST_SECT.md?v=2 |
-| 21 | `21_CANGLONG_SWORD_PAVILION.md` | 🏔️ Sekte Paviliun Pedang Canglong | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/21_CANGLONG_SWORD_PAVILION.md?v=2 |
-| 22 | `22_TIANJING_SWORD_SECT.md` | 🏔️ Sekte Pedang Kekaisaran Tianjing | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/22_TIANJING_SWORD_SECT.md?v=2 |
-| 23 | `23_CHIYAN_PALACE.md` | 🏔️ Istana Api Chiyan (Chiyan Palace) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/23_CHIYAN_PALACE.md?v=2 |
-| 24 | `24_JADE_OCEAN_PALACE.md` | 🏔️ Istana Kemurnian Giok Laut | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/24_JADE_OCEAN_PALACE.md?v=2 |
-| 25 | `25_GOLDEN_BELL_MONASTERY.md` | 🏔️ Kuil Lonceng Emas Gurun | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/25_GOLDEN_BELL_MONASTERY.md?v=2 |
-| 26 | `26_HANBING_SNOW_PALACE.md` | 🏔️ Sekte Istana Salju Abadi Hanbing | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/26_HANBING_SNOW_PALACE.md?v=2 |
-| 27 | `27_YOUMING_DEMONIC_PALACE.md` | 🏔️ Sekte Api Iblis Youming | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/27_YOUMING_DEMONIC_PALACE.md?v=2 |
-| 28 | `28_TIANZHU_SWORD_SECT.md` | 🎋 Sekte Pedang Bambu Langit (Tianzhu Sword Sect - Hutan Bambu Giok) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/28_TIANZHU_SWORD_SECT.md?v=2 |
-| 29 | `29_PERGURUAN_BERKEBUN_BIYANG.md` | 🏯 Perguruan Berkebun Obat Biyang | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/29_PERGURUAN_BERKEBUN_BIYANG.md?v=2 |
-| 30 | `30_PERGURUAN_BEAST_QINGLING.md` | 🏯 Perguruan Penjinak Beast Qingling | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/30_PERGURUAN_BEAST_QINGLING.md?v=2 |
-| 31 | `31_PERGURUAN_PENEMPA_SHENDU.md` | 🏯 Perguruan Penempa Besi Shendu | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/31_PERGURUAN_PENEMPA_SHENDU.md?v=2 |
-| 32 | `32_PERGURUAN_JIMAT_HUANGSHA.md` | 🏯 Perguruan Jimat Gurun Huangsha | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/32_PERGURUAN_JIMAT_HUANGSHA.md?v=2 |
-| 33 | `33_PERGURUAN_FORMASI_TIANGONG.md` | 🏯 Perguruan Formasi Ruang Tiangong | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/33_PERGURUAN_FORMASI_TIANGONG.md?v=2 |
-| 34 | `34_PERGURUAN_KEMUDI_TIANGONG.md` | 🏯 Perguruan Kemudi Udara Tiangong | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/34_PERGURUAN_KEMUDI_TIANGONG.md?v=2 |
-| 35 | `35_PERGURUAN_NIAT_PEDANG_QINGFENG.md` | 🏯 Perguruan Niat Pedang Qingfeng | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/35_PERGURUAN_NIAT_PEDANG_QINGFENG.md?v=2 |
-| 36 | `36_PERGURUAN_ALKEMIA_ES_BEIHAN.md` | 🏯 Perguruan Alkimia Es Beihan | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/36_PERGURUAN_ALKEMIA_ES_BEIHAN.md?v=2 |
-| 37 | `37_PERGURUAN_RACUN_YOUMING.md` | 🏯 Perguruan Racun Bayangan Youming | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/37_PERGURUAN_RACUN_YOUMING.md?v=2 |
-| 38 | `38_PERGURUAN_PELAYARAN_CANGHAI.md` | 🏯 Perguruan Pelayaran Canghai | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/38_PERGURUAN_PELAYARAN_CANGHAI.md?v=2 |
-| 39 | `39_PERGURUAN_DAGANG_JIUZHOU.md` | 🏯 Perguruan Dagang Jiuzhou | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/39_PERGURUAN_DAGANG_JIUZHOU.md?v=2 |
-| 40 | `40_PERGURUAN_EKSPLORASI_JUEJING.md` | 🏯 Perguruan Eksplorasi Purba Juejing | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/40_PERGURUAN_EKSPLORASI_JUEJING.md?v=2 |
-| 41 | `41_WANDERING_PHYSICIAN_ASSOCIATION.md` | 🌐 Perhimpunan Tabib Pengembara Lintas Wilayah | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/41_WANDERING_PHYSICIAN_ASSOCIATION.md?v=2 |
-| 42 | `42_SERIKAT_YOUXIA_SANXIU.md` | 🌐 Serikat Youxia Sanxiu (Guild Petualang Lintas Wilayah) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/42_SERIKAT_YOUXIA_SANXIU.md?v=2 |
-| 43 | `43_CUSTOM_EVENTS.md` | 🎭 Peristiwa Khusus & Event Dunia | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/43_CUSTOM_EVENTS.md?v=2 |
-| 44 | `44_CUSTOM_SPIRITUAL_ROOTS.md` | 📜 Akar Spiritual Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/44_CUSTOM_SPIRITUAL_ROOTS.md?v=2 |
-| 45 | `45_CUSTOM_SECTS.md` | 🏯 Sekte & Perguruan Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/45_CUSTOM_SECTS.md?v=2 |
-| 46 | `46_CUSTOM_TECHNIQUES.md` | ⚔️ Teknik & Jurus Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/46_CUSTOM_TECHNIQUES.md?v=2 |
-| 47 | `47_SPECIAL_ITEMS.md` | 🔮 Katalog Artefak Purba & Item Spesial Legendaris | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/47_SPECIAL_ITEMS.md?v=2 |
+| 14 | `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` | Formula Alkimia, Formasi, Forging, Talisman & Prinsip Profesi | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/14_CRAFTING_AND_PROFESSIONS_SYSTEM.md?v=2 |
+| 15 | `15_SPIRITUAL_HERB_FARMING_SYSTEM.md` | Sistem Pertanian & Berkebun Obat Spirit, Soil Grade & Growth Formula | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/15_SPIRITUAL_HERB_FARMING_SYSTEM.md?v=2 |
+| 16 | `16_BEAST_TAMING_SYSTEM.md` | Sistem Penjinakan & Pelatihan Spirit Beast, Formula Taming & Loyalty | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/16_BEAST_TAMING_SYSTEM.md?v=2 |
+| 17 | `17_AIRSHIP_NAVIGATION_SYSTEM.md` | Sistem Kapal Terbang Lintas Wilayah, Airship Speed & Fuel Formula | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/17_AIRSHIP_NAVIGATION_SYSTEM.md?v=2 |
+| 18 | `18_ECONOMY_SYSTEM.md` | Dynamic Price Formula & Conversion Rates | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/18_ECONOMY_SYSTEM.md?v=2 |
+| 19 | `19_VITALITY_HUNGER_SYSTEM.md` | Max HP Formula, Fasting, Pill Toxins | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/19_VITALITY_HUNGER_SYSTEM.md?v=2 |
+| 20 | `20_COMBAT_SYSTEM.md` | Formula Combat, Initiative, Hit & Crit Chance | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/20_COMBAT_SYSTEM.md?v=2 |
+| 21 | `21_BESTIARY.md` | Bestiarium & Taming Tiers Spirit Beast | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/21_BESTIARY.md?v=2 |
+| 22 | `22_SHENMU_SECT.md` | 🏔️ Sekte Induk Shenmu (Shenmu Spirit Sect) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/22_SHENMU_SECT.md?v=2 |
+| 23 | `23_DANHUANG_ALCHEMIST_SECT.md` | 🏔️ Sekte Alkimia Danhuang (Danhuang Alchemist Sect) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/23_DANHUANG_ALCHEMIST_SECT.md?v=2 |
+| 24 | `24_CANGLONG_SWORD_PAVILION.md` | 🏔️ Sekte Paviliun Pedang Canglong | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/24_CANGLONG_SWORD_PAVILION.md?v=2 |
+| 25 | `25_TIANJING_SWORD_SECT.md` | 🏔️ Sekte Pedang Kekaisaran Tianjing | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/25_TIANJING_SWORD_SECT.md?v=2 |
+| 26 | `26_CHIYAN_PALACE.md` | 🏔️ Istana Api Chiyan (Chiyan Palace) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/26_CHIYAN_PALACE.md?v=2 |
+| 27 | `27_JADE_OCEAN_PALACE.md` | 🏔️ Istana Kemurnian Giok Laut | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/27_JADE_OCEAN_PALACE.md?v=2 |
+| 28 | `28_GOLDEN_BELL_MONASTERY.md` | 🏔️ Kuil Lonceng Emas Gurun | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/28_GOLDEN_BELL_MONASTERY.md?v=2 |
+| 29 | `29_HANBING_SNOW_PALACE.md` | 🏔️ Sekte Istana Salju Abadi Hanbing | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/29_HANBING_SNOW_PALACE.md?v=2 |
+| 30 | `30_YOUMING_DEMONIC_PALACE.md` | 🏔️ Sekte Api Iblis Youming | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/30_YOUMING_DEMONIC_PALACE.md?v=2 |
+| 31 | `31_TIANZHU_SWORD_SECT.md` | 🎋 Sekte Pedang Bambu Langit (Tianzhu Sword Sect - Hutan Bambu Giok) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/31_TIANZHU_SWORD_SECT.md?v=2 |
+| 32 | `32_PERGURUAN_BERKEBUN_BIYANG.md` | 🏯 Perguruan Berkebun Obat Biyang | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/32_PERGURUAN_BERKEBUN_BIYANG.md?v=2 |
+| 33 | `33_PERGURUAN_BEAST_QINGLING.md` | 🏯 Perguruan Penjinak Beast Qingling | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/33_PERGURUAN_BEAST_QINGLING.md?v=2 |
+| 34 | `34_PERGURUAN_PENEMPA_SHENDU.md` | 🏯 Perguruan Penempa Besi Shendu | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/34_PERGURUAN_PENEMPA_SHENDU.md?v=2 |
+| 35 | `35_PERGURUAN_JIMAT_HUANGSHA.md` | 🏯 Perguruan Jimat Gurun Huangsha | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/35_PERGURUAN_JIMAT_HUANGSHA.md?v=2 |
+| 36 | `36_PERGURUAN_FORMASI_TIANGONG.md` | 🏯 Perguruan Formasi Ruang Tiangong | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/36_PERGURUAN_FORMASI_TIANGONG.md?v=2 |
+| 37 | `37_PERGURUAN_KEMUDI_TIANGONG.md` | 🏯 Perguruan Kemudi Udara Tiangong | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/37_PERGURUAN_KEMUDI_TIANGONG.md?v=2 |
+| 38 | `38_PERGURUAN_NIAT_PEDANG_QINGFENG.md` | 🏯 Perguruan Niat Pedang Qingfeng | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/38_PERGURUAN_NIAT_PEDANG_QINGFENG.md?v=2 |
+| 39 | `39_PERGURUAN_ALKEMIA_ES_BEIHAN.md` | 🏯 Perguruan Alkimia Es Beihan | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/39_PERGURUAN_ALKEMIA_ES_BEIHAN.md?v=2 |
+| 40 | `40_PERGURUAN_RACUN_YOUMING.md` | 🏯 Perguruan Racun Bayangan Youming | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/40_PERGURUAN_RACUN_YOUMING.md?v=2 |
+| 41 | `41_PERGURUAN_PELAYARAN_CANGHAI.md` | 🏯 Perguruan Pelayaran Canghai | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/41_PERGURUAN_PELAYARAN_CANGHAI.md?v=2 |
+| 42 | `42_PERGURUAN_DAGANG_JIUZHOU.md` | 🏯 Perguruan Dagang Jiuzhou | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/42_PERGURUAN_DAGANG_JIUZHOU.md?v=2 |
+| 43 | `43_PERGURUAN_EKSPLORASI_JUEJING.md` | 🏯 Perguruan Eksplorasi Purba Juejing | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/43_PERGURUAN_EKSPLORASI_JUEJING.md?v=2 |
+| 44 | `44_WANDERING_PHYSICIAN_ASSOCIATION.md` | 🌐 Perhimpunan Tabib Pengembara Lintas Wilayah | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/44_WANDERING_PHYSICIAN_ASSOCIATION.md?v=2 |
+| 45 | `45_SERIKAT_YOUXIA_SANXIU.md` | 🌐 Serikat Youxia Sanxiu (Guild Petualang Lintas Wilayah) | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/45_SERIKAT_YOUXIA_SANXIU.md?v=2 |
+| 46 | `46_CUSTOM_EVENTS.md` | 🎭 Peristiwa Khusus & Event Dunia | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/46_CUSTOM_EVENTS.md?v=2 |
+| 47 | `47_CUSTOM_SPIRITUAL_ROOTS.md` | 📜 Akar Spiritual Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/47_CUSTOM_SPIRITUAL_ROOTS.md?v=2 |
+| 48 | `48_CUSTOM_SECTS.md` | 🏯 Sekte & Perguruan Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/48_CUSTOM_SECTS.md?v=2 |
+| 49 | `49_CUSTOM_TECHNIQUES.md` | ⚔️ Teknik & Jurus Kustom | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/49_CUSTOM_TECHNIQUES.md?v=2 |
+| 50 | `50_SPECIAL_ITEMS.md` | 🔮 Katalog Artefak Purba & Item Spesial Legendaris | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/50_SPECIAL_ITEMS.md?v=2 |
 | Hub | `players.md` | 📇 Katalog Read-Only Karakter Awal | https://raw.githubusercontent.com/aesher-gg/Xuantian-World/main/players.md?v=2 |

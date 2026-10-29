@@ -1,8 +1,8 @@
 # ❄️ Beihan Zhou (北寒州) — Wilayah Es Abadi Utara & Ramuan Salju
 
-> **Modul:** 08 — Beihan Zhou
+> **Modul:** 8 — Beihan Zhou
 > **Tema:** Qi Es & Salju / Padang Es Abadi / Alkimia Ramuan Es / Beast Padang Salju & Pembekuan Meridien
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `18_BESTIARY.md`, `26_HANBING_SNOW_PALACE.md`, `36_PERGURUAN_ALKEMIA_ES_BEIHAN.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`, `21_BESTIARY.md`, `29_HANBING_SNOW_PALACE.md`, `39_PERGURUAN_ALKEMIA_ES_BEIHAN.md`, `INDEX.md`
 
 ---
 
@@ -101,9 +101,9 @@ Desa kerajinan transportasi di pinggiran Lembah Xueyuan. Tempat penangkaran Seri
 
 ## 3. Sekte & Perguruan di Beihan Zhou
 
-1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`26_HANBING_SNOW_PALACE.md`]: Sekte Utama pemurni jiwa dengan spesialisasi Akar Spiritual Es Purba, Pembekuan Area, dan Seni Pedang Es.
-2. **Perguruan Alkimia Es Beihan (Beihan Frost Alchemist Academy / 北寒冰药谷)** [`36_PERGURUAN_ALKEMIA_ES_BEIHAN.md`]: Perguruan Spesialis alkimia es, ekstraksi herbal salju, dan pemurnian ramuan pemulih dantian.
-3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Hanbing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Salju Abadi.
+1. **Sekte Istana Salju Abadi (Hanbing Snow Palace / 寒冰雪宫)** [`29_HANBING_SNOW_PALACE.md`]: Sekte Utama pemurni jiwa dengan spesialisasi Akar Spiritual Es Purba, Pembekuan Area, dan Seni Pedang Es.
+2. **Perguruan Alkimia Es Beihan (Beihan Frost Alchemist Academy / 北寒冰药谷)** [`39_PERGURUAN_ALKEMIA_ES_BEIHAN.md`]: Perguruan Spesialis alkimia es, ekstraksi herbal salju, dan pemurnian ramuan pemulih dantian.
+3. **Cabang Serikat Youxia Sanxiu (Sanxiu Youxia Guild Branch / 散修游侠公会分会)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Pos cabang resmi Serikat Petualang di Kota Hanbing yang menyediakan Papan Misi Quest Tier 1–9, Balai Penukaran Loot, dan Layanan Informasi Salju Abadi.
 
 ---
 

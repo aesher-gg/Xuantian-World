@@ -1,7 +1,7 @@
 # 👤 Xuan Yu
 
 > **Data Karakter Awal** — Statis, dikelola Admin. Bukan save-state.
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_SHENMU_ZHOU.md` (Desa Qingling), `51_SPECIAL_ITEMS.md` (Gantungan Giok Alam Hunyuan)
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` §1.6 & §1.10, `02_SHENMU_ZHOU.md` (Desa Qingling), `50_SPECIAL_ITEMS.md` (Gantungan Giok Alam Hunyuan)
 
 ---
 
@@ -20,7 +20,7 @@
 **Equipment Awal (terpakai/digenggam):**
 - **Senjata:** Pedang Bambu Kayu Spirit — Fan-Grade, Tier 1 (Senjata kayu spirit ringan buatan pengrajin Desa Qingling).
 - **Zirah/Pelindung:** Baju Pengembara Kain Hijau — Fan-Grade, Tier 1 (Pakaian tahan gesekan ranting hutan buatan perajin lokal).
-- **Aksesoris:** **Gantungan Giok Alam Hunyuan** *(混元界玉佩)* — Artefak Purba Grade 9 / Legendaris Suci (`51_SPECIAL_ITEMS.md`). Warisan pusaka purba penyimpan Dunia Kecil Mandiri seluas 1.000 li² (Memiliki fitur Tanah Spirit 3-7 hari panen sempurna, Suaka Beast +50% Growth Rate, dan Dilatasi Waktu Meditasi 1 Jam = 1 Hari).
+- **Aksesoris:** **Gantungan Giok Alam Hunyuan** *(混元界玉佩)* — Artefak Purba Grade 9 / Legendaris Suci (`50_SPECIAL_ITEMS.md`). Warisan pusaka purba penyimpan Dunia Kecil Mandiri seluas 1.000 li² (Memiliki fitur Tanah Spirit 3-7 hari panen sempurna, Suaka Beast +50% Growth Rate, dan Dilatasi Waktu Meditasi 1 Jam = 1 Hari).
 
 **Inventory Awal (dibawa di dalam tas & Dunia Giok):**
 - Kantong Air Kulit Spirit (Penuh air bersih)

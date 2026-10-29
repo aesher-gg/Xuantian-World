@@ -1,6 +1,6 @@
 # 🏯 Xuantian World — World Bible (Edisi Modular Xuantian)
 
-> **Versi:** 3.5 (Edisi Fully Expanded & Core Style Standardized)
+> **Versi:** 3.6 (Edisi Fully Expanded & Core Style Standardized)
 > **Genre:** Xianxia · Wuxia · Kultivasi Akar Spiritual · Kerajinan Profesi · Hardcore Realism
 > **Tujuan:** Roleplay kultivasi Xianxia yang adil, mendalam, konsisten, dan realistis bersama AI Game Master.
 
@@ -56,22 +56,24 @@ Tempelkan link `INDEX.md` disertai blok **Profil Karakter** terakhir dari percak
 
 ---
 
-## 📂 Struktur Modul Repository (`00` s/d `51`)
+## 📂 Struktur Modul Repository (`00` s/d `50`)
 
 * **`00_CORE_RULES_AI_GM.md`**: Aturan inti AI GM, anti-cheat, format respon wajib, dan ringkasan 9 Ranah Kultivasi.
 * **`01_WORLD_OVERVIEW_AND_CAPITAL.md`**: Geografi total 10 Wilayah & Ibu Kota Tianjing.
 * **`02_SHENMU_ZHOU.md` s/d `11_JUEJING_ZHOU.md`**: 10 Modul Wilayah Utama (mencakup sub-lokasi baru Kerajaan Spirit Elf Wanling, Hutan Bambu Giok & Dataran Makam Kekaisaran).
-* **`12_CROSS_REGION_ORGANIZATIONS.md`**: Guild Alkemis, Serikat Airship, Guild Beast Tamer, Rumah Lelang Wanbao, dan Serikat Penempa.
+* **`12_CROSS_REGION_ORGANIZATIONS.md`**: Guild Airship, Alkemis, Beast Tamer, Lelang Wanbao, dan Serikat Penempa.
 * **`13_SPIRITUAL_ROOT_SYSTEM.md`**: 9 Ranah Kultivasi (Lingquan hingga Hunyuan), Klasifikasi Fana, Asal-Usul Akar vs Teknik, Formula Breakthrough Sub-Stage/Major Realm, & Tribulasi Petir.
-* **`14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`**: Formula Berkebun, Beast Taming, Alkimia, Airship, Formasi, Forging, dan Jimat.
-* **`15_ECONOMY_SYSTEM.md`**: Ekonomi, Batu Spirit, Tiket Airship, dan Log Asal-Usul Barang.
-* **`16_VITALITY_HUNGER_SYSTEM.md`**: HP, Stamina, Satiety, dan Penalti Toxin Dantian.
-* **`17_COMBAT_SYSTEM.md`**: Sistem Pertempuran Turn-based & Aksi Profesi.
-* **`18_BESTIARY.md`**: Katalog Spirit Beast & Monster per Wilayah.
-* **`19_...` s/d `40_...`**: Modul Sekte Utama (Faksi Politik) & Perguruan Spesialis (Institusi Ilmu).
-* **`41_CUSTOM_EVENTS.md` s/d `44_CUSTOM_TECHNIQUES.md`**: Modul Kustom Admin.
-* **`45_TIANZHU_SWORD_SECT.md`**: Modul Sekte Kuno Tersegel Tianzhu Sword Sect di Hutan Bambu Giok.
-* **`46_PERGURUAN_...` s/d `50_PERGURUAN_...`**: 5 Modul Perguruan Akademis Spesialis Baru di Shenmu Zhou.
-* **`51_SPECIAL_ITEMS.md`**: Katalog Artefak Purba & Item Spesial (Gantungan Giok Alam Hunyuan).
+* **`14_CRAFTING_AND_PROFESSIONS_SYSTEM.md`**: Formula Alkimia, Formasi, Forging, Talisman & Prinsip Profesi.
+* **`15_SPIRITUAL_HERB_FARMING_SYSTEM.md`**: Sistem Pertanian & Berkebun Obat Spirit, Soil Grade & Growth Formula.
+* **`16_BEAST_TAMING_SYSTEM.md`**: Sistem Penjinakan & Pelatihan Spirit Beast, Formula Taming & Loyalty.
+* **`17_AIRSHIP_NAVIGATION_SYSTEM.md`**: Sistem Kapal Terbang Lintas Wilayah, Airship Speed & Fuel Formula.
+* **`18_ECONOMY_SYSTEM.md`**: Ekonomi, Batu Spirit, Tiket Airship, dan Log Asal-Usul Barang.
+* **`19_VITALITY_HUNGER_SYSTEM.md`**: HP, Stamina, Satiety, dan Penalti Toxin Dantian.
+* **`20_COMBAT_SYSTEM.md`**: Sistem Pertempuran Turn-based & Aksi Profesi.
+* **`21_BESTIARY.md`**: Katalog Spirit Beast & Monster per Wilayah.
+* **`22_SHENMU_SECT.md` s/d `43_PERGURUAN_EKSPLORASI_JUEJING.md`**: Modul Sekte Utama (Faksi Politik) & Perguruan Spesialis (Institusi Ilmu).
+* **`44_WANDERING_PHYSICIAN_ASSOCIATION.md` & `45_SERIKAT_YOUXIA_SANXIU.md`**: Organisasi Lintas Wilayah.
+* **`46_CUSTOM_EVENTS.md` s/d `49_CUSTOM_TECHNIQUES.md`**: Modul Kustom Admin.
+* **`50_SPECIAL_ITEMS.md`**: Katalog Artefak Purba & Item Spesial (Gantungan Giok Alam Hunyuan).
 * **`INDEX.md`**: Hub Navigasi Tunggal & Auto-fetch AI GM.
 * **`players.md` & folder `players/`**: Katalog Read-Only & Save File Karakter Awal (`players/Xuan_Yu.md`).

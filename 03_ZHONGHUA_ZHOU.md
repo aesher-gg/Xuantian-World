@@ -1,8 +1,8 @@
 # 🏰 Zhonghua Zhou (中华州) — Dataran Tengah & Pusat Kekaisaran
 
-> **Modul:** 03 — Zhonghua Zhou
+> **Modul:** 3 — Zhonghua Zhou
 > **Tema:** Dataran Tengah / Ibu Kota Kekaisaran Tianjing / Pusat Perdagangan / Lembaga Profesi / Dinasti Kekaisaran
-> **Rujukan:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `32_PERGURUAN_DAGANG_JIUZHOU.md`, `34_TIANJING_SWORD_SECT.md`, `40_WANDERING_PHYSICIAN_ASSOCIATION.md`, `INDEX.md`
+> **Rujukan:** `01_WORLD_OVERVIEW_AND_CAPITAL.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `42_PERGURUAN_DAGANG_JIUZHOU.md`, `25_TIANJING_SWORD_SECT.md`, `44_WANDERING_PHYSICIAN_ASSOCIATION.md`, `INDEX.md`
 
 ---
 
@@ -176,10 +176,10 @@ Lembah kebudayaan yang asri di sebelah selatan Kota Luoyang. Terkenal dengan par
 
 ## 3. Sekte & Perguruan di Zhonghua Zhou
 
-1. **Sekte Pedang Kekaisaran Tianjing (Tianjing Sword Sect)** [`22_TIANJING_SWORD_SECT.md`]: Sekte Utama pengawal dinasti dengan disiplin ketat dan teknik pedang lurus.
-2. **Perguruan Dagang Jiuzhou (Jiuzhou Merchant Academy)** [`39_PERGURUAN_DAGANG_JIUZHOU.md`]: Perguruan Spesialis yang melatih ahli taksiran barang, purity pill, dan strategi lelang.
-3. **Perhimpunan Tabib Pengembara (Wandering Physician Association)** [`41_WANDERING_PHYSICIAN_ASSOCIATION.md`]: Organisasi/Perguruan penyembuh keliling, penawar racun, dan diagnosa Qi Deviation.
-4. **Markas Pusat Serikat Youxia Sanxiu (Sanxiu Youxia Guild Headquarters)** [`42_SERIKAT_YOUXIA_SANXIU.md`]: Markas Pusat Serikat Petualang di Kota Tianjing yang mengendalikan Papan Misi Quest Tier 1–9, Sistem Lisensi Rank Youxia, Balai Penukaran Loot, dan Layanan Informasi Seluruh Benua.
+1. **Sekte Pedang Kekaisaran Tianjing (Tianjing Sword Sect)** [`25_TIANJING_SWORD_SECT.md`]: Sekte Utama pengawal dinasti dengan disiplin ketat dan teknik pedang lurus.
+2. **Perguruan Dagang Jiuzhou (Jiuzhou Merchant Academy)** [`42_PERGURUAN_DAGANG_JIUZHOU.md`]: Perguruan Spesialis yang melatih ahli taksiran barang, purity pill, dan strategi lelang.
+3. **Perhimpunan Tabib Pengembara (Wandering Physician Association)** [`44_WANDERING_PHYSICIAN_ASSOCIATION.md`]: Organisasi/Perguruan penyembuh keliling, penawar racun, dan diagnosa Qi Deviation.
+4. **Markas Pusat Serikat Youxia Sanxiu (Sanxiu Youxia Guild Headquarters)** [`45_SERIKAT_YOUXIA_SANXIU.md`]: Markas Pusat Serikat Petualang di Kota Tianjing yang mengendalikan Papan Misi Quest Tier 1–9, Sistem Lisensi Rank Youxia, Balai Penukaran Loot, dan Layanan Informasi Seluruh Benua.
 
 ---
 
