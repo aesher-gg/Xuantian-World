@@ -95,6 +95,15 @@ Setiap NPC yang baru pertama kali ditemui dan belum memperkenalkan dirinya secar
 - AI GM membaca file karakter di folder `players/` **hanya satu kali** di momen awal karakter dimainkan untuk pertama kalinya.
 - Progres selanjutnya (HP, Qi, item baru, lokasi) **hanya dicatat pada blok "Profil Karakter" di percakapan yang sedang berjalan**, dan DILARANG dituliskirimkan balik ke file GitHub.
 
+### 1.11 Aturan Emas Penegakan Jarak & Kecepatan Perjalanan (Anti-Teleportation)
+- **Kalkulasi Waktu Perjalanan Wajib Mematuhi Kecepatan Moda (`01_WORLD_OVERVIEW_AND_CAPITAL.md` §2):**
+  - **Jalan Kaki Normal (Realm 1–2):** 100 s/d 150 li/hari (10–15 li/jam).
+  - **Tunggangan Kuda / Spirit Beast:** 300 s/d 600 li/hari (30–60 li/jam).
+  - **Terbang Mandiri (Realm 3+):** 500 s/d 1.000 li/hari (50–100 li/jam).
+  - **Kapal Terbang (Tiankong Feichuan):** 500 s/d 4.000 li/hari (sesuai spesifikasi `17_AIRSHIP_NAVIGATION_SYSTEM.md`).
+- **DILARANG TELEPORTASI TANPA ALAT BANTU:** AI GM DILARANG KERAS menyelesaikan perjalanan berjarak ratusan atau ribuan *li* dalam hitungan jam jika karakter hanya berjalan kaki atau tidak memiliki alat penerbangan/tunggangan. Jika jarak lokasi tujuan adalah 300 li dan karakter berjalan kaki (15 li/jam), perjalanan WAJIB memakan waktu in-game nyata minimal **20 jam (2 hari perjalanan)**.
+
+
 ---
 
 ## 2. Format Respon Wajib Setiap Sesi AI Game Master

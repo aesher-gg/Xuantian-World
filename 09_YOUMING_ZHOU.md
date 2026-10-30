@@ -34,6 +34,7 @@ Youming Zhou adalah wilayah terisolasi di bawah naungan kabut hitam membendung s
 ## 2. Lokasi Kunci, Permukiman & Roster NPC Detail
 
 ### 2.1 Kota Heian (暗城 - Dark City)
+📍 **Jarak dari Kota Heian (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
 Kota tanpa hukum terang yang dibangun di dalam gua stalaktit raksasa. Kota ini adalah pusat Pasar Gelap utama Xuantian World, tempat lelang resep racun terlarang, jarum rahasia, dan kontrak pembunuhan sunyi.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -45,6 +46,8 @@ Kota tanpa hukum terang yang dibangun di dalam gua stalaktit raksasa. Kota ini a
 ---
 
 ### 2.2 Rawa Racun Duwu (毒雾沼泽 - Poison Mist Swamp)
+📍 **Jarak dari Kota Heian (Pusat Region):** 300 li (2 Hari jalan kaki / 8 Jam berkuda)
+
 Rawa seluas ribuan li yang diselimuti kabut hijau beracun. Habitat utama bagi *Bunga Bangkai Spirit* dan *Kutu Iblis Pemakan Qi*.
 
 | NPC / Buronan | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -54,6 +57,8 @@ Rawa seluas ribuan li yang diselimuti kabut hijau beracun. Habitat utama bagi *B
 ---
 
 ### 2.3 Bukit Tengkorak Hitam (黑骷髅山 - Black Skull Ridge)
+📍 **Jarak dari Kota Heian (Pusat Region):** 520 li (3.5 Hari jalan kaki / 12 Jam berkuda)
+
 Bukit batu hitam berbentuk tengkorak raksasa bekas situs pertempuran kuno. Di bukit ini terdapat banyak gua bayangan dan tempat latihan pembunuhan sunyi.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -63,6 +68,8 @@ Bukit batu hitam berbentuk tengkorak raksasa bekas situs pertempuran kuno. Di bu
 ---
 
 ### 2.4 Lembah Kabut Kelam (幽雾谷 - Dark-Mist Valley)
+📍 **Jarak dari Kota Heian (Pusat Region):** 420 li (3 Hari jalan kaki / 10 Jam berkuda)
+
 Lembah terisolasi yang dipenuhi sarang *Laba-laba Bayangan Malam (Tier 2)* dan tempat pengambilan *Sutra Bayangan Spirit*.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -72,6 +79,8 @@ Lembah terisolasi yang dipenuhi sarang *Laba-laba Bayangan Malam (Tier 2)* dan t
 ---
 
 ### 2.5 Pasar Malam Bayangan Jiwa (鬼市暗集 - Ghost Night Market) 🆕
+📍 **Jarak dari Kota Heian (Pusat Region):** 120 li (1 Hari jalan kaki / 3 Jam berkuda)
+
 Pasar gelap bawah tanah di dalam Bukit Tengkorak Hitam yang hanya buka saat bulan mati. Pusat lelang resep racun terlarang, perdagangan senjata tersembunyi, dan penjualan informasi pembunuhan sunyi.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Pasar gelap rahasia, Lorong Pasar Gelap, Balai Transaksi Tanpa Nama, Rumah Lelang Racun Rahasia.
@@ -86,6 +95,8 @@ Pasar gelap bawah tanah di dalam Bukit Tengkorak Hitam yang hanya buka saat bula
 ---
 
 ### 2.6 Perkampungan Perajin Jarum Racun Rahasia (暗针毒器寨 - Poison Needle Artifact Village) 🆕
+📍 **Jarak dari Kota Heian (Pusat Region):** 250 li (1.5 Hari jalan kaki / 6 Jam berkuda)
+
 Desa tersembunyi yang dipahat pada stalaktit gua di atas Lembah Kabut Kelam. Para perajin menguasai teknik pembuatan jarum mikro (*Micro-Needles*), sumpit peniup racun, dan jebakan berpelumas bisa ular.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Pembuatan jarum racun rahasia, Bengkel Jarum Halus, Kolam Perendam Bisul Ular, Gua Uji Coba Racun.

@@ -34,6 +34,7 @@ Xixuan Zhou adalah wilayah gurun pasir emas luas yang menyimpan sisa-sisa perada
 ## 2. Lokasi Kunci, Permukiman & Roster NPC Detail
 
 ### 2.1 Kota Huangsha (黄沙城 - Yellow Sand City)
+📍 **Jarak dari Kota Huangsha (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
 Kota benteng batu pasir bertingkat yang dibangun mengelilingi Oasis Ganlu — sumber air kehidupan utama di tengah gurun. Kota ini berfungsi sebagai pos perdagangan kertas jimat, batu spirit tanah, dan artefak galian reruntuhan.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -45,6 +46,8 @@ Kota benteng batu pasir bertingkat yang dibangun mengelilingi Oasis Ganlu — su
 ---
 
 ### 2.2 Reruntuhan Kuil Moko (摩诃古刹遗址)
+📍 **Jarak dari Kota Huangsha (Pusat Region):** 400 li (3 Hari jalan unta / 10 Jam Airship)
+
 Kompleks kuil batu kuno yang tertimbun pasir gila. Di sinilah para pencari keberuntungan berburu kertas jimat lapuk purba, inskripsi segel, dan kristal spirit tanah.
 
 | NPC / Penjaga | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -54,6 +57,8 @@ Kompleks kuil batu kuno yang tertimbun pasir gila. Di sinilah para pencari keber
 ---
 
 ### 2.3 Oasis Ganlu (甘露绿洲 - Ganlu Oasis)
+📍 **Jarak dari Kota Huangsha (Pusat Region):** 250 li (1.5 Hari jalan unta / 6 Jam berkuda)
+
 Oasis terbesar di Xuantian Zhou yang dikelilingi oleh ribuan pohon kurma spirit. Tempat beristirahatnya ribuan kafilah pedagang gurun dan pasar malam kertas jimat.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -63,6 +68,8 @@ Oasis terbesar di Xuantian Zhou yang dikelilingi oleh ribuan pohon kurma spirit.
 ---
 
 ### 2.4 Labirin Batu Pasir Purba (古砂岩迷宫 - Ancient Sandstone Labyrinth)
+📍 **Jarak dari Kota Huangsha (Pusat Region):** 600 li (4.5 Hari jalan unta / 14 Jam Airship)
+
 Ngarai batu pasir berliku seluas 1.000 li yang dipenuhi jebakan formasi segel tanah alami dan habitat *Cacing Pasir Raksasa (Tier 4)*.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -72,6 +79,8 @@ Ngarai batu pasir berliku seluas 1.000 li yang dipenuhi jebakan formasi segel ta
 ---
 
 ### 2.5 Ngarai Inskripsi Rune Purba (古符刻纹峡 - Ancient Rune Inscription Canyon) 🆕
+📍 **Jarak dari Kota Huangsha (Pusat Region):** 500 li (3.5 Hari jalan unta / 11 Jam Airship)
+
 Ngarai tebing batu pasir terjal yang dinding-dinding karangnya terpahat simbol rune tanah purba alami. Tempat berkumpulnya para pembuat jimat untuk bermeditasi memahami alur gumpalan Qi dan menambang batu Cinnabar Merah untuk bahan tinta jimat.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Penambangan Cinnabar, Tebing Inskripsi Rune, Gua Cinnabar Pasir Emas, Altar Meditasi Inskripsi Purba.
@@ -86,6 +95,8 @@ Ngarai tebing batu pasir terjal yang dinding-dinding karangnya terpahat simbol r
 ---
 
 ### 2.6 Perkampungan Penjinak Unta Spirit (灵骆驭兽寨 - Spirit Camel Tamer Village) 🆕
+📍 **Jarak dari Kota Huangsha (Pusat Region):** 180 li (1 Hari jalan unta / 4 Jam berkuda)
+
 Permukiman suku penjinak hewan gurun di pinggiran Oasis Ganlu. Tempat penangkaran dan pelatihan Unta Spirit Gurun Dua Punuk serta Panther Pasir Gila untuk sarana transportasi kafilah penjelajah.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Penjinakan beast gurun, Lapangan Pelatihan Unta Spirit, Kandang Penangkaran Panther Pasir, Pasar Pakan Kurma Spirit.

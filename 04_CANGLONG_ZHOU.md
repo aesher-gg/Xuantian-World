@@ -34,6 +34,7 @@ Canglong Zhou adalah tanah suci bagi setiap pembudidaya pedang di Xuantian World
 ## 2. Lokasi Kunci, Permukiman & Roster NPC Detail
 
 ### 2.1 Kota Canglong (苍龙城 - Canglong City)
+📍 **Jarak dari Kota Canglong (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
 Kota megah yang dibangun di atas dataran tinggi tebing curam. Kota ini terkenal dengan Pasar Pedang Spirit, bengkel penempaan logam meteorit, dan arena duel pedang tahunan.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -45,6 +46,8 @@ Kota megah yang dibangun di atas dataran tinggi tebing curam. Kota ini terkenal 
 ---
 
 ### 2.2 Desa Qingfeng (青风村 - Qingfeng Village)
+📍 **Jarak dari Kota Canglong (Pusat Region):** 150 li (1 Hari jalan kaki / 4 Jam berkuda)
+
 Desa damai di kaki Lembah Pedang Berbisik. Tempat berdirinya **Perguruan Niat Pedang Qingfeng**, di mana para murid belajar dasar-dasar mengalirkan Qi ke dalam mata pedang.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -56,6 +59,8 @@ Desa damai di kaki Lembah Pedang Berbisik. Tempat berdirinya **Perguruan Niat Pe
 ---
 
 ### 2.3 Lembah Pedang Berbisik (Whispering Sword Valley / 听剑谷)
+📍 **Jarak dari Kota Canglong (Pusat Region):** 320 li (2 Hari jalan kaki / 8 Jam berkuda)
+
 Lembah terlarang yang dipenuhi aura Sword Intent liar dan makam ratusan pedang purba. Tempat berlatih favorit bagi kultivator ranah *Ningyuan Jing* ke atas.
 
 | NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -65,6 +70,8 @@ Lembah terlarang yang dipenuhi aura Sword Intent liar dan makam ratusan pedang p
 ---
 
 ### 2.4 Puncak Tebasan Naga (龙斩峰 - Dragon-Slash Peak)
+📍 **Jarak dari Kota Canglong (Pusat Region):** 550 li (4 Hari jalan kaki / 14 Jam berkuda)
+
 Puncak gunung karang tajam setinggi 5.000 meter. Di tebing batu puncak ini terukir ratusan inskripsi tebasan pedang purba dari para pendekar ranah *Faxiang Jing*.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -74,6 +81,8 @@ Puncak gunung karang tajam setinggi 5.000 meter. Di tebing batu puncak ini teruk
 ---
 
 ### 2.5 Ngarai Bambu Pedang (剑竹峡 - Sword-Bamboo Gorge)
+📍 **Jarak dari Kota Canglong (Pusat Region):** 420 li (3 Hari jalan kaki / 10 Jam berkuda)
+
 Ngarai terisolasi di mana bambu-bambu batu tumbuh sekeras pedang besi. Ngarai ini adalah habitat utama *Monyet Pedang Tebing (Tier 2)* dan tempat pengambilan bahan pembuatan sarung pedang spirit.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -83,6 +92,8 @@ Ngarai terisolasi di mana bambu-bambu batu tumbuh sekeras pedang besi. Ngarai in
 ---
 
 ### 2.6 Danau Pedang Tenggelam (沉剑灵湖 - Sunken Sword Lake) 🆕
+📍 **Jarak dari Kota Canglong (Pusat Region):** 680 li (4.5 Hari jalan kaki / 1.5 Hari berkuda)
+
 Danau pegunungan tersembunyi yang dilingkupi tebing karang tajam. Menurut mitos, ratusan pendekar pedang yang kalah duel menenggelamkan pedang terlarang mereka ke dasar danau ini. Air danau mengandungi gelembung Qi Pedang yang berbahaya namun kaya akan mineral pecahan logam purba.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Penyelaman mineral logam purba, Pelabuhan Perahu Kayu Besi, Kolam Niat Pedang Air, Gua Dasar Danau Pedang.
@@ -97,6 +108,8 @@ Danau pegunungan tersembunyi yang dilingkupi tebing karang tajam. Menurut mitos,
 ---
 
 ### 2.7 Desa Penempa Bintang Tebing (崖星锻剑村 - Cliff Star Smithing Village) 🆕
+📍 **Jarak dari Kota Canglong (Pusat Region):** 380 li (2.5 Hari jalan kaki / 9 Jam berkuda)
+
 Desa penempa tradisional yang menggantung di tebing curam dekat situs jatuhnya meteorit purba. Terkenal dengan para master penempa yang memadukan Biji Besi Bintang (Meteorite Iron) dengan Qi Angin untuk menempa pedang spirit seringan bulu namun setajam intan.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Penempaan pedang besi bintang, Landasan Tempa Besi Bintang, Tungku Angin Tebing, Gua Tambang Meteorit Purba.

@@ -2,7 +2,7 @@
 
 > **Modul:** 1 — World Overview & Capital
 > **Kategori:** Geografi Benua, Kosmologi, Peta Jarak, & Pusat Kekaisaran
-> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `18_ECONOMY_SYSTEM.md`, `25_TIANJING_SWORD_SECT.md`, `45_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`
+> **Rujukan:** `00_CORE_RULES_AI_GM.md`, `12_CROSS_REGION_ORGANIZATIONS.md`, `13_SPIRITUAL_ROOT_SYSTEM.md`, `17_AIRSHIP_NAVIGATION_SYSTEM.md`, `18_ECONOMY_SYSTEM.md`, `25_TIANJING_SWORD_SECT.md`, `45_SERIKAT_YOUXIA_SANXIU.md`, `INDEX.md`
 
 ---
 
@@ -17,7 +17,7 @@ Xuantian World diciptakan puluhan juta tahun lalu ketika **Dewa Primordial Hunyu
 
 ---
 
-## 2. Geografi Benua & Peta Penyesuaian Jarak Lintas 10 Wilayah
+## 2. Geografi Benua, Aturan Kecepatan Moda & Peta Jarak Lintas 10 Wilayah
 
 Xuantian World adalah benua raksasa seluas ± 60 juta li² dengan populasi melebihi 500 juta jiwa (Mortal, Kultivator 9 Ranah, Ras Spirit Elf, dan Spirit Beast).
 
@@ -40,11 +40,33 @@ Xuantian World adalah benua raksasa seluas ± 60 juta li² dengan populasi meleb
                          (Iblis/Racun/Bayangan)
 ```
 
-### Tabel Penyesuaian Jarak & Kecepatan Tempuh Lintas Wilayah
+---
 
-> 📌 **Pembaruan Mekanik Transportasi Dunia:**
-> 1. **Perpendekan Jarak Tempuh Darat:** Jalur raya kekaisaran berFormasi Pengurang Gesekan (*Earth Shrinking Formations*) mempercepat perjalanan darat.
-> 2. **Multiplikasi Kecepatan Terbang Realm 3+ (Ningyuan Jing ke Atas):** Kultivator Ranah *Ningyuan Jing* menguasai **Terbang Mengendarai Pedang (Sword Flying / Yujian Shu)** serta dapat menyuntikkan Qi Yuan langsung ke mesin Kapal Terbang (*Tiankong Feichuan*), meningkatkan kecepatan penerbangan (+100% hingga +300%).
+### 🚨 Aturan Emas Anti-Cheat Kecepatan & Moda Transportasi Dunia
+
+AI GM **WAJIB** mematuhi rumus batas kecepatan per hari (*li/hari*) dan per jam (*li/jam*) berikut saat menghitung durasi perjalanan pemain maupun NPC:
+
+```
+===============================================================================
+               BATAS MATEMATIS KECEPATAN MODA PERJALANAN XUANTIAN
+===============================================================================
+ 1. JALAN KAKI FANA / REALM 1–2 : 100 s/d 150 li/hari  (10–15 li/jam)
+ 2. TURUNAN KUDA / SPIRIT BEAST : 300 s/d 600 li/hari  (30–60 li/jam)
+ 3. TERBANG MANDIRI REALM 3+    : 500 s/d 1.000 li/hari (50–100 li/jam)
+ 4. KAPAL TERBANG (FEICHUAN)    : 500 s/d 4.000 li/hari (sesuai Modul 17)
+    - Skiff (Tier 1)            : 500 li/hari
+    - Freighter (Tier 2)        : 1.000 li/hari
+    - Galleon (Tier 3)          : 2.500 li/hari (5.500 li/hari jika didorong Qi)
+    - Battleship (Tier 4)       : 4.000 li/hari (8.000 li/hari jika didorong Qi)
+===============================================================================
+```
+
+> **DILARANG TELEPORTASI TANPA BANTUAN:**
+> Dilarang keras memangkas waktu perjalanan (seperti menempuh ribuan li dalam waktu beberapa jam) jika karakter berjalan kaki atau berada di Realm 1–2 tanpa moda alat terbang/tunggangan. Pelanggaran aturan ini oleh AI GM dinyatakan sebagai **Cheat In-Game & Veto Otomatis**.
+
+---
+
+### Tabel Penyesuaian Jarak & Kecepatan Tempuh Lintas Wilayah
 
 | Wilayah Asal | Wilayah Tujuan | Jarak Efektif (Li) | Waktu Jalan Kaki Normal (Realm 1–2) | Waktu Terbang Pedang / Qi Flight (Realm 3+) | Waktu Kapal Terbang Standard | Waktu Kapal Terbang Pendorong Qi (Realm 3 Pilot/Passenger) | Biaya Tiket Kapal Terbang |
 |---|---|---|---|---|---|---|---|
