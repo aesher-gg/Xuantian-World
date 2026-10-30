@@ -32,6 +32,8 @@ Zhonghua Zhou adalah jantung peradaban Xuantian World. Di sinilah berdiri **Kota
 
 ### 2.1 Kota Tianjing (天京城 - Imperial Capital)
 📍 **Jarak dari Kota Tianjing (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
+📍 **Jarak ke Permukiman Terdekat:** Desa Xingcun (180 li) | Kota Luoyang (350 li)
+📍 **Jarak ke Area Khusus Terdekat:** Dataran Makam Kekaisaran (500 li)
 Pusat politik, ekonomi, dan kebudayaan seluruh Xuantian World. Kota ini dilindungi oleh tembok batu marmer setinggi 50 meter dan Formasi Bintang Sembilan Naga Grade 9.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -45,6 +47,8 @@ Pusat politik, ekonomi, dan kebudayaan seluruh Xuantian World. Kota ini dilindun
 
 ### 2.2 Kota Luoyang (洛阳城 - Luoyang Commerce City)
 📍 **Jarak dari Kota Tianjing (Ibu Kota):** 350 li (2.5 Hari jalan kaki / 8 Jam berkuda / 3 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kota Tianjing (350 li) | Perkampungan Pengawal (150 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Kertas Kaligrafi (120 li)
 
 Kota kuno perdagangan barang antik, benih obat, dan markas **Serikat Dagang Jiuzhou** serta **Perhimpunan Tabib Pengembara Pusat**.
 
@@ -58,6 +62,8 @@ Kota kuno perdagangan barang antik, benih obat, dan markas **Serikat Dagang Jiuz
 
 ### 2.3 Desa Xingcun (星村 - Xingcun Village)
 📍 **Jarak dari Kota Tianjing (Ibu Kota):** 180 li (1.2 Hari jalan kaki / 5 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Tianjing (180 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Medan Perang Kuno (470 li)
 
 Desa pertanian damai 450 li dari Kota Tianjing. Tempat dimulainya perjalanan para pendekar muda menguji ketangkasan raga.
 
@@ -70,6 +76,8 @@ Desa pertanian damai 450 li dari Kota Tianjing. Tempat dimulainya perjalanan par
 
 ### 2.4 Lembah Medan Perang Kuno (古战场谷 - Ancient Battlefield Valley)
 📍 **Jarak dari Kota Tianjing (Ibu Kota):** 650 li (4.5 Hari jalan kaki / 1.5 Hari berkuda / 5 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Desa Xingcun (470 li) | Kota Luoyang (300 li)
+📍 **Jarak ke Area Khusus Terdekat:** Dataran Makam Kekaisaran (150 li)
 
 Lembah seluas 500 li bekas Bencana Pemberontakan Sembilan Pangeran. Tempat bersemayamnya ribuan Roh Prajurit Gugur dan lokasi favorit berburu senjata antik berkarat.
 
@@ -81,6 +89,8 @@ Lembah seluas 500 li bekas Bencana Pemberontakan Sembilan Pangeran. Tempat berse
 
 ### 2.5 Dataran Makam Kekaisaran (帝陵原 - Imperial Mausoleum Plains)
 📍 **Jarak dari Kota Tianjing (Ibu Kota):** 500 li (3.5 Hari jalan kaki / 1 Hari berkuda / 4 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kota Tianjing (500 li)
+📍 **Jarak ke Area Khusus Terdekat:** Taman Bunga Terlarang (300 li)
 
 Lokasi eksplorasi tingkat lanjut di pinggiran Kota Luoyang. Kompleks pemakaman kuno dinasti terdahulu yang menyimpan makam para kaisar, pangeran, dan panglima perang. Menjadi pusat investigasi sejarah Pemberontakan Sembilan Pangeran dan perburuan artefak kuno.
 
@@ -157,6 +167,8 @@ Lokasi eksplorasi tingkat lanjut di pinggiran Kota Luoyang. Kompleks pemakaman k
 
 ### 2.6 Taman Bunga Terlarang Sembilan Naga (九龙御花园 - Nine Dragons Imperial Forbidden Garden) 🆕
 📍 **Jarak dari Kota Tianjing (Ibu Kota):** 800 li (5.5 Hari jalan kaki / 2 Hari berkuda / 6 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kota Tianjing (800 li)
+📍 **Jarak ke Area Khusus Terdekat:** Dataran Makam Kekaisaran (300 li)
 
 Taman botani istana kekaisaran tersembunyi yang dilingkupi dinding batu giok putih di dalam cincin dalam Kota Tianjing. Ditanami berbagai tanaman obat langka berusia ribuan tahun yang hanya diperuntukkan bagi keluarga kekaisaran dan pejabat tinggi istana. Ditenagai oleh pancaran Qi dari Formasi Bintang Sembilan Naga.
 
@@ -173,6 +185,8 @@ Taman botani istana kekaisaran tersembunyi yang dilingkupi dinding batu giok put
 
 ### 2.7 Lembah Kertas & Kuas Kaligrafi Spirit (灵墨书香谷 - Spirit Ink & Calligraphy Valley) 🆕
 📍 **Jarak dari Kota Tianjing (Ibu Kota):** 420 li (3 Hari jalan kaki / 10 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Luoyang (120 li) | Kota Tianjing (420 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Medan Perang Kuno (230 li)
 
 Lembah kebudayaan yang asri di sebelah selatan Kota Luoyang. Terkenal dengan para cendekiawan kultivator yang memproduksi Kertas Jimat Spirit Grade High, Tinta Nadi Bumi, dan Kuas Kaligrafi Penyalur Qi yang digunakan oleh para master jimat di seluruh benua.
 

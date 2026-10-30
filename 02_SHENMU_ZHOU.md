@@ -35,6 +35,8 @@ Sekitar 8.000 tahun lalu, terjadi invasi spora Bunga Bangkai Purba dari perbatas
 
 ### 2.1 Kota Shenmu (神木城 - Shenmu City)
 📍 **Jarak dari Kota Shenmu (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
+📍 **Jarak ke Permukiman Terdekat:** Desa Qingling (120 li) | Lembah Biyang (250 li)
+📍 **Jarak ke Area Khusus Terdekat:** Hutan Purba Wansen (450 li)
 Kota raksasa yang dibangun megah secara organik di atas dahan-dahan Pohon Induk Shenmu Purba. Penduduknya hidup beriringan dengan alam dan menggunakan piringan formasi kayu melayang (*Wood Floating Platforms*) sebagai sarana transportasi publik antar-dahan. Kota ini menjadi pusat pemerintahan wilayah dan markas utama Sekte Induk Shenmu.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Pusat perdagangan herbal benua, Istana Dahan Utama, Pasar Lelang Obat Qingling, Dermaga Airship Kayu Spirit, Taman Bunga Giok.
@@ -52,6 +54,8 @@ Kota raksasa yang dibangun megah secara organik di atas dahan-dahan Pohon Induk 
 
 ### 2.2 Desa Qingling (青灵村 - Qingling Village)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 240 li (2.0 Hari jalan kaki / 8.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Shenmu (120 li) | Desa Akar Wangi (80 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Biyang (130 li) | Taman Bunga Spirit (30 li)
 Desa tenang dan asri di pinggiran Hutan Purba Wansen. Dikelilingi oleh kebun obat keluarga dan lapangan penangkaran hewan spirit, desa ini menjadi tempat ideal bagi pembudidaya pemula untuk mulai belajar **Berkebun / Pertani Obat Spirit** dan **Penjinakan Spirit Beast**.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Penjinakan Spirit Beast pemula, kebun obat keluarga, Kedai Teh Awan Hijau, Lapangan Penangkaran Serigala Bayangan.
@@ -68,6 +72,8 @@ Desa tenang dan asri di pinggiran Hutan Purba Wansen. Dikelilingi oleh kebun oba
 
 ### 2.3 Lembah Biyang (碧阳谷 - Biyang Herbal Valley)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 360 li (3.0 Hari jalan kaki / 12.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Desa Qingling (130 li) | Kota Kecil Lumu (150 li)
+📍 **Jarak ke Area Khusus Terdekat:** Hutan Purba Wansen (200 li)
 Lembah subur yang dilingkupi aliran sungai air spirit alami. Tempat berdirinya **Perguruan Berkebun Biyang** [`32_PERGURUAN_BERKEBUN_BIYANG.md`] dan ratusan ladang percobaan benih obat langka tempat para murid mempelajari analisis tanah spirit dan pemupukan.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Perguruan Berkebun Biyang, Ladang Uji Coba 100 Petak, Rumah Kaca Qi Shenmu, Laboratorium Komposting Spirit.
@@ -83,6 +89,8 @@ Lembah subur yang dilingkupi aliran sungai air spirit alami. Tempat berdirinya *
 
 ### 2.4 Hutan Purba Wansen (万森古林 - Wansen Ancient Forest)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 480 li (4.0 Hari jalan kaki / 16.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Kecil Lumu (180 li) | Kerajaan Wanling (350 li)
+📍 **Jarak ke Area Khusus Terdekat:** Dataran Abu Hijau (100 li) | Sanctum Pohon Leluhur (750 li)
 Hutan belantara raksasa yang membentang seluas 4 juta li². Hutan ini diselimuti kanopi pohon raksasa setinggi puluhan meter dan menyimpan benih obat purba serta habitat Spirit Beast Kayu Tier 1–9 dan wilayah pemukiman Ras Elf Spirit.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Wilayah Kerajaan Elf Spirit Wanling, Sanctum Pohon Leluhur Wansen, Persembunyian Spirit Beast Purba, Sarang Harimau Raja.
@@ -98,6 +106,8 @@ Hutan belantara raksasa yang membentang seluas 4 juta li². Hutan ini diselimuti
 
 ### 2.5 Dataran Abu Hijau (绿灰平原 - Green Ash Plains)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 350 li (2.5 Hari jalan kaki / 10 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Kecil Lumu (120 li) | Pos Penjaga Wanmulin (150 li)
+📍 **Jarak ke Area Khusus Terdekat:** Hutan Purba Wansen (100 li) | Lembah Bunga Mayat (200 li)
 
 Dataran luas bekas Bencana Bunga Bangkai Purba 8.000 tahun silam. Tanah berpigmen abu hijau mengandung konsentrasi unsur hara spirit tinggi, menjadikannya lokasi utama penanaman Ginseng Spirit 1.000 Tahun dan lokasi perkelahian perebutan lahan kebun obat.
 
@@ -113,6 +123,8 @@ Dataran luas bekas Bencana Bunga Bangkai Purba 8.000 tahun silam. Tanah berpigme
 
 ### 2.6 Hutan Bambu Giok (翠玉竹海 - Jade Bamboo Sea / Cuiyu Zhuhai)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 600 li (4 Hari jalan kaki / 1.5 Hari berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Kecil Qingshang (150 li) | Desa Kabut Hijau (180 li)
+📍 **Jarak ke Area Khusus Terdekat:** Sungai Spirit Qingshang (80 li) | Sekte Tianzhu (120 li)
 
 Wilayah rahasia mandiri di Shenmu Zhou berupa hutan bambu spiritual kuno yang terbagi menjadi 3 lapisan eksplorasi. Terkenal dengan fenomena batang bambu berwarna hijau giok, kabut spiritual pekat, formasi kuno tersegel, serta reruntuhan **Sekte Pedang Bambu Langit (Tianzhu Sword Sect)** [`31_TIANZHU_SWORD_SECT.md`].
 
@@ -183,6 +195,8 @@ Wilayah rahasia mandiri di Shenmu Zhou berupa hutan bambu spiritual kuno yang te
 
 ### 2.7 Desa Akar Wangi (香根村 - Xiānggēn Cūn)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 840 li (7.0 Hari jalan kaki / 28.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Desa Qingling (80 li) | Kota Shenmu (180 li)
+📍 **Jarak ke Area Khusus Terdekat:** Bukit Akar Abadi (60 li)
 Desa pertanian spiritual yang tenang di perbatasan Lembah Biyang dan Dataran Abu Hijau. Desa ini dibangun di atas jaringan akar spiritual alami tempat mengalir pasokan Qi Kayu murni. Menjadi pemasok utama tanaman obat jenis akar ke Perguruan Berkebun Biyang dan pasar Kota Shenmu.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Tanaman obat akar, pengolahan tanah spiritual, Kebun Seribu Akar, Sumur Qi Bumi, Rumah Pengering Herbal.
@@ -198,6 +212,8 @@ Desa pertanian spiritual yang tenang di perbatasan Lembah Biyang dan Dataran Abu
 
 ### 2.8 Desa Kabut Hijau (青雾村 - Qīngwù Cūn)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 960 li (8.0 Hari jalan kaki / 32.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Kecil Qingshang (100 li) | Desa Qingling (140 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Kabut Hijau (40 li)
 Desa perbatasan di pinggiran Hutan Purba Wansen yang diselimuti kabut penguapan air spiritual dan spora tumbuhan. Desa ini menjadi tempat singgah utama pemburu beast dan pengumpul herbal sebelum memasuki kawasan hutan belantara.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Pemandu hutan experienced, pengumpulan bahan spiritual, Menara Penanda Kabut, Jalur Tapak Zamrud, Pondok Pemburu Tua.
@@ -212,6 +228,8 @@ Desa perbatasan di pinggiran Hutan Purba Wansen yang diselimuti kabut penguapan 
 
 ### 2.9 Kota Kecil Lumu (鹿木镇 - Lùmù Zhèn)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 1080 li (9.0 Hari jalan kaki / 36.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Shenmu (300 li) | Kampung Penenun Akar (90 li)
+📍 **Jarak ke Area Khusus Terdekat:** Dataran Abu Hijau (120 li)
 Kota kecil pengolahan kayu spiritual di jalur dagang utama antara Kota Shenmu dan Hutan Purba Wansen. Kota ini terkenal dengan para pengrajin kayu yang memproduksi busur spirit, tongkat formasi, dan perabotan kayu bernilai tinggi.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Industri kayu spiritual terdaftar, Jalan Pengrajin Kayu, Pasar Kulit dan Sisik, Lapangan Pengawal, Gudang Kayu Terdaftar.
@@ -227,6 +245,8 @@ Kota kecil pengolahan kayu spiritual di jalur dagang utama antara Kota Shenmu da
 
 ### 2.10 Kota Kecil Qingshang (青桑镇 - Qīngsāng Zhèn)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 1200 li (10.0 Hari jalan kaki / 40.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Desa Kabut Hijau (100 li) | Kota Shenmu (400 li)
+📍 **Jarak ke Area Khusus Terdekat:** Hutan Bambu Giok (150 li)
 Kota kecil di wilayah timur Shenmu Zhou yang dikelilingi perkebunan murbei spiritual luas. Menjadi pusat industri pemintalan benang ulat sutra spiritual dan pembuatan jubah pelindung Qi.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Perkebunan murbei spiritual, ulat sutra spiritual, Kain Pelindung Qi, Perkebunan Murbei Hijau, Rumah Pemintalan Spirit.
@@ -241,6 +261,8 @@ Kota kecil di wilayah timur Shenmu Zhou yang dikelilingi perkebunan murbei spiri
 
 ### 2.11 Pos Penjaga Gerbang Wanmulin (万木林守备营 - Wànmùlín Shǒubèi Yíng)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 1320 li (11.0 Hari jalan kaki / 44.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Kecil Lumu (150 li)
+📍 **Jarak ke Area Khusus Terdekat:** Taman Terlarang Seribu Benih (80 li)
 Pos keamanan resmi yang dikelola otoritas wilayah untuk mendaftar, memeriksa izin, dan mengawasi setiap ekspedisi yang hendak memasuki Hutan Purba Wansen.
 
 * **Fungsi & Sub-lokasi Kunci:** Pendaftaran ekspedisi, Aula Pendaftaran, Menara Pengamat Monster, Gudang Obat Darurat, Lapangan Evakuasi.
@@ -255,6 +277,8 @@ Pos keamanan resmi yang dikelola otoritas wilayah untuk mendaftar, memeriksa izi
 
 ### 2.12 Lembah Bunga Mayat (尸花谷 - Shīhuā Gǔ) — Zona Merah (Terlarang)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 1440 li (12.0 Hari jalan kaki / 48.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Pos Penjaga Wanmulin (200 li)
+📍 **Jarak ke Area Khusus Terdekat:** Dataran Abu Hijau (200 li)
 Area terlarang di ceruk terpencil Hutan Purba Wansen yang menjadi pusat letusan spora Bencana Bunga Bangkai Purba 8.000 tahun silam. Dipenuhi oleh tumbuhan pemakan bangkai dan lapisan spora beracun biologis.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Tumbuhan karnivora purba, Jalur Kelopak Tanpa Angin, Rawa Akar Pemangsa, Sarang Bunga Mayat.
@@ -269,6 +293,8 @@ Area terlarang di ceruk terpencil Hutan Purba Wansen yang menjadi pusat letusan 
 
 ### 2.13 Jurang Guruh Hijau (青雷断崖 - Qīngléi Duànyá) — Zona Oranye-Merah
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 1560 li (13.0 Hari jalan kaki / 52.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kampung Penenun Akar (180 li)
+📍 **Jarak ke Area Khusus Terdekat:** Tebing Angin Kayu (90 li)
 Tebing tinggi menakutkan di utara Dataran Abu Hijau yang secara konstan tersambar badai petir spiritual. Tempat penambangan mineral penghantar petir dan pencarian kayu tersambar guruh (*Thunder-Struck Wood*).
 
 * **Spesialisasi & Sub-lokasi Kunci:** Mineral penghantar petir, Tebing Seribu Sambaran, Hutan Kayu Hangus, Gua Batu Penghantar.
@@ -283,6 +309,8 @@ Tebing tinggi menakutkan di utara Dataran Abu Hijau yang secara konstan tersamba
 
 ### 2.14 Taman Terlarang Seribu Benih (万种禁园 - Wànzhǒng Jìnyuán) — Zona Merah
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 1680 li (14.0 Hari jalan kaki / 56.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Pos Penjaga Wanmulin (80 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Bunga Mayat (120 li)
 Situs penelitian botani kuno yang terisolasi di antara Lembah Biyang dan Hutan Purba Wansen. Dipenuhi oleh kebun bibit dorman dan tanaman mutasi hasil eksperimen masa lalu.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Formasi segel rusak, tanaman mutasi, Gerbang Seratus Segel, Kebun Bibit Tidur, Kolam Mutasi.
@@ -297,6 +325,8 @@ Situs penelitian botani kuno yang terisolasi di antara Lembah Biyang dan Hutan P
 
 ### 2.15 Kawasan Terlarang Makam Akar Sunyi (寂根禁地 - Jìgēn Jìndì) — Zona Hitam
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 1800 li (15.0 Hari jalan kaki / 60.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Perkampungan Penjaga Mata Air (250 li)
+📍 **Jarak ke Area Khusus Terdekat:** Danau Akar Terbalik (150 li)
 Lapisan paling dalam dan terisolasi dari Hutan Bambu Giok. Tempat disembunyikannya inti pengaman formasi kuno yang menyegel sisa kegagalan ritual Sekte Pedang Bambu Langit.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Keheningan mutlak, Jalan Akar Tanpa Jejak, Gerbang Sunyi Tiga Nadi, Ruang Segel Leluhur.
@@ -310,7 +340,9 @@ Lapisan paling dalam dan terisolasi dari Hutan Bambu Giok. Tempat disembunyikann
 ---
 
 ### 2.16 Danau Akar Terbalik (倒根灵湖 - Dàogēn Línghú) — Zona Oranye
-📍 **Jarak dari Kota Shenmu (Pusat Region):** 1920 li (16.0 Hari jalan kaki / 64.0 Jam berkuda)
+📍 **Jarak dari Kota Shenmu (Pusat Region):** 600 li
+📍 **Jarak ke Permukiman Terdekat:** Perkampungan Penjaga Mata Air (100 li)
+📍 **Jarak ke Area Khusus Terdekat:** Kawasan Terlarang Makam Akar Sunyi (150 li)
 Lembah danau spiritual di selatan Hutan Purba Wansen tempat akar pohon raksasa tumbuh terbalik ke arah permukaan air. Menghasilkan fenomena anomali aliran Qi terbalik.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Aliran Qi terbalik, Dermaga Akar Terapung, Pulau Pantulan, Mata Air Terbalik, Gua Dasar Danau.
@@ -325,6 +357,9 @@ Lembah danau spiritual di selatan Hutan Purba Wansen tempat akar pohon raksasa t
 
 ### 2.17 Kampung Penenun Akar (织根寨 - Zhīgēn Zhài)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 2040 li (17.0 Hari jalan kaki / 68.0 Jam berkuda)
+📍 **Jarak dari Kota Shenmu (Pusat Region):** 390 li
+📍 **Jarak ke Permukiman Terdekat:** Kota Kecil Lumu (90 li)
+📍 **Jarak ke Area Khusus Terdekat:** Sungai Spirit Qingshang (110 li)
 Permukiman suku pengrajin tradisional di dekat Terowongan Akar Berurat Giok. Menguasai teknik menganyam serat akar spiritual menjadi tali penjelajah dan jembatan gantung tahan beban berat.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Anyaman akar spiritual, Balai Anyaman Leluhur, Jembatan Akar Ganda, Gudang Serat Spiritual.
@@ -339,6 +374,9 @@ Permukiman suku pengrajin tradisional di dekat Terowongan Akar Berurat Giok. Men
 
 ### 2.18 Perkampungan Penjaga Mata Air (守泉村 - Shǒuquán Cūn)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 2160 li (18.0 Hari jalan kaki / 72.0 Jam berkuda)
+📍 **Jarak dari Kota Shenmu (Pusat Region):** 500 li
+📍 **Jarak ke Permukiman Terdekat:** Kampung Penenun Akar (140 li)
+📍 **Jarak ke Area Khusus Terdekat:** Danau Akar Terbalik (100 li)
 Desa konservasi lingkungan di hulu Sungai Seribu Akar. Bertanggung jawab menjaga pemurnian mata air utama yang mengaliri seluruh kebun obat di Shenmu Zhou.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Pemeliharaan mata air spiritual, Mata Air Tujuh Cabang, Rumah Penjaga Bendung, Kolam Pemurnian.
@@ -353,6 +391,8 @@ Desa konservasi lingkungan di hulu Sungai Seribu Akar. Bertanggung jawab menjaga
 
 ### 2.19 Kerajaan Elf Spirit Wanling (万灵精皇国 - Wanling Spirit Elf Kingdom)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 2280 li (19.0 Hari jalan kaki / 76.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Shenmu (800 li)
+📍 **Jarak ke Area Khusus Terdekat:** Sanctum Pohon Leluhur Wansen (400 li)
 Kerajaan megah berdaulat milik Ras Elf Spirit yang tersembunyi di kedalaman Hutan Purba Wansen. Berdiri megah secara memutar di atas dahan-dahan raksasa **Pohon Induk Wanling (Wanling World-Tree)** yang berusia 50.000 tahun. Bangsa Elf Spirit dikenal sebagai penjaga kesucian alam, master memanah Qi Kayu/Angin, dan pemelihara kebun benih obat langka yang tidak dapat tumbuh di tempat lain di dunia fana.
 
 * **Nama Resmi:** Kerajaan Spirit Elf Wanling (Wanling Spirit Elf Kingdom)
@@ -424,6 +464,8 @@ Kerajaan megah berdaulat milik Ras Elf Spirit yang tersembunyi di kedalaman Huta
 
 ### 2.20 Sanctum Pohon Leluhur Wansen (万森祖树圣境 - Wansen Ancestral Tree Sanctum)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 2400 li (20.0 Hari jalan kaki / 80.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kerajaan Wanling (400 li)
+📍 **Jarak ke Area Khusus Terdekat:** Hutan Purba Wansen (750 li)
 Jantung spiritual kuno Hutan Purba Wansen tempat tumbuhnya pohon induk generasi pertama yang menjadi sumber kehidupan seluruh flora di Shenmu Zhou. Wilayah ini diselimuti oleh konsentrasi Qi Kayu paling padat (*Wood Qi Modifier ×1.5*) dan dijaga oleh entitas roh purba.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Pusat konsentrasi Qi Kayu murni, Altar Akar Purba, Danau Embun Hunyuan, Hutan Purba Tanpa Bayangan, Ruang Meditasi Akar Leluhur.
@@ -439,6 +481,8 @@ Jantung spiritual kuno Hutan Purba Wansen tempat tumbuhnya pohon induk generasi 
 
 ### 2.21 Lembah Embun Spirit (灵露谷 - Spirit Dew Valley)
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 2520 li (21.0 Hari jalan kaki / 84.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Desa Qingling (60 li) | Kota Shenmu (180 li)
+📍 **Jarak ke Area Khusus Terdekat:** Air Terjun Embun Giok (40 li)
 Lembah tersembunyi yang dilingkupi tebing giok hijau. Setiap subuh, penguapan Qi Kayu dari kanopi hutan mengembun menjadi **Embun Spirit Murni (Pure Spirit Dew)** yang menggenang di Telaga Embun Murni. Menjadi lokasi perburuan utama para tabib dan alkemis untuk mencari bahan pelarut obat kualitas puncak.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Panen Embun Spirit Murni, Telaga Embun Murni, Anjungan Penampung Qi, Kebun Bunga Embun Malam.
@@ -454,6 +498,8 @@ Lembah tersembunyi yang dilingkupi tebing giok hijau. Setiap subuh, penguapan Qi
 
 ### 2.22 Rawa Spora Merah (红孢沼泽 - Red Spore Swamp) — Zona Merah
 📍 **Jarak dari Kota Shenmu (Pusat Region):** 2640 li (22.0 Hari jalan kaki / 88.0 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Kecil Lumu (220 li)
+📍 **Jarak ke Area Khusus Terdekat:** Dataran Abu Hijau (170 li)
 Area rawa beracun di sebelah tenggara Hutan Purba Wansen. Terbentuk dari hasil mutasi tanaman obat akibat sisa pencemaran spora Bunga Bangkai Purba. Dipenuhi oleh jamur spora merah raksasa, gas beracun pembakar paru-paru, dan monster tumbuhan mutasi.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Bahan racun biologis, Rawa Spora Berdarah, Gua Jamur Merah Purba, Sarang Lintah Spirit Mutasi.

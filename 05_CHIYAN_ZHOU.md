@@ -35,6 +35,8 @@ Chiyan Zhou adalah pusat energi panas dan penempaan terbesar di Xuantian World. 
 
 ### 2.1 Kota Shendu (神都城 - Shendu City)
 📍 **Jarak dari Kota Shendu (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
+📍 **Jarak ke Permukiman Terdekat:** Desa Chishui (160 li) | Perkampungan Kuali Spirit (300 li)
+📍 **Jarak ke Area Khusus Terdekat:** Puncak Danhuang (400 li)
 Kota benteng besi hitam yang dibangun memitigasi panas ekstrem di tepi Kawah Lava Shendu. Suara dentangan palu penempa terdengar bergema tanpa henti siang dan malam.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -47,6 +49,8 @@ Kota benteng besi hitam yang dibangun memitigasi panas ekstrem di tepi Kawah Lav
 
 ### 2.2 Desa Chishui (赤水村 - Chishui Village)
 📍 **Jarak dari Kota Shendu (Pusat Region):** 160 li (1 Hari jalan kaki / 4 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Shendu (160 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Meteorit Merah (420 li)
 
 Desa di tepi Sungai Merah Berapi. Penduduknya memanfaatkan panas bumi alami untuk mengeringkan dan memurnikan bahan herbal obat tahan api.
 
@@ -59,6 +63,8 @@ Desa di tepi Sungai Merah Berapi. Penduduknya memanfaatkan panas bumi alami untu
 
 ### 2.3 Puncak Danhuang (丹皇峰 - Danhuang Peak)
 📍 **Jarak dari Kota Shendu (Pusat Region):** 400 li (2.5 Hari jalan kaki / 10 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Shendu (400 li)
+📍 **Jarak ke Area Khusus Terdekat:** Gua Lava Hitam (150 li)
 
 Gunung berapi dormant berudara sejuk di bagian utara Chiyan Zhou. Tempat berdirinya **Sekte Alkimia Danhuang**, produsen utama Pill Breakthrough berkualitas tinggi di Xuantian World.
 
@@ -70,6 +76,8 @@ Gunung berapi dormant berudara sejuk di bagian utara Chiyan Zhou. Tempat berdiri
 
 ### 2.4 Lembah Meteorit Merah (赤陨谷 - Red Meteorite Valley)
 📍 **Jarak dari Kota Shendu (Pusat Region):** 580 li (4 Hari jalan kaki / 14 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Desa Chishui (420 li)
+📍 **Jarak ke Area Khusus Terdekat:** Gua Lava Hitam (130 li)
 
 Lembah kawah bekas tumpahan sisa pecahan Bintang Api Purba. Lembah ini kaya akan bijih *Besi Meteorit Spirit* dan habitat *Salamander Api Purba (Tier 4)*.
 
@@ -81,6 +89,8 @@ Lembah kawah bekas tumpahan sisa pecahan Bintang Api Purba. Lembah ini kaya akan
 
 ### 2.5 Gua Lava Hitam (黑熔洞 - Black Lava Caverns)
 📍 **Jarak dari Kota Shendu (Pusat Region):** 450 li (3 Hari jalan kaki / 11 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Perkampungan Kuali Spirit (150 li)
+📍 **Jarak ke Area Khusus Terdekat:** Kawah Kristal Api Purba (400 li)
 
 Jaringan gua di bawah Kawah Shendu yang berisikan sungai lava pekat. Tempat pelatihan raga ketahanan panas ekstrem bagi para penempa senior.
 
@@ -92,6 +102,8 @@ Jaringan gua di bawah Kawah Shendu yang berisikan sungai lava pekat. Tempat pela
 
 ### 2.6 Kawah Kristal Api Purba (古炎晶火口 - Ancient Flame Crystal Crater) 🆕
 📍 **Jarak dari Kota Shendu (Pusat Region):** 850 li (6 Hari jalan kaki / 2 Hari berkuda / 7 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Perkampungan Kuali Spirit (550 li)
+📍 **Jarak ke Area Khusus Terdekat:** Gua Lava Hitam (400 li)
 
 Kawah gunung berapi aktif di dataran tinggi barat Chiyan Zhou. Dinding-dinding dalam kawah ini ditumbuhi lapisan Kristal Api Purba (*Flame Crystals*) berpendar merah yang menjadi bahan utama pembuatan kristal array pelindung dan senjata elemen api.
 
@@ -108,6 +120,8 @@ Kawah gunung berapi aktif di dataran tinggi barat Chiyan Zhou. Dinding-dinding d
 
 ### 2.7 Perkampungan Pembuat Kuali Spirit (灵鼎铸造村 - Spirit Cauldron Foundry Village) 🆕
 📍 **Jarak dari Kota Shendu (Pusat Region):** 300 li (2 Hari jalan kaki / 7 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Shendu (300 li)
+📍 **Jarak ke Area Khusus Terdekat:** Gua Lava Hitam (150 li)
 
 Desa spesialis penempaan kuali alkimia di dekat sumber air panas selatan Puncak Danhuang. Desa ini memproduksi Kuali Alkimia (*Spirit Cauldrons*) berbagai Grade dari bahan paduan logam tahan panas dan ukiran rune api.
 

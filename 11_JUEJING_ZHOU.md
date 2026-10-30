@@ -35,6 +35,8 @@ Ketika Dewa Primordial Hunyuan menyegel retakan utama, sisa-sisa energi petir da
 
 ### 2.1 Pos Depan Juejing (绝境前哨站 - Juejing Frontier Outpost)
 📍 **Jarak dari Pos Depan Juejing (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
+📍 **Jarak ke Permukiman Terdekat:** Kamp Penjelajah Veteran (120 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Retakan Ruang (180 li)
 Benteng pertahanan raksasa berbenteng baja spirit yang dibangun oleh Aliansi 10 Wilayah. Benteng ini menjadi gerbang terakhir sebelum memasuki Zona Terlarang dan tempat berkumpulnya para veteran pertahanan serta pemburu harta purba.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -47,6 +49,8 @@ Benteng pertahanan raksasa berbenteng baja spirit yang dibangun oleh Aliansi 10 
 
 ### 2.2 Lembah Retakan Ruang (空间裂缝谷 - Space Rift Valley)
 📍 **Jarak dari Pos Depan Juejing (Pusat Region):** 180 li (1.2 Hari jalan kaki / 5 Jam Airship Tahan Anomali)
+📍 **Jarak ke Permukiman Terdekat:** Pos Depan Juejing (180 li)
+📍 **Jarak ke Area Khusus Terdekat:** Jurang Anomali Petir Tanah (170 li)
 
 Situs terlarang di dalam zona tengah Juejing Zhou tempat kristal ruang purba dan bangkai Beast Kuno bertaburan. Hanya kultivator ranah *Tongtian Jing* ke atas yang disarankan memasuki area ini tanpa pengawalan.
 
@@ -58,6 +62,8 @@ Situs terlarang di dalam zona tengah Juejing Zhou tempat kristal ruang purba dan
 
 ### 2.3 Jurang Anomali Petir Tanah (地雷异象深渊 - Ground-Thunder Abyss)
 📍 **Jarak dari Pos Depan Juejing (Pusat Region):** 350 li (2.5 Hari jalan kaki / 9 Jam Airship Tahan Anomali)
+📍 **Jarak ke Permukiman Terdekat:** Pos Depan Juejing (350 li)
+📍 **Jarak ke Area Khusus Terdekat:** Ngarai Kristal Ruang (100 li)
 
 Jurang gelap berkedalaman 5.000 meter di mana petir menyambar naik dari tanah. Tempat pengambilan *Batu Petir Purba Grade 8* dan tempat tinggal *Chimera Batu Purba (Tier 4)*.
 
@@ -69,6 +75,8 @@ Jurang gelap berkedalaman 5.000 meter di mana petir menyambar naik dari tanah. T
 
 ### 2.4 Reruntuhan Medan Perang Purba (古战场遗址 - Ancient Battlefield Ruins)
 📍 **Jarak dari Pos Depan Juejing (Pusat Region):** 600 li (4 Hari jalan kaki / 15 Jam Airship Tahan Anomali)
+📍 **Jarak ke Permukiman Terdekat:** Kamp Penjelajah Veteran (480 li)
+📍 **Jarak ke Area Khusus Terdekat:** Ngarai Kristal Ruang (150 li)
 
 Situs reruntuhan istana purba yang dipenuhi prasasti bertuliskan bahasa kuno. Tempat perburuan artefak kuno lapuk dan naskah jurus kustom.
 
@@ -80,6 +88,8 @@ Situs reruntuhan istana purba yang dipenuhi prasasti bertuliskan bahasa kuno. Te
 
 ### 2.5 Ngarai Kristal Ruang Purba (古空晶峡 - Ancient Space Crystal Canyon) 🆕
 📍 **Jarak dari Pos Depan Juejing (Pusat Region):** 450 li (3 Hari jalan kaki / 11 Jam Airship Tahan Anomali)
+📍 **Jarak ke Permukiman Terdekat:** Kamp Penjelajah Veteran (330 li)
+📍 **Jarak ke Area Khusus Terdekat:** Jurang Anomali Petir Tanah (100 li)
 
 Ngarai terisolasi di dalam zona tengah Juejing Zhou tempat fluktuasi retakan ruang mengendapkan Kristal Ruang Purba murni. Ruang di dalam ngarai ini terlipat secara dinamis, memerlukan jimat penstabil ruang untuk penambangan yang aman.
 
@@ -96,6 +106,8 @@ Ngarai terisolasi di dalam zona tengah Juejing Zhou tempat fluktuasi retakan rua
 
 ### 2.6 Kamp Penjelajah Karavan Veteran (老兵探索营 - Veteran Explorer Camp) 🆕
 📍 **Jarak dari Pos Depan Juejing (Pusat Region):** 120 li (1 Hari jalan kaki / 3 Jam Airship Tahan Anomali)
+📍 **Jarak ke Permukiman Terdekat:** Pos Depan Juejing (120 li)
+📍 **Jarak ke Area Khusus Terdekat:** Ngarai Kristal Ruang (330 li)
 
 Pos benteng depan di antara Jurang Petir Tanah dan Lembah Retakan Ruang. Tempat istirahat, perdagangan artefak galian purba, dan perekrutan pemandu veteran bagi tim ekspedisi tingkat tinggi.
 

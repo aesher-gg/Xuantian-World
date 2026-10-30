@@ -35,6 +35,8 @@ Beihan Zhou adalah domain padang salju dan puncak es abadi yang terletak di bagi
 
 ### 2.1 Kota Hanbing (寒冰城 - Frost City)
 📍 **Jarak dari Kota Hanbing (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
+📍 **Jarak ke Permukiman Terdekat:** Perkampungan Kereta Sled (150 li) | Lembah Xueyuan (220 li)
+📍 **Jarak ke Area Khusus Terdekat:** Danau Es Cermin Jiwa (380 li)
 Kota berpindingkan blok es murni yang ditenagai oleh Formasi Penghangat Spirit Grade 6. Di pusat kota terdapat Pasar Kristal Es, tempat lelang Lotus Es, Bulu Serigala Salju, dan Daging Beast Es.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -47,6 +49,8 @@ Kota berpindingkan blok es murni yang ditenagai oleh Formasi Penghangat Spirit G
 
 ### 2.2 Lembah Xueyuan (雪原谷 - Snowfield Valley)
 📍 **Jarak dari Kota Hanbing (Pusat Region):** 220 li (1.5 Hari Sled / 6 Jam berkuda es)
+📍 **Jarak ke Permukiman Terdekat:** Perkampungan Kereta Sled (70 li) | Kota Hanbing (220 li)
+📍 **Jarak ke Area Khusus Terdekat:** Gua Kristal Es Abadi (260 li)
 
 Lembah beku yang diselimuti kabut salju tipis. Tempat tumbuhnya herbal langka tipe es seperti *Akar Es Biru* dan *Bunga Snowdrop Spirit*, serta habitat utama Serigala Salju Pemburu.
 
@@ -58,6 +62,8 @@ Lembah beku yang diselimuti kabut salju tipis. Tempat tumbuhnya herbal langka ti
 
 ### 2.3 Gua Kristal Es Abadi (万年冰晶洞 - Eternal Ice Crystal Caverns)
 📍 **Jarak dari Kota Hanbing (Pusat Region):** 480 li (3.5 Hari Sled / 12 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Lembah Xueyuan (260 li)
+📍 **Jarak ke Area Khusus Terdekat:** Puncak Es Abadi (220 li)
 
 Jaringan gua kristal di bawah Puncak Es Abadi yang bersuhu minus 50 derajat. Tempat pertapaan pemurnian jiwa dan pengambilan *Kristal Es Purba Grade 7*.
 
@@ -69,6 +75,8 @@ Jaringan gua kristal di bawah Puncak Es Abadi yang bersuhu minus 50 derajat. Tem
 
 ### 2.4 Puncak Es Abadi (永冻冰峰 - Eternal Frost Peak)
 📍 **Jarak dari Kota Hanbing (Pusat Region):** 700 li (5 Hari Sled / 16 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kota Hanbing (700 li)
+📍 **Jarak ke Area Khusus Terdekat:** Gua Kristal Es Abadi (220 li)
 
 Puncak tertinggi di Beihan Zhou setinggi 8.000 meter. Tempat mekarnya Lotus Es 1.000 Tahun dan lokasi pengujian keheningan meditasi para alkemis es senior.
 
@@ -80,6 +88,8 @@ Puncak tertinggi di Beihan Zhou setinggi 8.000 meter. Tempat mekarnya Lotus Es 1
 
 ### 2.5 Danau Es Cermin Jiwa (镜魂冰湖 - Soul Mirror Ice Lake) 🆕
 📍 **Jarak dari Kota Hanbing (Pusat Region):** 380 li (2.5 Hari Sled / 9 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kota Hanbing (380 li)
+📍 **Jarak ke Area Khusus Terdekat:** Lembah Xueyuan (160 li)
 
 Danau es raksasa di dataran tinggi Beihan Zhou yang permukaan esnya bening dan mengkilap bak cermin obsidian. Digunakan para pendekar untuk bermeditasi menghalau iblis dalam diri serta memperdalam pemahaman Sword Intent elemen es.
 
@@ -96,6 +106,8 @@ Danau es raksasa di dataran tinggi Beihan Zhou yang permukaan esnya bening dan m
 
 ### 2.6 Perkampungan Perajin Kereta Serigala Es (冰狼雪橇村 - Ice Wolf Sled Village) 🆕
 📍 **Jarak dari Kota Hanbing (Pusat Region):** 150 li (1 Hari Sled / 4 Jam berkuda es)
+📍 **Jarak ke Permukiman Terdekat:** Kota Hanbing (150 li) | Lembah Xueyuan (70 li)
+📍 **Jarak ke Area Khusus Terdekat:** Danau Es Cermin Jiwa (230 li)
 
 Desa kerajinan transportasi di pinggiran Lembah Xueyuan. Tempat penangkaran Serigala Salju Jinak dan pembuatan kereta sled (*Ice Sleds*) bertengaga kristal es untuk melintasi padang salju abadi.
 
