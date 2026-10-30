@@ -34,6 +34,9 @@ Canghai Zhou adalah domain samudra biru berkilau yang membentang tak bertepi di 
 ## 2. Lokasi Kunci, Permukiman & Roster NPC Detail
 
 ### 2.1 Kota Pelabuhan Haibin (海滨城 - Coastal City)
+📍 **Jarak dari Kota Pelabuhan Haibin (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
+📍 **Jarak ke Permukiman Terdekat:** Galangan Kapal Bintang Laut (80 li)
+📍 **Jarak ke Area Khusus Terdekat:** Kepulauan Xingluo (200 li laut)
 Pelabuhan raksasa dengan dermaga bertingkat yang menampung ribuan kapal laut spirit dan Kapal Terbang Laut (*Sea Airships*). Pusat perdagangan Mutiara Spirit, Sisik Naga, dan Daging Beast Laut.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -45,6 +48,10 @@ Pelabuhan raksasa dengan dermaga bertingkat yang menampung ribuan kapal laut spi
 ---
 
 ### 2.2 Kepulauan Xingluo (星罗群岛 - Starfall Isles)
+📍 **Jarak dari Kota Pelabuhan Haibin (Pusat Region):** 200 li laut (12 Jam Pelayaran Kapal Laut / 4 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kota Pelabuhan Haibin (200 li laut)
+📍 **Jarak ke Area Khusus Terdekat:** Kepulauan Mutiara Purba (250 li laut)
+
 Gugusan ribuan pulau kecil bercahaya di tengah laut. Tempat tinggal suku nelayan spirit dan lokasi favorit bagi pembudidaya muda untuk berburu **Siput Mutiara Spirit (Tier 2)**.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -55,6 +62,10 @@ Gugusan ribuan pulau kecil bercahaya di tengah laut. Tempat tinggal suku nelayan
 ---
 
 ### 2.3 Palung Laut Bintang Giok (玉星海沟 - Jade-Star Trench)
+📍 **Jarak dari Kota Pelabuhan Haibin (Pusat Region):** 600 li laut (1.5 Hari Pelayaran / 8 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Pulau Terumbu Karang Giok (250 li laut)
+📍 **Jarak ke Area Khusus Terdekat:** Kepulauan Xingluo (400 li laut)
+
 Palung laut dalam berkedalaman 8.000 meter di mana tanaman *Karang Spirit Bintang* tumbuh dan habitat *Hiu Bersisik Perak (Tier 3)* serta *Naga Laut Bersisik Giok (Tier 4)*.
 
 | NPC / Anomali | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -64,6 +75,10 @@ Palung laut dalam berkedalaman 8.000 meter di mana tanaman *Karang Spirit Bintan
 ---
 
 ### 2.4 Kepulauan Mutiara Purba (古珠群岛 - Ancient Pearl Atolls)
+📍 **Jarak dari Kota Pelabuhan Haibin (Pusat Region):** 450 li laut (1 Hari Pelayaran / 6 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kepulauan Xingluo (250 li laut)
+📍 **Jarak ke Area Khusus Terdekat:** Tembok Es Samudra (450 li laut)
+
 Gugusan atoll batu karang putih yang dilingkupi terumbu karang bercahaya. Tempat tumbuh utama tanaman obat *Rumput Laut Es Spirit* dan Mutiara Hunyuan Laut.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -73,6 +88,10 @@ Gugusan atoll batu karang putih yang dilingkupi terumbu karang bercahaya. Tempat
 ---
 
 ### 2.5 Tembok Es Samudra (海冰长城 - Ocean Ice Rampart)
+📍 **Jarak dari Kota Pelabuhan Haibin (Pusat Region):** 900 li laut (2.5 Hari Pelayaran / 12 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kepulauan Mutiara Purba (450 li laut)
+📍 **Jarak ke Area Khusus Terdekat:** Beihan Zhou Coast (500 li laut)
+
 Benteng es raksasa hasil pembekuan tsunami purba 5.000 tahun lalu. Tembok es ini berdiri kokoh di tengah laut sebagai menara pengawas invasi monster laut dalam.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -82,6 +101,10 @@ Benteng es raksasa hasil pembekuan tsunami purba 5.000 tahun lalu. Tembok es ini
 ---
 
 ### 2.6 Pulau Terumbu Karang Giok (翡翠珊瑚岛 - Emerald Coral Island) 🆕
+📍 **Jarak dari Kota Pelabuhan Haibin (Pusat Region):** 350 li laut (18 Jam Pelayaran / 5 Jam Airship)
+📍 **Jarak ke Permukiman Terdekat:** Kota Pelabuhan Haibin (350 li laut)
+📍 **Jarak ke Area Khusus Terdekat:** Palung Laut Bintang Giok (250 li laut)
+
 Pulau tropis bercahaya yang dikelilingi oleh gugusan terumbu karang berwarna hijau giok. Terkenal sebagai lokasi budidaya Mutiara Spirit Elemen Air dan tempat pemanenan Rumput Laut Penyegar Stamina Bawah Air.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Budidaya Mutiara Spirit, Terumbu Karang Giok, Gua Air Spirit Bawah Laut, Pasar Mutiara Laut Hijau.
@@ -96,6 +119,10 @@ Pulau tropis bercahaya yang dikelilingi oleh gugusan terumbu karang berwarna hij
 ---
 
 ### 2.7 Galangan Kapal Spirit Bintang Laut (星海船坞 - Starsea Spirit Shipyard) 🆕
+📍 **Jarak dari Kota Pelabuhan Haibin (Pusat Region):** 80 li (0.5 Hari jalan darat / 2 Jam berkuda)
+📍 **Jarak ke Permukiman Terdekat:** Kota Pelabuhan Haibin (80 li jalan darat)
+📍 **Jarak ke Area Khusus Terdekat:** Dermaga Pelabuhan Haibin (10 li)
+
 Dermaga apung raksasa di antara tiga pulau pelindung. Tempat para master pembuat kapal membangun Perahu Spirit Laju dan Kapal Terbang Laut berlapis zirah besi kayu bersimbol rune penolak air.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Konstruksi kapal spirit, Galangan Kapal Terbang Laut, Bengkel Inskripsi Rune Air, Dermaga Uji Coba Kecepatan.

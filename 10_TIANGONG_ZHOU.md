@@ -34,6 +34,9 @@ Tiangong Zhou dahulunya adalah rantai gunung tertinggi di pusat benua. Saat Benc
 ## 2. Lokasi Kunci, Permukiman & Roster NPC Detail
 
 ### 2.1 Benteng Melayang Tiangong (天宫浮空城 - Tiangong Floating Citadel)
+📍 **Jarak dari Benteng Melayang Tiangong (Ibu Kota/Pusat Region):** 0 li (Pusat Kota / Titik Acuan Distrik)
+📍 **Jarak ke Permukiman Terdekat:** Galangan Shenhang (50 li) | Dermaga Levitasi Awan (80 li)
+📍 **Jarak ke Area Khusus Terdekat:** Menara Navigasi Bintang (120 li)
 Ibu kota melayang raksasa yang ditenagai oleh Formasi Ruang Purba Grade 9. Di pusat kota berdiri Menara Navigasi Langit, tempat para Master memantau cuaca udara dan jalur kapal terbang di seluruh 10 Wilayah.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -45,6 +48,10 @@ Ibu kota melayang raksasa yang ditenagai oleh Formasi Ruang Purba Grade 9. Di pu
 ---
 
 ### 2.2 Galangan Kapal Terbang Shenhang (神航飞天造船厂)
+📍 **Jarak dari Benteng Melayang Tiangong (Pusat Region):** 50 li (2 Jam terbang / Skiff)
+📍 **Jarak ke Permukiman Terdekat:** Benteng Melayang Tiangong (50 li) | Dermaga Levitasi Awan (30 li)
+📍 **Jarak ke Area Khusus Terdekat:** Akademi Pilot Pemula (50 li)
+
 Galangan kapal melayang terbesar di mana ratusan mekanik dan pembuat formasi merakit Kapal Terbang Spirit dari skala Skiff Pribadi hingga War Battleship Grade 4.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -54,6 +61,10 @@ Galangan kapal melayang terbesar di mana ratusan mekanik dan pembuat formasi mer
 ---
 
 ### 2.3 Dermaga Levitasi Awan (浮云码头 - Floating Cloud Docks)
+📍 **Jarak dari Benteng Melayang Tiangong (Pusat Region):** 80 li (3 Jam terbang / Skiff)
+📍 **Jarak ke Permukiman Terdekat:** Benteng Melayang Tiangong (80 li) | Galangan Shenhang (30 li)
+📍 **Jarak ke Area Khusus Terdekat:** Anjungan Batu Bintang (120 li)
+
 Dermaga tempat berlabuhnya ribuan Kapal Terbang Spirit ekspres dari seluruh 10 Wilayah Utama.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -63,6 +74,10 @@ Dermaga tempat berlabuhnya ribuan Kapal Terbang Spirit ekspres dari seluruh 10 W
 ---
 
 ### 2.4 Menara Navigasi Bintang Langit (星天航行塔 - Star Navigation Tower)
+📍 **Jarak dari Benteng Melayang Tiangong (Pusat Region):** 120 li (4 Jam terbang / Skiff)
+📍 **Jarak ke Permukiman Terdekat:** Benteng Melayang Tiangong (120 li)
+📍 **Jarak ke Area Khusus Terdekat:** Anjungan Batu Bintang (80 li)
+
 Menara kristal melayang setinggi 200 meter tempat pemetaan arus angin, rasi bintang malam, dan penentuan lisensi pilot penerbangan Tier 1–5.
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
@@ -72,6 +87,10 @@ Menara kristal melayang setinggi 200 meter tempat pemetaan arus angin, rasi bint
 ---
 
 ### 2.5 Anjungan Levitasi Batu Bintang (星石浮台 - Starstone Levitation Platform) 🆕
+📍 **Jarak dari Benteng Melayang Tiangong (Pusat Region):** 200 li (6 Jam terbang / Skiff)
+📍 **Jarak ke Permukiman Terdekat:** Dermaga Levitasi Awan (120 li)
+📍 **Jarak ke Area Khusus Terdekat:** Menara Navigasi Bintang (80 li)
+
 Gugusan platform tambang batu melayang di lapisan atmosfer atas yang kaya akan *Kristal Ruang Levitasi*. Para penambang menggunakan tali grapling dari kapal terbang untuk memanen batu levitasi penggantung pulau dan mesin airship.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Penambangan Kristal Levitasi Ruang, Tambang Batu Levitasi, Anjungan Pengikat Grapling, Kolam Pemurnian Mineral Ruang.
@@ -86,6 +105,10 @@ Gugusan platform tambang batu melayang di lapisan atmosfer atas yang kaya akan *
 ---
 
 ### 2.6 Akademi Pelatihan Pilot Pemula Feichuan (飞舟初级驾驭所 - Feichuan Junior Pilot Training Center) 🆕
+📍 **Jarak dari Benteng Melayang Tiangong (Pusat Region):** 100 li (3.5 Jam terbang / Skiff)
+📍 **Jarak ke Permukiman Terdekat:** Benteng Melayang Tiangong (100 li) | Galangan Shenhang (50 li)
+📍 **Jarak ke Area Khusus Terdekat:** Dermaga Levitasi Awan (70 li)
+
 Pusat akademi pelatihan penerbangan di pulau melayang sebelah timur Benteng Tiangong. Dilengkapi dengan simulator kemudi kayu dan rintangan angin badai buatan untuk menguji calon pilot penerbangan komersial.
 
 * **Spesialisasi & Sub-lokasi Kunci:** Pelatihan Pilot Airship, Rintangan Angin Badai Buatan, Simulasi Kemudi Kayu, Balai Ujian Lisensi Pilot.
