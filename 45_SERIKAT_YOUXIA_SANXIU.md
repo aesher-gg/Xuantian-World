@@ -91,7 +91,7 @@ Di setiap Balai Serikat terdapat **Papan Misi Kristal Spirit (Crystal Quest Boar
 - **Konsep:** Membasmi atau menumpas Spirit Beast pengganggu, monster amuk, atau entitas berbahaya yang mengancam permukiman fana / jalur pelayaran.
 - **Target Misi:** Spirit Beast Tier 1–9 (`21_BESTIARY.md`) atau Monster Anomali Lokal.
 - **Ketentuan Hasil:** Wajib membuktikan hasil buruan melalui penyerahan organ spesifik (Taring, Sisik, Inti Spirit, Bulu, atau Kulit).
-- **Penentuan Imbalan:** Disesuaikan dengan Tier Beast (Batu Spirit standar + Poin Merit Guild × Tier Beast).
+- **Penentuan Imbalan:** Disesuaikan dengan Tier Beast (Giok Roh standar + Poin Merit Guild × Tier Beast).
 
 ### 2. Kategori Pengumpulan (Gathering / Harvesting)
 - **Konsep:** Mengumpulkan bahan baku alam spiritual, tanaman obat langka, mineral tempaan, atau bahan inskripsi rune.
@@ -115,7 +115,7 @@ Di setiap Balai Serikat terdapat **Papan Misi Kristal Spirit (Crystal Quest Boar
 - **Konsep:** Menyelidiki fenomena anomali alam mendadak, perubahan perilaku monster liar, retakan ruang lokal, atau wabah spora beracun.
 - **Target Misi:** Lokasi anomali regional (misal: Lembah Bunga Mayat, Jurang Guruh Hijau, Rawa Duwu).
 - **Ketentuan Hasil:** Laporan tertulis mengenai sumber pemicu anomali dan penyerahan sampel kontaminasi.
-- **Penentuan Imbalan:** Batu Spirit + Akses Informasi Rahasia Tingkat I Guild.
+- **Penentuan Imbalan:** Giok Roh + Akses Informasi Rahasia Tingkat I Guild.
 
 ### 6. Kategori Penumpasan Penyamun & Buronan (Bounty & Criminal Suppression)
 - **Konsep:** Menangkap atau menumpas sindikat pembajak udara, penyamun tebing, pembalak liar, atau pembudidaya sesat yang melanggar hukum benua.

@@ -70,15 +70,15 @@ AI GM **WAJIB** mematuhi rumus batas kecepatan per hari (*li/hari*) dan per jam 
 
 | Wilayah Asal | Wilayah Tujuan | Jarak Efektif (Li) | Waktu Jalan Kaki Normal (Realm 1–2) | Waktu Terbang Pedang / Qi Flight (Realm 3+) | Waktu Kapal Terbang Standard | Waktu Kapal Terbang Pendorong Qi (Realm 3 Pilot/Passenger) | Biaya Tiket Kapal Terbang |
 |---|---|---|---|---|---|---|---|
-| Zhonghua Zhou | Shenmu Zhou | 5.000 li | 10 Hari | **1,5 Hari (36 Jam)** | 2 Hari | **12 Jam** | 15 Batu Spirit Rendah |
-| Zhonghua Zhou | Canglong Zhou | 6.000 li | 12 Hari | **1,8 Hari (43 Jam)** | 2,5 Hari | **15 Jam** | 18 Batu Spirit Rendah |
-| Zhonghua Zhou | Chiyan Zhou | 7.500 li | 15 Hari | **2,2 Hari (53 Jam)** | 3 Hari | **18 Jam** | 22 Batu Spirit Rendah |
-| Zhonghua Zhou | Tiangong Zhou | 4.000 li | 8 Hari (ke kaki gunung) | **1,2 Hari (28 Jam)** | 1,5 Hari | **8 Jam** | 30 Batu Spirit Rendah |
-| Zhonghua Zhou | Canghai Zhou | 8.500 li | 17 Hari | **2,5 Hari (60 Jam)** | 3,5 Hari | **22 Jam** | 28 Batu Spirit Rendah |
-| Zhonghua Zhou | Xixuan Zhou | 9.000 li | 18 Hari | **2,7 Hari (65 Jam)** | 3,8 Hari | **24 Jam** | 32 Batu Spirit Rendah |
-| Zhonghua Zhou | Beihan Zhou | 10.000 li | 20 Hari | **3,0 Hari (72 Jam)** | 4,0 Hari | **26 Jam** | 35 Batu Spirit Rendah |
-| Zhonghua Zhou | Youming Zhou | 11.000 li | 22 Hari | **3,3 Hari (79 Jam)** | 4,5 Hari | **28 Jam** | 40 Batu Spirit Rendah |
-| Any Zhou | Juejing Zhou | 15.000 li | 30 Hari (Berbahaya) | **4,5 Hari (108 Jam)** | 6,0 Hari | **36 Jam** | 100 Batu Spirit Rendah |
+| Zhonghua Zhou | Shenmu Zhou | 5.000 li | 10 Hari | **1,5 Hari (36 Jam)** | 2 Hari | **12 Jam** | 15 Low-Grade Spirit Jade |
+| Zhonghua Zhou | Canglong Zhou | 6.000 li | 12 Hari | **1,8 Hari (43 Jam)** | 2,5 Hari | **15 Jam** | 18 Low-Grade Spirit Jade |
+| Zhonghua Zhou | Chiyan Zhou | 7.500 li | 15 Hari | **2,2 Hari (53 Jam)** | 3 Hari | **18 Jam** | 22 Low-Grade Spirit Jade |
+| Zhonghua Zhou | Tiangong Zhou | 4.000 li | 8 Hari (ke kaki gunung) | **1,2 Hari (28 Jam)** | 1,5 Hari | **8 Jam** | 30 Low-Grade Spirit Jade |
+| Zhonghua Zhou | Canghai Zhou | 8.500 li | 17 Hari | **2,5 Hari (60 Jam)** | 3,5 Hari | **22 Jam** | 28 Low-Grade Spirit Jade |
+| Zhonghua Zhou | Xixuan Zhou | 9.000 li | 18 Hari | **2,7 Hari (65 Jam)** | 3,8 Hari | **24 Jam** | 32 Low-Grade Spirit Jade |
+| Zhonghua Zhou | Beihan Zhou | 10.000 li | 20 Hari | **3,0 Hari (72 Jam)** | 4,0 Hari | **26 Jam** | 35 Low-Grade Spirit Jade |
+| Zhonghua Zhou | Youming Zhou | 11.000 li | 22 Hari | **3,3 Hari (79 Jam)** | 4,5 Hari | **28 Jam** | 40 Low-Grade Spirit Jade |
+| Any Zhou | Juejing Zhou | 15.000 li | 30 Hari (Berbahaya) | **4,5 Hari (108 Jam)** | 6,0 Hari | **36 Jam** | 100 Low-Grade Spirit Jade |
 
 ---
 

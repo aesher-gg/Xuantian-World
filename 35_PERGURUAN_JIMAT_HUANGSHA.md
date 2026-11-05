@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Huangsha berfokus pada pela
 2. *"Ada sindikat pemalsu kertas jimat yang menggunakan tinta palsu racikan darah binatang biasa di pasar Kota Huangsha."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Pencampuran Tinta Darah* — Ekstraksi 10 botol darah Kalajengking Pasir dan campurkan dengan serbuk kristal spirit. (Hadiah: 30 Batu Spirit + 1x Kuas Spirit Pemula).
-* **Misi Khusus [Tier 3]:** *Inskripsi Rune Gerbang Benteng* — Ukir 20 rune pertahanan di gerbang timur Kota Huangsha sebelum badai pasir tiba. (Hadiah: 200 Batu Spirit + Sertifikat Pembuat Jimat Ahli).
-* **Misi Utama [Tier 5]:** *Pembuatan Jimat Segel Cacing Pasir* — Buat 5 set Jimat Segel Rune Tanah Purba Grade 5 untuk menahan Cacing Pasir Raksasa. (Hadiah: 800 Batu Spirit + Kertas Sutra Spirit Purba).
+* **Misi Harian [Tier 1]:** *Pencampuran Tinta Darah* — Ekstraksi 10 botol darah Kalajengking Pasir dan campurkan dengan serbuk kristal spirit. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Kuas Spirit Pemula).
+* **Misi Khusus [Tier 3]:** *Inskripsi Rune Gerbang Benteng* — Ukir 20 rune pertahanan di gerbang timur Kota Huangsha sebelum badai pasir tiba. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Pembuat Jimat Ahli).
+* **Misi Utama [Tier 5]:** *Pembuatan Jimat Segel Cacing Pasir* — Buat 5 set Jimat Segel Rune Tanah Purba Grade 5 untuk menahan Cacing Pasir Raksasa. (Hadiah: 800 Giok Roh (Spirit Jade) + Kertas Sutra Spirit Purba).

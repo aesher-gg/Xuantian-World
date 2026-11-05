@@ -86,6 +86,6 @@ Istana Jade Ocean berdiri sebagai pelindung mutlak kedaulatan bahari Canghai Zho
 2. *"Ada sindikat bajak laut yang berhasil mencuri piringan kemudi kapal perang spirit milik Istana Jade Ocean."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Pembersihan Tiram Pembunuh* — Basmi 10 Tiram Pembunuh Beracun di sekitar Taman Terumbu Karang. (Hadiah: 50 Batu Spirit + 1x Mutiara Spirit).
-* **Misi Khusus [Tier 4]:** *Penyelamatan Kapal Karam* — Evakuasi muatan herbal dari kapal dagang yang dihantam badai di Kepulauan Xingluo. (Hadiah: 300 Batu Spirit + 1x Kompas Spirit Laut).
-* **Misi Utama [Tier 6]:** *Perburuan Kraken Laut Dalam* — Bantu Laksamana Hai Wuji melumpuhkan amukan Kraken Raksasa di Palung Bintang Giok. (Hadiah: 1.200 Batu Spirit + Akses Istana Bawah Laut Giok).
+* **Misi Harian [Tier 2]:** *Pembersihan Tiram Pembunuh* — Basmi 10 Tiram Pembunuh Beracun di sekitar Taman Terumbu Karang. (Hadiah: 50 Giok Roh (Spirit Jade) + 1x Mutiara Spirit).
+* **Misi Khusus [Tier 4]:** *Penyelamatan Kapal Karam* — Evakuasi muatan herbal dari kapal dagang yang dihantam badai di Kepulauan Xingluo. (Hadiah: 300 Giok Roh (Spirit Jade) + 1x Kompas Spirit Laut).
+* **Misi Utama [Tier 6]:** *Perburuan Kraken Laut Dalam* — Bantu Laksamana Hai Wuji melumpuhkan amukan Kraken Raksasa di Palung Bintang Giok. (Hadiah: 1.200 Giok Roh (Spirit Jade) + Akses Istana Bawah Laut Giok).

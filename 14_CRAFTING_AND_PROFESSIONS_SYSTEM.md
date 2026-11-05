@@ -74,7 +74,7 @@ FinalPurity = Clamp(BasePurity + FlameQualityBonus + CauldronGradeBonus + Alchem
 
 > **Modul Utama Terpisah:** `17_AIRSHIP_NAVIGATION_SYSTEM.md`
 
-Klasifikasi armada kapal terbang melayang, formula kecepatan penerbangan, konsumsi batu spirit fuel, dan navigasi badai diatur secara spesifik di **Modul 17 (`17_AIRSHIP_NAVIGATION_SYSTEM.md`)**.
+Klasifikasi armada kapal terbang melayang, formula kecepatan penerbangan, konsumsi giok roh fuel, dan navigasi badai diatur secara spesifik di **Modul 17 (`17_AIRSHIP_NAVIGATION_SYSTEM.md`)**.
 
 ---
 

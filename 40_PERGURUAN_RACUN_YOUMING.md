@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Youming berfokus pada pelat
 2. *"Ada insiden kebocoran spora racun di laboratorium bawah tanah yang menyebabkan sebagian tanaman mutasi melarikan diri."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Ekstraksi Bisa Ular* — Ekstraksi 10 kantong bisa dari Ular Rawa Duwu dan tuangkan ke dalam botol penampung. (Hadiah: 30 Batu Spirit + 1x Set Jarum Rahasia).
-* **Misi Khusus [Tier 3]:** *Pembuatan Jarum Pelumpuh* — Lapisi 50 jarum besi dengan racun pelumpuh saraf untuk persediaan Aula Bayangan. (Hadiah: 200 Batu Spirit + Sertifikat Peracik Racun Ahli).
-* **Misi Utama [Tier 5]:** *Peracikan Antidote Wabah Spora* — Racik 100 dosis antidot massal untuk menetralkan wabah spora beracun di perbatasan Kota Heian. (Hadiah: 800 Batu Spirit + Akses Laboratorium Ekstraksi Bisa).
+* **Misi Harian [Tier 1]:** *Ekstraksi Bisa Ular* — Ekstraksi 10 kantong bisa dari Ular Rawa Duwu dan tuangkan ke dalam botol penampung. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Set Jarum Rahasia).
+* **Misi Khusus [Tier 3]:** *Pembuatan Jarum Pelumpuh* — Lapisi 50 jarum besi dengan racun pelumpuh saraf untuk persediaan Aula Bayangan. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Peracik Racun Ahli).
+* **Misi Utama [Tier 5]:** *Peracikan Antidote Wabah Spora* — Racik 100 dosis antidot massal untuk menetralkan wabah spora beracun di perbatasan Kota Heian. (Hadiah: 800 Giok Roh (Spirit Jade) + Akses Laboratorium Ekstraksi Bisa).

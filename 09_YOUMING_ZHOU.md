@@ -43,7 +43,7 @@ Kota tanpa hukum terang yang dibangun di dalam gua stalaktit raksasa. Kota ini a
 |---|---|---|---|---|---|---|
 | **Raja Bayangan Youming** | Pemimpin Istana Iblis Youming & Penguasa Kota | 175 | *Faxiang Jing*, Puncak | **3.125.000** | *Telapak Api Hitam Bayangan Purba* — Menghancurkan dantian musuh dari jarak jauh | Dingin, sangat misterius, selalu mengawasi pergerakan kota dari balik bayangan |
 | **Nenek Racun Du Gu** | Kepala Perguruan Racun Youming | 120 | *Faxiang Jing*, Menengah | **2.343.750** | *Hujan Jarum Racun Tujuh Langkah* — Infeksi racun instan menurunkan HP & Qi per turn | Eksentrik, mudah curiga, sangat menyukai murid yang pandai meracik racun langka |
-| **Pengelola Hei Gui** | Kepala Balai Pasar Gelap Wanbao | 58 | *Xuantian Jing*, Menengah | **93.750** | *Langkah Bayangan Tanpa Jejak* — Menghilang ke dalam kegelapan secara instan | Licik, sangat hemat bicara, hanya peduli pada pembayaran emas dan batu spirit |
+| **Pengelola Hei Gui** | Kepala Balai Pasar Gelap Wanbao | 58 | *Xuantian Jing*, Menengah | **93.750** | *Langkah Bayangan Tanpa Jejak* — Menghilang ke dalam kegelapan secara instan | Licik, sangat hemat bicara, hanya peduli pada pembayaran emas dan giok roh |
 
 ---
 

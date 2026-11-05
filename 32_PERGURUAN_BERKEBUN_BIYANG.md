@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Biyang tidak berfokus pada 
 2. *"Ada hama ulat spirit mutasi baru yang kebal terhadap asap herbal standar di ladang timur Lembah Biyang."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Pembersihan Gulma Spirit* — Bersihkan gulma liar penghambat Qi di 5 petak ladang latihan Biyang. (Hadiah: 30 Batu Spirit + 1x Kantong Benih Ginseng).
-* **Misi Khusus [Tier 3]:** *Uji Coba Pupuk Baru* — Aplikasikan formula pupuk cair baru pada 10 bibit Bunga Teratai Air dan laporkan perkembangannya. (Hadiah: 150 Batu Spirit + Sertifikat Petani Ahli).
-* **Misi Utama [Tier 5]:** *Rehabilitasi Tanah Terkontaminasi* — Pulihkan kualitas tanah spirit yang terkontaminasi racun spora di perbatasan Dataran Abu Hijau. (Hadiah: 600 Batu Spirit + Akses Rumah Kaca Qi Shenmu).
+* **Misi Harian [Tier 1]:** *Pembersihan Gulma Spirit* — Bersihkan gulma liar penghambat Qi di 5 petak ladang latihan Biyang. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Kantong Benih Ginseng).
+* **Misi Khusus [Tier 3]:** *Uji Coba Pupuk Baru* — Aplikasikan formula pupuk cair baru pada 10 bibit Bunga Teratai Air dan laporkan perkembangannya. (Hadiah: 150 Giok Roh (Spirit Jade) + Sertifikat Petani Ahli).
+* **Misi Utama [Tier 5]:** *Rehabilitasi Tanah Terkontaminasi* — Pulihkan kualitas tanah spirit yang terkontaminasi racun spora di perbatasan Dataran Abu Hijau. (Hadiah: 600 Giok Roh (Spirit Jade) + Akses Rumah Kaca Qi Shenmu).

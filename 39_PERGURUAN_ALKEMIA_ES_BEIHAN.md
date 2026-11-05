@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Beihan berfokus pada pelati
 2. *"Ada pencuri sampel Bunga Snowdrop Spirit Purba dari Taman Tanaman Obat Salju Beihan."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Pemanenan Embun Salju* — Kumpulkan 15 botol embun es dari daun Akar Es Biru di Taman Salju. (Hadiah: 30 Batu Spirit + 1x Salep Penyejuk).
-* **Misi Khusus [Tier 3]:** *Peracikan Salep Penawar Api* — Racik 10 wadah Salep Penawar Api untuk dikirim ke pos penjaga perbatasan. (Hadiah: 200 Batu Spirit + Sertifikat Alkemis Es Ahli).
-* **Misi Utama [Tier 5]:** *Pemurnian Pill Pemurni Meridien* — Murni sebutir Pill Ramuan Es Pemurni Meridien Grade High untuk menyembuhkan Dantian retak tetua sekte. (Hadiah: 800 Batu Spirit + Akses Kamar Kualian Kristal Es).
+* **Misi Harian [Tier 1]:** *Pemanenan Embun Salju* — Kumpulkan 15 botol embun es dari daun Akar Es Biru di Taman Salju. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Salep Penyejuk).
+* **Misi Khusus [Tier 3]:** *Peracikan Salep Penawar Api* — Racik 10 wadah Salep Penawar Api untuk dikirim ke pos penjaga perbatasan. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Alkemis Es Ahli).
+* **Misi Utama [Tier 5]:** *Pemurnian Pill Pemurni Meridien* — Murni sebutir Pill Ramuan Es Pemurni Meridien Grade High untuk menyembuhkan Dantian retak tetua sekte. (Hadiah: 800 Giok Roh (Spirit Jade) + Akses Kamar Kualian Kristal Es).

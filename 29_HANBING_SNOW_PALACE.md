@@ -86,6 +86,6 @@ Istana Hanbing berdiri anggun sebagai kompleks bangunan dari kristal es biru tem
 2. *"Serigala Salju Raja Tier 7 dikabarkan mengamuk di Puncak Es Abadi akibat rusaknya segel batuan kristal tua."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Pengumpulan Embun Salju* — Kumpulkan 12 botol Embun Es Salju Purba dari daun Lotus Es di Gua Kristal. (Hadiah: 50 Batu Spirit + 1x Pil Energi Es).
-* **Misi Khusus [Tier 4]:** *Penyelamatan Ekspedisi Terjebak* — Selamatkan tim alkemis yang terjebak badai salju di Lembah Xueyuan. (Hadiah: 300 Batu Spirit + 1x Kompas Salju Beihan).
-* **Misi Utama [Tier 6]:** *Perburuan Serigala Salju Raja* — Bantu Komandan Lin melumpuhkan amukan Serigala Salju Raja di Puncak Es Abadi. (Hadiah: 1.200 Batu Spirit + Akses Mata Air Es Abadi).
+* **Misi Harian [Tier 2]:** *Pengumpulan Embun Salju* — Kumpulkan 12 botol Embun Es Salju Purba dari daun Lotus Es di Gua Kristal. (Hadiah: 50 Giok Roh (Spirit Jade) + 1x Pil Energi Es).
+* **Misi Khusus [Tier 4]:** *Penyelamatan Ekspedisi Terjebak* — Selamatkan tim alkemis yang terjebak badai salju di Lembah Xueyuan. (Hadiah: 300 Giok Roh (Spirit Jade) + 1x Kompas Salju Beihan).
+* **Misi Utama [Tier 6]:** *Perburuan Serigala Salju Raja* — Bantu Komandan Lin melumpuhkan amukan Serigala Salju Raja di Puncak Es Abadi. (Hadiah: 1.200 Giok Roh (Spirit Jade) + Akses Mata Air Es Abadi).

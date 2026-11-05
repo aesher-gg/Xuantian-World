@@ -145,12 +145,12 @@ Nutrisi harian dan katalis evolusi diolah oleh Alkemis dan Herbalis menggunakan 
 
 | Nama Pakan / Katalis | Tier | Bahan Utama | Efek Konsumsi / Khasiat | Harga Pasar |
 |---|---|---|---|---|
-| **Pil Pakan Rumput Embun** | Tier 1 | Rumput Penjernih Qi + Akar Wangi | Memulihkan 30 Satiety Beast & menambah +5 Loyalty | 80 Tael Tembaga (CT) |
-| **Daging Olahan Serigala Es** | Tier 2 | Daging Beast Tier 2 + Daun Mint Es | Mempercepat pemulihan HP beast elemen es +20% | 15 Tael Perak (ST) |
-| **Pil Pemurni Darah Beast Rendah** | Tier 3 | Serat Urat Giok + Neidan Beast Tier 3 | Meningkatkan Kemurnian Garis Darah +10% (Batas Tier 3) | 35 Tael Giok (JT) / 3.5 LSS |
-| **Ekstrak Kristal Magma Cair** | Tier 4 | Buah Kristal Api Lava + Batubara Vulkanik | Katalis wajib evolusi beast elemen api menuju Tier 4 | 180 LSS |
-| **Pil Terobos Inti Naga Purba** | Tier 5 | Ginseng Spirit 1.000 Tahun + Neidan Jiaolong | Memicu evolusi ular/kadal spirit menjadi spesies berkepala naga | 8 MSS |
-| **Air Embun Mata Air Wanling** | Tier 6 | Buah Giok Leluhur + Embun Giok Purba | Menghilangkan status racun dan debuff kutukan pada beast seketika | 35 MSS |
+| **Pil Pakan Rumput Embun** | Tier 1 | Rumput Penjernih Qi + Akar Wangi | Memulihkan 30 Satiety Beast & menambah +5 Loyalty | 80 Copper Tael |
+| **Daging Olahan Serigala Es** | Tier 2 | Daging Beast Tier 2 + Daun Mint Es | Mempercepat pemulihan HP beast elemen es +20% | 15 Silver Tael |
+| **Pil Pemurni Darah Beast Rendah** | Tier 3 | Serat Urat Giok + Neidan Beast Tier 3 | Meningkatkan Kemurnian Garis Darah +10% (Batas Tier 3) | 35 Jade Tael / 3.5 Low-Grade Spirit Jade |
+| **Ekstrak Kristal Magma Cair** | Tier 4 | Buah Kristal Api Lava + Batubara Vulkanik | Katalis wajib evolusi beast elemen api menuju Tier 4 | 180 Low-Grade Spirit Jade |
+| **Pil Terobos Inti Naga Purba** | Tier 5 | Ginseng Spirit 1.000 Tahun + Neidan Jiaolong | Memicu evolusi ular/kadal spirit menjadi spesies berkepala naga | 8 Mid-Grade Spirit Jade |
+| **Air Embun Mata Air Wanling** | Tier 6 | Buah Giok Leluhur + Embun Giok Purba | Menghilangkan status racun dan debuff kutukan pada beast seketika | 35 Mid-Grade Spirit Jade |
 
 ---
 

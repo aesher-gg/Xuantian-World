@@ -82,7 +82,7 @@ Ngarai batu pasir berliku seluas 1.000 li yang dipenuhi jebakan formasi segel ta
 
 | NPC | Peran / Jabatan | Umur | Realm & Stage | Qi Cap | Teknik Andalan | Karakteristik & Sifat |
 |---|---|---|---|---|---|---|
-| **Pemburu Harta Old Fu** | Pemandu Reruntuhan Labirin | 58 | *Xuantian Jing*, Awal | **62.500** | *Peta Kompas Pasir Spirit* — Mendeteksi posisi jebakan segel tanah alami | Licik, berpengalaman, menagih biaya komisi batu spirit pada setiap pemanduan |
+| **Pemburu Harta Old Fu** | Pemandu Reruntuhan Labirin | 58 | *Xuantian Jing*, Awal | **62.500** | *Peta Kompas Pasir Spirit* — Mendeteksi posisi jebakan segel tanah alami | Licik, berpengalaman, menagih biaya komisi giok roh pada setiap pemanduan |
 
 ---
 

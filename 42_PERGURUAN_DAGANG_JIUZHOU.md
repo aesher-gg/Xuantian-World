@@ -10,7 +10,7 @@
 
 ## 1. Konsep, Lore, Sejarah & Fungsi Perguruan
 
-Perguruan Dagang Jiuzhou didirikan 6.000 tahun lalu pada pertengahan Era Kuno oleh **Ketua Dagang Wang (Master Merchant Wang)**. Terletak di pusat Kota Luoyang yang menjadi urat nadi perdagangan benua Xuantian, Perguruan Jiuzhou didirikan untuk mengatur etika perdagangan, pencegahan pemalsuan artefak purba, standarisasi kurs penukaran Batu Spirit, serta audit keabsahan riwayat barang (*Origin Log*). Sebelum berdirinya Jiuzhou, pasar gelap marak dengan penjualan pil palsu, benih obat busuk, dan senjata tiruan berharga tinggi yang merugikan para kultivator.
+Perguruan Dagang Jiuzhou didirikan 6.000 tahun lalu pada pertengahan Era Kuno oleh **Ketua Dagang Wang (Master Merchant Wang)**. Terletak di pusat Kota Luoyang yang menjadi urat nadi perdagangan benua Xuantian, Perguruan Jiuzhou didirikan untuk mengatur etika perdagangan, pencegahan pemalsuan artefak purba, standarisasi kurs penukaran Giok Roh (Spirit Jade), serta audit keabsahan riwayat barang (*Origin Log*). Sebelum berdirinya Jiuzhou, pasar gelap marak dengan penjualan pil palsu, benih obat busuk, dan senjata tiruan berharga tinggi yang merugikan para kultivator.
 
 Doktrin Akademik Perguruan: *"Kejujuran Adalah Emas Terabadi; Mata Yang Jeli Mengenali Nilai Sejati Di Balik Debu Purba"*.
 
@@ -41,7 +41,7 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Jiuzhou berfokus pada pelat
 | **Instruktor Lelang Utama** | Instruktur Su Feng | *Xuantian Jing*, Menengah | **93.750** | *Pesona Kipas Angin Wanbao* — Melumpuhkan fokus musuh saat negosiasi lelang | Luas pergaulan, mahir bernegosiasi; manajer Rumah Lelang Wanbao yang tahu banyak rahasia pasar. |
 | **Pengawas Sempoa** | Kakak Senior Jin Bao | *Ningyuan Jing*, Puncak | **25.000** | *Hitungan Cepat Sempoa Spirit* — Menghitung nilai total barang bawaan dalam hitungan detik | Cerdas, ramah, rajin; pembimbing terpercaya murid baru dalam penggunaan sempoa spirit. |
 | **Pakar Audit Origin Log** | Guru Audit-Master Liu | *Xuantian Jing*, Awal | **62.500** | *Pelacakan Jejak Origin Log Spirit* — Membongkar rekam jejak asal-usul barang curian | Rigid, jujur; bekerja sama dengan Sekte Tianjing dalam membongkar barang curian. |
-| **Murid Genius Penaksir** | Merchant-Child Xiao Jin | *Ningyuan Jing*, Menengah | **12.500** | *Mata Cepat Penaksir Emas* — Mengetahui kadar murni Batu Spirit dalam sekali pandang | Bersemangat, lincah; murid termuda yang lulus Ujian Penaksir Barang Antik Grade 4. |
+| **Murid Genius Penaksir** | Merchant-Child Xiao Jin | *Ningyuan Jing*, Menengah | **12.500** | *Mata Cepat Penaksir Emas* — Mengetahui kadar murni Giok Roh dalam sekali pandang | Bersemangat, lincah; murid termuda yang lulus Ujian Penaksir Barang Antik Grade 4. |
 
 ---
 
@@ -60,7 +60,7 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Jiuzhou berfokus pada pelat
 ### Kurikulum Teknik Warisan
 - **Teknik Dasar:** *Mata Taksir Barang Antik (Antique Appraisal Sight)* — Menentukan keaslian, umur, dan grade bahan obat/artefak secara presisi (+20% Accuracy).
 - **Teknik Menengah:** *Seni Negosiasi Sempoa Emas (Golden Abacus Negotiation)* — Mendapatkan diskon pembelian barang sebesar 15–25% di toko resmi dan balai lelang.
-- **Teknik Utama:** *Manajemen Keuangan Serikat Jiuzhou (Jiuzhou Wealth Management)* — Meningkatkan pendapatan batu spirit dan imbalan dari Misi Quest sebesar +20%.
+- **Teknik Utama:** *Manajemen Keuangan Serikat Jiuzhou (Jiuzhou Wealth Management)* — Meningkatkan pendapatan Giok Roh dan imbalan dari Misi Quest sebesar +20%.
 - **Teknik Rahasia Puncak:** *Sertifikasi Origin Log Emas (Gold Origin Log Certification)* — Mampu melegalisasi barang rampasan tanpa potongan pajak komisi di seluruh Balai Penukaran Loot.
 
 ---
@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Jiuzhou berfokus pada pelat
 2. *"Ada sindikat pemalsu stempel sertifikat Penaksir Jiuzhou yang menjual artefak palsu di pasar gelap."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Penaksiran Komoditas Pasar* — Taksir 20 sampel bijih besi spirit di Pasar Luoyang dan pilahkan barang cacat. (Hadiah: 30 Batu Spirit + 1x Sempoa Spirit Awal).
-* **Misi Khusus [Tier 3]:** *Pelaksanaan Lelang Wanbao* — Selesaikan sesi pelelangan 10 artefak langka di Rumah Lelang Wanbao dengan target margin +30%. (Hadiah: 200 Batu Spirit + Sertifikat Penaksir Senior).
-* **Misi Utama [Tier 5]:** *Audit Origin Log Artefak Curian* — Lacak silsilah kepemilikan sebilah pedang purba curian dan legalkan statusnya di balai penukaran. (Hadiah: 800 Batu Spirit + Diskon Lelang Wanbao 20%).
+* **Misi Harian [Tier 1]:** *Penaksiran Komoditas Pasar* — Taksir 20 sampel bijih besi spirit di Pasar Luoyang dan pilahkan barang cacat. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Sempoa Spirit Awal).
+* **Misi Khusus [Tier 3]:** *Pelaksanaan Lelang Wanbao* — Selesaikan sesi pelelangan 10 artefak langka di Rumah Lelang Wanbao dengan target margin +30%. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Penaksir Senior).
+* **Misi Utama [Tier 5]:** *Audit Origin Log Artefak Curian* — Lacak silsilah kepemilikan sebilah pedang purba curian dan legalkan statusnya di balai penukaran. (Hadiah: 800 Giok Roh (Spirit Jade) + Diskon Lelang Wanbao 20%).

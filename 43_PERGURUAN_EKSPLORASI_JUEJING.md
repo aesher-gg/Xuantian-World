@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Juejing berfokus pada pelat
 2. *"Ada ekspedisi terlarang yang memicu aktifnya kembali Formasi Anomali Petir Tanah di zona utara Juejing Zhou."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Kalibrasi Kompas Spatial* — Kalibrasi 10 kompas pendeteksi retakan di Pos Depan Juejing. (Hadiah: 30 Batu Spirit + 1x Kompas Spatial Awal).
-* **Misi Khusus [Tier 3]:** *Dekode Prasasti Reruntuhan* — Terjemahkan 5 baris simbol prasasti purba di gerbang luar reruntuhan medan perang kuno. (Hadiah: 200 Batu Spirit + Sertifikat Penjelajah Ahli).
-* **Misi Utama [Tier 5]:** *Ekstraksi Kristal Ruang Purba* — Ekstraksi 3 Kristal Ruang Purba di zona anomali tanpa memicu ledakan energi. (Hadiah: 800 Batu Spirit + Piringan Kompas Spatial Grade 5).
+* **Misi Harian [Tier 1]:** *Kalibrasi Kompas Spatial* — Kalibrasi 10 kompas pendeteksi retakan di Pos Depan Juejing. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Kompas Spatial Awal).
+* **Misi Khusus [Tier 3]:** *Dekode Prasasti Reruntuhan* — Terjemahkan 5 baris simbol prasasti purba di gerbang luar reruntuhan medan perang kuno. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Penjelajah Ahli).
+* **Misi Utama [Tier 5]:** *Ekstraksi Kristal Ruang Purba* — Ekstraksi 3 Kristal Ruang Purba di zona anomali tanpa memicu ledakan energi. (Hadiah: 800 Giok Roh (Spirit Jade) + Piringan Kompas Spatial Grade 5).

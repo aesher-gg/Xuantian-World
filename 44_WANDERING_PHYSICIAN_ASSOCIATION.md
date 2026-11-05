@@ -85,6 +85,6 @@ Perhimpunan ini bertindak sebagai jaringan medis lintas wilayah terbesar di Xuan
 2. *"Ada insiden penculikan tabib pengembara di perbatasan Youming Zhou oleh kelompok penyamun yang mencari obat penawar racun rawa."*
 
 ### Papan Misi Perhimpunan (Examples of Physician Quests)
-* **Misi Harian [Tier 1]:** *Pembalutan Luka Musafir* — Obati 10 musafir terluka di Balai Pengobatan Wan'an Luoyang. (Hadiah: 30 Batu Spirit + 1x Set Jarum Perak Medis).
-* **Misi Khusus [Tier 3]:** *Pemberantasan Racun Pil* — Bersihkan akumulasi *pill toxins* dari Dantian 5 pembudidaya yang gagal breakthrough. (Hadiah: 200 Batu Spirit + Sertifikat Tabib Ahli).
-* **Misi Utama [Tier 5]:** *Penyelamatan Pos Medis Bencana* — Dirikan Pos Medis Lapangan dan sembuhkan korban wabah racun rawa di perbatasan Youming Zhou. (Hadiah: 800 Batu Spirit + Set Jarum Emas Miracle-Hand Grade 5).
+* **Misi Harian [Tier 1]:** *Pembalutan Luka Musafir* — Obati 10 musafir terluka di Balai Pengobatan Wan'an Luoyang. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Set Jarum Perak Medis).
+* **Misi Khusus [Tier 3]:** *Pemberantasan Racun Pil* — Bersihkan akumulasi *pill toxins* dari Dantian 5 pembudidaya yang gagal breakthrough. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Tabib Ahli).
+* **Misi Utama [Tier 5]:** *Penyelamatan Pos Medis Bencana* — Dirikan Pos Medis Lapangan dan sembuhkan korban wabah racun rawa di perbatasan Youming Zhou. (Hadiah: 800 Giok Roh (Spirit Jade) + Set Jarum Emas Miracle-Hand Grade 5).

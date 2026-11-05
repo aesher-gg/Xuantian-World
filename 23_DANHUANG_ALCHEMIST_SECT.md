@@ -87,6 +87,6 @@ Sekte Danhuang diakui secara mutlak sebagai otoritas alkimia dan pemurnian pill 
 2. *"Di kedalaman kawah Shendu di bawah kuali purba, sering terdengar raungan Spirit Beast Api Kuno yang tersegel."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Pengumpulan Bunga Teratai Api* — Petik 15 Bunga Teratai Api di lereng kawah Shendu. (Hadiah: 60 Batu Spirit + 1x Pil Energi Qi).
-* **Misi Khusus [Tier 4]:** *Pengujian Kadar Racun Pil* — Uji 50 sampel pil pasar gelap dan sita produk cacat yang beracun. (Hadiah: 300 Batu Spirit + Resep Pil Antidot Grade Mid).
+* **Misi Harian [Tier 2]:** *Pengumpulan Bunga Teratai Api* — Petik 15 Bunga Teratai Api di lereng kawah Shendu. (Hadiah: 60 Giok Roh (Spirit Jade) + 1x Pil Energi Qi).
+* **Misi Khusus [Tier 4]:** *Pengujian Kadar Racun Pil* — Uji 50 sampel pil pasar gelap dan sita produk cacat yang beracun. (Hadiah: 300 Giok Roh (Spirit Jade) + Resep Pil Antidot Grade Mid).
 * **Misi Utama [Tier 6]:** *Perburuan Inti Api Spirit Kuno* — Amankan kristal inti api dari monster lava raksasa di Lembah Meteorit Merah. (Hadiah: Akses Kuali Danhuang Purba + 1.000 Reputasi Sekte).

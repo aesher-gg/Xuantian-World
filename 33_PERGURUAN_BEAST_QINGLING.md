@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Qingling berfokus pada pela
 2. *"Ada pemburu liar yang menyelundupkan telur Spirit Beast Langka dari penangkaran Qingling ke pasar gelap Heian."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Pemberian Pakan Serigala* — Racik dan bagikan 20 porsi biskuit daging spirit ke kandang Serigala Bayangan Kabut. (Hadiah: 30 Batu Spirit + 1x Kantong Pakan Spirit).
-* **Misi Khusus [Tier 3]:** *Penjinakan Panther Urat Giok* — Jinakkan seekor Panther Urat Giok liar Tier 2 dan pasang Kontrak Kesetaraan. (Hadiah: 200 Batu Spirit + Sertifikat Penjinak Ahli).
-* **Misi Utama [Tier 5]:** *Rehabilitasi Harimau Taring Awan* — Sembuhkan luka dalam dan traumacurt Harimau Taring Awan yang tersangkut jebakan besi pemburu liar. (Hadiah: 800 Batu Spirit + Telur Spirit Beast Langka).
+* **Misi Harian [Tier 1]:** *Pemberian Pakan Serigala* — Racik dan bagikan 20 porsi biskuit daging spirit ke kandang Serigala Bayangan Kabut. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Kantong Pakan Spirit).
+* **Misi Khusus [Tier 3]:** *Penjinakan Panther Urat Giok* — Jinakkan seekor Panther Urat Giok liar Tier 2 dan pasang Kontrak Kesetaraan. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Penjinak Ahli).
+* **Misi Utama [Tier 5]:** *Rehabilitasi Harimau Taring Awan* — Sembuhkan luka dalam dan traumacurt Harimau Taring Awan yang tersangkut jebakan besi pemburu liar. (Hadiah: 800 Giok Roh (Spirit Jade) + Telur Spirit Beast Langka).

@@ -27,7 +27,7 @@ Di Xuantian World, **Sekte (Sect)** dan **Perguruan (Academy / School)** adalah 
 | Aspek | 🏔️ **Sekte (Sect)** | 🏯 **Perguruan (Academy / School)** |
 |---|---|---|
 | **Fokus Utama** | Kekuatan politik, dominasi wilayah, kepemilikan sumber daya, & kekuasaan sekuler/kekaisaran | Pendidikan, pelatihan teknik, penelitian profesi, & pengujian keahlian spesifik |
-| **Identitas & Aset** | Penguasa gunung spirit, tambang batu spirit, kebun purba, & benteng militer | Lembaga akademis/pendidikan spesialis (Pedang, Alkimia, Beast, Formasi, Penempa, Jimat, dll) |
+| **Identitas & Aset** | Penguasa gunung spirit, tambang giok roh, kebun purba, & benteng militer | Lembaga akademis/pendidikan spesialis (Pedang, Alkimia, Beast, Formasi, Penempa, Jimat, dll) |
 | **Struktur Organisasi** | Hierarki ketat (Sect Master, Grand Elder, Hall Master, Inner/Outer Disciples) | Struktur akademis (Grandmaster / Headmaster → Instruktur/Guru → Murid/Siswa) |
 | **Penyatu / Hubungan** | **Sekte Induk** dapat memaungi beberapa **Perguruan Internal**, atau berdiri mandiri sebagai faksi penguasa. | **Perguruan Independen** dapat berdiri di kota/desa tanpa menguasai wilayah, atau bertindak sebagai akademi di bawah Sekte Induk. |
 
@@ -140,7 +140,7 @@ Lapar (Satiety): [angka]%
 Status Kondisi: [Normal / Terluka / Keracunan / Kelelahan Qi / Dantian Retak / dll]
 Karma: [Merit X | Sin Y → Balance Keseimbangan]
 
-Mata Uang: [Tael Tembaga (CT)] × XX | [Tael Perak (ST)] × XX | [Tael Giok (JT)] × XX | [Batu Spirit LSS/MSS/HSS] × XX
+Mata Uang: [Copper Tael] × XX | [Silver Tael] × XX | [Jade Tael] × XX | [Spirit Jade: Low-Grade/Mid-Grade/High-Grade/Ancient] × XX
 
 Equipment Terpakai (Genggam/Pakai):
 - Senjata: [Nama Senjata — Tier/Grade]
@@ -204,7 +204,7 @@ Aksiku :
 | `12_CROSS_REGION_ORGANIZATIONS.md` | Organisasi & Guild Lintas Wilayah |
 | `13_SPIRITUAL_ROOT_SYSTEM.md` | 9 Ranah Kultivasi Unik, Akar Spiritual Elemen, Breakthrough, Tribulasi |
 | `14_CRAFTING_AND_PROFESSIONS_SYSTEM.md` | Mekanik Berkebun, Beast, Alkimia, Airship, Formasi, Forging, Talisman |
-| `18_ECONOMY_SYSTEM.md` | Ekonomi, Batu Spirit, Tiket Airship, Harga Bahan |
+| `18_ECONOMY_SYSTEM.md` | Ekonomi, Giok Roh (Spirit Jade), Tiket Airship, Harga Bahan |
 | `19_VITALITY_HUNGER_SYSTEM.md` | HP, Stamina, Kelaparan, Regenerasi, Racun Pill |
 | `20_COMBAT_SYSTEM.md` | Sistem Pertempuran Turn-based & Formula Combat |
 | `21_BESTIARY.md` | Daftar Monster & Spirit Beast per Wilayah |

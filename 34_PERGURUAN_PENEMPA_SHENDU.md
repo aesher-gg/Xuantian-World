@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Shendu berfokus pada pelati
 2. *"Ada pencuri bijih meteorit yang mencoba membobol Gudang Logam Shendu saat terjadi ketidakstabilan uap kawah."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Peleburan Bijih Besi* — Lebur 15 bijih besi spirit biasa di Kawah Tempa dan hasilkan 5 batangan besi murni. (Hadiah: 30 Batu Spirit + 1x Palu Tempa Besi).
-* **Misi Khusus [Tier 3]:** *Perbaikan Zirah Rusak* — Perbaiki 5 set zirah pelindung milik pasukan Istana Chiyan yang rusak akibat pertempuran. (Hadiah: 200 Batu Spirit + Sertifikat Penempa Ahli).
-* **Misi Utama [Tier 5]:** *Penempaan Pedang Urat Meteorit* — Tempa sebilah Pedang Grade 5 berbahan racikan bijih meteorit merah. (Hadiah: 800 Batu Spirit + Landasan Tempa Portabel).
+* **Misi Harian [Tier 1]:** *Peleburan Bijih Besi* — Lebur 15 bijih besi spirit biasa di Kawah Tempa dan hasilkan 5 batangan besi murni. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Palu Tempa Besi).
+* **Misi Khusus [Tier 3]:** *Perbaikan Zirah Rusak* — Perbaiki 5 set zirah pelindung milik pasukan Istana Chiyan yang rusak akibat pertempuran. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Penempa Ahli).
+* **Misi Utama [Tier 5]:** *Penempaan Pedang Urat Meteorit* — Tempa sebilah Pedang Grade 5 berbahan racikan bijih meteorit merah. (Hadiah: 800 Giok Roh (Spirit Jade) + Landasan Tempa Portabel).

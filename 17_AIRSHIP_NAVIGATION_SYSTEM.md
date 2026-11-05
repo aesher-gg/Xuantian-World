@@ -1,17 +1,17 @@
 # 🛸 Xuantian World — Sistem Kapal Terbang Lintas Wilayah (Airship System)
 
 > **Modul:** 17 — Airship Navigation System
-> **Prinsip:** Anti-Cheat Enforced — Speed & Spirit Stone Fuel Formulas — Flight Permit Licensing
-> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib GM), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak & peta benua), `10_TIANGONG_ZHOU.md` (pusat galangan & dermaga airship), `12_CROSS_REGION_ORGANIZATIONS.md` (Serikat Airship Tiangong), `18_ECONOMY_SYSTEM.md` (harga tiket & konsumsi Batu Spirit), `37_PERGURUAN_KEMUDI_TIANGONG.md` (perguruan kemudi udara)
+> **Prinsip:** Anti-Cheat Enforced — Speed & Spirit Jade Fuel Formulas — Flight Permit Licensing
+> **Rujukan silang:** `00_CORE_RULES_AI_GM.md` (aturan wajib GM), `01_WORLD_OVERVIEW_AND_CAPITAL.md` (jarak & peta benua), `10_TIANGONG_ZHOU.md` (pusat galangan & dermaga airship), `12_CROSS_REGION_ORGANIZATIONS.md` (Serikat Airship Tiangong), `18_ECONOMY_SYSTEM.md` (harga tiket & konsumsi Giok Roh), `37_PERGURUAN_KEMUDI_TIANGONG.md` (perguruan kemudi udara)
 
 ---
 
 ## 0. Filosofi Sistem Kapal Terbang (Tiankong Feichuan)
 
-Master Kemudi dan Mekanik mengoperasikan armada penerbangan melayang untuk transportasi barang dan penumpang antar-wilayah. Pengoperasian Kapal Terbang (*Tiankong Feichuan*) memerlukanLisensi kemudi, konsumsi Batu Spirit (*LSS*), dan/atau daya dorong Qi Yuan dari kultivator.
+Master Kemudi dan Mekanik mengoperasikan armada penerbangan melayang untuk transportasi barang dan penumpang antar-wilayah. Pengoperasian Kapal Terbang (*Tiankong Feichuan*) memerlukanLisensi kemudi, konsumsi Giok Roh (*Low-Grade Spirit Jade*), dan/atau daya dorong Qi Yuan dari kultivator.
 
 ### Aturan Emas Anti-Cheat Kapal Terbang
-- **Perhitungan Waktu Tempuh & Konsumsi Bahan Bakar:** Jarak penerbangan, kecepatan kapal, dan biaya Batu Spirit wajib dihitung secara presisi menggunakan formula resmi. Dilarang berpindah antar-wilayah secara instan tanpa memperhitungkan durasi penerbangan.
+- **Perhitungan Waktu Tempuh & Konsumsi Bahan Bakar:** Jarak penerbangan, kecepatan kapal, dan biaya Giok Roh wajib dihitung secara presisi menggunakan formula resmi. Dilarang berpindah antar-wilayah secara instan tanpa memperhitungkan durasi penerbangan.
 - **Lisensi & Sertifikasi Navigasi:** Mengemudikan Kapal Terbang Kelas Menengah (Freighter/Galleon/Battleship) memerlukan sertifikasi resmi dari *Perguruan Kemudi Udara Tiangong*.
 - **Risiko Badai Qi & Serangan Beast Udara:** Penerbangan melintasi zona berbahaya atau badai ruang membutuhkan roll Navigasi Pilot.
 
@@ -31,16 +31,16 @@ $$\text{FinalAirshipSpeed} = 2.500 \times (1.0 + 0.20 + 1.00) = 2.500 \times 2.2
 
 ---
 
-## 2. Formula Konsumsi Batu Spirit (Fuel Consumption)
+## 2. Formula Konsumsi Giok Roh (Fuel Consumption)
 
 ```
-SpiritStoneCostPerHour = (AirshipTier × 2 LSS) / (1.0 + Realm3QiDriveEfficiencyBonus)
+SpiritJadeCostPerHour = (AirshipTier × 2 Low-Grade Spirit Jade) / (1.0 + Realm3QiDriveEfficiencyBonus)
 ```
 
-- **Skiff (Tier 1):** 2 LSS / jam
-- **Freighter (Tier 2):** 4 LSS / jam
-- **Galleon (Tier 3):** 6 LSS / jam
-- **Battleship (Tier 4):** 8 LSS / jam
+- **Skiff (Tier 1):** 2 Low-Grade Spirit Jade / jam
+- **Freighter (Tier 2):** 4 Low-Grade Spirit Jade / jam
+- **Galleon (Tier 3):** 6 Low-Grade Spirit Jade / jam
+- **Battleship (Tier 4):** 8 Low-Grade Spirit Jade / jam
 
 ---
 

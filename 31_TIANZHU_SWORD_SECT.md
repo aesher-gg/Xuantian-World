@@ -85,6 +85,6 @@ Meskipun dalam kondisi reruntuhan tersegel, entitas spiritual dan prajurit terin
 2. *"Terdapat pecahan Pedang Giok Abadi milik Leluhur Pertama yang dapat menyembuhkan retaknya Dantian secara instan."*
 
 ### Papan Misi Eksplorasi (Examples of Youxia / Sect Quests)
-* **Misi Harian [Tier 3]:** *Pengumpulan Serat Urat Giok* — Kumpulkan 10 Serat Urat Giok dari bambu terinfeksi di Lapisan I. (Hadiah: 100 Batu Spirit + 1x Fragmen Prasasti).
-* **Misi Khusus [Tier 5]:** *Pemetaan Lapisan II Reruntuhan* — Petik sampel daun dari Pohon Leluhur dan aktifkan Simpul Formasi Lapisan II. (Hadiah: 500 Batu Spirit + Pedang Bambu Giok Grade 5).
-* **Misi Utama [Tier 7]:** *Stabilisasi Jiwa Leluhur Giok* — Masuki Lapisan III dan temukan cara menenangkan jiwa Leluhur Giok yang Terbelah. (Hadiah: 2.500 Batu Spirit + Kitab Legendaris *Niat Pedang Bambu Langit*).
+* **Misi Harian [Tier 3]:** *Pengumpulan Serat Urat Giok* — Kumpulkan 10 Serat Urat Giok dari bambu terinfeksi di Lapisan I. (Hadiah: 100 Giok Roh (Spirit Jade) + 1x Fragmen Prasasti).
+* **Misi Khusus [Tier 5]:** *Pemetaan Lapisan II Reruntuhan* — Petik sampel daun dari Pohon Leluhur dan aktifkan Simpul Formasi Lapisan II. (Hadiah: 500 Giok Roh (Spirit Jade) + Pedang Bambu Giok Grade 5).
+* **Misi Utama [Tier 7]:** *Stabilisasi Jiwa Leluhur Giok* — Masuki Lapisan III dan temukan cara menenangkan jiwa Leluhur Giok yang Terbelah. (Hadiah: 2.500 Giok Roh (Spirit Jade) + Kitab Legendaris *Niat Pedang Bambu Langit*).
