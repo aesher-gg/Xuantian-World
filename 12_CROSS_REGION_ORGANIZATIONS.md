@@ -50,7 +50,7 @@ Visi Utama: *"Ilmu Dan Profesi Berdiri Netral Di Atas Konflik Sekte; Melayani Se
 ### 2.6 Rumah Lelang Agung Wanbao (Wanbao Grand Auction House / 万宝皇家拍卖行)
 * **Markas Pusat:** Kota Tianjing, Zhonghua Zhou (`03_ZHONGHUA_ZHOU.md`, `42_PERGURUAN_DAGANG_JIUZHOU.md`)
 * **Peran & Monopoli:** Lembaga lelang terbesar yang menjamin keamanan transaksi barang antik, benih purba, dan artefak tanpa memandang latar belakang pembeli.
-* **Layanan Utama:** Pelelangan Bulanan/Tahunan Barang Grade 4–9, Jasa Penaksiran Keaslian Artefak, & Deposit Batu Spirit Anonim.
+* **Layanan Utama:** Pelelangan Bulanan/Tahunan Barang Grade 4–9, Jasa Penaksiran Keaslian Artefak, & Deposit Giok Roh Anonim.
 * **Tokoh Kunci:** Instruktur Su Feng (*Xuantian Jing*, Mid) & Penaksir Old Chen (*Lingyi Jing*, Peak).
 
 ### 2.7 Serikat Youxia Sanxiu (Sanxiu Youxia Guild / 散修游侠公会) [`45_SERIKAT_YOUXIA_SANXIU.md`]

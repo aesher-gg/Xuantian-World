@@ -85,6 +85,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Qingfeng berfokus pada pela
 2. *"Ada murid muda yang berhasil memotong 10 daun bambu jatuh bersamaan hanya menggunakan tebasan pedang kayu biasa."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Latihan Tebasan Daun* — Potong 30 daun bambu jatuh di Panggung Tebasan tanpa merusak batang bambu. (Hadiah: 30 Batu Spirit + 1x Batu Asah Spirit).
-* **Misi Khusus [Tier 2]:** *Meditasi Keheningan Batin* — Bermeditasi selama 2 jam di Tebing Bisikan Angin di tengah badai angin tanpa kehilangan fokus Qi. (Hadiah: 150 Batu Spirit + Sertifikat Pendekar Niat Pedang).
-* **Misi Utama [Tier 4]:** *Ujian Resonansi Niat Pedang* — Proyeksikan Niat Pedang pada Prasasti Batu Qingfeng hingga terukir garis tebasan bersih. (Hadiah: 500 Batu Spirit + Pedang Besi Spirit Qingfeng Grade 4).
+* **Misi Harian [Tier 1]:** *Latihan Tebasan Daun* — Potong 30 daun bambu jatuh di Panggung Tebasan tanpa merusak batang bambu. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Batu Asah Spirit).
+* **Misi Khusus [Tier 2]:** *Meditasi Keheningan Batin* — Bermeditasi selama 2 jam di Tebing Bisikan Angin di tengah badai angin tanpa kehilangan fokus Qi. (Hadiah: 150 Giok Roh (Spirit Jade) + Sertifikat Pendekar Niat Pedang).
+* **Misi Utama [Tier 4]:** *Ujian Resonansi Niat Pedang* — Proyeksikan Niat Pedang pada Prasasti Batu Qingfeng hingga terukir garis tebasan bersih. (Hadiah: 500 Giok Roh (Spirit Jade) + Pedang Besi Spirit Qingfeng Grade 4).

@@ -108,7 +108,7 @@ CurrentToxinPercent = Clamp(PreviousToxin + ConsumedPillToxin, 0%, 100%)
 
 * **Toxin > 30%:** Kecepatan Regenerasi Qi Alami -30%.
 * **Toxin > 60%:** Memicu *Qi Deviation* saat Breakthrough (-30% Breakthrough Chance, +20% Damage Tribulasi).
-* **Toxin 100%:** Dantian Membeku (Karakter tidak dapat menyerap Qi dari batu spirit sampai Toxin dibersihkan).
+* **Toxin 100%:** Dantian Membeku (Karakter tidak dapat menyerap Qi dari giok roh sampai Toxin dibersihkan).
 
 ### 3.2 Pembersihan Toxin Dantian
 * **Pembersihan Alami:** `5% Toxin terbuang per 24 jam meditasi tanpa konsumsi pil`.

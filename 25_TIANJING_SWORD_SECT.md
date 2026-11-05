@@ -38,7 +38,7 @@ Berpusat di Benteng Marmer Sembilan Naga, Sekte Tianjing mendidik prajurit penga
 |---|---|---|---|---|---|
 | **Ketua Sekte (Sect Master)** | Master Huangfu Chen | *Faxiang Jing*, Puncak | **3.125.000** | *Seni Pedang Sembilan Naga Bintang* — Memanggil bayangan pedang naga kekaisaran penembus perisai | Berwibawa, anggun, memegang martabat Kekaisaran; merupakan paman kandung Kaisar Xuantian saat ini. |
 | **Tetua Pelindung Istana** | Jenderal Zhao Wu | *Faxiang Jing*, Awal | **1.562.500** | *Tebasan Pedang Kekaisaran Membelah Bintang* — Menembus 30% Passive Defense musuh | Disiplin ketat, sangat setia; veteran perang perbatasan yang kehilangan mata kirinya akibat pertempuran. |
-| **Kepala Inspeksi Hukum** | Tetua Chen Wu | *Faxiang Jing*, Awal | **1.562.500** | *Hukum Segel Pedang Kekaisaran* — Melumpuhkan penggunaan Qi musuh yang melanggar hukum | Rigid, jujur, tak bisa dibeli dengan batu spirit; dibenci oleh faksi bangsawan korup. |
+| **Kepala Inspeksi Hukum** | Tetua Chen Wu | *Faxiang Jing*, Awal | **1.562.500** | *Hukum Segel Pedang Kekaisaran* — Melumpuhkan penggunaan Qi musuh yang melanggar hukum | Rigid, jujur, tak bisa dibeli dengan giok roh; dibenci oleh faksi bangsawan korup. |
 | **Komandan Garnisun Kota** | Komandan Ye Lin | *Xuantian Jing*, Puncak | **125.000** | *Barisan Formasi Pedang Pelindung Istana* — Dinding perisai pedang penahan 60% serangan | Cekatan, tegas; bertanggung jawab atas keamanan 10 juta penduduk Kota Tianjing. |
 | **Instruktor Disiplin** | Instruktur Lu Sheng | *Xuantian Jing*, Menengah | **93.750** | *Tebasan Pedang Lurus Penembus Zirah* — Mengunci pergerakan & merusak zirah | Keras, tidak suka alasan; mantan prajurit garis depan yang menuntut kesempurnaan formasi. |
 | **Pengawas Murid Baru** | Kakak Senior Zhao Long | *Ningyuan Jing*, Puncak | **25.000** | *Pedang Bintang Sembilan Arah* — Tebasan pedang beruntun berkecepatan tinggi | Gagah, ramah pada murid baru; sangat membimbing dalam penguasaan baris-berbaris dan hukum. |
@@ -87,6 +87,6 @@ Berpusat di Benteng Marmer Sembilan Naga, Sekte Tianjing mendidik prajurit penga
 2. *"Seorang pembudidaya bangsawan senior diduga memalsukan stempel Inspeksi Hukum untuk menyelundupkan artefak terlarang dari Juejing Zhou."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Patroli Pasar Bintang* — Amankan Pasar Bintang Tianjing dari penipu barang antik palsu dan copet Qi. (Hadiah: 50 Batu Spirit + 100 Reputasi Tianjing).
-* **Misi Khusus [Tier 4]:** *Penangkapan Buronan Lintas Wilayah* — Tangkap buronan pembunuh dari Youming Zhou yang bersembunyi di perbatasan Zhonghua Zhou. (Hadiah: 300 Batu Spirit + Lencana Perwira Kekaisaran).
-* **Misi Utama [Tier 6]:** *Investigasi Penyelundupan Artefak Terlarang* — Bongkar sindikat penyelundup senjata terlarang di pelabuhan airship Tianjing. (Hadiah: 1.200 Batu Spirit + Zirah Marmer Emas Grade 6).
+* **Misi Harian [Tier 2]:** *Patroli Pasar Bintang* — Amankan Pasar Bintang Tianjing dari penipu barang antik palsu dan copet Qi. (Hadiah: 50 Giok Roh (Spirit Jade) + 100 Reputasi Tianjing).
+* **Misi Khusus [Tier 4]:** *Penangkapan Buronan Lintas Wilayah* — Tangkap buronan pembunuh dari Youming Zhou yang bersembunyi di perbatasan Zhonghua Zhou. (Hadiah: 300 Giok Roh (Spirit Jade) + Lencana Perwira Kekaisaran).
+* **Misi Utama [Tier 6]:** *Investigasi Penyelundupan Artefak Terlarang* — Bongkar sindikat penyelundup senjata terlarang di pelabuhan airship Tianjing. (Hadiah: 1.200 Giok Roh (Spirit Jade) + Zirah Marmer Emas Grade 6).

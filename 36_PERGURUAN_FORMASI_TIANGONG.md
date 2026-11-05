@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Tiangong berfokus pada pela
 2. *"Ada pencuri piringan formasi ilusi yang berhasil menyusup ke Galangan Shenhang dan meretas jaringan sistem Feichuan."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Inskripsi Piringan Angin* — Ukir 10 piringan formasi angin pemula dan uji kecepatannya di anjungan. (Hadiah: 30 Batu Spirit + 1x Piringan Tembaga Spirit).
-* **Misi Khusus [Tier 3]:** *Perbaikan Pilar Levitasi Feichuan* — Kalibrasi pilar antigravitasi Kapal Terbang Kargo yang mengalami distorsi energi. (Hadiah: 200 Batu Spirit + Sertifikat Master Formasi Ahli).
-* **Misi Utama [Tier 5]:** *Pemasangan Formasi Segel Ruang* — Pasang Formasi Segel Ruang Langit di perbatasan jalur udara untuk menahan penerobos liar. (Hadiah: 800 Batu Spirit + Piringan Formasi Barrier Grade 5).
+* **Misi Harian [Tier 1]:** *Inskripsi Piringan Angin* — Ukir 10 piringan formasi angin pemula dan uji kecepatannya di anjungan. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Piringan Tembaga Spirit).
+* **Misi Khusus [Tier 3]:** *Perbaikan Pilar Levitasi Feichuan* — Kalibrasi pilar antigravitasi Kapal Terbang Kargo yang mengalami distorsi energi. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Master Formasi Ahli).
+* **Misi Utama [Tier 5]:** *Pemasangan Formasi Segel Ruang* — Pasang Formasi Segel Ruang Langit di perbatasan jalur udara untuk menahan penerobos liar. (Hadiah: 800 Giok Roh (Spirit Jade) + Piringan Formasi Barrier Grade 5).

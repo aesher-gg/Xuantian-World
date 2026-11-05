@@ -27,7 +27,7 @@ Kuil Lonceng Emas diakui sebagai benteng perlindungan moralitas dan raga terkuat
 5. **Balai Kerja Sama Youxia (Youxia Relations Pavilion / 游侠黄沙阁):** Bekerja sama dengan Serikat Youxia Sanxiu (`45_SERIKAT_YOUXIA_SANXIU.md`) untuk pendaftaran Misi Pengawalan Karavan Gurun dan Bantuan Bencana Badai Pasir.
 
 ### Dinamika Politik & Faksi Internal
-- **Faksi Pertapaan Sunyi (Silent Ascetic Faction):** Dipimpin oleh Abbot Shi Kong. Berfokus pada meditasi pembersihan jiwa, menolak segala bentuk pengumpulan kekayaan batu spirit, dan memprioritaskan bantuan sosial tanpa bayaran.
+- **Faksi Pertapaan Sunyi (Silent Ascetic Faction):** Dipimpin oleh Abbot Shi Kong. Berfokus pada meditasi pembersihan jiwa, menolak segala bentuk pengumpulan kekayaan giok roh, dan memprioritaskan bantuan sosial tanpa bayaran.
 - **Faksi Perlindungan Aktif (Active Guardian Faction):** Dipimpin oleh Tetua Shi Ming. Mendorong pengiriman patroli pertapa bersenjata ke seluruh perbatasan Gurun Xixuan untuk secara proaktif menumpas bandit pasir dan sindikat penculik fana.
 
 ---
@@ -87,6 +87,6 @@ Kuil Lonceng Emas diakui sebagai benteng perlindungan moralitas dan raga terkuat
 2. *"Cacing Pasir Raja Purba Tier 8 dikabarkan mulai bergerak dari kedalaman Labirin Batu Pasir menuju Oasis Ganlu."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Pengawalan Sumur Air Oasis* — Bersihkan 8 Kalajengking Pasir Beracun di sekitar tempat penampungan air musafir. (Hadiah: 50 Batu Spirit + 1 Botol Air Spirit Ganlu).
-* **Misi Khusus [Tier 4]:** *Penyelamatan Kafilah Tersesat* — Lacak dan selamatkan rombongan pedagang yang terjebak di tengah badai pasir gila. (Hadiah: 300 Batu Spirit + 1x Jimat Pelindung Pasir).
-* **Misi Utama [Tier 6]:** *Perburuan Cacing Pasir Purba* — Bantu Biara Shi Yan melumpuhkan Cacing Pasir Purba Tier 6 yang mengancam jalur kota Huangsha. (Hadiah: 1.200 Batu Spirit + Akses Gua Latihan Raga Vajra).
+* **Misi Harian [Tier 2]:** *Pengawalan Sumur Air Oasis* — Bersihkan 8 Kalajengking Pasir Beracun di sekitar tempat penampungan air musafir. (Hadiah: 50 Giok Roh (Spirit Jade) + 1 Botol Air Spirit Ganlu).
+* **Misi Khusus [Tier 4]:** *Penyelamatan Kafilah Tersesat* — Lacak dan selamatkan rombongan pedagang yang terjebak di tengah badai pasir gila. (Hadiah: 300 Giok Roh (Spirit Jade) + 1x Jimat Pelindung Pasir).
+* **Misi Utama [Tier 6]:** *Perburuan Cacing Pasir Purba* — Bantu Biara Shi Yan melumpuhkan Cacing Pasir Purba Tier 6 yang mengancam jalur kota Huangsha. (Hadiah: 1.200 Giok Roh (Spirit Jade) + Akses Gua Latihan Raga Vajra).

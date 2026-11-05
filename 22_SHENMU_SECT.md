@@ -87,6 +87,6 @@ Sekte Induk Shenmu bukan sekadar organisasi militer atau faksi politik, melainka
 2. *"Ada pembelot dari Aula Obat yang menjual spora racun pembusuk daun ke pasar gelap Heian di Youming Zhou."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Pembersihan Parasit Akar* — Basmi 10 Ulat Pemakan Kayu Spirit di dahan timur Pohon Shenmu. (Hadiah: 50 Batu Spirit + 100 Reputasi Shenmu).
+* **Misi Harian [Tier 2]:** *Pembersihan Parasit Akar* — Basmi 10 Ulat Pemakan Kayu Spirit di dahan timur Pohon Shenmu. (Hadiah: 50 Giok Roh (Spirit Jade) + 100 Reputasi Shenmu).
 * **Misi Khusus [Tier 4]:** *Pengawalan Herbalis Purba* — Kawal rombongan Tetua Biyang mengambil Ginseng Spirit 1.000 Tahun di Dataran Abu Hijau dari ancaman penyamun. (Hadiah: 1x Pil Penyembuh Grade High + 500 Reputasi Sekte).
 * **Misi Utama [Tier 6]:** *Investigasi Spora Bunga Mayat* — Selidiki kemunculan spora beracun berbau bangkai di Lembah Bunga Mayat. (Hadiah: Resep Obat Purba Shenmu + Akses Teras Kristal Shenmu).

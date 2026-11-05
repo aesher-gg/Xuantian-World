@@ -87,6 +87,6 @@ Paviliun Canglong diakui sebagai benteng pertahanan utama seni pedang lurus di b
 2. *"Seorang tetua pengasingan di Puncak Wanshou telah berhasil mengombinasikan Niat Pedang dengan Petir Guruh."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Pembersihan Elang Taring Besi* — Basmi 8 Elang Taring Besi yang mengganggu penerbangan murid baru di Puncak Wanshou. (Hadiah: 50 Batu Spirit + 1x Batu Asah Spirit).
-* **Misi Khusus [Tier 4]:** *Penyelamatan Pendekar Pedang* — Evakuasi tim patroli sekte yang terjebak di Gua Bambu Pedang akibat tanah longsor. (Hadiah: 250 Batu Spirit + Pedang Terbang Besi Spirit Grade 4).
-* **Misi Utama [Tier 6]:** *Pencarian Pedang Warisan Hilang* — Lacak pedang purba milik Tetua Pertama yang dicuri oleh bandit tebing. (Hadiah: 1.000 Batu Spirit + Akses Makam Pedang Spirit).
+* **Misi Harian [Tier 2]:** *Pembersihan Elang Taring Besi* — Basmi 8 Elang Taring Besi yang mengganggu penerbangan murid baru di Puncak Wanshou. (Hadiah: 50 Giok Roh (Spirit Jade) + 1x Batu Asah Spirit).
+* **Misi Khusus [Tier 4]:** *Penyelamatan Pendekar Pedang* — Evakuasi tim patroli sekte yang terjebak di Gua Bambu Pedang akibat tanah longsor. (Hadiah: 250 Giok Roh (Spirit Jade) + Pedang Terbang Besi Spirit Grade 4).
+* **Misi Utama [Tier 6]:** *Pencarian Pedang Warisan Hilang* — Lacak pedang purba milik Tetua Pertama yang dicuri oleh bandit tebing. (Hadiah: 1.000 Giok Roh (Spirit Jade) + Akses Makam Pedang Spirit).

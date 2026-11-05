@@ -85,6 +85,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Canghai berfokus pada pelat
 2. *"Ada sindikat bajak laut yang memburu peta lokasi bangkai kapal kekaisaran yang karam di dekat Palung Bintang Giok."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Pemeriksaan Kompas Spirit* — Kalibrasi 10 kompas spirit kapal nelayan di Pelabuhan Haibin sebelum berlayar. (Hadiah: 30 Batu Spirit + 1x Kompas Laut Awal).
-* **Misi Khusus [Tier 3]:** *Pengawalan Kapal Dagang* — Kawal kapal dagang bahan herbal melintasi Kepulauan Xingluo dari ancaman Hiu Bersisik Perak. (Hadiah: 200 Batu Spirit + Sertifikat Nahkoda Kapal Dagang).
-* **Misi Utama [Tier 5]:** *Navigasi Pusaran Lingxiao* — Pimpin ekspedisi evakuasi kapal spirit yang terjebak di dalam Pusaran Air Maut Lingxiao. (Hadiah: 800 Batu Spirit + Peta Laut Rahasia Kepulauan).
+* **Misi Harian [Tier 1]:** *Pemeriksaan Kompas Spirit* — Kalibrasi 10 kompas spirit kapal nelayan di Pelabuhan Haibin sebelum berlayar. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Kompas Laut Awal).
+* **Misi Khusus [Tier 3]:** *Pengawalan Kapal Dagang* — Kawal kapal dagang bahan herbal melintasi Kepulauan Xingluo dari ancaman Hiu Bersisik Perak. (Hadiah: 200 Giok Roh (Spirit Jade) + Sertifikat Nahkoda Kapal Dagang).
+* **Misi Utama [Tier 5]:** *Navigasi Pusaran Lingxiao* — Pimpin ekspedisi evakuasi kapal spirit yang terjebak di dalam Pusaran Air Maut Lingxiao. (Hadiah: 800 Giok Roh (Spirit Jade) + Peta Laut Rahasia Kepulauan).

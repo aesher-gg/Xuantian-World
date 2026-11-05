@@ -23,7 +23,7 @@ Istana Chiyan berdiri megah sebagai benteng batu obsidian yang langsung bertengg
 1. **Aula Manipulasi Lava (Lava Manipulation Hall / 熔岩战殿):** Divisi tempur garis depan yang memimpin seni penyulutan gelombang lava, ombak api pembakar zirah, dan pertempuran jarak dekat berdaya ledak.
 2. **Aula Penempaan Raga Api (Fire Body Tempering Hall / 炼体火火殿):** Tempat pemurnian ketahanan fisik, pembentukan otot baja, imunitas racun asap vulkanik, dan pelapisan *Raga Besi Lava*.
 3. **Aula Ekstraksi Batu Meteorit (Meteorite Mining Guard Hall / 陨铁采集殿):** Bertanggung jawab mengamankan penambangan batu besi meteorit di Lembah Meteorit Merah dan Gua Lava Hitam.
-4. **Balai Penghubung Youxia (Youxia Relations Pavilion / 游侠赤炎阁):** Bermitra dengan Serikat Youxia Sanxiu (`45_SERIKAT_YOUXIA_SANXIU.md`) untuk pengeluaran Misi Perburuan Monster Lava dan pengawalan karavan batu spirit.
+4. **Balai Penghubung Youxia (Youxia Relations Pavilion / 游侠赤炎阁):** Bermitra dengan Serikat Youxia Sanxiu (`45_SERIKAT_YOUXIA_SANXIU.md`) untuk pengeluaran Misi Perburuan Monster Lava dan pengawalan karavan giok roh.
 
 ### Dinamika Politik & Faksi Internal
 - **Faksi Raga Abadi (Immortal Tempering Faction):** Dipimpin oleh Tetua Lie Yan. Menekankan bahwa kekuatan sejati berada pada kerapatan raga dan daya tahan fisik. Menolak ketergantungan berlebih pada senjata spirit.
@@ -86,6 +86,6 @@ Istana Chiyan berdiri megah sebagai benteng batu obsidian yang langsung bertengg
 2. *"Ada penambang liar yang menemukan retakan ruang berisi Kristal Meteorit Bintang Merah di Lembah Meteorit."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Pembersihan Kalajengking Lava* — Basmi 12 Kalajengking Lava yang mengganggu penambang batu bara di Kawah Shendu. (Hadiah: 60 Batu Spirit + 1x Batu Api Spirit).
-* **Misi Khusus [Tier 4]:** *Pengawalan Karavan Meteorit* — Kawal karavan batu besi meteorit dari Lembah Meteorit Merah menuju Perguruan Penempa Shendu. (Hadiah: 300 Batu Spirit + 1x Mineral Meteorit Grade 4).
-* **Misi Utama [Tier 6]:** *Penjinakan Amukan Spirit Kawah* — Selidiki dan jinakkan ketidakstabilan arus lava kawah Shendu yang mengancam pemukiman. (Hadiah: 1.200 Batu Spirit + Akses Kawah Meditasi Api Purba).
+* **Misi Harian [Tier 2]:** *Pembersihan Kalajengking Lava* — Basmi 12 Kalajengking Lava yang mengganggu penambang batu bara di Kawah Shendu. (Hadiah: 60 Giok Roh (Spirit Jade) + 1x Batu Api Spirit).
+* **Misi Khusus [Tier 4]:** *Pengawalan Karavan Meteorit* — Kawal karavan batu besi meteorit dari Lembah Meteorit Merah menuju Perguruan Penempa Shendu. (Hadiah: 300 Giok Roh (Spirit Jade) + 1x Mineral Meteorit Grade 4).
+* **Misi Utama [Tier 6]:** *Penjinakan Amukan Spirit Kawah* — Selidiki dan jinakkan ketidakstabilan arus lava kawah Shendu yang mengancam pemukiman. (Hadiah: 1.200 Giok Roh (Spirit Jade) + Akses Kawah Meditasi Api Purba).

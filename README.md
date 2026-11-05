@@ -67,7 +67,7 @@ Tempelkan link `INDEX.md` disertai blok **Profil Karakter** terakhir dari percak
 * **`15_SPIRITUAL_HERB_FARMING_SYSTEM.md`**: Sistem Pertanian & Berkebun Obat Spirit, Soil Grade & Growth Formula.
 * **`16_BEAST_TAMING_SYSTEM.md`**: Sistem Penjinakan & Pelatihan Spirit Beast, Formula Taming & Loyalty.
 * **`17_AIRSHIP_NAVIGATION_SYSTEM.md`**: Sistem Kapal Terbang Lintas Wilayah, Airship Speed & Fuel Formula.
-* **`18_ECONOMY_SYSTEM.md`**: Ekonomi, Batu Spirit, Tiket Airship, dan Log Asal-Usul Barang.
+* **`18_ECONOMY_SYSTEM.md`**: Ekonomi, Giok Roh (Spirit Jade), Tiket Airship, dan Log Asal-Usul Barang.
 * **`19_VITALITY_HUNGER_SYSTEM.md`**: HP, Stamina, Satiety, dan Penalti Toxin Dantian.
 * **`20_COMBAT_SYSTEM.md`**: Sistem Pertempuran Turn-based & Aksi Profesi.
 * **`21_BESTIARY.md`**: Katalog Spirit Beast & Monster per Wilayah.

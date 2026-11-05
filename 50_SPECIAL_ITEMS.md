@@ -31,7 +31,7 @@ Gantungan giok bermotif awan primordial yang ditempa dari serpihan Batu Langit H
 * **Syarat Pemerolehan Ekstrem:**
   1. Ranah Kultivasi Minimal: *Lingquan Jing* Puncak (untuk pengikatan darah awal) / *Xuantian Jing* (untuk membuka seluruh area inti).
   2. Menyelesaikan Ujian Jiwa Hunyuan di Altar Purba (Mencapai Harmoni 100% Akar Spiritual).
-  3. Membayar 100 Batu Spirit Grade High sebagai tumbal pengaktifan segel dimensi.
+  3. Membayar 100 High-Grade Spirit Jade sebagai tumbal pengaktifan segel dimensi.
 
 #### Mekanik Utama & Kemampuan Khusus
 

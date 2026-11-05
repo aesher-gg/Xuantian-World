@@ -13,7 +13,7 @@
 | **Luas Wilayah** | ± 4,0 juta li² (Sebagian besar pulau-pulau melayang di angkasa) |
 | **Populasi Total** | ± 28 juta jiwa (Mortal Pilot, Master Formasi, Mekanik Kapal Terbang, Pengawal Penerbangan) |
 | **Total Kekayaan** | ± 950 juta Tael Perak (Monopoli Penerbangan & Galangan Kapal) |
-| **Kerapatan Qi (Qi Density)** | **Wind & Space Qi Modifier ×1.35** (+30% Kecepatan Penerbangan Kapal Terbang, -25% Konsumsi Batu Spirit Navigasi) |
+| **Kerapatan Qi (Qi Density)** | **Wind & Space Qi Modifier ×1.35** (+30% Kecepatan Penerbangan Kapal Terbang, -25% Konsumsi Giok Roh Navigasi) |
 | **Jarak Antar-Kota** | 100–500 li (Dapat ditempuh lewat Jalur Airship Ekspres, Piringan Formasi Melayang, dan Terbang Pedang) |
 | **Monster Khas Wilayah** | Serigala Angin Awan Udara (Tier 1), Panther Sayap Awan Tipis (Tier 2), Macan Tutul Petir Awan Hitam (Tier 3), Harimau Sayap Badai Langit (Tier 4), Singa Surai Awan Melayang (Tier 5), Serigala Raja Ruang Udara (Tier 6), Panther Bayangan Bintang Langit (Tier 7), Harimau Raja Sayap Badai Bintang (Tier 8), Zhulong Langit Tiangong Purba (Tier 9) |
 
@@ -27,7 +27,7 @@ Tiangong Zhou dahulunya adalah rantai gunung tertinggi di pusat benua. Saat Benc
 3.000 tahun lalu, badai guntur udara raksasa menghantam jalur penerbangan Tiangong Zhou dan merusak 20 Kapal Terbang Merchant Galleon. Serikat Airship Tiangong merancang **Barrier Formasi Angin Pelindung Feichuan** pertama, melengkapi seluruh kapal penerbangan dengan penangkal petir udara.
 
 ### Mitos Sang Pilot Pertama (Legend of the First Pilot)
-3.800 tahun lalu, Master Mekanik **Tiangong Zi** merancang **Feichuan Spirit Tier 1** pertama. Dengan memanfaatkan Piringan Formasi Angin dan Batu Spirit, ia berhasil menerbangkan kapal kayu menembus lapisan awan dari Tiangong Zhou menuju Kota Tianjing di Zhonghua Zhou. Penemuan ini mengubah sejarah komersial Xuantian World dan mendirikan **Serikat Kapal Terbang Tiangong**.
+3.800 tahun lalu, Master Mekanik **Tiangong Zi** merancang **Feichuan Spirit Tier 1** pertama. Dengan memanfaatkan Piringan Formasi Angin dan Giok Roh, ia berhasil menerbangkan kapal kayu menembus lapisan awan dari Tiangong Zhou menuju Kota Tianjing di Zhonghua Zhou. Penemuan ini mengubah sejarah komersial Xuantian World dan mendirikan **Serikat Kapal Terbang Tiangong**.
 
 ---
 

@@ -87,6 +87,6 @@ Sekte Youming bertindak sebagai penguasa absolut Kota Heian dan Pasar Gelap Youm
 2. *"Ada insiden pembelotan seorang pembunuh elit Aula Bayangan yang membawa kabur daftar nama agen rahasia sekte."*
 
 ### Papan Misi Sekte (Examples of Sect Quests)
-* **Misi Harian [Tier 2]:** *Pengumpulan Bisa Ular Rawa* — Ekstraksi 10 botol Bisa Ular Rawa di Rawa Racun Duwu. (Hadiah: 60 Batu Spirit + 1x Belati Beracun).
-* **Misi Khusus [Tier 4]:** *Kontrak Pembunuhan Target* — Eliminasi ketua sindikat pemeras di Pasar Gelap Heian tanpa meninggalkan jejak. (Hadiah: 350 Batu Spirit + 1x Jimat Menyusup Bayangan).
-* **Misi Utama [Tier 6]:** *Sabotase Pos Inspeksi Kekaisaran* — Lumpuhkan pos pengawas Sekte Tianjing di perbatasan Youming Zhou. (Hadiah: 1.200 Batu Spirit + Akses Gua Bayangan Abadi).
+* **Misi Harian [Tier 2]:** *Pengumpulan Bisa Ular Rawa* — Ekstraksi 10 botol Bisa Ular Rawa di Rawa Racun Duwu. (Hadiah: 60 Giok Roh (Spirit Jade) + 1x Belati Beracun).
+* **Misi Khusus [Tier 4]:** *Kontrak Pembunuhan Target* — Eliminasi ketua sindikat pemeras di Pasar Gelap Heian tanpa meninggalkan jejak. (Hadiah: 350 Giok Roh (Spirit Jade) + 1x Jimat Menyusup Bayangan).
+* **Misi Utama [Tier 6]:** *Sabotase Pos Inspeksi Kekaisaran* — Lumpuhkan pos pengawas Sekte Tianjing di perbatasan Youming Zhou. (Hadiah: 1.200 Giok Roh (Spirit Jade) + Akses Gua Bayangan Abadi).

@@ -86,6 +86,6 @@ Sebagai **Perguruan Spesialis (Institusi Profesi)**, Tiangong berfokus pada pela
 2. *"Ada sindikat bajak laut udara yang menggunakan lisensi pilot palsu lulusan Tiangong untuk membajak Feichuan kargo emas."*
 
 ### Papan Misi Praktik Perguruan (Examples of Practicum Quests)
-* **Misi Harian [Tier 1]:** *Uji Coba Skiff Kemudi* — Kemudikan Skiff Kecil melewati 10 ring angin di Lintasan Uji Tiangong dalam kurun waktu 5 menit. (Hadiah: 30 Batu Spirit + 1x Kompas Spirit Awal).
-* **Misi Khusus [Tier 3]:** *Pengawalan Feichuan Kargo* — Kawal Merchant Freighter kargo dari Tiangong Zhou menuju Kota Tianjing menembus perbatasan badai. (Hadiah: 250 Batu Spirit + Lisensi Pilot Tier 2).
-* **Misi Utama [Tier 5]:** *Penyelamatan Galai Terjebak Badai* — Pimpin tim evakuasi untuk menarik Passenger Galleon yang lumpuh di tengah badai guntur. (Hadiah: 1.000 Batu Spirit + Akses Simulator Kemudi Badai).
+* **Misi Harian [Tier 1]:** *Uji Coba Skiff Kemudi* — Kemudikan Skiff Kecil melewati 10 ring angin di Lintasan Uji Tiangong dalam kurun waktu 5 menit. (Hadiah: 30 Giok Roh (Spirit Jade) + 1x Kompas Spirit Awal).
+* **Misi Khusus [Tier 3]:** *Pengawalan Feichuan Kargo* — Kawal Merchant Freighter kargo dari Tiangong Zhou menuju Kota Tianjing menembus perbatasan badai. (Hadiah: 250 Giok Roh (Spirit Jade) + Lisensi Pilot Tier 2).
+* **Misi Utama [Tier 5]:** *Penyelamatan Galai Terjebak Badai* — Pimpin tim evakuasi untuk menarik Passenger Galleon yang lumpuh di tengah badai guntur. (Hadiah: 1.000 Giok Roh (Spirit Jade) + Akses Simulator Kemudi Badai).
